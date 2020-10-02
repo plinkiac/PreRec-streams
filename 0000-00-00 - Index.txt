@@ -632,7 +632,7 @@ mm/dd/yyyy | hh:mm:ss | twitch ID | YouTube url | Video game title + (participan
 08/14/2016 | 01:09:20 | 86933658  | vHot35dw4qM | Half-Life 2 (Jack, Rich)
 08/14/2016 | 01:14:11 | 86934815  | QFKn7iFds1o | Half-Life 2 (Jack, Rich)
 08/14/2016 | 01:29:03 | 86935345  | km0okWxy0VI | No Man's Sky (Jack, Rich)
-08/17/2016 | 02:03:56 | 86935887  | E-vUQYarjeU | No Man's Sky (Jack, Rich)
+08/17/2016 | 02:03:56 | 86935887  | Ju-TIT45NYE | No Man's Sky (Jack, Rich)
 08/17/2016 | 02:02:53 | 86935961  | E-vUQYarjeU | No Man's Sky (Jack, Rich)
 08/21/2016 | 01:34:52 | 86936529  | 0CpDWvp6fUc | Police Quest III: The Kindred (Jack, Rich)
 08/21/2016 | 01:37:23 | 86936589  | gUAxMIbkdbA | Police Quest III: The Kindred (Jack, Rich)
