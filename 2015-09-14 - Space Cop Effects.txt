@@ -1,0 +1,2759 @@
+Sep, 2015
+Space Cop Effects
+https://www.twitch.tv/videos/17271872
+https://www.twitch.tv/videos/17273255
+https://www.youtube.com/watch?v=gu8QBUHUZxQ
+https://www.youtube.com/watch?v=D5ntJUg1AXI
+https://twitter.com/PreviouslyRec/status/643605860049137664
+
+[Part I]
+so there's a warm there's a one oh wow
+there's a crackle is what there is that
+there's a slight crackle and I don't
+necessarily know where it's coming from
+bud but that's that I'm gonna tweet
+right now I'm gonna tweet that we're
+streaming I thought I muted that I did
+know a lot of that I one you twit the
+hell out I'm gonna I'm gonna
+twat it up bridge hello and welcome
+everybody who can who can see us hear us
+know us love us welcome to the Monday
+make up stream we hold on we couldn't
+stream last night we were too busy
+watching turbo kid have you guys seen
+turbo kid because you need to go see
+turbo kid they're actually just asking
+me about it indeed chat oh really it's
+amazing it was it was loved by all it
+was one it was loved by all oh my god it
+was an amazing time and we watched it
+like on an outdoor like blow-up scream
+thing projecting it was it was beautiful
+no I beautiful I haven't seen kung fury
+but I am told it's similar to kung fury
+only you know better more of a story and
+and more loving to the the source
+material is that accurate that's
+incredibly accurate see like the the
+problem with kung fury is there's this
+there's this um the cynical part of kung
+fury where it's almost like the
+filmmakers alright like pretend to be
+above the material yeah whereas turbo
+kid they're aspiring to the material yes
+we want to make this
+exactly they it's nothing but love turbo
+kit is nothing but love for the 80s lock
+team driven genre it's it's amazing it's
+just amazing so everyone go watch the
+turbo kit I don't care like I saw I
+think I saw like you can buy it for like
+you know seven bucks video on-demand
+okay Oh rich can you turn on beefcakes a
+subscriber alert I can't do that on my
+map oh I see a couple right now god fada
+42 thank you for subscribing oh my god
+I'm rich and Mario Mario and did you see
+that number by 42 thank you for
+subscribing oh my god I see that number
+now for 5 sorry
+42 15 months you know row mario mario
+has been subscribed to us for 15 months
+in a row and that is kind of amazing
+thank you we really appreciate it it's
+true it's true we really do good press B
+to dick punch punch thank you
+someone shared with us we appreciate we
+really do appreciate someone shared with
+me on Twitter the other day like a gif
+of some sort of football match and one
+of the footballers punched the other one
+in the dick and I loved it
+fucking looks John Key was at 16 months
+recently I absolutely believe that I
+believe it thank you very much they very
+isn't it isn't it weird yeah kind of
+yellow of course space cop has a name
+his name is space cop he's account from
+the future of space so the stuff we're
+working on today is not very exciting
+but it just needs to be done and so
+we're just you know
+there is this sequence in which rich is
+in the space cop car and getting out of
+the car obviously this shot right here
+is gonna be really easy because the car
+barely moves if you notice here I'm
+scrubbing through the time line and the
+car is barely moving but it does move a
+little bit and so we need to make sure
+we precisely track that that motion this
+is yeah this stuff it won't be it won't
+be as fun as some of the other stuff we
+were doing and oh by the way I want to
+let everyone know that I figured out how
+to how to get the light bars to tilt so
+hopefully one of them will be tilty I
+don't know no I think I know what scene
+this is you know what scene is is yeah
+I'm not saying anything no you can't say
+anything I'm only showing you in the car
+and getting out of the car okay okay
+good of course because you know we don't
+not spoil anything that was we don't
+want people to know that Darth Vader is
+your father and that Darth Vader was
+dead the whole time and that Darth Vader
+was dead the whole time because Snape
+killed him these are these are white
+spoilers and as per last time when does
+the flaming a humpback whale land on me
+oh my god rich so many people are gonna
+be upset about our our Metal Gear Solid
+video I love the game play so such
+second the gameplay is so much fun so
+much the world of this the universe the
+story is not shut the gameplay is all
+that I agree I agree
+you know rich I agree no this one
+the the gameplay each each independence
+Aang right it's like each individual
+mission is so much fun like planning out
+the mission going and do it doing all
+the sneaky stuff it's super great the
+only problem is it's very repetitive and
+there there's no overarching story or
+word you know you know we'll get into
+that later later I'm sure we're gonna
+get into it very very much later missed
+mr. bean a says rich I just finished
+Mass Effect 3 for the first time tucked
+down from the ledge no you know what I
+fucking warned you you for two goddamn
+years and if you didn't want to listen
+to me well fuck you and out joke god
+damn it jump if you feel that depression
+that I thought about I'm let that soak
+in that you had a chance to avoid it
+right chose not to that's okay getting a
+my next program up and running here
+right I mean maybe there are a new
+listener and they don't know your
+feelings on Mass Effect 3 that could be
+a thing right teachers gonna single you
+out now I'm sorry
+Krieger asks what I'm drinking a very
+important question I'm drinking an OG o
+GI I which is a tea-infused quit WI T
+from Milwaukee Brewing Company and it's
+a fantastic beverage it has a picture of
+Godzilla McCann and I
+it's great tea infused quit I don't
+necessarily know what that means but you
+know ok tea infused quit yeah here we go
+and also once again in case in case it's
+a little low I'm listening to both
+hexadecimal and the risk of rain
+soundtrack by Chris Chris to do Lou
+because it's my favorite music to listen
+to while working and you know what
+I'm just feeling good I'm just feeling
+good about working I've been playing so
+much metal gear lately that you know
+like I've been putting and I haven't had
+much other work to do
+yeah so it's just like I feel good about
+it I feel good about getting back into
+it let's see if this leaf is gonna be an
+issue yeah look at this look at this
+everybody here's the super fun part is
+this leaf will get in the way for
+exactly two frames and so for those two
+frames we're gonna have to mask out the
+leaf huh just your frames it can't be
+that bad
+no no that it won't be that bad but it's
+you know it's fun
+more so Oh Jack I know you have opinions
+on this somebody is asking hold on I
+says I am considering getting final cut
+or premiere pro which yet Jack you know
+I have not used Final Cut X the new
+Final Cut and you know I've heard some
+some good things about it I have I use
+premier and of course
+I really love it the question is whether
+or not you're going to be doing After
+Effects see stuff this is the real
+question is are you going to ever want
+to use After Effects cuz you know like
+that Apple has its own After Effects
+type program called motion I don't even
+know if the motion is still exist it's
+neither true but uh that's the real
+question are you going to use After
+Effects because if you are gonna use
+After Effects then get premier the
+integration between After Effects and
+Premiere is wonderful
+you can switch like back and forth on
+the fly right you can you you edit you
+get your scene together right and then
+you clump all your clips and say send
+these clips over to After Effects and
+poof they're over an After Effects right
+and then you do all your your
+compositing work all of your special
+effects work and that automatically
+updates back in your premiere timeline
+so then you can just continue editing oh
+oh you know what I kind of want to
+change this effect to go and after
+effect change the effect and boom it's
+updated in your premiere timeline
+premiere i I really enjoyed the Adobe so
+we and for 50 bucks a month you not only
+get premiere and After Effects but you
+get you know their audio editing
+software you get Photoshop you get
+illustrator you get everything for 50
+bucks a month so to me it's incredibly
+worth it to be a Creative Cloud member
+where is my joke I'm try to change the
+stream oh my god I forgot this i forgot
+to change the stream name would you say
+we are playing After Effects I believe
+it's a creative free agent you want to
+say you're playing creative okay oh I'm
+so sorry everyone
+I wasn't thinking rich I wasn't thinking
+ok it's ok it's updated so it's all fine
+it's all good thank you
+what are you doing no this isn't gonna
+work at all
+what are you doing MOCA Jack what are
+your thoughts on evidence I've never
+touched an avid I know at least at one
+point they like cost as much as a new
+car like Abbot isn't a program it's a
+system it's everything yeah yeah it's a
+whole thing that's that's like what they
+used for the Hollywood films oh yeah
+yeah and I have I have never touched an
+avid so I have oh crap I have absolutely
+no say in habit I used to work and final
+cut up until Final Cut 7 which is you
+know the one everyone worked in and then
+when they switched over to Final Cut X I
+wasn't happy with it they didn't have a
+lot of the the things that I was used to
+pro editor wise and I started looking
+into premiere and just kind of made the
+switch cold-turkey
+you know started editing videos right
+Premiere and it was it was a hard
+learning curve it's it's different you
+know
+ya still have a soul Jay I you know one
+night he's he's so I don't know what
+he's holding on for is not it's not for
+lack of trying either
+oh I'm telling guys talk it comes up
+every single time and he Jay has edited
+a few things in Premiere but you know to
+him he doesn't see the benefit he if he
+keeps editing with premiere you'll see
+that benefit because the real thing is
+fur and you know this doesn't matter for
+Final Cut acts but for Final Cut 7 for
+the thing that Jay and Mike use it's
+only it's only a 32-bit software which
+means it's only taking it's only using
+half of the RAM they have installed you
+know whereas premier is a 64-bit
+software and it can utilize the whole
+machine and so they'll see a performance
+boost in media
+or they should at least don't track this
+so you stop asking I have not played the
+thief reboot I see no reason to
+it seems significantly different and
+dumb enough that I have no interests in
+it I actually have I own a copy because
+I like saw it on sale for like 2 bucks
+or something comical once mm-hmm I
+remember I don't remember if there's a
+humble bundle or what but I gotta feel
+like I got it for like like a couple
+dollars oh yeah I know you're a big fan
+of the thief series big fan of the
+originals yes first two are just amazing
+mm-hmm did you play it at all or you
+just haven't touched it cuz you don't
+care maybe someday if I'm curious I'll
+pick it up it looks it looks it looks
+linear and dumb but brown looks brown
+like first the first two it's like the
+universe is almost like an Alice in
+Wonderland fun world
+steampunk mixed with more standard magic
+fantasy as medieval elements and yet it
+all comes together for a cohesive whole
+that's a beautiful universe with some
+wonderful sections and and whatnot no
+that's great and then like the no-one's
+like brown hammers the hammerites
+there's Ursa fun religious fanatics that
+basically worship like like carpentry
+construction
+yeah I know then jack as an owner of
+Final Cut Pro X who wants more creative
+tools is it worth the $50 a month for
+Creative Suite cloud well you know
+that's the question is do you earn at
+least fifty dollars a month then you
+know you've already paid for a pro
+editing software right and so you should
+you know obviously just try to get your
+money's worth out of that
+but I think the big question for a lot
+of people is do you earn fifty dollars a
+month in editing and graphic design and
+in using these tools and if you don't
+then you might not need them you know
+like for for me you know the answer is
+yes I use them every day and and I love
+them and I've I've also tailored my
+workflow to use the Adobe suite which is
+the other thing and if your tailored to
+Final Cut X and that's your thing
+I'm not I'm not hating on Final Cut X I
+think I hear they've made a lot of good
+strides recently in fact but you know
+it's just it's not what I use what what
+don't worry about it you know all right
+don't worry about it I worry about
+everything else just by nature so what
+are you doing with the the space cop
+logo with After Effects what are you
+enhancing there well what I'm not
+enhancing anything what what I'm doing
+here is I wasn't getting the the the
+light bars you know you the the story
+with these green tubes on top of the car
+is Jane Mike didn't know what they
+wanted for your lights on top yeah and
+so this fucking just cover it in green
+and that'll be easy to you know cover up
+later right and then Jay you know
+decided he wanted the lightsabers yeah
+and green is really nice for chroma hang
+but for tracking it's one solid color
+with no variation so there's not a lot
+of information here track cap but your
+space cop logo and that door handles a
+lot of varying colors a lot of jagged
+edges oh so you're just gonna track the
+motion with that exactly so now if I
+line up my track surface here using the
+information from this it should move
+roughly the same yes yes and it does
+okay well that makes sense that makes
+sense they're like in hindsight you know
+if they could have put some X's on here
+sorry we should have done like
+pattern a checker pattern would have
+been phenomenal for tracking yeah but
+you know they just didn't know they just
+didn't know and that's fine you know
+there's a reason in big Hollywood movies
+that you know the the VFX supervisor is
+usually on set so you can tell people
+like oh we're gonna we're gonna need a
+lot more of something else yeah this is
+good this is good
+also check yes there there is a best of
+the worst in editing right now though
+they take a while to edit mm-hmm
+a lot of work on those mm-hm I I think
+it's gonna be a good one uh you know we
+had fun we had a lot of data so I'm
+gonna say it's a good one okay great
+this looks good
+this looks good
+or great Admiral back bar heart bar what
+third bar but money also no it's it's
+not a wheel episode full-on regular
+regular episode regular episode a Doozer
+it is a Doozer front bar Tiberius Kirk
+predicts you having to highlight the
+feathered edges of the leaf yeah that's
+gonna be tough
+there's motion blur and it's out of
+focus and so the fun part is in After
+Effects making the mask blur along with
+it you know to make sure that the light
+bar peeks through but is also obscured
+yeah probably a solid line right oh yeah
+yeah that's that's those are those are
+fun challenges I think great okay save
+Booya we're making so much progress you
+know what I didn't play Luigi's Mansion
+two on 3ds because I don't have a 3ds
+and I really want a 3-2 yes yeah every
+every once in a while I think about
+getting you know a 3ds with a with a
+capture out you can like order us a
+fancy 3ds that has its own USB capture
+out as a business expense but it's like
+hey you know if we ever wanted to do it
+for the show then we would need two of
+them or we would need to trade off oh
+god oh it's just not it doesn't make any
+logical sense yeah
+no I completely forgot what I was gonna
+say and and I think you were probably
+gonna mention something about not liking
+handheld games oh yeah not really a
+handheld guy it doesn't doesn't doesn't
+get my motor running I know that about
+you I know that about you it just seems
+like typically you get lesser versions
+of a console or PC game you know with a
+hand hold no no there's a you know
+there's some pretty good handhelds out
+there some pretty good
+obviously I'm a handheld gamer so I'm a
+little biased
+yep
+there's a new version of mocha important
+by the way everybody hold on to your
+tits there's that's not yeah corner and
+yeah yes so not actually actually do
+like the armored skeptic I know I know
+I've seen him comment on our videos I
+know he's a fan so that's neat the
+armored skeptic is a YouTube guy he does
+like you know atheist themed videos and
+I think yeah so does some other stuff
+too like regular movies or someone I
+don't know if I seen those he's our
+armored media okay cool
+I do oh I have to we are now listening
+to the risk of rain soundtrack and I
+know it's terrible for you rich cuz you
+can't listen along so I'm talking okay
+oh oh oh no no cancel cancel cancel
+Jesus Christ I almost ruined everything
+if you can believe that yeah I'm sure
+you can believe that
+so I've got a question for the chat in a
+in a in a turn of events
+shocking shocking twist from the norm
+I'm curious how people feel about this I
+have recently heard a rumor that Star
+Wars Episode 7 the force awakens is
+going to have a post credit sequence
+advertising rogue one teasing how does
+everybody feel about that because I mean
+even even the prequels were like
+slavishly devoted to the format of the
+original trilogy you know you got the
+still have the Fox logo
+you still got opening crawl regular
+standard credits you know and now
+they'll break with that because Disney's
+gonna pressure to advertised rogue one
+because that's what's popular that's
+what that's what they think people like
+does it really matter I guess is my
+question you know and it doesn't
+on the other hand every fucking Star
+Wars movie has had like the same opening
+crawl the same 20th century-fox like I
+didn't didn't George Lucas basically
+just make some kind of distribution deal
+with Fox just so he could shove the Fox
+logo in front of that I have no idea
+isn't that what happened there oh I
+don't know that much about it that would
+be very silly that was true I don't know
+they're going to it's a rumor I've heard
+I I mean I'm okay with it
+you know it's just because it doesn't
+matter you know they the only thing the
+actually the only thing that bothers me
+about it is uh is committing themselves
+to this shared universe and not thinking
+that I don't know if they have their
+shit together you know Marvel that
+that's that faggy guy Jeff faggy or
+whatever his name is okay
+Fiji's being terribly what's his name
+Haji Jesus crazy sorry everyone know
+that fiji guy had a vision you know for
+every one of them um and I don't think
+Star Wars has their shit together in
+that department and so you know the
+post-credit teaser says that they have
+their shit together but obviously they
+don't is home saying and I'm just gonna
+not talk anymore about
+people worry too much about the stupid
+post-credit teasers it's Vegas teasers
+they used to just be fun little things
+you know am I wrong about that no they
+were always you know they always an
+advertisement for the next thing you
+know it was oh it was always a like a
+yeah it was a wink to something more I
+mean guardians of the galaxy image it's
+Howard the dark I mean that's not
+teasing anything that's just a joke
+well that's guardians that's that's
+their kind of outskirts of the universe
+but you know the first Ironman when Nick
+Fury come you know when we first meet
+Nick Fury like yeah that's a that's a
+yeah here we go that is a for realsies
+people in the chat are joking about a
+Marvel Universe being joined with the
+Star Wars universe can you know imagine
+a day in the future once once you know
+both both franchises are starting to get
+worn into the ground by Disney and Kent
+can you not imagine today we're just
+generate buzz they have a crossover
+movie and then you you see you know like
+Darth Vader versus you know Thor and and
+crossover movie is this not something
+that might possibly happen
+I'm down why not like phase eight yes
+Death Star versus Galactus it would
+actually be kind of awesome but they
+don't
+I do wrong rich what did I do wrong
+I you'll I don't know but the the
+lightsabres going all over the place
+know that lightsaber is going all over
+the place this is how I figured out how
+to make it bounce is what an infinity
+gem will like blow up in one of the last
+Avengers movies and will open like a
+rift Marvel here the Marvel heroes will
+end up getting sucked back into the Star
+Wars meanwhile like a Star Destroyer or
+something will come and bother earth and
+you'll have like two different stories
+you'll have like the Avengers trying to
+like escape the Death Star or get out of
+course on earth and then you'll have
+like the other heroes were left on earth
+trying to deal with this star story or
+that is landed and Imperial walkers are
+are coming out and they're trying to
+like storm the White House like it all
+what the ever-loving f4 for somebody who
+you know may effort who doesn't like
+think of the Star Wars universe as being
+sacred mm-hmm I'm all for it it sounds
+like it sounds like a lot of dumb fun
+yeah yeah I'm done yeah I guess it all
+depends on how desperate they are yeah
+this okay so I mean sooner or later I
+mean they're gonna be running these
+franchises into the ground I'm like a
+lot it'll be like a last-gasp yeah so
+for everyone wondering what I'm doing
+here the the way I figured out how to
+make the light bars bounce is I back
+here in mocha you can see I made it I
+made my bars in the center here my boxes
+in the center here and so the one corner
+is right in the center in the back
+right in the back right and then those
+follow the exact movement of where I
+want the bars and so then back in After
+Effects what I do here is I take my
+lightsaber and the lightsaber has a
+start position and an end position and I
+can pick whip which is this thing and
+basically the pick whip just says you
+know follow whatever you link it to so I
+pick whip it over to those corners of
+these things and that should basically
+make it stick to those corners but for
+some reason it's not but I guess I just
+have to adjust it over here that's fine
+so okay well okay I guess I just have to
+do that so in any case that's how I
+figured out the whole bouncing pop
+problem is by is by linking them to the
+corners of the box here because then
+this box will follow if there's any
+bounce or rotation which is really
+really great Len length Lozinski wants
+to know if we have any advice for his
+senior year of high school senior year
+of high school if I read that right the
+comment has scrolled up a while ago any
+advice for my senior year of high school
+yeah don't don't get attached to
+anything or learn to start letting go
+because after high school everything is
+different none of the things that that
+seem important or matter now in the
+immediate future it's not worth anything
+no like like you're going to like like
+90% of the people you call friends yeah
+you're gonna see them like two more
+times in your entire life in like like
+10 and 15 years you'll see them once and
+you won't give a shit and that's the
+real thing that's not even a bad thing -
+because the people in high school the
+ones who matter most of the most
+important people hmm you'll find a way
+to stay in contact with them the people
+who are real learn who your real friends
+are cuz like I still I still talk to
+Mike right oh right right let's go but
+then Aaron
+there are real things I don't know what
+they're doing now
+I don't care is is you will you will not
+care and that's that's something that
+you can't even fathom right now is like
+of course these are my friends these I
+see these people every day but you're
+forced to see them every day because you
+don't go to the same school yes
+and then once you leave and you're not
+forced to see them every day a whole new
+world opens up to you like oh I don't
+have to see that guy he's kind of a dick
+that's great
+you know that is that's great
+great all right I got one bar yeah yeah
+and and college for the little college
+that I went to I went to a little
+college he's incredibly different and
+more so life everyday life is incredibly
+different than high school and it's
+wonderful
+so enjoy enjoy I think one of the few
+times in your life where suddenly one
+one day one day later everything is
+different
+it's like I've got a high school reunion
+coming up I don't want to go I know I
+know Karen might wanna go okay don't
+even don't don't even humor her there
+there's no good reason to go to a high
+school reunion there is no good reason
+anyone you cared about in high school
+you are still talking to it yeah
+everyone else doesn't matter in your
+life
+so I'm here by I'm here by empowering
+you not to listen to Karen
+hey listen to Jack give terrible advice
+no it's it's I I didn't go to my 10-year
+reunion but it was kind of ridiculous I
+think it was like 100 dollars to have a
+plate where ever they were you know
+eating wherever they get wherever they
+gather loads it was 100 bucks to get in
+that's stupid it's like I'm not I'm not
+paying $100 to see a bunch of people I
+don't care if I ever see again right
+right
+I get to see how everyone's old and fat
+and I'm also old and fat I sounds fun
+yeah well old and fat is a great come on
+I came here where's the fuckin exit
+sector late outside right no and you
+know high school is it was a ton of fun
+and and high school became a ton of fun
+as soon as I started to realize that
+nothing I did there mattered then it was
+like oh this is a fantastic time
+rich rich can show off his internet fame
+I don't I don't care enough about these
+people to want to show off my my my
+z-list
+internet celebrity this
+right yeah
+the Z list I mean you're at least X
+maybe maybe I don't know I don't know
+how those numbers work no I'm pretty
+good length lenses he says I already
+hate almost everyone in my grade well
+that's that's good because like I said
+you're never going to sue these people
+again
+you got relationship you have with your
+classmates becomes completely irrelevant
+unless you actually want to hang out
+with these people afterwards and make go
+out of your way to do so right oh yeah
+no the the people who who I still see
+and hang out with that I went to high
+school with you know are very good
+friends and and that was my decision and
+that was the most lovely part of it is
+it's it's your decision after that all
+right this looks pretty good this looks
+pretty good rich you sound very pre
+Groundhog Day
+you should take some piano lessons so
+here's here's the thing wait I don't
+understand didn't care about anybody but
+himself I just don't care about 90% of
+people I went to high school with I care
+for humanity in general and I care for
+the people in life were close to me
+mm-hmm so I don't need to relive the
+same day over and over again to learn a
+valuable lesson carry the most cruel
+lesson you could possibly learn to be
+stuck in that time loop here's here's
+the thing about Groundhog's Day to
+ground a groundhog see Groundhog Day
+it's like he's out of that time dude now
+right yeah but like relatively speaking
+how old is Bill Murray at the end of
+Groundhog Day like is he like 4,000
+years old
+well like the rest the rest of his life
+the rest of that character Bill Murray
+Kirk Bill Murray's character's life it's
+gonna like go by so fucking quick it's
+gonna feel like the blink of an eye
+relatively I'm sure but I mean that's
+the thing is how you know I of course
+you know character wise or movie wise he
+went through you know how in order to
+learn a lesson but also he came through
+with an incredible set of skills and
+it's gonna be fighting and relative to
+him it's gonna go by in a blink right oh
+fuck I'm aging now oh god I only got I
+only got 20 years I'm aging now Harold
+Ramis a little Harold Ramis said he's
+10,000 years old
+is that is that the official number
+somebody's saying I know it's a while oh
+yeah I mean he I want to say he's I mean
+I don't think it's ten thousand but it's
+it's I think it's like years it's more
+than just years you think it's more than
+just ears well somebody somebody at some
+point like did like the map and how long
+it would take to become an expert ice
+Carver or how long it would take to
+become a great pianist all these things
+he learns and how long it would take and
+it's even even in the best case scenario
+he's he's like hundreds of years old I
+thought oh that is sad
+it said
+okay so what I'm using what I'm doing
+here for everyone who wants to know is
+I'm gonna try to use the feather tool to
+specifically you know now I'm working on
+getting that leaf getting that leaf to
+look right which is gonna be difficult
+and so what I'm thinking here is if I
+use the feather tool and kind of give a
+good feather radius but then take the
+expansion in yeah like then yeah we go
+that kind of works that's better that's
+better
+rich do you care more for Earlham fans
+than you do for your high school class
+yeah yeah your people are great I don't
+care at all about my high school class
+except for like two people
+oh wait wait we will be masbath
+desaturate the bar below it what Colonel
+rich mustard it seems weird that there
+would be a shadow on a glowing thing
+yeah but you kind of need that too
+can you can you lessen it I can't I
+can't listen I can and I will lessen it
+here we go this is this is looking good
+over there our first frame of the leaf a
+little bit over here what am i what are
+my general thoughts on Frank Miller
+though I think he's overrated Frank
+Miller right yeah I'm not you know what
+I'm not as familiar with some of his
+recent stuff which everybody tells me is
+batshit crazy I'm only really familiar
+with like classic Frank Miller what does
+early Sin City stuff with Dark Knight
+Returns with your one so just daredevil
+stuff mm-hmm
+and I even like Robocop too so I'm still
+I'm still fond of Frank Miller though
+like I keep being told he's a crazy man
+now I just I just haven't ended up
+reading much of his recent stuff maybe
+that's the more how the stories don't
+read his recent stuff yep
+that looks pretty cool
+yeah obviously it's just two frames no
+one is ever gonna notice this but you
+you would notice it if the leaf went
+behind the light bars yes that's the
+real thing and so really as long as it
+goes over a little bit and it does then
+that actually holds a fair amount of
+that blur 'no stu it so i'm pretty happy
+with that
+i'm pretty happy with this okay so now
+let's see what we can do at a light bar
+to lessen the effects yeah when i see a
+little green peeking out over there so
+we need to change that
+my favorite Garth eNOS work besides
+preacher who loves Punisher stuff is
+pretty good I never read hitman so I
+don't know I don't know how good hit man
+is he wrote hitman well the comic book
+hitman okay
+here we go yeah that's pretty good
+okay so now we want to diminish the glow
+effect is our thought right that's that
+thought let's see here
+have I played any of the hitman games I
+kind of played the first one and I
+really liked it but my computer was a
+piece of shit at the time and it would
+take like an individual level like
+literally 25 to 35 minutes to load I
+didn't have very much RAM apparently and
+I think every time you died it would
+want to reload the whole level so as
+much as I loved what was going on it was
+too big a pain in the ass to play it
+mm-hmm and that was my only real
+experience but they had ban series yeah
+want to say like I played that first
+hitman game I think everybody did okay
+that's fine I played it on the console
+whatever fun am I gonna put any Easter
+eggs oh I should I should put a little
+thing somewhere but we finished we can't
+tell Jay okay I'm sure Jay is here right
+now listening but nobody tell Jay that
+we're gonna put an easter egg
+oh we don't have to be really subtle
+that's a good idea we should put an
+easter egg somewhere somewhere in the
+effects ridge yeah we should oh my god
+Phoenix I'm not gonna put spikes in no
+that's it I'll put a I'll put a Showbiz
+Pizza Bear somewhere in that's exactly
+at Mario Mario I don't think this is an
+authorised Easter Egg I don't I don't
+know how I feel about this you won't
+even notice you won't even notice I'm
+gonna put a Showbiz Pizza bear somewhere
+you'll never even notice it
+people people listening to this stream
+will notice it and and yes somewhere and
+I'm not gonna do it I'm not gonna show
+you where I'm gonna put it in so you
+guys won't know but I will put a showbiz
+piece of air somewhere
+damn space come just ask me more about
+my older computers and how good they
+were like when when doom came out hmm
+and I was a big fan of Wolfenstein so I
+was fucking stoked for doom but I I
+didn't even have you know a Pentium like
+that was a big deal back then when the
+first Pentiums came out and I was like
+you know how you get like shrink down
+the window size I was like playing doom
+the shareware doin like this little tiny
+like two inch by three inch window
+because that was the only way I could
+get it to run smoothly mm-hmm nice not
+really you know we all we do what we can
+I read like being out of business trip
+once and bringing my my laptop with and
+I really wanted to play tf2 or something
+and so just turning the resolution down
+to something insane like Nintendo 64
+resolution to play Team Fortress 2 on my
+laptop in a hotel yeah it was you know
+we do what we can rich chad was saying
+you didn't need a pentium for look
+whatever i had when doom came out was a
+piece of shit okay
+shit doesn't do now like didn't they
+just get doomed to run on an ATM you
+know but your computer it couldn't it
+couldn't handle it
+barely barely all right I'm doing a ram
+preview now to see how this looks sort
+of smaller levels without much going on
+I think
+a little bit bigger window who stick
+Lords that's a good idea too is I should
+just literally put an Easter egg
+somewhere like a painted egg like a
+literal Easter egg as an easter egg
+has that been done I don't know I'm sure
+that happens all the time there's
+obvious joke when you can't think of
+anything else did you for any strike
+that's the most derivative Easter Egg
+that's ever happened
+I'm very disappointed yeah yeah right
+you put like a little tiny Waldo
+somewhere a little Waldo yeah here's my
+own well no no I mean we're doing
+showbiz
+so here's my problem is it's not it's
+not matching the movement why isn't it
+matching the movement rich I am NOT
+saying movement mesh stuff on my screen
+right now so I don't know I don't know
+what it's doing it's not doing what it's
+supposed to be doing I'll tell you that
+chata suggesting a reflection of the
+pizza bearer in the window no I'm not
+doing it in any I won't put the pizza
+bear in any of the shops that you see me
+work on because then you'll know where
+it is I wouldn't do it listen this seems
+good enough right right no it's it's
+going to be it's going to be so subtle
+than very few like no one would notice
+it while watching obviously and even
+people looking for it might not find it
+for the record this is this shot you're
+looking at as part of my favorite scene
+in the film oh yeah yeah I think I like
+that sequence ma'am we haven't a small
+issue here we have a small issue hold on
+where's my corners - my corners match
+pause pause to see how much of a dummy
+Jack is I might be a huge dummy
+no those move okay so these are my these
+are my corner pins you know these are my
+templates and you see like the corner
+pins move with the cars and my light
+bars are linked to the corner pins but
+the light bars don't move with the cars
+I can't help you at all oh no I know you
+can't I'm just I'm just trying to I'm
+just talking it through a rich
+yeah you can see you can see the car
+move but the light bars do not that is
+upsetting it's upsetting because they're
+supposed to be oh this might be my
+problem I'm gonna front saber
+I'm gonna say definitely that's 100% the
+problem yes whatever whatever it is I'm
+talking about is whatever think we're
+talking about yes great I think you're
+right by the way
+what is happening here gosh darn it
+and you know the real thing is I'm
+overthinking this all so here's what
+we're gonna do here's what we're gonna
+do rich this is way easier because
+because I don't need to worry about
+bounce on these I just kind of wanted to
+show people like how I solved the bounce
+problem yeah but apparently I don't
+remember how I did that
+it's been a while since I've worked on
+these okay um this but this is how I
+solved the bombs problem right but I
+don't need that I just need the tracking
+data I just need the raw back and forth
+a transform data copy to clipboard boom
+and get myself one of them Knoll objects
+boom and then paste that transform data
+Shaboom there it is so now that null
+follows it and so then we take our front
+saber and unlink it boom boom
+okay cool
+you need to do
+you know right there and then we took it
+to front saber and pick whip it to the
+null so now that'll match and we do the
+same for the back saber back saber we
+say what oh oh my god you know what I
+know what I did wrong I accidentally put
+in a keyframe oh my god Oh jack she's
+not helping
+I just want you know that I know what I
+did wrong I've accidentally put in a
+keyframe and that means that it was
+staying still when it should have been
+moving so and that was my bad
+what would you appear in Lenin cabins in
+skis bite of the mummy
+holy fuck yes oh my god yes yes a
+thousand times over yes if Lana would
+have us of course yes of course yes
+okay great so now things should be
+looking alright doing it the preview it
+was the keyframes man that was exactly
+the problem yeah my I accidentally hit
+the keyframe button which made them stay
+still when they were supposed to be
+following the other thing so it was my
+fault because I cooked the keyframe
+button but exactly exactly a huggie
+snuggle says how is that even a question
+if a little and needs help with us all
+up to us yeah in his movie who one wants
+to put in one's movie exactly exactly
+and if he wants us involved in any way
+of course I will help lent out Len was
+such a great guy you can see my bar is a
+little looking a little wonky already
+but that's fine I can fix that oh good
+old Chris is as a programmer that was
+very similar to tracking down a bug in
+your code I'm sure it's very similar you
+know you do so many little ticks here
+and there check this box here move this
+thing over here and it's just like what
+did I do wrong somewhere that's usually
+what After Effects is I did something
+wrong somewhere and I need to find out
+what or just say fuck it and start over
+I'm almost done I'll see if this scene
+works out oh that's a good question tell
+agon rich when will our LM by Disney
+never never answer what would it
+question is what would it cost to buy
+Disney godly amount of money what it
+cost to purchase Disney I mean ungodly
+amounts is the is the only answer that
+there is it would cost ungodly amounts
+of money to buy Disney Disney owns
+everything wouldn't approach a trillion
+it would what's the next one quadrillion
+I'm serious water approached a trillion
+a trillion is a gigantic number oh I
+mean no it's it would have to be more
+than that because like I I know I I
+think trillions absurd Oh trillion is
+absurd but but even trillion like we're
+talking about a company that does
+billions a year yeah so you know you
+want to buy them out right
+you gotta tell what's the next big
+number what's the bet next ludicrous
+number and I think that's quadrillion
+no Disney does not go quietly into the
+night what all do they own now - I got I
+got Star Wars they got Marvel mmm I got
+the classic Disney characters the
+classic Disney movies they own ABC they
+they owned the Herbie the lovebug
+license that's a big one they own ESPN
+today they only ESPN oh yeah ESPN is a
+has I want to say always or for a very
+long time has been owned by Disney they
+own they own everything
+what do Disney alone but I mean nothing
+matters like right they have Star Wars
+they have they have Marvel they have
+Pixar yes yes they they own
+entertainment
+right yeah yep oh that that cash-cow
+Tron Tron is within our alums reach I
+think you want to buy Tron from Disney I
+like the real question is what I like
+Tron what would it take you know for
+Disney to buy rlm and the answer is very
+little I'm sure hey on Forbes who says
+Disney is worth a hundred and eighty
+billion okay that sounds about right
+know if that's slightly low well they're
+worth a hundred eighty billion but you
+know like that's just like what they do
+in a year so they're making 180 billion
+every year Disney owns ILM of course
+now it's it's it's insane Disney owns
+everything entertainment and I mean I
+guess they're doing a good job at it but
+you know when do we hit the point of
+monopoly I don't know and do we care if
+they keep putting out good stuff I guess
+not right and you know it's and it's not
+just about like it's not just about you
+know movie rights but but in a
+merchandising wasn't that the big the
+big give with the the Sony hacks is
+everyone at Sony hates the spider-man
+movies yeah because the movies never did
+it terribly well in the box office and
+they never made any money off of
+merchandising coming compared to cost
+and I don't think they did okay oh they
+did okay everyone made like seven
+hundred million
+yeah but they cost too however many
+hundred million to make and Sony didn't
+get a cut of local ending and that's the
+big thing
+merchandise merchandising I'm sure
+merchandising is the big thing but
+saying the movies were unsuccessful I
+don't buy that at all anthem anthem I'm
+saying relatively spending on 180
+million to make a spider-man movie
+you're gonna make seven hundred million
+globally oh but I don't think they cared
+about you know as shitty as the amazing
+spider-man movies were yeah I don't know
+why the fuck they they they partnered up
+with Disney for the Marvel movies cuz
+that would be still doing gangbusters
+money-wise it's depressing as that was I
+don't know if they were doing as well as
+they thought they were going to do and I
+think that they understood that there
+was more money to be made in other
+anybody who's disappointed when your
+movie grosses 700 million dollars you're
+doing something wrong well yes and they
+were doing something wrong
+they've made the amazing spider-man
+movies that was something really wrong
+because you don't just spent that much
+to make the movie as bad as the amazing
+spider-man 2 I didn't even see that one
+the amazing spider-man one was so
+terrible I couldn't see too John
+Carpenter could pull off a superior
+movie for like five
+yep yeah there we go now my life bars
+are moving right all right that looks
+pretty good I'm not I'm not happy in
+general and this is something that you
+know I just need to fix overall like I'm
+not super happy with how the light bars
+look in the world you know yeah just
+because I like savers they're just
+glowing
+they're glowing things so I'm gonna take
+my sabers here and put some motion blur
+on them that'll help a little bit
+Chet Chet is saying that domestically
+the spider-man movies were making less
+and less which you know ever it happens
+with every franchise for one for second
+look at the global numbers I'm you know
+the global box box office has been
+taking off those people care about is
+those global box office numbers I think
+the global total more than made up for I
+think she's not some light leak behind
+that leaf if you want to do anything
+else in that show I don't know if it
+needs it you know we get we get some
+good coverage behind the leaf and it it
+doesn't it never gets you know if the
+leaf was going more behind it you know
+like right here you and you can tell
+here let me get my mouse here you know
+like right here you can see good
+coverage with decent leaking light
+leaking that I'm fairly happy with I
+don't know if it means anything else and
+big just so everybody's ready for it I'm
+gonna read off some subscribers
+subscribers
+first I'm gonna real quick somebody in
+the chat wants a free-flow combat star
+wars game and my response you're never
+you're never gonna top Jedi Knight ooh
+when it comes to Star Wars games okay
+that's that's what they need to be
+aiming for not free flow they need they
+need
+to do Jedi Knight to again no you know
+as a you know Jedi Knight free flow
+combat I mean it makes sense right
+you know Jedi Knight 2 is fucking
+awesome I'm just saying like for free
+flow combat it would make sense for a
+jet I anticipated
+I'd rather have the free flow lightsaber
+of Jedi Knight to where it didn't need a
+stupid system you just you just ran
+around and you hack the fuck out of
+storms that was fucking great that's
+that's my thoughts on that as far as
+action games go peaked with Jedi Knight
+- well you know subscribers subscribers
+cracker man 5:26
+mister shy smile gram Dolph gram ho ho
+rip with an Emma Graham Dolph like like
+Gandalf
+but like grandma grandma Grendel's oh
+that's fun hello my Draco oh hello mad
+Reiko know what hello Draco I'm just
+like hello my baby hello my darling get
+it did like a thing it works every 801
+MC Lucas delicious
+what I was wicka wicka I was like
+scratching the turntables for MC Lucas
+Papa Zuzu optimus spec sports Maxwell
+spec spec for mr. glitch and this all
+part of us thank you for subscribing we
+really appreciate it okay and Draco
+thirteen months MC Lucas 15 you just you
+a little bit late you a little bit late
+on that because you buddy gotten all the
+prey
+was given out earlier for the 15 months
+but it was never well with 15 months
+earlier who was that
+John kilo head that 16 John kilo has the
+16 months and I want to say it was
+another had the 15 I don't I just don't
+that it was before it was before I had
+the twat sure ago I was like that was
+like an hour and a half ago rich I have
+no idea I don't remember I have no idea
+all right best lot amiss with 14 but
+thank you all for subscribing we really
+appreciate it yeah Mario it was Mario
+Mario it's true we really do appreciate
+it what happens
+mr. shy smile has 11 yes mr. shy smile
+you got 11 but look on let's be honest
+you're going up against 15 15 16 to 14
+and you got 11 you came up short my
+friend you came up I like you mr. Schine
+guys Ron to see all the time
+everyone's got you beat by like three
+months something I can't sell that it's
+an inferior number I'm sorry
+yeah there's nothing you can do about
+that we have to let you go it's just
+it's business well wait we don't have to
+let him go we don't I mean yeah we can
+still hang around okay fine Aaron's fine
+
+[Part II]
+all right everything's fine I like this
+a little bit better check this out right
+eh I put a little blur on the light bar
+maybe a little less blur maybe like
+eight that means you seem a little more
+natural like look at the front light bar
+as compared to the back light bar what
+are you adjusting up I put a little blur
+on the front light bar to kind of like
+jagged up the edges a little bit and I
+think I'm looking at it unlike a very
+tiny window and delay so I don't even
+know if you've adjusted it since sure no
+it's fine yeah great that's why that's
+fine what do I know I'm an idiot
+rich would you ever go up into space
+fuck no no fuck no I can barely get on
+an airplane III would set foot on on a
+rocket and I would my head would be full
+of nothing but but but challenger in
+Columbia oh that poor Russian guy who
+went up in like the first Soyuz or one
+of the early ones and he knew it wasn't
+ready but he went on because his good
+buddy was was gonna be picked to go on
+it anyway and then when when as
+predicted the flight crashed and like
+burned up in reentry he was like cursing
+out his superiors oh sure and he
+actually before the trip because he
+actually kind of knew it was gonna fail
+and he he predicted his own death he
+wanted an open casket funeral with his
+burped corpse just just to rub it in the
+faces of the higher-ups who made him go
+on the flight home line and they and
+they did it I saw like a picture of his
+funeral oh my god I wish I could
+remember his name also I want to give a
+big shout-out to dr. vector right now in
+the chat dr. Beck there
+that's a great idea doctor vector just
+said that I should change the blend mode
+to add and that makes the light bars
+actually glow and so dr. vector thank
+you very much of that it's exactly what
+I needed although now it almost like it
+doesn't you know like now there's no
+separation to the ad so I don't know if
+that means I need to turn off my fast
+blur maybe turn off my fast blur but
+rich wouldn't you want to experience
+being weightless oh fuck no I hate I
+hate roller coasters I hate that that
+sensation when you're on the way down
+that's basically weightlessness and I
+can't stand it it makes me nauseous
+I'm I would be the guy with like
+throwing up in in the space capsule and
+this puke would be floating around
+everywhere and getting in the
+instruments and everyone would be
+panicking as the systems were shorting
+out one by one because of my puke Esther
+it would be the most embarrassing way
+possible to die
+you know they'd be like they'd be like
+the the government Commission like on
+c-span afterwards and this is where the
+puke got and video me like spinning
+around and I think you're a crazy person
+I'd go up to space in a second if I
+could just to see just to go I went up
+to space I'm fine on the ground a place
+simulator give me a simulator on the
+computer I'll be fine
+waffle tells us that's not fucking
+weightlessness that's you falling with
+gravity hey waffle till guess what orbit
+is
+oh you know what that is that's a six
+science burn yeah that right there's a
+sick science burn this looks great I I
+don't much care that in this particular
+shot you can't differentiate them oh oh
+I know what I can do I know what I can
+do I think what I'm gonna have to do is
+find so you know I see some people
+asking about um like the colors of the
+light bars and when you know like it
+like a police light when the lights are
+on they're gonna flash blue and red just
+like police lights do but when they're
+off they still need to glow something
+right and so yeah like I'll show you
+what we're gonna do here oh yeah okay
+take this back one and make it like a
+brave red right so that'll be there's no
+separation
+Optimus Knossos hey rich would you try a
+teleporter of those existed you mean you
+mean would I like to be ripped apart
+atom by atom and then to have a
+identical duplicate of me created like a
+mile away but I'm so basically dead no I
+would not like that teleporters are a
+philosophical nightmare everyone on Star
+Trek dies different and then they're
+clothed takes their place mm-hmm you
+know what that's kind of true rich
+here's what I think we need have you
+seen the fly you if you haven't by the
+way you should totally see the fly it's
+it's really great okay I think I know
+what I can do here I have a plan rich
+well that kind of looks ugly cuz I
+really like that glow like that glow is
+really important you know the add glow
+because of the the savoriness right but
+we also need to differentiate the front
+beam from the back beam I also think
+that's very important
+someone's asking if teleporters really
+work that way in Star Trek you know
+there was an episode where apparently
+sometime in Rikers past they beamed him
+up from our planet but there was a
+atmosphere interference yeah and they
+didn't quite beam him right so it's like
+they just like remade him with other
+energy because they were ended up being
+to Rikers yes yes Star Trek
+teleportation kind of does work like
+that
+no and that's by the way why like wasn't
+that uh that was Polanski's thing and I
+think so
+is is there there was a there was a
+whole subplot of people who refuse to be
+teleported because of that very thing
+jacket Star Trek is called beaming they
+refused to be beaten teleported be
+imported be important when when you when
+you when you you know when you go to the
+store do you do you get in your
+your-your-your motorized wheeled
+conveyor or do you get into your car
+port maybe both I get into both maybe
+they both I don't know rich I don't
+fucking know McCoy hated being beamed to
+has that a thing I I'm not a big fan of
+the original this is more so than like
+the the the fear of something going
+wrong it's more the philosophical what
+comes out the other end is didn't really
+you it just thinks it is
+yeah but does it matter like if it if
+it's justa matters to me if it's all of
+your atoms in the same grouping and you
+have all of your same memories your
+atoms that well I think that's the even
+if it is like the energy from breaking
+down your atoms is it the right energy
+going into the right spot or is just
+random wherever it goes like maybe the
+energy that was your brain and it's not
+your foot well I I want I'm gonna hope
+that they haven't figured out by the
+time that they're using it every day by
+the time they're using it in everyday
+military applications I'm gonna hope
+they have that shit figured out I'm sure
+the first couple of people to be beamed
+yeah they died they died or they ended
+up as foot monsters that's just a thing
+they go they go off to the foot planet
+but I'm gonna hope that they have that
+shit figured out by the time i'm using
+one i'm not well i mean i i'm not it's
+not like i'm not a fan of the original I
+respect the original Star Trek for what
+it is of course of course but it's just
+like next gen I'm a bigger fan of Star
+Trek next gen is I guess what I'm trying
+to say the original has a special place
+and they did some things really fun
+especially the battles I love to battles
+an original Star Trek this sorry I'm new
+in this movie oh no I thought you're
+going to talk about Star Trek battles
+like the the slow time like almost
+submarine battles of original Trek we're
+awesome yeah that's all but am i more of
+a next gen fan
+some people Chad think I'm worried about
+a soul that's not it at all
+Star Trek they're not they're not taking
+your atom apart and moving it they're
+taking your atom and just breaking it
+down into energy and sending it over
+there right and then that energy is
+being reconstructed and I'm not sure if
+that's still you once you like you've
+actually destroyed the atoms
+and and that energy is not necessarily
+going into the same spots that you know
+I mean you can yeah your your your ass
+could be your new brain
+well like theoretically theoretically if
+they move all of your atoms into the
+same spot it's like it's like having a
+lego guy and taking apart all the pieces
+moving I don't think that's how it works
+though if I work because you know the
+conservation of energy right mm-hmm you
+you you you know that Energy's always
+gonna be that amount of energy you can't
+add or you can't make it more than where
+it is right where it is then you
+couldn't get to Rikers in a transporter
+accident and they did yeah but aren't
+going into the same spot but it's also
+TV shows they're just keeping track of a
+pattern when they talk about pattern and
+pattern buffers is what they're talking
+about mm-hmm it's the information that
+makes up you but it's not necessarily
+the energy or the atoms that used to
+make up you this might be getting too
+deep for me I think
+oh and no Jenna I actually have not seen
+any Rick and Morty I've heard nothing
+but good things about it rich have you
+seen any Rick and Morty sorry about
+before it's fucking great it's good
+though I think they're pushing too far
+with Rick he sees he's starting to
+become flat-out evil it's it's it's
+getting hard to like Rick now is it is
+he stuff like not giving a shit coming
+actively evil I think they need to
+wrangle him in a little bit
+what's the the Homer problem as The
+Simpsons went on and on Homer became
+Leslie like dumb everyman and more like
+the invincible everything everything
+everything is that what Rick is becoming
+the invincible what like Homer from The
+Simpsons
+Oh like exaggerate it too far
+one direction yeah yeah yeah but it's
+crossing a line of apathy into actively
+being evil George okay maybe I haven't
+seen any of it I I I will watch it one
+day but I just have not seen any of it
+yet
+flying fences Rick is not evil in one of
+the last episodes he enslaved Microverse
+to make energy for his car battery when
+they didn't want to he threatened to
+destroy the entire universe he created
+that's evil I'm sorry yeah that sounds
+pretty evil to me so you're saying the
+transporter makes new atoms doesn't it
+theoretically brave well I mean if you
+get to Rikers you're just taking energy
+for something else you're taking like
+energy from the world court to make a
+Riker hmm and it's putting it's putting
+energies that was allocated person
+that's a copy of Riker that's not like
+her this looks pretty good for now
+I'm not super thrilled with our lack of
+distinction between the two light bars
+but I'm gonna be pretty happy with this
+look what I'm looking at now I kind of
+like it
+yeah it looks better than deep shadow
+did ya okay I'm a shadow was distracting
+the Shanno was distracting to me yeah
+well and it you know the science wise it
+makes sense is there's just two things
+emanating light right but you know I
+guess we don't really need him because
+later they'll be emanating different
+lights so yeah I'll be okay with this
+this looks pretty good great
+ganga stances have you played Metal Gear
+v yet no no we haven't we haven't played
+or talked about Metal Gear at all
+there's none at all
+the thing that I'm most about ours
+here's the thing that upsets me the most
+about Metal Gear Solid 5 right now is
+there's no our counter on the ps4 and I
+want to know how many hours I've put
+into that game is really letting when
+you look at your save file not even when
+you look at your save file you can't
+tell how many hours even playing the
+game and it's really frustrating because
+I'd like to know how much time I put
+into it I want to say I'm getting close
+to 30 hours into the game I have played
+that game too much I'm about 28% done
+with the caveat that I've been doing a
+ton of side missions and recently I just
+started focusing on the story story
+story but our plan is to have enough of
+it played so we can film our discussion
+on Friday yeah and then hopefully have
+an episode out by the by next week
+who knows if that'll happen but that's
+the plan at least I know we're starting
+to go into heat death territory here oh
+no think about it this way rich how many
+of you from when you are born are still
+in you almost none this is even true
+from just a few years ago and he is
+talking about I like like every
+basically every 7 years here your body
+has recycled every atom that used to be
+in your body the thing is yeah I know
+that is that is a philosophical
+nightmare and it is true yeah but at
+least at least you know when you get the
+transporter you're just you're doing it
+all at once
+I guess it's efficient at least at least
+when my body slowly replaces every atom
+that's in my body at least it's in steps
+gradual enough that I don't notice and
+that's blessing that's a blessing not
+God Oh hold on mister tryna smell says
+Jack if you pause the game then go into
+records it will tell you - oh please I'm
+thank you mister shy smile
+that is important information pause the
+game go into records it tells me
+rich-rich cloning Metal Gear Solid is
+about cloning so it's related tell me
+tell me if you're fine with cloning
+yourself to replace yourself
+oh wait rich do you see I don't know if
+you see that on the top right corner you
+know that is it's time to stand up okay
+all right stand up no yes why because
+why because it's important to move every
+hour or I'll see you do terrible things
+about it I ride my bike to work I'm fine
+Jack Jack doesn't like it when we go
+into heat death territory problem with
+cloning someone is interested in cloning
+themselves I don't care but that would
+not be you a clone would essentially be
+your younger twin brother and/or sister
+I think well what gender you are of
+course
+so ethically no problem with it but it's
+definitely not you
+no of course not you it's it's the whole
+it's the whole nature that's a nature
+versus nurture thing right like even
+twins you can have the same genes but if
+you're raised differently
+oops sorry about that everybody if
+you're raised differently you're a
+different person you have different life
+experiences there's a lot more to what
+makes people people than just you means
+I don't know what the metal medical term
+for it is ever heard them called
+chimeras like like the Greek creature
+but it's kind of its kind of like the
+opposite of a twin sometimes yeah you
+know like like twins who aren't
+identical what cycle is it
+fraternal eternal twins sometimes
+paternal twins can like one twin could
+absorb the other yeah yeah I know so the
+child that's born is like genetically to
+people it's like like like
+kind of like the fly only you don't
+notice because they're both human oh
+that's creepy shit there there are
+people who go their whole lives without
+really knowing I heard there was a story
+I read once I don't remember any of the
+details I'm sorry but that was like some
+kind of like custody over a child was
+involved and it's like the mother wasn't
+testing as being the mother of the kid
+you know I was like really weird and
+then they find out like the cells from
+like the uterus for different from like
+cells that they were testing because she
+was really her own twin you know they're
+like merged in the womb oh my god that's
+terrifying laughs oh yes I I didn't
+forget the windshield reflection and
+lash out Mabel Mabel I just wanted to
+move on to a different job so because
+I've been working on that one for a
+couple hours now so I just want to move
+on to a different job that uh has a
+little more going on so I I will
+remember to go back and put in the
+windshield reflection but thank you for
+letting him it might not have been a
+child custody thing cuz I think either
+way I would attest it is a relative but
+if some kind of thing where they weren't
+sure of the person's identity because
+they were getting like a different
+result than what they expected I had
+genetic test oh that's creepy you know
+that is creepy
+don't worry about me I'm just clicking
+when I press the button you ever do that
+when you're in your color like a shot if
+something doesn't if something doesn't
+click make a clicking noise you make a
+fucking noise I don't know if I've done
+that commonly I've probably done
+something like that before I do that all
+the time no I like clicky noises I like
+feedback you know oh you're doing a
+thing
+rich would you say Rick is just going
+through an arc since the season started
+from from Rick and Morty if they are
+doing an arc then they're making Rick
+unlikable which I still think is a bad
+thing he's not fun when he's threatening
+to destroy a world so this car has a
+battery that cross some kind of line
+what when it comes to my being able to
+to enjoy the character to have fun
+watch that character
+for you being able to watch the
+character yeah yeah for me Finian's it's
+only my own opinion I never speak for
+everybody simply I say I am which I
+don't know if I've ever done that but I
+just want to make sure I guess what I'm
+saying is could you stop speaking for
+everyone
+yes I did not great so I can't why I
+know I can't stop because I did not so
+no but could you stop why I didn't do it
+the first place it would be impossible
+to stop oh my god don't you see how this
+works what if I didn't be okay I'm fine
+with that great great and that's great
+and everything's great rich yes
+and that's great and everything's great
+all the time
+I'm asking out this Indore
+boom nice
+this is a fun shot because there's lots
+of stuff in front of the light bars the
+door comes in front of the light bars
+rich you walk in front of the light bars
+all walking funny and silly it's great
+it's great everything's great
+my ad to
+would you say that after the unity
+episode Rick is starting to break down
+that that's possible I'm just saying
+whether or not it's a character arc or
+not there they're going into danger
+territory at least for me of not liking
+the character anymore because this is
+too far too far
+Oh
+Oh
+here we go No Oh No
+I forgot how to add a spline
+does anyone do
+I want to add a point rich I forgot how
+to do something yep all right this would
+be the last
+Rick and Morty things these short clips
+vague contexts aren't going to be
+entertaining in hindsight what when rick
+destroyed the whole world last season
+that was an accident
+it wasn't intentional mm-hmm threatening
+to destroy the world he created when
+they weren't going to provide him with
+car battery power anymore is a different
+animal intent the key is intent
+ah there we go
+I figured about don't worry I figured it
+out
+intent very important also I'm glad
+you're thinking about entertainment in
+hindsight you've been rich has taken
+over the cutting up of twitch videos
+into YouTube videos and I don't know if
+I have properly thanked you for that yet
+it has been wonderful it's appropriate
+it's appropriate you added the episodes
+something I can do it's a it's it's been
+very nice you know all the sudden I just
+get an email that says hey it's up on
+YouTube and I can I can still do you
+know I had the thumbnails do all the
+tags on YouTube side but I appreciate it
+speaking of which how did everybody feel
+about the Mad Max highlight video people
+loved it I can tell you that do you know
+what it did a made it on the for some
+reason it made it on the ps4 subreddit
+oh really
+even though you were playing it on the
+PC games available on ps4 so I loved it
+I plan on releasing them sporadically as
+they as they come the highlights
+what about episodes I do there are
+episodes like that aren't on Twitch
+anymore that we can't make highlights
+out of I'm thinking like I've liked
+older stuff we might want clips those
+yeah yeah the end of the order like that
+needs to be a highlight that's serious
+it totally needs to be a highlight video
+we have a highlight of it can you
+highlight a highlight I don't know I I
+don't know I don't know yeah I don't
+know either I thought that was good
+the end of the order yeah maybe and I'm
+not gonna read out a steam name over
+Twitter I don't know if they want their
+name out but that person who just sent
+me hitman blood money oh thank you
+thank you I'll check that out when I'm
+when I'm done playing the metal gears
+I'll check that out I don't know if it's
+the new new ones the last one made that
+people liked I think the last one was
+kind of uh kind of bombed with the fans
+oh did it is it the last one of the one
+before the last one was not very popular
+no how did the movie just you know it's
+awful they went that's a video game
+movie so I'm just going to assume it's
+awful yeah yeah Cyril yeah that's
+probably right you know it's probably
+right jack Geoff wants to know if you've
+played Mario maker yet I haven't but I'm
+definitely getting in it looks great
+everything I've heard about it looks
+fantastic you know you make your own
+Mario levels boom that's all you need to
+know it's gonna be great I just I just
+haven't because I've been playing Metal
+Gear I'm trying to focus all my time on
+that I feel like once I start making
+Mario levels that's all I'm gonna want
+to do for a while and so I'm trying to
+finish one thing at a time yeah yeah
+like I really want to play Mad Max
+there are some people like on Twitter
+and whatnot you know asking for you know
+recommendations Mad Max vs Metal Gear
+Solid and - you know the thing I keep
+going back to is which it's which which
+ever world do you like the best yeah
+yeah I think the general consensus is
+that both both games feature a fair
+amount of repetition as far as the
+missions are concerned but which world
+can you stomach for longer but my
+assessment of Mad Max was that the
+gameplay feels a little bit derivative
+it's not it's not as much shadows of
+more doors everyone thinks it is it
+sounds a lot like shadow of Mordor the
+combat is altered you know it's it's
+it's that free flow combat the Batman
+combat the shadow of Mordor combat but
+it's it's it's altered enough so that it
+feels different like like Batman jumps
+around hitting foes like you X once and
+you knock a guy down yeah
+Mad Max is smarter you like bash a guy's
+face in five or six times before moving
+on and and you know like the different
+things you do a little bit more brutal
+like like Batman doesn't kill people in
+the way that max does sure nothing okay
+the car stuff is great in Mad Max when
+you're fighting a whole convoy one
+that's 101 when it's one-on-one it just
+turns into like pathetic bumper cars
+they need to do something about that
+pathetic bumper cars yeah and you are
+really kind of just doing the same
+things over and over like this you can
+knock down the the stare crow thing and
+take down the base in every every area
+of the maps got like five or six bases
+and a skate you know I mean there's
+definitely an over again but I still
+find myself wanting to do it well I
+think this it's similar to the Metal
+Gear where it's like no matter the
+mission you're sneaking
+into the base to get something what are
+you're killing someone or rescuing a
+hostage you're always there's a bit more
+depth though to the sneaking and
+shooting then there is to the Mad Max
+just how badly a lot simpler oh
+absolutely give you more like graduate
+no one but it's like like kind of like a
+graduate course compared to like an
+elementary course yet yet I still find
+the bad back stuff incredibly fun he's
+easy to pick up and play and enjoy it's
+like it's like Metal Gear gameplay wise
+gameplay wise certainly not story wise
+it's like like like caviar but you know
+sometimes I'm just in the mood for a
+cheeseburger and Mad Max big cities
+cheeseburger what do you like more
+driving in Mad Max that take an Arkham
+Knight driving in Mad Max driving in Mad
+Max I haven't even driven that much a
+Mad Max and I like driving more in Mad
+Max this there's a little bit more to
+the combat and bad backs it's it's not
+quite the the kind of brain was dodge
+the line and shoot you get dark of night
+that was infuriating in Arkham Knight
+that's a line shoot the thing that's the
+line shoot the thing you're not in a
+line just shoot the thing dodge the line
+and shoot the thing right like in in Mad
+Max you can like use a harpoon gun to
+rip a car's door off and that you can
+aim your shotgun through the door and
+just shoot the driver you could you know
+there's some neat things you can do in
+the Mad Max car combat
+hello oh yeah I'm here so I'm just up up
+out for a second there no just doing
+stuff oh worried you're doing stuff she
+should know how it goes over here ding
+Arkham tank combat customer says why
+would Mad Max liberate a fortress there
+ever actually is a story reason for it
+in order to get safe passage in the one
+area like the guy in charge that area he
+wants you to work to take down the
+enemy's fortresses it's how you earn
+your keep so it's not it's it's it's not
+out of the goodness of his heart which
+would be inappropriate for Mad Max there
+is a selfish reason yes
+which we're all ok with
+yeah and like I you know I enjoyed the
+Mad Max movies I just can't see myself
+caring about that world enough to play
+the game you know Mad Max god I'd love
+the road warrior so much when I was
+young
+oh right right yeah and I just can't I
+can't get there movies are fine I don't
+know if I could ever be into that game
+franchise road warrior were so so
+wonderfully brutal I mean they had the
+guts to shoot the dog Jack that was so
+great they had the guts to do that
+wonderful movie robberies are wonderful
+I always always wanted to play a fucking
+Mad Max game and then never really made
+a good one
+until now now there's a half-decent Mad
+Max game but but you still don't get to
+wear a proper Mad Max jacket you've
+completed the story bow of the game
+which is kind of ass for completing the
+story you get the good proper decent
+looking one when when there's nothing
+really to do story wise after that
+that's that's kind of okay so explain a
+little tube killing a dog is always
+cheap though but they almost never do it
+because audiences like dogs too much
+that audience is gonna feel worse if you
+kill a dog that if you kill a human
+being in a movie it just I think it's
+it's true and bad max had the guts to do
+it I think it was the first movie I saw
+that had the guts to do it so rich just
+wants to see more dogs die it was it
+wasn't a random stray dog either I mean
+it was Mad Max fucking dog that was with
+him for the whole damn movie until it
+got killed
+how many dogs get killed in Space Camp
+20 20 dogs get killed in space captain
+actually 19 we cut out one of them oh
+did you know the whole scene got cab so
+the I think that one dogs just gotta
+disappear from the movie and nobody's
+really gonna know what happened to it
+but is this a minor role for that dog
+the the paper mache scene yeah you cut
+out that the paper machines dog-killing
+scene yeah
+oh my god I loved that I thought that
+made the whole second act work the paper
+mache wasn't working it looked it looked
+terrible well of course it did that was
+the whole I thought that was the like
+the meta joke of it all
+you fucking J fucking lit it better yeah
+I guess I could see that all right
+that's fair that's fair you know a lot
+of lessons were learned while making
+space Capri yeah yeah like who knew it
+was that flammable to begin with
+I didn't tape rachet yeah well I like
+you know whatever what we all knew in
+hindsight there's a risk it's wet paper
+you know like the wetness I thought it
+would but it's dry once it's a shame I
+guess yeah do much with it wet you never
+think about it though like that you
+always think about it as wet I guess I I
+did I don't know you know I guess I
+guess what I'm saying is yes we're gonna
+miss miss that's we're gonna miss that
+scene and more importantly we're gonna
+miss blinkers who passed away while
+filming that scene but I thought I
+thought it was worth it well her owner
+was not happy
+you know they signed the paperwork
+that's out matters you sign your
+paperwork liability is not
+on us that's all that matters did we did
+we you know clear things with PETA yet
+is that still going on
+no in fact we've made it worse with PETA
+in marketing strategy really yeah I
+talked to Jane Mike into actually like
+ascending angry letters to PETA hoping
+that vase that's not gonna work
+banned the film we publicity yeah for
+publicity because everybody hates PETA
+and so we're hoping that PETA comes out
+against space cop for free publicity
+okay okay you know that's that's my plan
+I don't know if it's gonna work but you
+know yeah you tried different things I'm
+shocked we're still doing this this bit
+yeah this is it gangbusters rich and I
+think everyone in the chat knows that
+it's a bed and they're just waiting for
+us to stop the bed but now the business
+is about to bid itself so it's imagine I
+had to ended I had nowhere else to go
+dead end really you know yeah rich you
+gotta take some improv classes how about
+as good as improv it you gotta roll with
+them punches get rich some improv
+classes for the new year mr. court says
+doom comes up often around these parts
+but were you ever into quake
+well as we've talked about my computer
+could barely run doom when do come out
+came out hmm so I I had little hope of
+running quake but I did love quake too
+quite a bit by the time quake 2 would
+come out I'd upgrade it so
+yeah we go all I've been doing this
+entire time is masking out this corner
+of the door that goes in front of the
+light bar by the way I'm sure people see
+exactly what I'm doing
+and Hounds it's amazing work you're
+doing jack you know this is it this is
+the job and the thing that often scares
+me is how much I really enjoy it you
+know just making tiny little movements
+to the mask and mocha helps you know I'm
+just right now I'm just hitting trace
+forward and it it follows the door which
+makes it a lot easier but really the the
+there's a part of me that is very detail
+orientated and I really like this aspect
+of it
+not in every respect like right now my
+desk is a mess I think in real life I'm
+a messy person but on the computer I'm
+pretty I'm pretty clean it's your office
+still a mess with the remodeling stuff
+going on is that what's going on oh yes
+yeah now there's paper on the floor like
+literally the floor is covered in paper
+because of all the construction I'm
+bringing in things slowly it's a it's a
+it's a mess over here yeah yeah jack
+series question time beret or fedora for
+me it would be a fedora so like a fedora
+is the Indiana Jones hat right yeah I
+wouldn't be caught dead in the brain no
+no I mean you know I think Berets are
+that's a that's a fashion choice whereas
+a Fedora the Indiana Jones had because
+of the wide brim I don't think it was
+technically a Fedora I think it was some
+kind of weird-ass custom things the way
+I think the the brim an Indiana Jones
+hat was like whiter than a standard
+fedoras brim you think what the brim on
+Indiana Jones hat oh you think it's
+wider than a normal yeah no no that's a
+fedora I know I think it was some kind
+of weird custom-made Australian thing or
+whatever was they found for Indiana
+Jones I don't think it was a standard
+Fedora oh I believe it is Doris and
+smaller ribs no no that's a that's a
+trilby this is a real thing we can
+google it the the Hat with this small
+Ranma all around okay okay that is
+called a trilby I know this because
+there is a haberdashery in my
+neighborhood oh my god the right I know
+and so so the wide brimmed fedora the
+Indiana Jones hat I I would choose that
+because of the practicality I'm a pale
+man and
+I need some protection yeah so I know I
+know fedoras get a lot of flack on the
+Internet
+and whenever someone mentions the fedora
+they show a picture of a trilby and it's
+for someone who knows the difference
+between the two it's always very
+upsetting to me I don't know if it was a
+trilby or a fedora but I bought one once
+many years ago okay what might be neat
+and then I put it on once that's stupid
+never wore it again yep yep
+i just opened firmware says i just
+googled it Jones's hat is a fedora yes
+okay it's this is the thing I don't know
+how this whole Fedora thing got started
+but who cares mark says what's this nuts
+from Miss Mythbusters talks about
+getting his Indiana Jones hat made it's
+a special Fedora a special Fedora I know
+I know there's something weird about the
+Hat and it had to be custom-made for
+every goddamn movie because it was there
+was something not standard about it oh
+well you know movie prop I guess but
+sure okay sure oh no and I see that that
+Chad come in the movie is not just
+waiting on my special effects the movie
+is still being edited by several people
+it's not just waiting on me that would
+be horrible if it was just waiting on me
+I would work on it a lot more if that
+was true it's slow work it's a little
+work it's slow working there aren't that
+many of us working on it I look look how
+long this is taking
+well and I'm also talking but doing so
+like now it was a little bit faster but
+yeah this is this is true this is how
+long effects work takes you know it's a
+it is a slow job it is a slow job that
+works best when nobody notices it
+rich do you ever wear any kind of hat
+other than a baseball cap what do you
+want me to wear a beanie right how many
+other cat it's a hat can you wear you
+want to come to the haberdashery in my
+town no no some jerk that's the real
+thing by the way like I would love to
+wear Fedora like a hat with a brim
+because I'm so pale and I want that sun
+protection but no everyone who wears a
+hat like that looks like an asshole shy
+shy well when I was like oversized cat
+in a hat hats you would they want you to
+wear an umbrella hat a hat that is an
+actual tiny umbrella maybe I should have
+fucking cowboy hat oh my god that would
+be great that would be great rich oh
+yeah what a pheasant won't even cover my
+butt yes great fucking great
+no I know it would be social suicide if
+I work for Dora that's why I don't wear
+one I wear baseball hats like I don't
+watch baseball at all I have a ratty
+Brewers hat that I wear when I'm outside
+for long periods for the record I don't
+wear a baseball cap because of the bald
+spot and like my bald spots a matter of
+public record because I like baseball
+right
+oh no rich is comfortable with his balls
+bound I I am accepting that it exists
+yeah that's comfortable that's that's
+something that's more than some people
+whatever-whatever like baby barber shows
+me the back of my head the mirror oh do
+you have to do that I know yeah a subtle
+reminder rich yep your body is slowly
+falling apart yeah I got that one I
+couldn't walk for two months yeah it's
+not just your back it's everything in
+your body falling apart where's your
+baseball team rich Chicago White Sox
+we're talking minor-league I guess
+they're datin technically minor leagues
+they're independent the Windy City
+Thunderbolts every every every time I go
+to a different ballpark I I buy a hat
+from the team they're like I've gone to
+a lot of like smaller teams the Normal
+Illinois Corn Belt errs the Normal
+Illinois Corn Belt Thurs for corn belt
+purse what they're her logo was a
+cartoon ear of corn what Gary rail Katz
+rocford River Hawks Gateway Grizzlies
+what rich you are a minor-league
+baseball fanatic oh it's fun it's fun to
+go to minor league games
+Schomberg flyers I want you to start
+making up names and see when people
+figure it out I don't think that fast I
+don't think I can come up with really
+don't at the MA night I'm going with Evy
+Kings I'm gonna see the the Tallulah
+foot-stomping after that there's really
+only had jackhammers yeah yeah they they
+got really good they go really good away
+teams it's gonna be a tough match though
+cuz they're planned the the Toledo yeah
+go to a minor-league game alright you
+get you get like five bucks you get a
+seat you're you're like 10 feet from the
+damn field you paid twice as much in a
+at a major league game and you're
+sitting in the fucking sharpest seats I
+just there's no way I could care about
+baseball's shit
+I just can't care about baseball that
+much Ridge it's so boring
+not since baseball is the perfect blend
+of excitement and relaxation nothing
+happens there's there's time to sit
+taking the nice weather have a hot dog
+and then the game unfolds slowly enough
+you can follow what's going on easily
+and then when action happens it happens
+fast patient when you got when you got
+fucking bases loaded and and somebody
+hits a goddamn triple then suddenly it's
+the most exciting thing in the fucking
+world I love you have to be paying
+attention at that point and by that
+point I'm usually drunk and asleep see
+that's the beauty baseball happens slow
+enough that you you you you you don't
+have to be paying 100
+set of attention to 100% of the time or
+you'll miss something when that pitch
+starts to happen you know there's gonna
+be this way you know to pay attention
+you're the back to the fat you know to
+look and see what's going on mm-hmm
+if you're not watching the game to begin
+with and usually when there's people on
+base and exciting things are going on
+you are yeah you know I've just never
+cared I don't know you know what and I
+don't know if I've ever tried to care
+about a sport it just doesn't matter to
+me anybody who thinks is born actually
+go to a game what a nice day
+I've been to James on a nice day I
+thought the same damn thing until Karen
+dragged me to a Windy City Thunderbolts
+baseball game and I loved it I fell in
+love I mean I guess you know deal I've
+only been to brewer's games yeah there
+are local team but I've been to Brewers
+games because you know our family I have
+friends that want to go to a game it's
+like yeah I'll tailgate and get drunk
+with you guys if that's what you want
+and I just I'm just tell was terribly
+bored the game starts and you know like
+I'm usually into it when the game starts
+you know all right
+pictures are happening hit sir hitting
+if he's out standing in the field again
+baseball became popular because you can
+listen to a game on the radio and not
+miss a thing you know exactly what
+fucking happened mmm baseball's built
+for radio yeah I'm gonna go ahead and
+say that that's a very accurate
+statement right
+that is a very accurate what happens in
+baseball is clearly and easily able to
+be defined it's it's not like watching a
+hockey game where people are just flying
+all fucking over the place somebody's
+getting checked on one side father pucks
+been passed over there I mean while the
+goalie is getting up things are going
+out of one time well you know it's just
+like a hockey game same like that
+basketball hmm
+football things are going all over the
+on the field when things are happening
+baseball it's like any hit the ball and
+it's double and then the bases are
+loaded this we've won 2nd 3rd and 1st
+and when things happen they happen fast
+and yet there's enough time between
+things and you can describe it describe
+it easily that's great yes Herk hockey
+is great to watch terrible to listen to
+on the radio which i think is my point
+mm-hmm I just I just stepped on the
+volume control for my headset and I my
+my ears are going to hurt every time you
+talk but that shouldn't fix that I'm not
+gonna have to talk to that rich do you
+have any thoughts about Formula One
+racing no it's the most boring thing to
+watch like NASCAR
+why why why the fucking anybody watching
+things I'm not NASCAR everyone agrees
+NASCAR sucks for most formulas when I
+believe it has tracks that you have to
+make more than left turns on is it
+slightly more exciting and then the
+funny cars you know they have the big
+wheels no no those ones it just goes
+straight right no that's a that's a drag
+racing okay drag racing might be the
+dumbest thing yeah
+yes second only to NASCAR okay okay like
+my cock can go super fast right like
+wicked fast right
+it doesn't do too well at turning so I
+say we race but don't turn none huh
+I don't I don't understand the pit stop
+either way like you're in first place
+yeah and then you have to have a pit
+stop are you still at first how does it
+work nobody knows nobody knows nobody
+scares ever everyone is way too busy
+getting drunk and finger banging their
+sister nobody in NASCAR cares about at a
+NASCAR game but they didn't think
+somebody was gonna die in a horrible
+flaming wreck exactly exactly
+no no NASCAR will never ever make any
+sense to me never ever make any sense
+I'm sure much like every sport there are
+those people who are like no if you
+really pay attention like there's this
+whole meta for NASCAR right Thank You
+Chad for hearing my my incest joke I
+thought it was pretty funny but that's
+NASCAR you know that's that's that's
+what it is
+people people dig it I don't give a fuck
+necessarily it's not it's not a part of
+my life that I need to be concerned with
+so this is a pretty good door mask right
+here this is a pretty good door mask I'm
+pretty happy with this I'm happy for you
+you should be a little bit oh my god I
+just burped rich that was terrible
+terrible I got I got a fuckin headset on
+what am I gonna do oh that's right your
+mic is attached to your face yep
+I don't know what you're gonna do that I
+want here no I can't play that suppose I
+could try it burp out of my ass but that
+would take a while don't burp out of
+your ass man don't do it I believe in
+you what time is it 11:00 a little after
+11:00 yeah we'll go for a little bit
+longer we'll get a couple more things on
+this one shot done okay
+next video job Jackson jackets is gonna
+be a NASCAR commercial it wouldn't
+surprise me what would you do I mean
+whatever they wanted it that's that's
+the number one rule of freelances if
+you're paying me I will do whatever the
+fuck you want me to do that is my number
+one rule if you're not paying me then
+then I get to decide some things but
+NASCAR wants to give me some money I'll
+make whatever fucking commercial they
+want for enough money I'll get in front
+of the camera and just be like NASCAR is
+the fucking greatest sport ever and
+Obama is the worst president in the
+history of the United States I will say
+that for another call back I get it yeah
+call back I get it
+you know that was for everyone what
+stream was that oh god that was so long
+ago that was so long ago rich I can't
+even remember Texas Texas seems like
+forever ago
+for whatever reason I just relisted a
+part of whatever stream that was I don't
+remember what stream that was
+I was that yeah no I I have a price that
+price is me being able to pay the bills
+yep yep
+obviously like if I'm more like you know
+NASCAR is just something I don't care
+for you know that's that's not gonna
+take a lot of money to convince me to do
+a NASCAR commercial it's like oh I don't
+care for this but people like it so good
+for them if it was something I was
+ethically against it would take a
+shitload of money you know like if
+someone wanted me to make like a pro
+rape commercial really like a commercial
+that was like endorsing rape that would
+take basically I would just need enough
+money where I would never have to work
+again because I would never work again
+right would I make it maybe I don't know
+I might have gone too far that's okay is
+there a person we go too far all the
+time
+Wrigley's as an actor as an act or is
+there is there a price that you would
+act in a pro rape commercial no I
+wouldn't act appropriate you would never
+act in a pro racer you know let's let's
+you know like they were Cherise Potter I
+don't know that I would yeah I guess I
+don't know if I would either jokingly
+I'm gonna say you for the right price
+absolutely you know some things are just
+off limits yeah yeah I mean you're right
+you're right but you know like 20
+million dollars maybe
+is what I can say jokingly because it
+will obviously never happen you would
+lose the family or trying to support uh
+you know but then my kids could go to
+college and I think they would like that
+paying all sorts of bills all the time
+have food every day full rapes a weird
+one because that is never going to
+happen
+well that's that's why it's so you know
+that that's a that's the most outlandish
+right you would have to find something
+that's at least plausible and asked me
+that question at least plausible yeah
+that's interesting so like you know
+that's kind of inspiring me here and I
+think they said this Pro Bill Cosby
+commercial like it's a PR thing oh sure
+like Bill Cosby wants to be like I'm a
+good guy yeah yeah okay that's
+interesting so you're like me so what
+would it take for you to be in a coma
+like a commercial saying I'm famous
+internet celebrity rich Evans and I want
+to talk positively about Bill Cosby you
+know you have to put your putting your
+reputation on the line for Bill Cosby
+how much money yeah I don't know I don't
+know but you know because once you start
+talking about millions
+that's awful tempting that's awful
+tempting it's awful tempting you know
+what Bill Cosby is not the same as Pro
+rape mr. glitch because it's all alleged
+he hasn't been convicted of anything he
+hasn't been convicted of every end of
+anything until like I still think he did
+it though oh sure sure oh sure yeah like
+how much would it take for you to
+support Trump for president you know
+what that's never gonna happen anyway
+that's about as likely as a pro rape
+commercial yeah so you know I would do
+that just for the yucks to make myself
+feel better I can give part of the
+proceeds to Bernie Sanders there you go
+everybody's feeling the Bern rich
+everybody's feeling the Bern I am I'm
+seeing stickers everywhere now I live in
+a fairly liberal neighborhood though so
+it's not it's not terribly surprising I
+just I I thought I'd see more Hillary
+not obviously we're not getting into
+political talk yeah I'd like to steer it
+away from there yeah yeah I think I
+think right or left from pasilla joke
+yeah I think I think every I think
+everyone agrees on that yeah yeah all
+right I think I have the door mask done
+which I'm pretty excited about
+all right let's take a look at this
+let's take a look at this look at that
+rich look at that rich Evans beautiful
+acting right there there's a couple
+verbals here so what's the hold or mask
+thing about oh sorry yeah sorry forgot
+so what i'm doing here is much like for
+anyone just joining us
+which I guess is the thing that couldn't
+be happening so the space cop car has
+these light beams on top and in order to
+put in the light beams obviously
+anything new that's in front of the
+light beam let me go back to MOCA here
+anything that's in front of the light
+beam has to come out and so what I need
+to do is in order to create the light
+beam I need to mask out everything
+that's going to appear in front of it
+and add it to a new layer so it's in
+front of it and so that's what I've been
+doing with the door here so like I'll
+have to do the door and then eventually
+like when rich comes out I'll have to do
+the same thing with a rich is like mask
+out his figure as he stumbles and walks
+and then after I have both rich and the
+door masked out I can track the green
+bars to put the light beams on
+I think it's going pretty well pretty
+well the Chad is asking why you're not
+just keying out because there are parts
+of the light bars here if I go back to
+After Effects here there are parts of
+the light bars let me turn off the glow
+I should here there are the the front of
+the green bars that are the silver that
+won't Kiat and then loop see and then
+tracking would be a little bit of a
+nightmare I mean I guess you could still
+track the kind of the same way and
+that's what Jay wanted so you just kind
+of do what Jay wants and if you key out
+making the glow happen I think would be
+difficult well you know making a glow
+happen on top of that just from keying
+it out and then you'd still have these
+silver discs in the front which i think
+would be a big problem yeah you know to
+have the silver discs and then I'm like
+a glowing bar and like I said more more
+so it's that's just what Jay wanted he
+said he said give me some light sabers
+on top here and I said okey-dokey and I
+like how this looks you know like if you
+look at it with the glow that looks
+future II that's fun
+Kilroy bucks Punk says and isn't some
+for sure is a key out the light bar then
+key met the silver ends question mark
+then key map this silver ends you could
+can fly farther than key matha yeah like
+and you you could owe it like really you
+could you could keep out the light bar
+and then just kind of extend the light
+bar a little bit and they would give you
+the same effect but like I said this is
+just what this is the look that Jay
+wanted for the light bars he wanted this
+kind of glowing thing and it really
+looks cool when you
+if you just keyed out can do the glow
+right that would be the really hard part
+and there's okay probably a way to do it
+but here it's very it's very easy you
+know to add that nice red and blue I'm
+gonna add them really quick here so you
+all can see like a dark blue
+you know like look at that and look at
+that red and blue glow and then I'll
+have them alternate you know like where
+one goes red then one goes blue and
+they'll kind of flash back and forth and
+I think that's super cool okay I think I
+did something else too I think I uh one
+other here's another preset to really
+make the color vibrant yeah I think I
+did this yeah this is what I did
+somebody else is just saying what if you
+just kid on the the parts where the door
+opens I think you're and have a weird
+issue where it looks different oh and I
+could yeah and you know that really you
+know I'm just doing this to be as nice
+as possible you could keep out but kini
+leaves a lot of artifacts it's very
+render heavy and I just you know I want
+it to look nice and and kill right mix
+Punk IIIi knew that you didn't know what
+you're talking about you're just trying
+to suggest that's why that's why I made
+sure to say that you way had a question
+mark at the end of that mm-hmm we do
+everything everything's cool oh yeah no
+I mean there's you're free to ask
+questions you know that's yeah that's
+cool I like this they're like you had
+the this vibrance thing on top of it
+then you get this really cool like deep
+red and blue glow to the lights that's
+really cool and Spacey's that's so space
+copy sir BP what's what's middle gear
+sell at five I've I've never heard of
+that is there a new Metal Gear Solid
+game coming out Metal Gear Solid five
+I think there's a new game coming out
+rich we should have we should have on
+them I said he said V I'm assuming
+that's v it could be a game called Metal
+Gear Metal Gear Solid V but oh they're
+going in like a Roman direction with it
+that's interesting
+what the Metal Gear series so this is
+like the pre pre prequel where snake is
+his assassinating Caesar just just
+missing the bit Jack just missing a bit
+what's your bed I've never heard I have
+never heard of it before just a bit of
+any Metal Gear yeah that was the bit oh
+and I thought the bit was just then
+you've never heard of Metal Gear Solid 5
+the bit was I'd never even heard of it
+but but it's ruined now I'm sorry yeah
+and you're telling me to take improv
+classes I I find that laughable quite
+frankly Riffel I misinterpreted the bit
+and if you would have taken improv
+classes correctly you would have just
+rolled with my misinterpretation instead
+of calling me out on that is true it's
+yes and rich
+yeah so I'm just I mean really this is
+just me trying to make it look nice and
+then when I you know the other thing is
+because I'm masking it out instead of
+like keying it out I can do things like
+light wrap these doors you know like I
+can have the the main mask but then I
+can also add an additional mask which
+adds an additional feather and add to
+make the the light from the bar a little
+more natural there's a lot more I can do
+because I'm masking instead of keying
+and I you know you think it looks nicer
+hopefully it looks nicer you know it's
+it's all the same stuff and that's all
+you can really hope for is that you just
+hope it looks nicer this is how I do
+things
+check please try it King this rotoscope
+is taking forever yes yes just for the
+sake of the stream we're gonna slap
+together a space copy that see you're
+entertained
+people did see you know like we I did
+this tonight because we missed the
+yesterday stream and so I wanted to do a
+makeup stream and I just need to do this
+anyway and so this it seemed like a nice
+thing to do and people did genuinely
+seem to enjoy the last room I think I
+got a little more done last stream but
+this is the work sometimes and I'm sorry
+if you're not entertained by it but I I
+find it to be very engrossing that's
+just me I think our chat has been
+superlative and thank you again for
+chatting with me rich I know you know
+like there's no game happening there's
+not a lot going on but I appreciate you
+lending moral support yeah I I do want
+to get back to to Metal Gear Solid 5
+right swish so okay well you know what I
+think I'm done with this door mask I'm
+just gonna double check in and then I
+think we can call it a night yeah oh
+yeah see you like a tails off a little
+bit here
+like I see a little bit of white comes
+through here so as soon as I'm done with
+this door mask we're gonna call it a
+night
+any any last minute sobs get in now this
+has happened reading a posture this is
+happening we are close we are close
+people
+what what did I think about ground
+zeroes III like ground zeroes actually
+kind of a lot it doesn't have any of the
+supernatural shit there's no flaming
+humpback whales and it's a really
+fucking cool base to sneak around hmm
+and I didn't play ground zeroes they did
+tweak some of the gameplay elements a
+bit for Metal Gear Solid 5 yeah yeah
+still really nice base and it's just a
+nice non convoluted story you know
+break-in and rescue these people rich
+this time to stand up I'm not fighting
+like that spit blood out of their eyes
+bridges that is it oh no no no it's been
+an hour you know that peace stand up
+stretch your legs oh wait stand up I I
+question authority jack
+people tell me to get up and move I say
+why and that's why there's a fire in a
+theater I'm gonna burn to death when
+they tell me to leave no no
+because most modern medicine agrees that
+standing regularly really really helps
+my standing app is is just it's called
+stand that's all it's called it's for
+Apple and then you choose a that app
+sounds like it's running your life for
+you I'm very happy I'm very happy for
+you Jack it's working great you just
+pick a time and it does it every hour so
+I picked every half hour every every
+half hour on the hour it little thing
+pops up and it says hey hey dickhead
+stand up and I do and it's great what
+I'm almost done I think I got this I'm
+looking I'm looking at the I was going
+to start start reading names but
+whatever oh I don't I I said I was going
+to stop when the mask is done okay okay
+I'm sorry I'm just getting a head start
+Jack that's all don't even watch women
+we have to wait I was gonna read you I
+know you're all excited to have your
+name's Rhonda and that's a great mask we
+did it go ahead go ahead what go ahead
+and go ahead and read the names why
+should I
+I just saved again all right why should
+i because I'm gonna like I did what you
+told me to do Jack Jack I'm like I'm not
+gonna sit her and say Omni remix a
+clockwork Stalin Liz 6005
+vodka Gimli
+see the new hobbyist and doctor Robocop
+thank you for subscribing we really
+appreciate it
+we got a lot more we got some more 15
+saamne remix 15 months that's great
+rocket rocket Gimli 14 months that's
+amazing then clockwork Stalin on the
+little bus with 11 months you know
+that's I mean that's fine it's not quite
+the new hobbyist you know both months
+its one-year anniversary's pretty nice
+congratulations happy birthday baby
+doctor Robocop has just subscribed oh my
+lord it's the beginning of a long
+journey that you'll give up in a month
+that's okay that's okay we're gonna live
+innocence no obligations we're glad to
+have you for as long as you want to stay
+thank you all for subscribing
+we really appreciate we really do and
+yeah appreciate you all hanging out for
+this I know these aren't game streams
+but I still have fun doing them and I'm
+glad y'all could come on thank you to
+all the new subscribers thank you to all
+the old subscribers and thanks to
+everyone else we just came out for some
+you know these are exclusive first looks
+at space cop look at this look at that
+rich look at that rich acting right
+there he's getting out of his car oh
+shit man look at him he's walking
+exclusive first look exclusives
