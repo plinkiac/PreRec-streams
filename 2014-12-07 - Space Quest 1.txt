@@ -1,0 +1,2974 @@
+Dec 7, 2014
+Space Quest 1
+Part I: https://www.twitch.tv/videos/3610175, https://www.youtube.com/watch?v=qnzuq40K2Qg
+Part II: https://www.twitch.tv/videos/3610308, https://www.twitch.tv/videos/3610334, https://www.twitch.tv/videos/3610560, https://www.youtube.com/watch?v=Xm3FpRvPPp8
+Part III: https://www.twitch.tv/videos/3610819, https://www.youtube.com/watch?v=rGaYYmFxeF8
+2:46pm: "There is a stream tonight, 8:30pmCST. Rich may be too busy "calibrating his hard disk" to call in... we'll see." (archive.vn/3FsUV)
+
+[Part I]
+ah so it is quite possible that we have
+just started streaming as always we're
+going to wait to hear it but just in
+case I'm going to send out the tweet now
+rich do you want to tell them what we're
+playing do you do you have it installed
+I don't have it installed yet why don't
+you do that nimble tell them all
+straight hey do you have that little
+confidence and while we're doing yes yes
+that would be accurate to say and
+there's nothing coming up in the stream
+we're not streaming great we're still
+offline
+great great
+well then I'm going to stop streaming
+well give it a second give it a second
+rich hold on and I'm not even prepared
+here twitch.tv I'm going to check on the
+stream I'm going to check on the stream
+here oh my god things have gone haywire
+things have gone haywire you're probably
+seeing if you're seeing anything you're
+seeing a black screen
+I'm not the chance sees it though the
+chance is it that's weird nothing in my
+mind for me it still says offline I'm
+gonna hit refresh you have to hit
+refresh yeah they might be seeing this
+just a black screen right now that's so
+weird
+well it happens alright alright hey I'm
+getting something I broke it I broke it
+because because I'm starting to play the
+game and it's telling me to Center my
+joystick so we can't have use a joystick
+well I assume yeah I assume I don't have
+to use a joystick but rich you can tell
+them what we're playing now Space Quest
+I had so much fun playing that small
+little text adventure that small text
+adventure section
+of frog fractions that we are now I'm
+now going to play another full-fledged
+text adventure game well I mean this was
+one isn't technically a text adventure
+though there are enough things in common
+where it might be a similar experience
+yeah yeah hopefully yeah cuz you have to
+type to do stuff right yes you still
+like open door search desk that kind of
+thing that's all I care about
+yeah so this is space question quest one
+Roger Wilco in the Syrian encounter
+mm-hm great done okay I've just updated
+the stream which obviously is very
+exciting to everyone we're going to send
+out a tweet in a second I need to get a
+snack we were not prepared although it
+starts screaming if you do not have your
+snack ready because because I just
+wanted to get it start Oh God because I
+want oh god I'm so sorry everybody here
+and here's the real thing here's the
+real reason why we're running late every
+once in awhile we have issues with first
+of all let's get this black screen taken
+care of this is first and foremost I
+what is happening what is happening
+everything is terrible everything is
+terrible there we go okay cancel that
+cancel that here we go get out of here
+get out of here several art window
+capture what do we want here this is
+what we want properties Space Quest my
+PC is doing fine
+we are not streaming on my PC right now
+though because while my computer now
+kicks ass my internet is still shit I
+still need to get an upgrade on the
+internet but however I'm thinking
+Wednesday I will just drag my computer
+down to the studio and we can stream on
+my PC from there
+yeah yeah actually I kind of know what I
+want to stream even so oh do you I I was
+talking to cheddar
+forgot a movie before you got home yeah
+and uh if somebody wants to send me a
+Blood Dragon i'll stream blood dragon
+and somebody sent me blood dragon also
+apple stream blood dragon next wednesday
+first of all this game is way too loud
+we're gonna you didn't hear it yet and
+also it's not in full-screen anymore
+how do you how do we change these
+options rich and you might we'll just
+turn down your speaker and we have what
+you're dealing with this da spot you're
+what you're using is a DOS emulator run
+so right right
+okay al Don I need to login as a crew
+member so I'm not saying I get it you
+can picture from the game what you
+should be seeing now is is the blue to
+red bars okay hold on my first name
+first name hack obviously oh Jesus heck
+heck Johnson hack Johnson
+how do we I'm like what we could name
+our character after somebody in the chat
+I've already named it hack all agree
+it's too late ok it's too late but now
+like my I want to I ruined everything
+basically I just wanna let you know
+basically I've ruined everything like
+what you can you should you should have
+had this ready to go at 6 p.m. Jack
+absolutely got all ready to go and just
+leave it there and absolutely so you
+should done mmmmmm nope ok we're back to
+the ok no glared so what you should do
+I'm just telling you what you should
+done ok special Oh special nice how do
+we quit this game obviously all toosey
+press ENTER to quit okay we're going to
+do it now we're doing it so first thing
+we have to do is rich needs to share my
+monitor so he can see what's happening
+yeah that would be helpful so we're
+going to share we're going to start
+sharing a screen with rich so you should
+be seeing this at the screen right now I
+see screen indeed seven of Borgnine
+thank you for subscribing
+we very much appreciate it great name
+great great name killer killer name
+killer name indeed you guys are going to
+see my desktop in a second give me a
+second here oh okay I get it
+hold on give me one second not we don't
+we won't want a sub-region okay and then
+we say obviously monitor capture and
+position size fit to screen great great
+and here we go okay oh no you're seeing
+a super tiny technical things technical
+things
+oh that's weird cuz right now I'm seeing
+it fullscreen yeah
+but the the stream the chat is seeing it
+in a tiny window I just clicked to the
+chat window and I can see that yeah yeah
+also space cadaver thank you for
+subscribing we very much appreciate it
+alright hold on hold on we are going to
+get this figured out speed action file
+quit we are going to get this figured
+right out you guys are seeing my lovely
+desktop my Windows desktop actually um
+go back and you can try all to enter try
+and make it not fullscreen mmm I don't
+know if dos box will freak out though
+you could try that I had it in not
+fullscreen for a little bit oh lordy all
+to enter what does that oh that does it
+okay great I cool alright we're going to
+try this again monitor capture select
+sub region select region just this box
+but now it's gonna be super tiny for you
+rich yeah well shit happens yes yes it
+does you know what I could about you I
+mean it might but were you know it
+doesn't matter we're gonna okay so now
+there we go now you guys do doot doot
+doot doot doot doot doot doot doot doot
+there now you guys should see what we
+see and actually you know what I can I
+adjust what you see change Oh quiet Oh
+quiet rich okay great what matters is
+what you can see I want you to enjoy
+this I want to share my love of a
+classic that's your adventurous well
+great
+that's I mean you know I like I said
+I've really loved that little bit of
+text adventuring in the Frog fraction so
+I think I'm going to enjoy this but rich
+I need you hello yes can you hear me
+yeah you need me to what I need you to
+fill some time that's fine
+while I go get a snack how much time do
+you need me to fill Jack how about
+taking us about a minute Lee about a 1
+minute off uh uh and we're gonna get the
+tap dancing again aren't we tap dancing
+us from house is going to end uh new PC
+is working great uh yeah dead air I love
+it I I can't talk I know some people
+were talking about the the VG ace and
+what a what a pointless thing to watch a
+fake award show so you can watch game
+advertisements and that just sounds
+wonderful you know somebody somebody
+sent me a link to the the something that
+happened in this VGA and I guess they
+did a tribute to Ken and Roberta
+Williams the people who actually made
+Sierra games and that's that's charm and
+it's it's it's nice seeing them now and
+they gave them you know they gave them
+an award and then and then I realized
+the only reason they brought them out
+there to give them a fake ward was that
+somebody could advertise the King's
+Quest remake that they have nothing to
+do with and it just made me sad there's
+a resist sad so we're making I don't
+know the doing the other games
+somebodies remake I don't know rebooting
+is more accurate thing to say I guess
+King's Quest I doubt it's gonna be an
+adventure game it's probably probably to
+turn into like a platformer or something
+stupid I don't know sure the VGA is Jack
+did you pay any attention to that shit
+not even a little bit yeah and and we I
+had some people ask me you know like
+what our thoughts were on it and it was
+just like oh we don't care we do our own
+thing all the time
+um that's my thoughts on that where why
+would anybody watch this right who cares
+its butt and by the way it's the exact I
+feel the exact same way about stuff like
+the Oscars and the Screen Actors Guild
+Award it doesn't matter it's the thing
+though those are actually legitimate
+awards right no no I cuz because I don't
+care about those awards like the BGA's
+are less legitimate than the Grammys
+yeah the everything none of that matters
+as we mentioned all the time with people
+like on asking us how we feel about
+games it's like if you enjoyed that's
+all that matters who cares about award
+shows oh yeah I'm gonna press enter here
+um here we go Space Quest okay I mean
+you know what I am gonna just put in my
+name my first name is Jack thanks fun
+because I want to be immersed in this
+okay I'll learn learn to save there
+should be a button to quick save you're
+gonna want to use that a lot you can you
+can die f5 yeah save game can and
+probably will die on which disk or in
+which directory do you wish to save his
+name just type in it yeah okay um save
+game one like that yeah oh sure
+Space Quest save game one oh you will
+need up just hide like see okay okay
+yeah yeah C :
+spacey quest one she's gonna save into
+whatever whatever whatever folder dust
+boxes emulating Dawson will be C c : c :
+/ whatever sure sure yeah
+C cones
+/ whatever see : / whatever okay there's
+no directory name see : / whatever what
+Oh God see : / okay great see : and by
+the way I'm just saving this right - no
+it's just a lot of the directory I just
+wanted to think it just wanted see : /
+it want it no I just wanted to know what
+director you are ok I'm Hey I'll accept
+turd Ferguson thank you for subscribing
+we very much appreciate it
+ok great how would you like to describe
+this saved game space quest
+oh one great I'm about to save new game
+great
+we did it rich we saved the game oh wait
+we're saved
+can you even see in the plenty little
+screen chances you know they're just
+seeing the blown-up version yeah yeah I
+uh I mean you know oh I can kind of see
+I can kind of see Mike you know what my
+question is is if I um now if I go
+fullscreen
+oh I can move left and right this isn't
+a text adventure at all look at I'm
+moving left and right I think I said
+there's some movement involved it was
+like interactive things you have to type
+it like type look around oh yeah I can
+do that so I type in it look around this
+is one of the many hallways in the arc
+in the Arcadia great ship look at door
+you know you still do all of the the
+text type commands sure you have just
+locked I just walked in I mean that's
+what I do
+that's what I do I walk into things um
+also for anyone asking like what I
+thought of the Zelda footage we know no
+more did you see the Zelda footage I was
+looking for boobage I was trying to
+figure out if Leykis folks if you had
+roll the summer
+hahahaha could see the character model
+from the side I'm like looking at is
+that maybe I was I was checking I was I
+was I was eyeballing link sure right
+sure yeah um all but also like game play
+wise we know nothing still it's good
+yeah it's gonna look pretty we don't
+know what type of game is going to be it
+doesn't matter it's it was it a part of
+the hype machine I know more or less
+hyped than I was okay rich we actually
+like these Star Wars trailer yes well no
+the Star Wars trailer is a little
+different because we finally got visuals
+all this is is the same visuals we had
+before you know but rich we have just
+stumbled into a small dark and very
+cluttered utility closet many things
+fall most of them landing on you doesn't
+say much for your cleaning prowess well
+then get out of there well what's in the
+closet
+I don't remember a lot of these puzzles
+so I'm not I'm not actually not giving
+you a hint I don't remember a lot um but
+you take a like surge closet oh look
+around search that does not compute did
+you search closet
+yeah tell what you're doing it - uh no
+say what um okay okay well I just want
+to look around you can't see anything in
+here because it is dark uh turn on
+lights Oh turn on light say what all
+right
+I don't think I can do anything in here
+I don't think there's anything to do
+with her okay first I want to get out of
+here there we go
+okay let's go this way let's see what
+happens if we walk this way walking this
+way
+settle down everyone oh there's a dead
+body other side of that wall on the
+other side of that wall so I can't see
+on the other side of this wall yet hope
+I ran into a wall okay you you can see
+the body though so oh yeah can I say
+look at body oh no no I'm just I think I
+think that's a hint that I need could be
+it could be that I need to go there I
+think like I said I don't remember a lot
+of the puzzles in this first game it's
+been admitted frog frog fractions I was
+giving you hints left and right there's
+some I'm less sure of a lot I don't
+remember oh there's more dead bodies
+rich in a broken door you think you hear
+footsteps oh well I don't care oh oh oh
+no so I died yeah the alien observes his
+handiwork briefly then leaves so as you
+lie on the floor and a smoldering carbon
+gelatinous heap Carbon gelatinous heap
+you can't help but wonder why you
+bothered getting up this morning so then
+that's it thank you for for thank you
+for playing space quest to men you
+failed miserably hands of the Syrians
+you continue playing the skillful is
+this you'll never have a chance for a
+sequel better luck next time that is
+great so then what so then what do I do
+so I go to file restore right yeah file
+restore again and then you'll be able to
+pick out there you there we go so now
+hey quick save is your friend quick save
+is my friend also dick the birthday boy
+thank you for subscribing we very much
+appreciate it and yes there goes the no
+death run there goes oh what were we
+doing a no death run we were I wasn't
+telling you about it thank you because
+we're not doing another throne okay you
+know I'm in a room so look around that's
+what you always do first this is this is
+the Arcadia's data archive many volumes
+of information are stored on data
+cartridges there is a computer console
+here look at console the console
+consists of a screen keyboard and
+cartridge slot a top it rests a module
+DX cartridge retrieval unit so okay okay
+put cartridge in unit you don't you
+don't have a cartridge oh I need to pick
+up cartridge
+ah that can't be done right now went on
+uh oh oh there's no cartridge on top no
+I'm not I'm not telling you how to do
+things the council consists of a screen
+keyboard and cartridge slot a top
+addressed a a module DX cartridge
+retrieval unit ah cat oh damn what's
+that uh Kato dare you mangry I think
+that's how you're supposed to pronounce
+that thank you for subscribing really
+okay
+oh there's a cartridge retrieval unit
+activate DX I think they love the word
+here is use you oh okay use DX oh okay
+use cartridge retrieval console unit
+what about console use console how would
+you like to do that
+what oh no I don't understand rich how
+would I like to do what how would I like
+to use the console but I want to I want
+to retrieve a cartridge you have to give
+me you have to give me a little hint
+here because I don't know the rules I
+don't know the play style oh hold on
+help okay
+turns the sound off sets your joystick
+toggles are you oh that doesn't help
+that doesn't help at all
+that does not compute um you know you
+might be spelling things wrong and that
+could be also I think I think that might
+be the problem
+uh-huh hold on okay so what uh wait what
+do I want to do again well well your
+first priority is not to die well I'm
+not gonna die in here so I just want to
+use this computer yeah use console that
+is correct that is currently down one
+Israel hey jaws of Zadar thank you for
+subscribing
+we very much appreciate it look at
+console the council consists of a screen
+keyboard and cartridge slot a top it
+rests a module DX cartridge retrieval
+unit okay so use cartridge retrieval
+unit look at screen look at screen oh
+okay here we go
+no in somewhere to select a cartridge
+enter the title below press ENTER to
+quit title cartridge available with top
+security clearance only oh well I should
+have top security clearance don't you
+think you're a janitor oh oh I'm a
+janitor you're a space janitor oh my god
+I didn't know then just let you start
+off the game in the closet oh so we
+don't know what any of these are called
+well you know that meant that that could
+just mean well this is something we'll
+use later sure select a cartridge to
+select the cartridge into the side okay
+so so we don't know once we get a
+cartridge title we'll be able to
+probably use that ok can we come you
+look look look at heart okay this is the
+Arcadia's data archive many volumes of
+information are stored on data
+cartridges there is a computer console
+here look college don't look at the chat
+because they're going to spoil things
+looking at the okay so I typed in look
+at cartridges looking at the wall you
+see shelves
+of data cartridges which can only be
+removed with the richer and only unit
+okay that doesn't help all right you
+know what if zelda 2 has taught us
+anything i should look under this table
+i'm pretty sure we're gonna have to come
+back here later I don't think there's
+anything you're doing wrong okay then
+we're getting out of here
+yeah I'm going through this door or not
+there we go
+if I hear footsteps I know to run away
+also yeah I see dead bodies nothing much
+I can do about that I'd love something
+you can look at the bodies well I could
+look at the body sure bud oh oh here's a
+body oh look at body it appears to be
+one of your crewmates he is
+non-functional a search body you
+searched the body of your crew mate and
+find a keycard nice look at keycard
+what oh did I did I write a guide oh
+look at key card hit the tab button is
+there a brother what button brings up
+the menu in Space Quest one I didn't
+remember you know oh it says oh well you
+didn't pick up
+ha what I have to pick it up the keycard
+yep okay I take the keycard there we go
+oh god oh man these games that's what I
+see that's what I love rich is like the
+logic is all there but you have to type
+it out okay the keycard is a flat
+rectangular piece of synthetic material
+which is magnetically keyed for passing
+check stations written in tiny letters
+are the words beak and hinder security
+systems okay great all right I'm going
+to go in this little elevator thing here
+all right we're gonna search these
+bodies now because that's what you do in
+video games you search bodies um
+search body you search the body a body
+reveals nothing okay let's go to this
+one search body I don't know okay by the
+way I need to get better at typing yeah
+this is this is a thing for me okay that
+my search for the body reveals nothing
+what's in here oh the bridge oh my god
+there's more bodies rich there's a key
+that'll like repeat the last command you
+typed out sure you search body over and
+over I don't remember what it is though
+something okay hold on I'm gonna search
+these bodies and then I'm gonna look
+around this is very exciting
+okay here we go search body Oh Jack what
+safe safe oh jesus not lappets up now
+that something's coming up it's just
+that it's a habit you gotta get into cuz
+sure it's not you gotta like find that
+fucking key card again and everything Oh
+gotcha
+okay I say it it's only that Keys f3 to
+repeat a thing okay look around this is
+the star generator development
+laboratory due to your incredibly low
+security clearance you have never been
+allowed access to this room
+great um that's it I mean I can't it
+doesn't give me anything else to go off
+of in here where'd it's a it's a
+specific all it said is due to your
+incredibly low security access you've
+never been you've never had access to
+this room before I look at look at
+control panel look at look and control
+panel
+your mind is boggled in attempting to
+understand the function of the various
+buttons switches lights and displays it
+appears the board is not operating
+what's that thing in the scent of the
+room try look at device to see what it
+says oh generator look at generates a
+generator right yeah yeah should I look
+at generator look and generate or there
+is no star generator here to look at Oh
+the star generator is missing okay so
+it's probably been stolen moving I guess
+sure well then let's get out of here or
+I'll just move over here what's this
+thing can I look at panel your mind is
+boggled okay the board is not operating
+okay I need a generator oh come I need a
+star generator rich is that is that a
+screen on the back area is there a
+screen you can look there just just out
+of curiosity okay let's go back here and
+I'm really not I'm really not hitting
+there are a lot of things I don't
+remember about the first base class at
+this point sure look at screen oh
+warning self-destruct mechanism has been
+armed evacuate ship immediately this is
+not just oh oh Jesus
+okay getting out of here my guy can't
+walk around guys he can't walk very fast
+I tried oh also a chat I tried looting
+the bodies and there was nothing in them
+okay another one oh he needed that one
+oh okay let's let's go look at this guy
+okay doo doo doo doo doo look at body
+this is another of your nan Fung all
+right search body that's what we need to
+do search body okay turns out nothing
+here's a down elevator this takes us to
+someplace new let's go in here
+Oh whoo this looks like an important
+place to be this looks like an
+evacuation area rich it does it does
+should I save Liam probably probably
+here I'll search this body then I'll
+saved search body your search of the
+laser riddled corpse reveals nothing at
+five Space Quest Oh three great eye
+we're getting out here we're leaving
+this we're leaving this hunk of ship ooh
+this looks important okay look around
+you are in the central control area of
+the Arcadia the reactor domes pulsate
+irregularly as if they had been tampered
+with
+this does not look good through the
+window just above the control console
+you can see down into the vehicle bay
+below okay I can see into the vehicle
+bay that's good right yeah cuz I want a
+body search body never know what you're
+gonna find Jack always hurts a body you
+search the damaged body of your fellow
+crewmen you get too close you get too
+close a glimpse of the injury in the
+pockets you find nothing oh I find
+nothing so what's this uh what did look
+around say what is this that I'm looking
+at what's this that doesn't out look
+around I'm in the central control area
+of their Cady they were actor domes
+pulsate irregularly yeah yeah so if
+they've been tampered with does that not
+this does not look good through the
+window just above the control console
+you can see down into the vehicle bay
+below okay so you look at the bay and
+you can look at the domes I guess on the
+console by the window our two buttons
+marked open bay door and closed bay door
+I mean press open bay door
+press open the door nice what did that
+do nothing that opened the door sure
+look at dome the domes cover access
+tubes to the Arcadia's power plant they
+are bolted closed since they seldom
+require maintenance okay so they're
+bolted close I can't do nothing um press
+closed bay door
+well can you still can you go to your
+right further probably but I don't want
+to have the bay door open in case okay
+I'll go over there and gets blown out
+into space wouldn't that be fun though
+shit
+search body your search of the corpse oh
+here's something though this looks like
+something I can press umm look around oh
+okay no nothing in here but an elevator
+alas it is not open
+you have adorned you have adorned the
+door with a small circle notice the door
+oh my god that's so funny
+um old Pete thank you for subscribing
+I have adorned to the door with a small
+circle of nose grease where were you
+karl malden this could have gotten ugly
+what is that a big nose he had a big
+nose
+karl malden okay is it next to the door
+what does that as a keycard thing Andy I
+said look around and it didn't say
+anything look at wall oh I need to be
+more specific you can be the walls are
+all nondescript except for a keycard
+unit near the elevator there you go
+okay um in cert no use keycard you slide
+the keycard into its slot you hear an
+audible click
+you take the keycard back I think I need
+to open that bay door
+I'll tell you what I'm gonna go back
+here and open that bay door okay
+we still haven't retrieved whatever the
+cartridge thing that yet - oh my lord
+and we are ready that room is probably
+not there for no reason
+sure sure press open bay door beep okay
+great I open the bay door I'm probably
+gonna get sucked out into space or blown
+out into space right that's a safe save
+before you walk in there okay you think
+your subject what if your footsteps what
+about my footsteps you hear them
+oh no look the screen oh no getting out
+of here getting out of here
+elastance is not open what do you mean I
+use my key card you use it again hold on
+at five
+slightly way oh my god okay just be
+careful about saving now is you're in
+danger now you know what you don't want
+to get to a yo save right before you die
+Oh Lord
+you're right use key card you slut okay
+I hear an audible click great okay got
+out of it oh oh I'm in a new area okay
+look around this is the flight prep room
+of the Arcadia as you can see there is a
+sign on the back wall as well as two
+clothes closet doors and two button two
+closet doors and two buttons look at
+buttons there are no buttons here what
+won't you buy the console two buttons
+there's two buttons by the actual doors
+oh I see okay sure this game I want you
+to be standing next to things we
+actually use sure yeah look at buttons
+there are two buttons here a left button
+and a right button okay okay
+press left button OOP what's in there ah
+look in closet it looks like an
+electrical gadget of some sort
+Oh gadget take
+take item I don't understand huh take
+ketchup they call it a gadget no take
+gadget oopsies gadgety listen I know
+take Oh get out of here
+take GAD jet so look at dad
+jet written on the electronic gadget are
+the words dialect translator on one end
+oh great dialect translator great press
+whoopsy press right on Bhutan Oh a
+spacesuit look in closet you see a
+flight suit oh man put on flight suit
+gets huge get suit nice oh I have a
+flight suit on rich you know what I am a
+ball and can I open door open door the
+doors are controlled by the buttons you
+must push the appropriate one
+oh I so I have to go over here probably
+okay the doors are open are you enjoying
+this Jack I am enjoying this okay I grew
+up on this game I can't go there what
+don't you go wrong now well let me go
+around it says warning the bay doors are
+open oh I bet I have to go and close
+those bay doors
+ah uh-oh I think I think you just die if
+you go in there without a space suit
+suit sure shoot suit well there's you
+see the lower part of the screen can you
+reach the buttons from there just try it
+oh look at but console there no buttons
+here try look at console console you'll
+need to get closer but I can't go around
+walk all the way down I mean that
+necessarily no I tried it here I'll walk
+over here walk over right a bit now down
+oh look at that okay okay I guess that
+makes sense I tried getting there before
+all right coming over coming over here
+we go
+look at calm soul boom the console is
+adorned with many status indicators one
+button on the right is marked air lock
+press air lock
+oh good I opened it up okay
+see I know we're going to have to go
+back well no of course we are well we
+got a timer Jack yeah well there's
+nothing I can do okay where am I
+there I am oh I lost myself for a second
+rich oh and yeah by the way yet for
+those asking the chat yes we are playing
+this on hard right now um right this is
+great look at calm so oopsie look around
+at console looking at the console you
+see a button marked platform there is
+also some gauges which don't interest
+you okay look around great uh press
+flush button yay there's nice an escape
+pod but right but I shouldn't go in this
+escape pod is what you're saying
+ah well try it I mean I'm wondering if
+it'll just prevent you hold on you know
+what I see someone in the chat going
+this that's the the grand lesson of life
+in this game say good we have to go back
+if we have to go back I got a feeling
+you're gonna roundabouts at a time I
+mean I'm definitely gonna run out of
+time yeah one I'm going into the escape
+pod enter escape a pod you cannot
+perform that act from here okay you're
+on the one side doors on the others oh I
+see that look at that that's adorable
+that's adorable
+come here how do I get there
+enter escapa pod ooh nice
+look around you are sitting in the
+pilot's seat of the escape pod facing
+toward the window there is a dark
+console before you and a seat belt strap
+at your side confused as to what you
+should do you wish you would have paid
+more attention during crew orientation
+put on seat belt done um press a button
+you should specify which button you
+would like to push the a button J I know
+we need something very important from
+that cartridge room we if we can leave
+if we escape in this pod we won't be
+able to finish the game okay if not
+let's just do that I know this take off
+seat belt done leave pod okay we're
+going back we're going back we're going
+back I know it so I know I need
+something there Jacobin all right no
+that's fine yeah we aren't we are saves
+and things go wrong yeah okay this guy
+moves very slowly also upsettingly
+slowly here we go
+Oh boom okay boop boop boop boop
+all right we're going Oh get out of here
+by oh I think I hear footsteps rich I'm
+gonna die yeah no it's okay
+is it that's okay I have all those save
+spaces the save states okay so these are
+bolted down I can't do anything with the
+disks I need to go way back I know
+there's not enough time you got ever I
+see the chat we'll be fine we'll be
+oh no I hear footsteps I'm getting a
+chat I'm gonna get shot
+I mean I've saved States I have a bunch
+of save states you know if we fail was
+eggs I told you to leave that console
+room for later yeah so it's on me
+if something goes wrong I think I hear
+footsteps getting out of here okay
+so where do I go up and into that room
+on the right oppan I need to go you
+think I need to go back into that room
+yeah okay
+all right here we go here we go roll up
+video
+bleep bleep all right here we go here we
+go here we go here we go yeah don't walk
+towards the sound okay well I don't know
+which way toward the sound is chat
+doesn't tell me it doesn't tell me well
+like which direction the sound is coming
+from okay we're back in the room rich
+all right all right um look at console
+oh the doors oh the doors open and a man
+you recognized as one of the lab
+scientists answers he appears to be
+injured oh my god what Hawkman talked to
+man after only a few steps he slumps
+onto the floor
+oh um talk to man oh you easy love doing
+the other message on there let's have it
+again tipping in his current condition
+the man is not much of a
+conversationalist
+um search bondage I have some respect
+for the dying oh no oh no it's on me
+it's on me that's okay we'll go back to
+an old safe state kaboom rich thank you
+for saying thank you for playing okay so
+we go to restore and I mean we shouldn't
+we need to go back to like Space Quest -
+yeah that's okay it's okay we know what
+to do sort of go faster okay here we go
+leaving this room everyone okay getting
+out of here Killman search body
+hmm all right getting out of here
+getting out of here okay we'll go back
+up rich you have forsaken us the chat
+says I was like forsaking them what do I
+do
+you've killed us all rich oh well yeah
+Evan it's gonna happen sooner or later
+man we're gonna sighs lunch it's gonna
+be fun
+exactly yes everyone make sure to keep
+track of how much I died because it will
+happen a lot okay gets credit for that
+one mmm so do I need to talk to the man
+before he dies is that I don't know if
+you can't talk to him before he dies all
+right well let's let's go if I go over
+here while I meet up with him oh good he
+appears to be injured uh here in his
+white talked to man Oh
+Oh I need to let him die on the floor
+after only a few footsteps he slumps to
+the floor uh look man try that look at
+man man a large laser hole has been
+burned into his uniform through which
+you can see previously unexposed tissue
+struggling painfully he raises up one
+elbow right now no look oh he's taste
+talk hose up he looks over towards the
+shells full of cartridges and utters the
+words astral body and then settles to
+the floor lifeless okay okay great
+we know what we need to do then right
+yeah yeah look screen look at screen
+astral body searching title found
+retrieving me see I was I was hoping I
+just wouldn't let us get that far
+without the cartridge but it did I was
+hoping you would have to come back
+because I knew we needed to get this so
+like was the thing like we were supposed
+to come back into the room we needed to
+leave and come back yeah what was the
+sacrament oh that's kind of lame but I
+mean I guess that's just the thing you
+learned okay so now what so now or take
+whatever I mean it both board should
+work done okay I have the cartridge okay
+now we do exactly what we did before and
+it's all my fault that we had to go back
+and do this oh no oh no oh well then
+there we go uh as you lined the floor
+and smoldering yeah yeah well then get
+out of here restore you know what I'm
+gonna go back to I'm gonna go back to
+space quest one really yeah okay cuz
+then we're Chloe or even closer at Space
+Quest that's fine that's fine okay okay
+coming here so here we see all the stuff
+we see this say look screen look at
+screen okay alright now we'll leave this
+room uh-huh
+I didn't know what I did try to do I
+tried to insert the cartridge oh so now
+if we go back in the room we'll just
+turn around and go right back into the
+room that old man should should come in
+right that's that's the idea or do I
+need to go set the self-destruct first
+well the self-destruct I think is
+already set
+is it oh oh he oh here's the old man
+yeah he slumps look at man he raises up
+one elbow yeah okay
+he tells you the Arcadia is under attack
+and that the star generator is in danger
+you have better leave it if you value
+your life you look over towards the
+shells full of cartridges and and he
+utters the word astral body okay okay
+one no we have not set the self-destruct
+yet um why don't I think I think it's
+already set I think the aliens did that
+okay
+astral body searching title found
+retrieving we've already done all this
+mm-hmm okay now I got save yeah honestly
+we need to get that cartridge in then
+save you can speed up the game too
+though I don't necessarily recommend
+doing that well good yeah but countdown
+is going on okay uh take Kurt true take
+cartridge done got it now can I insert
+the cartridge or the alien going to come
+back in uh what's you trying to do the
+last time look at console hold on the
+console consists of a screen keyboard
+and cartridge slot so now that I have a
+cartridge I should put it in slot yeah
+insert in swert in sort incidence in
+smart cartridge into slot I don't
+understand court Rajai a slot oh no nope
+okay so by the way attempting to insert
+the cartridge into the slot is what
+kills us because once again an alien
+suddenly came in and killed me okay
+god damn it so I'm definitely not
+supposed to do that save right before
+grabbing the cartridge this time yeah
+yeah okay we're going back to space
+quest one because that seems to be the
+quickest way ah
+I didn't say first you're right you're
+right you're right you guys you're right
+and when you're right you're right and
+you chat are always right I don't want
+you to enjoy this Jack I am okay I am
+doing this like it's still a ruin this
+for you you know what it is rich these
+games are a different pace
+you know what keep going to the right
+while we get that left why don't we get
+that key card first - oh yeah
+which one had the key card the one all
+the way to the left we're gonna need
+that yeah we are going to need that in
+swert court rigidity or court Ruggiero
+ball look at na here some surge good I
+am a terrible typist okay I have a key
+here now great
+no good I take nope
+god damn it here right uh-huh
+you take the kicker okay now I have no
+now guy dies and save guy dies well no I
+can I can take the cartridge and then
+save but don't insert the cartridge
+that's important well there's got to be
+a reason for that that insert thing
+what do you mean the if you even can
+insert a cartridge it's weird if you
+don't have to use that you know yeah I
+agree
+where's the guy the door opens and a man
+you recognize oh no he's been injured
+wait can i grab man no do you want fried
+um talk or no look at man yeah look at
+man he raises up one elbow now we wait
+he tells you the arcadia is under attack
+and that the star generator is in danger
+you have better leave it if you value
+your life he looks over toward the
+shells full of cartridges and utters the
+words
+astral body he then settles to the floor
+lifeless okay do-do do-do I guess I'm
+walking away come over here look at
+screen astral body boom searching tired
+of found retrieving yeah
+yeah
+okay so now what's the deal with with
+one when we get the cartridge cuz I
+believe it save it before you rapid then
+we'll figure it out
+absolutely okay use like that the new
+save - yep save - yes great take cart
+Ridge done I got done okay now one and
+try insert cartridge the alien will come
+in again well we have that safe right
+there yes so in cert cart Ridge alien
+comes in boom okay okay that's fine so
+that's the nodding we're learning things
+yeah okay getting out of here
+restore space quiz - what happens if you
+just leave go - though yeah laughter
+right or the left okay I'm going to the
+left as if it's normal doo doo doo doo
+doo an alien sure didn't come up yeah
+there's no alien here okay okay what
+happens if you say look at cartridge
+where's the savings in our good
+instructions look at oh my lord
+cart red shit you do not possess did you
+not get it
+did you not take it I took it no you did
+not
+oh because because we died because we
+died and this is a safe thing
+yeah well rich this is a such a
+different game okay take this is such a
+different game okay this is a data
+storage cartridge on it are the words
+astral body formation the untold story
+okay so what do we do let's let's try
+leaving let's see if we can let's see if
+we can leave all right
+we go walking out the door look at this
+swag this guy's got swagger okay I can
+leave I am leaving
+money many points do we have we have
+eight points okay okay
+is that important is fun to keep track
+okay
+you can't miss points but sure it's not
+a big deal
+all right I'm gonna go back in now we
+because of the savestates we have not
+gone into the this area so we should go
+in here do we do anything in here well
+the first thing no we can we use that
+cartridge in here maybe due to your
+incredibly low security clearance you
+have never been allowed access to this
+room so this is the star generator
+development laboratory I don't know look
+at screen look at screen this can't be
+done at that in this location
+you're standing too far away oh my lord
+it needs to tell me what's all around
+here rich these incredibly detailed
+graphics I can play the games like this
+all day
+okay now we're here at the self-destruct
+mechanism okay this is not a test we
+have 14 minutes until destruction okay
+get out of here is basically I think
+that's which is all we need to do yes
+okay all right we're getting out of here
+leave this guy walk so slow I'm sorry I
+have the key card already I got the key
+card before saving for anyone who's
+asking oh I think I hear footsteps get
+out of here I'm getting out of here okay
+jeez is great I don't think anything was
+on any of the bodies right no and all
+the bodies were empty all right good and
+and it's not like a randomized right
+like all the bodies will remain empty
+why don't you save it sure cuz with your
+fear footsteps around here occasionally
+just in case the guard doesn't walk in
+okay same this is new save three okay
+okay good
+saved
+okay so now we need to open the bay
+doors that's what we do over here
+I do do do-do-do do-do-do go over here
+and we say press open bay door beep bay
+doors open now right now we're playing
+to win but there are lots of fun ways
+you could die in this game oh sure I bet
+that has fun is is in these old games
+like half the fun was just the writing
+right because they have to write your
+every contingency
+yes um insert key card great it worked
+as we knew it would games like this
+remind me a lot of or what I should say
+is like a game wait wait wait real quick
+Jack what are you doing now save it save
+it save it or no three yeah three I say
+three sure now just just open the
+airlock
+don't put the suit on or anything just
+open the airlock we're guys fun look
+look at console yeah what Mary you gotta
+walk around oh Jesus Christ
+yeah doo doo doo doo
+um in any case like a game like the
+Stanley parable is something very
+similar to like a modern day adventure
+game like this where were you know
+you're playing the game and you're
+you're more doing so you're more seeing
+what the writers come up with look at
+console um what see here
+okay press air lock okay so now you want
+me to go out there yes I do
+I mean if that's gonna make you happy
+rich I woke a okay dude dude to do
+walking out dude did it to do
+oh I just keep on Oh and oops forgot my
+suit didn't read the thing oh sorry
+what did it say it concludes your
+experiment in something funny I don't
+know Oh get out Oh mister yeah yeah okay
+and I'm not a hundred percent I'm not a
+hundred percent sure I think you can
+like smash the escape pod into the
+closed beta
+I take suit ah press left button
+what was the space for us 3 is great
+chat but Jack has never played any of
+them before I wanted him to start at one
+absolutely
+freeze a good reason one of my favorites
+written oh no this is a dialect
+translator right okay so now I have the
+spacesuit on warning doo doo doo doo doo
+doo to do oh yeah and by the way like
+right before the stream we you know we
+were figuring out what to do in rich
+reminded me how much fun I had playing
+text adventures so we got this at
+gog.com Space Quest 1 2 & 3 are 5
+dollars right now on Joe Giudice you can
+go through these games yourself dirt
+cheap dirty sheep great great absolutely
+and you know right now I'm like police
+quest 1 & 2 police question police quest
+game were you the same style of game is
+this exact same like graphical styles
+even similar only you're a policeman
+okay here we are look at console there
+are words a platform press platform beep
+hey there's an escape pod here great doo
+doo doo doo doo doo doo doo doo doo de
+doo
+I think I'm doing Superman da da da
+do-do-do-do-do do-do-do-do-do enter you
+got you're gonna start with a little
+preamble don't don't don't don't
+da da da da da da da da da da da da da
+da da da da the console will consist of
+a screen upon status indicators a
+throttle and some buttons the buttons
+are marked Auto nav power and don't
+touch okay what do you wait to see I
+should say if you're right
+giggles why not okay don't touch press
+don't touch
+oh wait what was the cult all right hold
+on
+look consul and don't touch okay so
+press don't touch that has no effect now
+okay okay press press power we probably
+have to turn the power on first okay so
+now press
+it's your seatbelt on don't know I want
+to press don't touch first right okay Oh
+put seat belt on what put on seat belt
+done great Oh press Auto Nav
+okay look at console the console Oh a
+throttle and some buttons so I should
+press throttle or look at or use
+throttle yeah that's good one
+that's going to news throught toll how
+do you spell throttle hold on use FRA is
+it just one T how do you spell throttle
+I'm not sure well I spelt it you'd you
+could look at it again and see what it
+says sure hold on look I'm council
+throttle yeah I thought I spelled the
+right th ro TT le use throttle that is
+not currently one of my passions pull
+try pull oh wait wait um pull throttle
+oh here we go oh we're doing it Oh
+flying in space the escape pod moves
+slowly out of the vehicle Oh
+congratulations you have narrowly
+escaped an explosive death don't start
+patting yourself on the back just yet
+though you are now traveling aimlessly
+through the cosmos look at screen look
+at screen escape a pond of systems
+activated
+all systems are go great um okay uh turn
+off throttle say what um hold on let's
+save yeah save space questo v press
+don't press in regards to you o waiting
+oh the monitor yeah the chat is saying
+jack is using an Xbox controller explain
+the monitor flashes you study it to see
+what new information is being displayed
+oh look at matter o planet profile oh my
+god what Corona atmosphere breathable
+life civilization unknown temperature 40
+degrees Celsius navigation system locked
+in the auto nav system has locked onto a
+small planet of Corona and the pod has
+begun its approach nothing to do now but
+hang on okay alright
+exciting things are happening oh my god
+we are traveling through space
+oh we crashed you know what this could
+use some sound effects just but it is
+some are you getting any sound no no I'm
+not getting any sound must be turned off
+oh you have your son turned down because
+it was too loud no the sounds on okay oh
+you're getting sounds in general game
+it's not for that yeah like it didn't it
+didn't have a sound when it crashed
+okay okay no well they were working with
+like vacuum tubes Jack yeah we're trying
+yeah no my sounds on for it okay okay
+after a skull jarring landing you peer
+through the shattered viewing port out
+out onto the desert landscape a feeling
+of utter desolation settles in you're in
+a fine mess now jack oh Jesus all that
+okay great okay alright um open pod door
+the door has been permanently opened by
+the impact of the landing great take off
+seat seat belt done oh good thinking
+jack yeah I'm totally up on him step out
+of pod oh sure look
+around pod that does not appear to be
+here what oh just look around now no I
+think I think we're done with the pod
+now why I kind of remember there being
+something under a seat look under shaved
+on them there's nothing under the seat
+million thinking of a different game
+sure okay okay that's good
+I shouldn't have done that look that
+well now I just want to look under
+everything under console nope okay leave
+pod nope I'm out of the pod
+all right look around you seem to be
+located in the incredibly in an
+incredibly remote area there is a
+thrashed escape pod here look at pod
+yeah
+the pod seems to be semi destroyed
+okay let's save space quest Oh six boom
+boom heading left
+doo-doo-doo-doo-doo-doo
+doo-doo-doo-doo-doo doo-doo-doo-doo-doo
+to do to to do to do to do to do to do
+to do Oh No ah you have just become a
+vertical meal for the local welcoming
+committee
+okay then I'm glad I saved all right
+let's double check them look around you
+seem to be located an incredibly remote
+area there's a thrash escape pod here
+look and if there's a puzzle that I
+remembered and it's horribly annoying
+because there's not very much of a good
+hint for it yeah
+would you want me to tell you about it I
+mean pottsy's semi destroyed you know
+like I there I'm sure there's something
+to do with the pot here right there is
+but that's the best I don't remember
+there being any hint in the game for
+like when I was a kid I actually had to
+call this see I actually had a 1-800
+number yeah
+to give you hints for the game if you're
+stuck I had to call that number for this
+he's okay well so what they've said is
+it's semi destroyed right so if I say
+look at destruction I think I spelled
+destruction wrong how do you spell
+destruction the chat saying I'm very
+quiet
+you're very have you gone quiet
+according to the chat like a number of
+people have said that oh also um thank
+you for saying I have a nice ass okay
+well hold on then you know we need to do
+then stop the stream and start it over
+again hooray
+that's okay we've been in about an hour
+anyway so come on take a break yes
+okay I'm gonna make a single hot dog
+again so I'm just gonna have a single
+hot dog you're gonna have a single hot
+dog okay well guys we're going to take a
+little break rich is going to make a
+single hot dog and and we'll be back in
+a little bit and and I'm going to stop
+the stream and started over again when
+when we come back so hang out hang out for a second
+
+[Part II]
+um I had gotten a couple suggest a full
+first rich say hi hey what's up there is
+what it sounds perfect
+you guys okay rich they testing one two
+three
+it's true whenever whenever we do tests
+I always tell rich to say I say rich
+testing one two and rich goes Noah
+testing one two three
+but I I think the three is redundant
+we've gotten some requests
+I tried we tried using mumble we we got
+a couple suggestions to try out mumble
+for us talking and they said that would
+work a little bit better better quality
+and it's true I heard rich much better
+on mumble the only problem was somehow I
+was hearing an echo for me and it wasn't
+Rich's speakers like rich had headphones
+on and so I heard a constant echo on
+mumble so obviously we couldn't have me
+echoing throughout the entire stream so
+we just went back to Skype because we
+were running late because we were trying
+to get mumble to work teamspeak I hear
+good things but do you have to pay for
+teamspeak well what is it what do you
+know about it whiplash games games Oh
+whiplash games is that is a yeah I'm
+looking at a review comp which says only
+three people are in this room which is
+wrong that's well I'm I'm sorry I'm
+sorry I was distracted okay well where's
+our where's our mods team speedo
+teamspeak is free okay well then you
+know what we will look into that we will
+absolutely look into that also where's
+our mods to tell us if no well 20 place
+Pokemon mumble didn't work for us I was
+getting a constant echo
+yeah we tried we tried and and we got on
+our server we gotta you know one of
+their servers and it was just rich and I
+on there but I always heard an echo and
+I couldn't find a workaround in time so
+but okay we'll try teamspeak yeah well
+can you guys hear rich this is the
+question
+testing one two three one two three
+testing one two three okay well they're
+saying they can hear you now so that's
+good and I have turned you up even more
+rich okay sounds crystal clear now
+there's a great great crystal clear okay
+we need to go back to a save game here
+okay so space quickly used face quest
+six here we are we're right here so
+don't go left okay so oh yeah how we
+enhance your here we are in hints
+because apparently there's something in
+tea here right so let me let me try it
+now that I know that there's something
+here right there are two things oh my
+god yeah the pod seems semi destroyed
+look
+Anton II struction that's I I don't I
+think it's a glitch I don't know that
+there's even a hint for it but I mean
+there's no I mean there's no hint here
+cuz I say look at pod and it says it's
+semi destroyed right yeah oh wait look
+around pod are you sure you want to look
+at that look at look around it's not
+compute look around is you seem to be
+located in an incredibly remote area
+there is a thrashed escape pod here and
+then you look at pod and it's a semi
+destroyed right so there's there's
+nothing else here I tried looking at pod
+I I know that but I know that's not
+right right
+look at Olin trade ground yeah Rock
+instruction yeah I tried okay look at
+ground it's quite sandy down there
+there's no hint at all for I got that's
+a terrible puzzle alright okay so what's
+the puzzle here oh wait hold on wait
+wait look I want to say look at damage I
+don't understand damage nope okay so
+there's glass on the ground there's
+glass you need to pick up look at glass
+just take get glass or take glass you
+don't see that here Oh get him right in
+front of the pod maybe that's behind it
+in front where the window is what oh
+because it was fate I can't oh I can
+okay take glass glass is now in position
+okay look at waiting no yeah that's a
+terrible puzzle there's no way I would
+have ever known there was glass here and
+you say there's one there's one other
+thing here there's one other thing okay
+what's what is it cuz obviously there's
+nothing else that I can do here like
+there's no hints you can't solve the
+puzzle if they don't give you any hints
+rich oh I'm pretty sure I'm right about
+there being a something under that seat
+but we can we can go on if you want
+after that
+hold on sir trace search pod Wow l
+decided I don't undercook a wait and go
+and pod oh no what happened was that
+what happened oh I think I was in the
+same area for too long and that spider
+drone was coming back I'm back inside
+the pod
+if you sir no I did search and it didn't
+show me glass
+you saw me search um
+their pod I don't understand your
+requests look around time you get kit
+get it
+done yeah all right sorry jack
+there is a kit there's a survival kit
+I'm sorry well how was I supposed to
+know that I know I know
+no don't don't be sorry about that that
+would like it's one of those things
+where it's like how was I supposed to
+come to that conclusion
+oh no I'm running spider bot suddenly
+you see a large black metal sphere
+falling out of the sky
+a Syrian spider drawing upon touching
+down on the planet's surface it sprouts
+legs and begins its search for you you
+recall from an article in space piston
+magazine oh Jesus Chris okay okay oh I
+thought if I left the screen yeah it
+would okay I gotta keep on I gotta move
+faster
+okay that's a fine that's fine restore
+Thanks okay
+enter pod so so now how am I supposed to
+find the kid this is the question in
+their head it's possible because I was a
+kid I actually didn't end up I don't
+know if I did you didn't read the
+manuals I was a kid or if I don't know
+where it wasn't what but it might be an
+anti-piracy thing some of these games
+had valuable information in the manuals
+now look I would read it I read the
+manual you would know about something
+that you should get if you just pirate
+the game so by the way I say look under
+the seat and it says there's nothing
+under the seat so this is just something
+I'm supposed to know okay so I took the
+kid look at it this is your survival kit
+contains a xena an Army knife and a can
+of dehydrated water dehydrated water
+that's a funny joke leave pod okay
+take glass you can't see that here all
+right I need to get in front
+look pod oh okay is you need to get in
+front of the pod and then look at the
+pod the pod seems to be seven destroyed
+a glimmering a glimmering catches your
+eye upon closer inspection you see that
+a piece of highly reflective glass has
+broken out of the pod window okay oh
+wait wait wait stop
+f5 yes save face West Oh
+six no of 707 see I want to do nothing
+but gush over this game and there's
+something that happens and I I feel bad
+well you know it's it was a different
+time
+it was a different time okay here we go
+uh let's stop here let's look around you
+are at the southwest edge of a meza it's
+very desolate here great doo doo doo doo
+doo doo doo doo walk in is to walk in
+walk in by some rocks gonna keep walking
+nope and I'll look around there might be
+a space you get through down a little
+bit oh right
+that's actually that's a really weird
+thing is like the mixture of real
+controls and typing controls yeah yeah
+look around you are in a desert cliff
+area there is a natural land bridge in
+the distance ooh
+bridge is probably important bridge is
+quite unique natural formation carved
+out though eons of the elements it does
+not appear to be accessible from here
+okay
+well let's go that way then let's go
+towards the land bridge oh wait can I
+climb over here can I climb these rocks
+there's probably a ramp somewhere
+there's more screens you can go to yeah
+oh okay I want to see if I can go over
+here and like Lime Rock you cannot climb
+the cliffs or rocks okay that's good to
+know
+then let's go this way doo doo doo doo
+doo oh there we go
+easy peas going up the ramp yeah oh no
+that's fighter droid and is here running
+away suddenly yep
+okay run run run dude it to do getting
+out of here look around
+oh no the spiders Royden damn he's down
+there I don't think I can get at you I
+think you're safe oh good
+we're following a path okay yeah get out
+of here spider droid goddamn spider
+droid always up in my biz what's neat
+though I like the spider droid mm-hmm
+yeah but he's all up in my business role
+and bridge yeah okay oh oh oh no there's
+some plant lifes underneath me Oh No
+okay I'll save base quest Oh eight
+there's some it says there's plants
+underneath me rich I might have needed
+those plants Oh a crack formed in the
+bridge look at bridge I think you can
+only walk over at a limited number of
+times sure that save is important okay
+Rock there's a very large rock on the
+Natural Bridge look under rock pick
+Barack leave the rock alone okay I'll
+leave fine that's fine
+what's over here not much
+do-do-do-do-do going over here Oh a
+spider you seem to be safe seem to be
+safe know that spiders probably there
+for a reason right well to keep me
+moving right yeah we're back in the area
+where I don't quite remember all the
+puzzles so yeah that doesn't flow seems
+to stretch to infinity okay
+looking around Oh anything going behind
+a thing there are some things i
+generally remember some things I just
+don't
+sure sure sure
+oh here's something you are high atop a
+rocky plateau near two halves of an arch
+the desert below seems to stretch into
+an infinity let's go look at that arch
+that's definitely definitely oh my god a
+secret portal rich a secret portal we
+are underground it happened it happened
+look around this is one end of what
+appears to be a large cavern the only
+way to go is to the left there is a rock
+nearby oh they like rocks apparently we
+got to go look at that rock hold on look
+at Rock it looks just like a well I
+don't pick up rock done okay
+you have rock I have a rock now great
+okay here we go or walk in shit look
+around this is another large chamber in
+the uh no I need to save there is
+there's a path on the back of the wall
+which is not accessible from the bottom
+good instinct yes it's quest Oh nein
+okay now I'm not gonna walk over this
+great I will tell you that you shaved
+right there okay look at at first yeah
+try not to die right the great is made
+of metal and seems to be fastened
+securely to the floor it is too dark to
+see down through the grate there is
+however an odd smell emanating from down
+there
+all right well let's walk over groan oh
+god you've been snatched from existence
+by a tentacled beast lurking beneath the
+great you feel the painful sting of
+digestive fluids thank you for playing
+space quest that's my favorite part
+yeah wow it's just like yep you're done
+now restore Oh nein what what can we do
+to get past this monster well obviously
+we take the rock right that was our most
+recent get it's not necessarily the most
+recent good the solution to these okay
+how do I so we have the cartridge a
+gadget the glass an Army knife a rock a
+keycard dehydrated water and a survival
+kit so my instinct is to like throw the
+rock to distract it but we could also
+use the glass maybe it's reflective know
+that would happen let's throw a rock use
+what's that what's that vent on the
+other side - I don't remember the
+solution I'm not guiding you really
+don't let's see here there's a path in
+the back wall that is not okay um look
+at steam I'm not close enough look at
+rate there's an odd smell emanating from
+down there so we know there's a tentacle
+monster I'm gonna use rock
+that is currently not one of your
+options if you try something you might
+want to be more specific about what you
+sure that I want to throw Rock silly
+human that would not be helpful well
+shit how do we get past the tentacle
+monster oh can you can you walk in a
+different spot of the great yeah maybe
+if I walk down here nope nope yeah be a
+bit sharp you've been snatched from
+existence by a tentacle monster restore
+okay okay let's think about this rich we
+have glass we have a rock we have a
+survival kit we have dehydrated water
+mmm
+no be here use water that's not
+currently one of your options cartridge
+a gadget a gadget is like a translator
+we have the glass we have an army knife
+rock keycard dehydrator water survival
+kit hmm
+Roah rock at steam I don't know
+Oh bro rock at em say what okay that's
+not it okay that's not it
+so the path is not accessible Oh 100
+maybe if I get all the way up on it no
+whoa oh okay that's how that was thing
+that's how you do it that's how you do
+it it worked
+thing worked great okay look at steam
+there is a geyser cone here and it is
+rhythmically spewing hot steam so I
+could probably put the rock in there
+right put rock on steam punk oh there we
+go that's weird
+Oh what was that
+what's drip oh that's like dripping
+water that's worried look around this is
+a slightly smaller chamber in the
+underground complex there is a path
+above which is not accessible from here
+there's a pool to the right on the right
+side okay let's go to that pool
+look at pool you gaze intently at the
+purplish pool of liquid the first real
+sign of moisture on the planet the pool
+seems to have no bottom but gentle
+dripping has a soothing effect on your
+frazzled nerves okay
+you know what we should do what we
+should probably save yes this crest ten
+okay okay
+so obviously it's liquid so use be
+hydrated water oh I can't spell
+dehydrated the hide hated
+but water how would you like to do that
+would it water pool that does not
+compute okay that's fine can you get the
+water water you have nothing that could
+successfully contain the liquid ah
+so maybe this is a comeback - it might
+be ed my leash there's a lot of thing
+there's a lot of comeback dudes in these
+games chair what I just wanna see what
+happens if we splash water I don't
+understand splash okay all right that's
+fine drink drink what oh my god that
+would kill us right well let's see what
+happens probably drink water are we
+saved nearby yeah you place your lips to
+the nozzle and draw a fluid not a very
+reasonable facsimile of water is
+released slowly while tasting slightly
+terrible it quenches your thirst at
+least for the time being
+oh no I think I drink my dehydrated
+water drink water drink a pool they want
+okay okay
+drink water from pool I don't understand
+your guys okay well hopefully we don't
+need air okay let's get out of here
+I think there's an exit over here yeah
+that looks like a cave yeah let's go
+back here let's go back here spaceman
+or not
+mmm I try going to your lips Oh God
+oh okay nope up where am I
+you're behind that rock it's gotta be a
+thing back there you would think there'd
+be a thing back there you can't go all
+the way to your love I don't know where
+okay come on I'm just walking to my left
+now nothing's happening oh jesus oh
+Jesus Christ that is loud so hold on we
+have to turn that sound off for a second
+cuz that's annoying f2 f2 oh god that's
+terrible that was a terrible sound okay
+sorry everybody about that um okay so
+now oh here we go I know what to do here
+the first we look around you are in a
+large room in the cavern there is a
+pathway above at the south end of the
+room are two odd-looking units emitting
+beams of light use glass on beams oh say
+what okay never mind try to get closer
+look at the beams seemed to form some
+sort of electronic a barrier across the
+path glass beams they want keep keep it
+simple just try use glasses you confuse
+it when you when you elaborate sure oh
+yeah you're right that works okay okay
+you have quite cleverly turned the beam
+upon itself frying it to inoperability
+sweet right alright now we can turn the
+sound back on good thing for that for
+that sweet blipping and bloopin that's
+what we need some sweet blipping and
+bloopin action
+hi we're on the path now let's go doo
+doo doo doo doo doo doo doo doo doo doo
+doo - Doo Space Quest
+we're play space quest it's the first
+base quest and I'm walking in okay Oh No
+what acid water ah damn it
+when did we save last well I guess we'll
+find out now so hopefully now okay we
+got a that's okay we're not too far away
+oh you know what I think this saved me
+from drinking the dehydrated water no
+good okay
+quest we are playing space quest where
+things can kill you at any moment
+oh god damn it sound hold on guys we
+know how to deal with this look at beams
+just use glass you can't get closer
+okay jesus H Christ
+great you know what save these quest 11
+dude all right
+space quick space a space quit I don't
+know if you want to try anything game
+we're about halfway there I may be a
+little under half way are we really
+looking for short
+well I'm forgetting about a section so
+maybe a little more than that maybe
+group
+okay Oh cut damn it hold on thank you
+for playing space quest how do we get
+around these acid beams
+this is the important part
+in a survival kit I don't think that
+would help us though
+if only we had an acid umbrella
+the edge is very important
+you
+okay hold on we're gonna go over here
+look round
+thanks s on a pool or right-hand side
+look drops oh wrench yeah we lost it
+what what happened we lost the stream
+you lost the stream no other people
+saying it froze
+oh well then hold on a refreshing stream
+how is my audio chat if you can hear us
+the important question did my internet
+die well you wouldn't be talking to me
+if it died
+sure okay no now the stream should be
+back saying I'm good
+someone did okay one person thinks I
+sound good okay good okay okay good good
+good alright we should be able to see my
+mouse waving around if you can see my
+mouse waving around then we know we've
+done good I'm refreshing the page now so
+I'll tell you in a second okay
+yes okay I see okay great
+so now I need to figure out how to get
+around the ass the dripping acid water
+this is my spring sorry can you screen
+share with me again oh yeah yeah we're
+not screeching sure hold on a second
+pause pause in the game screen sharing
+with rich where are you right here and
+then we go like this go like this and we
+go like this okay
+we are screen sharing all right all
+right back in here I need to figure out
+how to get around these drips rich tried
+timing I don't owe in Siddhant only just
+out of curiosity we did the disabled was
+after the water drinker before do we
+have the dehydrated water stole I'm just
+curious
+we have the dehydrated water okay okay
+but you think this might be just a
+timing thing
+it might be I don't recall this is one
+of those things I just don't remember
+the answer to some of these processes
+sure nope you got further than you did
+I did get further than I did yes all
+right I think it's gonna be annoying
+yeah okay is it just one of those things
+it might be I'd save right there
+right try and do it okay we're gonna
+we're gonna make a new space class 11
+safe in which we are right there yeah
+thank West okay here we go here we go
+walking death 13 jag zero yeah yeah yeah
+Savin great
+all right we're saving right here then
+we'll just wait for this one trip to
+drip and stop and then wait for the
+other one what a pain in the ass
+nope damn it too close too close that's
+okay well no we're right here now so
+it's okay they were right here then how
+does it work drip drip drip yeah oh oh
+it's got it has like slightly different
+timing can I'd like go back here you can
+probably stop between them chair
+and
+save no I got this I got this I made it
+I made it I got it now I'm with it
+here we go let's look around
+another large chamber there is an
+underground complex oh it's a pass it
+back but you know what we should do we
+should save
+we should save now that we're through it
+new Space Quest 11 save great cuz
+nothing much happened okay here we go
+walking around one drip and it's all
+over that's right people
+that's this a lesson of life right there
+Oh as soon as you enter the room when
+you find yourself surrounded by darkness
+suddenly you become aware of the fact
+that you cannot move or speak
+a strange unknown force has taken over
+what oh my god a massive holographic
+image appears before you you sense that
+you are the only life-form in the area
+the geogebra is of sig figs
+ciao willful Zek we called 11e while
+firms revering
+oh okay check didn't didn't you find a
+translator you're totally right can i I
+can't type anything yet
+Oh No I can't type oh here we go because
+of your inability to understand the
+aliens language he has sent you back to
+the surface
+Oh No Oh what reload just reloading
+urine reload nerd rather than going
+through all that shit again yeah yeah
+dreams and we're reconnecting we're here
+we're here
+yeah that's weird
+yeah it can't be your internet because
+you're still able to talk to me ya know
+it's maybe it's just the twitch servers
+are acting funny tonight okay hold on
+look at translate or written on the
+electronic gadget are the words dialect
+translator on one end is a dial and a
+light currently dim dial huh turn turn
+divert yeah yeah turn dial on
+anslee or you turn the dial to the light
+the to the right the light begins to
+glow fucking thing now yeah great
+as soon as you into the room you find
+yourself here here we go a massive
+holographic image oh we've been here
+before
+so you have found your way to my
+hallowed chamber I have been monitoring
+your travels on our planet it appears
+that you are up to the proverbial s to
+tarry well without a means of locomotion
+what
+of the creek without a paddle you are
+obviously in need of transportation
+let us see if you are worthy of our
+assistance
+okay okay I'm worthy I'm worthy on the
+surface lives a beast called oriT he
+proves to be a bit of an annoyance on
+occasion dispose of him and bring back
+evidence of your conquests only then
+will I deal with your plight good luck
+strange one okay okay
+rot so we need to kill alright okay I
+can only assume that's the sand worm
+well let's get out of here so we go back
+down here oh wait a minute I should look
+around nope okay huh say insane and save
+you're right you're right you're right
+these West twelve okay
+we've saved you you you you you're not
+looking at the chat right I'm not
+looking at the chat what oh no it's
+tread
+damnit
+we saved you have traveled a long way
+only to die by carelessly stepping to
+your death what a clod you know what did
+we talk about during the Zelda episode
+older games do not hold your hand mm-hmm
+Jesus yes we saved we just saved okay so
+by the way in this game you can step off
+the ledge which is good to know all
+right
+oh we're back at this rock and cliff
+thing wait oh wait spider suddenly you
+see a large like yeah okay I see the
+spider droid well I think we're gonna
+have to kill him yeah yeah otherwise by
+the time you get off this this this ramp
+this ledge derp I tried to yell at him
+that didn't work oh wait he's coming
+this way
+can i push the rack I have it all queued
+up if he comes over here I'm gonna push
+the rock on them okay ready
+here comes there comes come over here
+come over here ready now oh my god I
+totally got him as exciting it was
+nothing
+no no uh by the way cuz I know they're
+telling me what to do I knew that I mean
+that rock was obviously important right
+I am no I I can because I know they're
+just gonna tell me what to do and we
+can't do this what are you talking about
+there's a rock there it was the only
+place there was a rock and it made
+mention of the rock that was those
+obvious all right now I'm walking oh I
+should have saved oh jesus thank God I
+didn't die
+save no right Dave now oh all right
+we are now in Space Quest 13 here we go
+that stupid spider droid all right here
+we go
+here we go exciting things are happening
+win this away we need to find rot no I
+always there something over looking
+around okay okay you are following a
+path on the side of the cliff it's here
+yeah no it's there's nothing here
+unless there is I don't see anything
+okay okay I'm not you know what I'm not
+gonna worry here we go here we go here
+we go here we go
+I guess I haven't been that way so I
+should go that way maybe who rots over
+there I have a knife okay this way I go
+dude pretty sure he's not the same thing
+that ate you okay oh then I'm going this
+way come here who wrought you sons of
+bitch
+okay there's the there's the tower thing
+let's see what's this way to do oh no
+this is gonna be another scene where
+wasn't it probably okay we don't want to
+go there then let's see what's over here
+oh the heat is causing you to develop
+quite a thirst drinking of water is
+certainly most pleasant oh okay great
+hold on I know what to do you uh drink
+water
+yes great all right I knew we were gonna
+need that right isn't that's it like
+that's an adventure game thing is you
+need to use all the things if you have a
+thing eventually you'll need to use it
+okay walking this way
+what's over here what's over here oh
+nothing come on over I way what's this
+that looks like something look around oh
+it's a rather bleak environment whoo
+here we go these plants I think it
+mentioned these plants before I remember
+this I remember this look at plants it
+looks a lot like spinach okay I mean
+plant you tell
+off a piece of the plant okay nice no no
+if you eat it you probably dies all
+right Ryan
+oh now can I look and plan it's a plant
+you are not familiar with oh great so
+what if you rot is the sandworm and you
+have to give it the plan well you want
+to try doing that Jack I should say
+first is that what you're saying you can
+I'm pretty sure that we're at is not the
+same thing
+well then I'm gonna save but you should
+always say always save always be saving
+unless it's right before you die you can
+fuck yourself over sure all right let's
+go over here has rich won the boss fight
+against the coffee look I told you guys
+and I get sick that coffee last month
+and it did it did yeah I just died oh
+did the war meet you that were made me
+okay okay luckily though I just saved
+right before this okay going back not
+good okay so move on so who rots around
+here I thought I saw a cave I asked you
+stop okay yeah I think the rocks right I
+think that's a cave okay let's go over
+there
+you think that's a cave I guess it could
+be it looks like there's some curvy
+things in there a different color it
+looks like an entrance you don't remove
+these things over here oh I'll try that
+one screen okay going up going up that
+looks like an inn you see where it's
+dark and then the lines are over here
+yeah that's not very clear but okay yeah
+I mean you're right oh go oh who run oh
+come on
+look look how far I got by the way use
+pull who Ron has transformed you into a
+new source of recreation you of course
+don't survive this treatment gosh darn
+it
+thank you for playing space quest okay
+going back yes yeah it's good we know
+where he is I just need to press use
+plants faster if it is plants or maybe
+it's knife I have a knife yeah look at
+your inventory think about what you have
+all right well let me get closer first
+I'll save to save us from walking
+because I'm gonna die again good that's
+how it works
+Oh probably I'm glad you have such
+confidence in me okay
+here we go the caves of all rot we are
+here at the caves of ooo rot alright
+save and you might you know what
+whatever you want to do you might want
+to have it typed out and ready to go
+before you walk into the cave can you do
+that
+yeah oh my god okay we have if you hit
+ever - it also redoes the last thing
+you'd like oh sure okay we have a
+cartridge with a keycard dehydrated
+water Army knife gadget glass plant
+survival kit alright use plant is what
+I'm gonna say here and we're gonna see
+if that works
+how do you save yeah okay would you like
+to do oh crap exit the cave and fry
+again sure nope get out of here okay how
+do you spell over odd is that ORAC 18
+okay you rot plant okay let's try that
+but you want to do with a plan shut up
+is what I want to do with the plan that
+does not compute god damnit what have we
+here oh and yeah and he's killing me
+what do you mean that does not compute
+you get us you're trying to give this
+violent coniferous monster and plant yes
+nothing about that computes and well I
+have a plan rich nice yeah
+you trying to kill the monster with a
+plant I just don't understand you jack
+cuz I thought maybe he was just hungry
+and he wanted it planned hold on look at
+knife this is a handy-dandy
+yeah see I can't you can't kill anyone
+with this knife yeah yeah I am rich hold
+on survival kit um look at yet rival kid
+it's for my container Xena I'm a knife
+and I can't even have you oh so it's
+just an empty container that's do we
+have your dehydrated water I mean I'm
+gonna go out of my way not to give you
+any help here jack don't give me any
+help here well I'm not any hope what can
+I do here I mean I could I could whip
+out the knife but of course yeah he'll
+just like laugh at me I mean I could mix
+the plant and the water inside the
+survival kit to make a soup and maybe
+that's what he wants
+maybe he hasn't want he doesn't want
+just a plan he wants a soup and sews
+like maybe that's it
+you're gonna mix a plant with dehydrated
+water I listen as a suit you can throw
+that you could try that I could but I
+could do that okay hold on okay I'm
+trying to
+how can type us out now like it's
+obviously not just used knife it has to
+be like use knife on errata or something
+you know slash gujrat with knife try it
+not slash right I'm not telling you
+anything that wouldn't work so okay i'm
+gonna happen I'm out of the loop here
+this is Jack it's fun adventure puzzle
+time exactly okay I'm just gonna try use
+knife and see what happens
+oh wait no what actually I should look
+around first the knife wouldn't cut hot
+and margarine oh good Hughes I'm gonna
+here's what I'm gonna do
+look around so I'm gonna go in there I'm
+gonna look around and that'll buy me
+some time you are in the sly Mia stuff
+calves the odor in here is less than
+desirable I'm gonna slimy cave and the
+odor is less than desirable okay well
+that doesn't any good this wouldn't help
+you ultimately but you could go in and
+just have already look at or add see if
+that'll tell you anything I don't know
+that it will because this is not a hint
+I swear sure Oh rat is huge and ugly of
+course your opinion may differ depending
+on what part of the university who come
+from it should also be mentioned he is
+quite mean well shit getting out of here
+okay okay big and ugly and quite mean
+mm-hmm and don't look at chat and I'm
+not mean oh my in fact I've closed my
+laptop I can't I can't look at the chat
+even if I wanted to okay so they've
+already looked at the walkthroughs
+they've already given up of course of
+course listen this is a game people this
+is the fun of the game
+so here's um we have the glass right
+here's me thinking outside of the box we
+have the guy
+and it mentioned that erat was ugly so
+what if I used the glass to reflect rotz
+image on himself use its can't ya use
+glass we'll try that okay ready
+use glass what would you how would you
+like to do that oh god damn it look chat
+I don't care if you looked at a
+walkthrough or if you remember it from
+when you were a kid it's still spoiling
+it for ya
+either way it's the same rot wait how do
+you spell true right again eighty or
+eighty all right show a rat glass this
+is what we're gonna try and Joe or a
+glass Oh nope doesn't understand Oh
+goddamn it
+alright nevermind yeah yeah okay no
+that's fine now you know what that was -
+outside of the box and I knew that I
+knew that going in so we got a plant we
+got a survival kit okay here's what
+we're gonna try yeah use knife on plant
+say what nope okay what plants in it's
+like can we combine things say what is
+is there combining of things to be done
+sometimes I don't know there is in this
+case okay cuz I have a kit and it's an
+empty kit they used to have dehydrated
+water and a knife in it but now it's
+just an empty kit but that I mean that
+could be nothing
+you know just finding it was I'm not
+gonna say anything until you asked me to
+know and all I'm trying to do now I'm
+just trying to like kind of the show a
+math you know I'm trying to talk you
+through my mental process here it's like
+I've already used the glass so are we
+ruling out the glass is something useful
+right that's the question
+the knife is the knife useful but no I
+mean obviously
+I won't work on him because we tried
+that and it didn't work what else do we
+have
+we have cartridge a keycard a gadget a
+glass a plant a survival kit Army knife
+and dehydrated water mix water I don't
+understand mix use water on that plant I
+don't understand your request okay um
+look at knife Indiana Xena an Army knife
+so it has different things in it and has
+like a can opener come on come on brain
+hola we're just gonna look around around
+the slimy astakhov's oh wait hold on
+okay hold on pick up slime I don't
+understand slime come on
+I mean this slimy cave you jerk
+okay plan this is and yeah this is like
+this is the problem with these types of
+games is usually like it especially
+something like this it's stuck you get
+stuck and it has to be something very
+specific it has to be exactly what the
+developers wanna say yeah and so like I
+have a I have the gadget but I can't
+imagine I mean I've already used again I
+guess I could yell at a rod do you think
+that would work if I yell at say what
+notebook it
+nope oh wait I'm gonna try looking look
+maybe I missed something with with what
+looking at who Ron was okay blue rod is
+huge and ugly course your opinion may
+differ depending on what part of the
+universe you come from it should also be
+mentioned he is quite mean mm-hmm
+over here nope nothing nothing
+okay I thought maybe there's like a
+different part of the cave I could go
+into okay okay what can we do here rich
+what can we do here I know and it's it's
+tough because he can't give me any clues
+I know I know I'm being completely
+silenced till you ask for something you
+know hints or whatever right no I don't
+even want a hint because as soon as you
+as soon as you give me a hint I'll get
+it right away and that won't be any fun
+but I have the culture I have the
+cartridge but I mean there's nothing to
+use the cartridge in I asked I have the
+Army knife I have the survival kit but
+why don't you just look at everything in
+your inventory and just see yeah you get
+the idea right
+don't you like to do that um open kit
+this is your survival kit it formerly
+contained a xenon Army knife in a Canada
+hydrator order okay so that's just an
+empty container um use knife this knife
+wouldn't cut up margarine knife on the
+plant they what fake off ailment Oh Oh
+Matt right Edie naked oops
+naked I don't understand naked okay I
+might have also spelled make it wrong
+damn it rich
+okay okay
+try to be try to try to just I the hint
+that I want from you is not a hint on
+the game just try to try to give me a
+hint in in the world of text adventure
+games what am I missing here what am I
+missing that would just be a commonplace
+in a text adventure game that I'm not
+privy enough to understand you know I
+don't I don't know that I can tell you
+something like that you know is there is
+there a very ambiguous and it's simple
+am I am I missing something
+it's simple and you could do it with
+what you have on you now okay with what
+I have on me now the answers are in your
+inventory the answers are in my
+inventory okay yes great great great and
+you you have not been close yet well
+yeah okay here's what I'm gonna do okay
+I'm gonna throw my knife at him okay
+here he comes oh not yet no you run away
+here he comes and throw knife the knife
+wouldn't cut hutton margarine no no were
+you hoping he might die from him an
+infected bruise yes yes I was yeah bro
+glass is all we're gonna try next
+that does not compute no okay all right
+I mean well what what else have oh come
+first of all I typed that before you
+subscribed I want it noted that I typed
+that before you subscribed
+I want that noted for the record books
+you son of a bitch you plant your teeth
+into the strange plants and take a large
+bite only to fine to taste exquisitely
+bad if you had your choice you would
+choose any other form of death over the
+meal like this Oh does that kill me no
+oh wait do I still have the plant now
+what why do I have the plant wait a
+minute you do still have the plant I
+mean I ate it but I still have it yeah
+okay so they're getting that whole thing
+got you off-track it did what did that
+plant thing well oh damn it it got me
+off
+well great don't subscribe with the
+answer people or else I will turn off
+that sub learn okay
+okay I mean in in my head it has
+something to do with the plants because
+the plant is right there right are you
+asking me asking me are you rhetorically
+asking myself
+I'm rhetorically asking myself and so in
+my head the plants is right there it was
+a recent pickup it mentioned the plants
+and now we have a new enemy and so like
+using the plant I mean can I just throw
+the plant grow plants I know I mean I'm
+in a throat cake now but this is all I
+got well okay okay
+it's nope that would not be helpful okay
+this is just where I am
+I look at plant in class does it involve
+doing jump jack is just throwing
+everything he has at the problem right
+okay rich here's my question to you
+does it involve doing something with an
+item before I go into the cave like do I
+need to mix or combine an item before I
+go into the cave
+no dammit no mixing or combining no
+mixing or combining okay um I mean water
+Oh Oh rot always in the mood for a snack
+snatches up the can out of the air with
+his spacious oral cavity chews and
+swallows it he notices a rumbling deep
+within his abdomen
+did that work oh okay oh it's dehydrated
+water
+it's the Hydra oh all right sighs proved
+to be bigger than his stomach for once
+and capable of becoming history's first
+living reservoir his body succumbs to
+the intense internal pressure created by
+nearly ten gallons of instantly
+reconstituted water great excellent
+I killed ooh how are you feeling about
+this experience now do I now that I beat
+that puzzle I feel great about it but
+that took a while I know I know
+but I like I got on there I got on to
+the throwing path I got on to the you
+know we did it I'm upset that the plant
+didn't have anything to do with it but
+that's fine well you just happened to
+find it right before him but that didn't
+mean anything
+Ryan you could have found it much
+earlier you could have thought it later
+right okay I just want to make sure oh
+look look around yeah look around is the
+same thing you're in the slime use of
+caves and odor in here is less than Adam
+then desire but can I take well we need
+we need we need the proof that oh this
+looks like it might be a thing that's
+right we proof yeah this looks like
+something no I don't need to go all the
+way back only to come back here so tell
+you that much take chunk you reach down
+and take the or a part in your hand as
+some of it eases to fill the space
+between your fingers great okay we got
+the chunk to be to be fair check that
+wasn't that that was not what that was
+not the best adventure game puzzle the
+throw the water at all right yeah
+oh no no you know that's well well I
+mean you know it that was that what that
+was something that we got earlier
+right we got that yeah with the knife
+and and it's an unusual bit of thing to
+do not it's not a brilliant puzzle
+because it didn't give you any any clues
+right the best puzzle kind of gives you
+ambiguous clues then you use your your
+mighty your mighty brain to figure it
+out yeah that was more trial and error
+use that all the things we have on all
+the things we have until one of the
+things we have works but I'll take it
+you know what I should do I should save
+great great all right here we go here we
+go we're a walk in each plant you
+chatters thank you each plant for
+subscribing I do I just also think that
+it's comical that I typed in each plant
+just as as you were trying to fake it
+give me that hint oh I think I only have
+like one more walk across this bridge I
+think you do
+yeah okay here we go doo doo doo doo doo
+doo doo doo I love his walk cycle like
+his sideways walk cycle oh yeah it's a
+little derp and it's my favorite look
+you know the characters a little derp
+yeah he's he's a space janitor and I get
+in through the secret entrance over here
+no no that would be nice that would take
+me right to the head now I got to go
+through all the jams again hey you
+already know how to get through the jams
+they're already taken care yeah I know
+fine yeah you know what this is rich its
+filler that's what this is but it's fine
+this is I want to I want to say the
+technical term for this is back tracking
+going through a previously explored area
+for the sole purpose of extending the
+time of a game still a fun experience
+this is the sound effects that would
+give this terrible I know we didn't
+really watch the the video game awards
+uh-huh
+but somebody sent me a link that Ken and
+Roberta Williams were on it they are the
+people who actually founded Sierra the
+company okay
+married competent married couple who
+just made King's Quest and kept making
+other games and made money at it and I
+was really happy to know that they're
+still together you know they're probably
+like divorced and hate each other by now
+team started the company together yeah I
+wonder how much they hate each other but
+no I saw a little clip in YouTube they
+seem very happy stole my heart oh that's
+good
+that's good no you know it's it's all
+fine I have not seen anything of those
+video games orders except for I mean I
+did watch the new Zelda footage and you
+know it looks a lot like the old Zelda
+except with the horse yeah I mean it
+looks great you know looks pretty it
+looks next to Jenny and they were just
+talking about how like the horse makes
+it so you don't run into trees
+who gives a shit I will be excited if
+the open world is one large open world
+and not a series of like you know
+largest rooms with one or two who enters
+and exits mmm like the entrance to
+Hyrule Field and Hyrule Field is just
+like a big area so it's just like an
+open giant fucking forest and fields its
+turn into deserts that'd be great yeah
+that'd be great mm-hmm I agree with you
+if it if it's more open if we can do
+things out of order oh that's right let
+this thing
+and no chat I did not see any of safe I
+did not see any of the the the no man's
+sky videos from the VGA that was the one
+where you could like take off alien
+planet fly to another alien planet and
+right get out yeah what did save right I
+did save what I was in between okay all
+right we got it this time we got it I
+got through no I don't I don't care for
+that for that kind of hype I don't care
+for that kind of advertisement that's
+all it is it's an advertisement you know
+what it is there's someone's a few of
+the things they advertise I'm interested
+in but Jer and this is some some more
+shit from Arkham Knight and Oh God
+not it looks like the terrible Batmobile
+the game yeah
+okay I'm back at the head so you have
+returned fortunately there is much more
+to you than meets the eye
+but before me your proof of yachts
+defeat for my inspection show what is it
+called again gujrat part okay
+drop rod part you drop the rod part to
+you the ground the vision is silent you
+are startled by a rumbling and suddenly
+an oddly shaped door comes into view
+you hear voice different this time
+beckoning you to step forward
+doo-doo-doo-doo by on his floor well he
+told me - oh oh oh it's very oh the
+Wizard of Oz is here please don't be
+alarmed we intend no harm we are a
+peaceful race we are cautious however
+others don't share our way of life
+welcome to Corona you are standing in
+the power generation facility of our
+underground settlements all power here
+is produced by steam this is unimportant
+to you however we have promised you
+transportation great it is a skimmer it
+hovers approximately 1/2 meter above the
+traveling surface this is very important
+because of growl Oh surely a worm growl
+and is like dwell in caves below the
+sand if you stand on the surface too
+long you chance to become Righton the
+skimmer is programmed to take you to a
+settlement on the other side of Corona
+called Uhlans flats you can make further
+travel arrangements there I'm sorry this
+is all we can offer I hope your trip
+save great look around this place is
+most interesting indeed a mixture of
+both old and new technologies
+
+[Part III]
+long is happening with my internet right
+now and I don't know what the answer is
+also we still need to get me Internet
+around well let's make sure we get the
+let's make sure we get this stream back
+tell me when the stream comes back yeah
+yeah it's automatically reconnecting I'm
+refreshing what happens when i refresh
+freshing yeah I'm gonna say we're
+halfway done now we're halfway done now
+what Jesus Christ I don't know if we can
+make it all night
+no might have to make this a two-parter
+finish up finish yourself on Wednesday
+this is May we can stream space what's
+one from your new computer
+I know we should do that Blood Dragon I
+said I made a promise ok the game was a
+game was purchased for me
+oh ok well how about this how about this
+how about we have a special stream I
+thought we have a special stream later
+on yeah that's what um cuz just cuz it's
+getting late and if we're only halfway
+through yeah I mean we should finish it
+up well I mean let's figure to figure
+out this and then while we'll talk about
+when we're gonna stream acts the council
+consists of a monitor and a cartridge
+slot Oh a cartridge slot there are also
+some readouts which indicate the status
+of the mechanisms and great ok so you
+know what we do then we save that's what
+we do here ok
+and we'll leave it there we will leave
+it here and we'll put a cartridge in the
+slot when we come back and perhaps we
+can come back tomorrow night well
+there's there's a probably a better
+stopping point just a little ways ok
+like a natural break point coming up
+yeah but it's a lot the cartridge snaps
+and neatly into this
+and the screen comes alive whoever shall
+read this my name is dr. slash da hua
+I'm a scientist with the star generator
+project Barbie star lab Arcadia we have
+just successfully completed development
+and testing of the star generator during
+this time I have come to believe that
+our progress has been monitored by
+others I fear that the sari ins may have
+learned of our mission if my fears
+proved true the star generator and the
+people of the universe are in serious
+jeopardy the star generator is a
+miraculous device use as intent used as
+intended
+it will help preserve life for eons to
+come used as a device for evil it would
+only cause the destruction of millions
+of lives and enslave all those who
+oppose cesareans
+encoded with this cartridge are all the
+plans and specifications for the
+construction of the star generator
+should any disaster befall the star
+generator project scientists would be
+able to create a duplicate of all the
+star generators with this information
+please guard this with your life return
+it to the Zeon ruling body as quickly as
+is possible
+yeah oh oh all that happened before this
+it was just prologue his important note
+of the star generator is capable of
+self-destruction this was introduced to
+the system as a precaution to activate
+it once bubble wha oh wait we need to
+remember that code six eight five eight
+wait save that right why don't you save
+a game and then call out six eight five
+eight oh that's a good idea this was a
+self-destruct this was into 685 eight
+okay a five-minute timer will begin to
+countdown beware anyone within five
+kilometers of the star generator will be
+in danger once the timer has been
+initiated please be careful and good
+luck six eight five eight I'm gonna
+write that down as a notebook I'm gonna
+physically write that down because we
+know jack
+of course it's going to come up and this
+is what you would do back in the day you
+would write down no I'm not reading the
+check that I'll see you guys taking
+numbers six eight five eight six five
+code destruct code okay
+so it was that the natural stopping
+point or is there another one okay okay
+get on thing get on I don't understand
+got the vehicle they gave you they want
+yeah what's it called I think I'm her
+yep there we go mmm-hmm okay go way the
+chance saying something that that yeah
+did you take the cartridge did you leave
+the cartridge behind and I left the
+cartridge behind cartridge you're
+probably right that probably would be
+important you you wisely retrieved the
+cartridge from its slot Thank You Jan I
+will stop you from doing mistakes when
+you can't go back and correct them and
+so that by the way this is the thing
+like if if we would have left the ship
+without the cartridge yes that would
+have been the entire game yes and if you
+were playing this for the first time and
+didn't know to do that you would get to
+this point you would get hours into the
+game what are we now we're six hours
+we're six hours into it much quicker
+once you know the solution sure oh not
+six hours we're 6 and
+minutes live what were hours into the
+game and yeah you would have just been
+like well I'm fucked now okay okay
+earn on look at as described it is a
+sand skimmer and looks like a skimmer
+quite a bit of this Oh God come on and
+looks like it has skimmed quite a bit of
+sand in its time on it is a panel which
+has a small readout currently dark and a
+keyhole with a key in it great
+earn key you turn the key and suddenly
+the jet turbines begin to were the
+skimmer begins to shake beneath you as
+its platform slowly moves on to the
+launch tube you can't help but wonder
+what you've gotten yourself into this
+time as you hang on the skimmer rises
+slowly to the surface of the planet via
+the secret passage how are you enjoying
+this Jack I am I'm enjoying this quite a
+bit this is fun this is really fun um
+not quite I will say this I had a little
+bit more fun with just the text yeah
+yeah at some point okay I'm okay with
+this upon reaching the surface you
+throttle up and zoom off into the sunset
+I figured this might be better for a
+stream cuz you know those visuals yeah I
+know no by the way absolutely I think I
+just want to play Zork on my own yeah I
+got a I got an app there's this app I
+got a I got an iPhone app called um well
+I'll tell you what it's called after
+after the stream I started madly like
+looking for text adventure a blurs and
+there's an iPhone app called froths RF
+otz and it's it's like a people submit
+their own text adventures and so it's
+like a user-generated text adventures
+and it includes stuff like those or
+canned and the classics yeah that you
+can just play on your iPhone which I'm
+very excited about
+the settlements the alien spoke of
+appears to be on the horizon oh god I
+need to
+I can go back and forth yep do it can I
+hit a rock yep
+oh I don't want to do that no mostly
+because I didn't save Oh No what's the
+number one rule Jack oh my god
+damage is moderate now rich the damage
+is serious now rich the number one rule
+is save I know
+you could probably do it now no no
+there's no there's no proms
+now situations critical rich
+Oh No Oh No
+this is okay this is my twitch gaming
+right here this is my
+this is where my hyper chiton I died
+Chad says no that's podracing ah darn it
+thank you I was gonna have you thank you
+for playing Space Quest it's gonna have
+you stopped after this section but if
+you want to stop now but you didn't save
+I'll understand we'll get to the damn
+point hold on all right take cartridge
+wait did I save what do I have it with
+me already yeah okay I have the
+cartridge that I read use it at all
+I don't know how do I know do it again
+yeah
+just skip the the dialogue squeeze you
+can just a case okay great
+as long as you have that code it might
+not matter but just in case it does a
+cartridge okay I wisely remove the
+cartridge from the slot okay oh you know
+what I should do I should save these
+first 19 you do get on em er
+turn-key urine key I earned for the
+Yorkie here we go here we go mm the code
+changes I don't remember that oh my god
+it's been many years but you know what
+this will be saved on YouTube even
+though I went bad that I just clicked
+buy all the stuff really quickly freeze
+frame I will freeze frame that on
+YouTube later you have outsmarted the
+trolls because I don't think that code
+changes okay
+goddammit I've hit two rocks already
+rich Oh what the fuck jack this is tough
+Oh three rocks okay I think I can hit
+one more rut nope
+okay I can hit one more rock and then
+we're dead I made it much farther than
+last time
+how do you do this this is tough nobody
+end up dead goddamn it how do you do
+that you know again you know okay yeah
+give er no er Nikki all right
+you're a quick save button a quick save
+bucket can you save it while you're on
+the skimmer I don't know
+we'll find out someone saying to slow
+down the speed of the game you can do
+that
+you actually can't do that yeah yeah
+okay I think I got it
+I think if we just stick to open okay
+Damon
+and I think if we just stick to a side
+here
+I have only had one rock so far I'm
+doing good I'm doing better Oh two rocks
+okay
+and three rocks okay it almost looked
+like I was at the four rocks I think I
+get one more Rock
+and a bit ok so what's what's this about
+the speed of the game a little many
+thing at the top because I can't I'm
+watching the stream now because ok that
+call think I disconnect oh that's right
+ok hold on I can I can I can do this ok
+hold on
+I get on scammer earned e alright and I
+was able to like it to a save menu here
+ok
+oh yeah speed is now on slow alright
+alright
+using mode coming up easy oh my god yeah
+this is
+this is much easier and I still hit a
+rock all right great
+I think there's something that people
+might not realize this moving is really
+weird to move left you press left but
+then - okay into rocks but then to stop
+moving left you have to press left again
+or you just move right - automatically
+you know
+and so that's a little more difficult
+that's like that's weird movement are
+they random are they the same every time
+that's a good question
+I have not been paying attention
+I'm hyper focused now rich
+stay focused and we'll try not to
+distract you too much
+except for when I distract you by
+talking like I am now oh my god rich how
+dare you
+100 are you
+okay
+jeez
+okay we're doing it
+we're doing it oh god damn it I hit
+another rock
+even in slow mode I'm hidden rocks okay
+I'm sure you can save even during this
+racing part
+yes
+yes I can I'm saving okay just don't
+save right before you're about to hit a
+rock and you'll be fine right
+okay focused focused on not hitting
+rocks
+okay so I'm not hitting rocks
+don't hit a rock
+don't hit a rock I didn't hit it I
+didn't hit it yet
+I say yet as if I'm going to hit a
+goddamn rock don't hate it
+don't hit it bob and weave bob and weave
+well like a butterfly sting like a bee
+okay okay we're good we're good
+I apologize for this noise everyone I'm
+sure I'm sure it's lovely for you all to
+listen to
+but this is the noise this is what we
+get
+it's a little intense like the buzzing
+of our skimmer deep breaths doing fine
+doing fine I feel like I'm doing fine Oh
+whoo that was pretty intense he managed
+to successfully navigate through the
+treacherous boulder field and are quite
+relieved to see that you've reached the
+settlement also also that thing was
+supposed to be on autopilot just this is
+me just saying here after a truly stone
+crushing journey you have miraculously
+arrived safely in Lentz flats and just
+in time too because these skimmers Power
+Cell has been drained it will take some
+time to recharge itself
+this place isn't quite what you had
+expected it is semi bleak at best that's
+great so this is the part you were
+talking about all right
+Bay's west 21 boom boom
+great well then we are gonna leave it
+there for now
+welcome to Ellen's flats this this is
+great this is very Cantina yeah oh
+definitely I mean I'm sure I'm
+absolutely sure okay well then we will
+do we will do a special extra stream
+this week to finish up Space Quest 1 I
+don't know when it'll be maybe I don't
+know maybe we can finally do one of
+those early streams for our European
+viewers can't do that can't be the ninth
+I know that it can't be the ninth but
+maybe tomorrow maybe we could do one
+tomorrow night okay we'll see you know
+what guys we'll see I am dangerously
+behind on our next prereq episode but
+I'm getting far it's finally getting to
+a closed point rich which I'm very
+excited about that's fine it's I know
+it's fine but oh man no I myself a
+deadline and I'm
+did several times over need to be
+cranking these things out once a week
+Jack I we we were doing really good
+where we were getting to a month our
+first you know our first like 10
+episodes we were doing a really good at
+to a month and then we we hit a little
+wall with the holidays so and it's me I
+hit all of the holidays I'm sorry
+everybody I'm sorry but yes make sure
+everyone make sure to check out our
+Twitter and we'll tell you when we're
+streaming I think we can do it tomorrow
+night okay and we're gonna we're gonna
+finish this like something comes up with
+the studio tomorrow I'm good for
+tomorrow night so excellent well then
+yeah just check our Twitter and it'll do
+the time probably same same time around
+8:30
+well did you want to try it earlier for
+Europe boo maybe you know what the
+answer is maybe that's all I got that's
+all I can promise
+we should probably I mean we should
+Europe one at some other time
+yeah does that sure that's really sure
+that's a very short notice first okay
+okay wait so you know what we will I can
+give no guarantees out anything that's
+all that's all so I we will end now
+thank you everyone for coming out
+special thank you to all the new
+subscribers thank you to all the old
+subscribers and thank everyone else for
+spoiling space quest one in the chat
+even though I wasn't reading the chance
+so I didn't see any way haha
+it'll be you know what it'll be fine I
+just feel like no I shouldn't check like
+Twitter or anything because people are
+just gonna tweet me spoilers it'll be
+fine okay okay
+it'll be fine but we'll see you we'll
+see you tomorrow probably mine have a
+nice something-or-other
+gah gah Dios adios muchachos
