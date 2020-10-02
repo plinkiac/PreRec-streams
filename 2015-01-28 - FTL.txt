@@ -1,0 +1,3608 @@
+Jan 28, 2015
+FTL
+Part I: https://www.twitch.tv/videos/3744771, https://www.youtube.com/watch?v=2F2gx0LMiUI
+Part II: https://www.twitch.tv/videos/3747019, https://www.youtube.com/watch?v=uMv4x_2f_dA
+Part III: https://www.twitch.tv/videos/3747022, https://www.youtube.com/watch?v=5hV3aOkCxWA
+12:35pm: "Rich and Jack are streaming tonight after we film the next episode so it might start a little later than usual. Maybe 8:00pmCST" (archive.vn/RCFyC)
+
+[Part I]
+hello hello oh my god YouTube looks
+exactly the same it's crazy it looks
+exactly the same but everything should
+play a little bit smoother because it's
+not running on html5 okay YouTube you
+know the video with the video be heard
+of the youtubes rich I thought you said
+you tool you I could swear I thought you
+said that's my favorite that's my second
+favorite website is you two love duck is
+this some kind of like YouTube mirror
+that has different players oh that's
+what I thought you said no you take a
+daily quiz to find out what kind of you
+you a tulip you are but what tulip best
+represents you as a person I'm not
+excited I'm so sorry I can like you let
+me see if you tulip exists you tulip
+calm register that shit I maybe we
+should Oh somebody hasn't registered in
+POC so if we want to we have to pay out
+the ESL right we'll start a Kickstarter
+for you to look there goes our million
+dollar idea down all down the drain so
+in any case the nerd side of things
+html5 and for HTML for version 4 is kind
+of the one we've all been running on for
+the past I'm close to 20 years HTML 4
+was last updated in 1997 that's amazing
+isn't that and so websites like YouTube
+and everyone's IDE needs these
+third-party plugins in order to run
+properly like video on right sure now we
+have html5 all right and YouTube instead
+of like making the gradual switchover
+just said fuck it
+html5 is default great who wants to die
+you're jumping right in
+wants to die oh my god what
+how are you saying I am I thought you're
+just asking in general who wants to die
+other than me I mean no one's died that
+might not be true am i I'm sure there's
+plenty people who want that that color
+is so dear when cor Ellen I think Cora
+lik wants to die
+keep an eye have people sitting on a
+diet I'm typing now they want to die see
+yeah um okay so Karluk and bill bill ted
+Tetley bill Tetley wants to die okay he
+wants to be a glowing green man the
+bunch
+is there an advantage to dying as a
+glowing green man versus just dying die
+slightly that's that's good I guess
+Captain Obvious wants to die so hard
+with a vengeance would possibly with a
+vengeance okay quite possibly with a
+vengeance
+I'm also want to do a quick audio thing
+to see how we
+a little bit Oh Jack you're making me
+nostalgic for 30 seconds ago remember
+when we were talking about people
+wanting to die with a vengeance that was
+those were good times I remember exactly
+that much simpler times I remember
+exactly that you're where you were when
+we had that conversation I was sitting
+right here on the couch we're kind of
+just starting with this there are
+possibly other plans too yes do they
+involve dying oh yes I'm killing myself
+online oh my god oh my lord
+Oh already we have another pulse wants
+to die oh my god I'm waiting I'm waiting
+for someone to say they want to die
+oh my god and I missed a sub already
+working on it cinnamon oh there it is
+frosty snooze thank you for subscribing
+oh okay sorry to interrupt your thank
+you but did you say cinnamon is in like
+sinner made cinnamon oh you're talking
+to someone specifically I thought you're
+like like saying like babe earn this
+like hey man hey that's in a man thought
+you were saying cinnamon hey there sure
+all right that's fine no frosty snooze
+thank you for subscribing
+frosty snooze has been a subscriber for
+the past six months now twitch now tells
+us how long people have been subscribing
+oh that's on it and we really appreciate
+it thank you first when I see after the
+new member was Mario Mario 42 great it's
+full up so many as we as we listen to
+this wonderful soundtrack not us we
+can't hear it here but as you guys at
+home listen to this wonderful soundtrack
+you should know that been Prunty just
+came out with a new album been Prunty
+did the soundtrack for FTL I assume that
+based on the context of the things you
+were saying yes and he did the
+soundtrack for a new game called gravity
+ghost and I don't know anything about
+the game no I have already bought the
+soundtrack and listen to it it's amazing
+oh yeah yeah so this guy does amazing
+amazing work you know who else just came
+out with an album John Carpenter what
+John Carpenter made an album of what
+it's called lost themes I was just it's
+it's just like the type of synth stuff
+he was doing for his movies ladies all
+right so it's sort of like soundtracks
+to movies that don't exist and it's
+fucking awesome that sounds great I've
+been listening to it like on a loop
+while I've been doing visual effects
+after space count it's like I need to
+work these songs as temp music and space
+cop because they fit perfectly but
+they're so great
+the real Quaid thank you for subscribing
+these last three months have flown right
+by
+so is it they unsubscribe and then re
+subscribes that what's going on
+no no they you can choose whether it's a
+reoccurring thing but some people oh
+okay I don't know how these things work
+and so for anyone it might be a
+recurring thing and then we see the
+recurring okay are they I'm subscribing
+reasons I have no idea how it works is
+something you should know
+no I don't know it is your stream you
+probably don't need to know how it works
+I get a little blue bleep that says but
+someone subscribes that's all I know
+okay well that's fair enough so a
+gravity ghost by the way for those of
+you asking what type of type of music is
+it little ambience little imagine if the
+Tron soundtrack what was more chill okay
+that's what it that's what the Tron
+Legacy sound to try the Reggie's Alka
+Tron Legacy soundtrack was more chill
+okay gonna say the Tron soundtrack
+that's closer to John Carpenter than
+anything else no it's very ambient a
+little like electronics I'm like we're
+percussion mixed in there hi there
+probably like this you would very much
+like it cool
+bro I doesn't go gravity ghosts ghosts
+or the gravity ghosts soundtrack okay by
+been pretty alright Prunty
+the gravity goat the anti-gravity go
+that's what I'm waiting for it right hmm
+right
+the gravity goat I have something very
+important to talk about what the fuck
+J I don't I feel like I know it's gonna
+be a better addiction to horse semen
+rich oh ah sorry I hate to talk about be
+single soon ah Giga thank you for
+subscribing we're very much appreciated
+um know have you ever seen a show called
+Farscape
+i have not i i've I know there's
+apparently a little bit of a hub of
+going out about your
+Jax could be an asshole again I've never
+watched it so on the advice of rich and
+several other people Lisa and I had some
+time to watch a new show and we gave
+Farscape a chance and I did not much
+care for it okay watch the first five
+episodes and they're like weirdly Muppet
+creatures on Farscape just leave it
+alone with her Nitin Lee watched show he
+didn't like it now he's gonna talk about
+horrible well that's what you talk about
+it you talk more about things you
+dislike than things you like absolutes
+just the nature of us absolutely what
+but here's the real thing apparently
+this is not an OK opinion to have I
+don't know if you've been on the
+subreddit recently someone wrote a very
+long rebuttal to why I was factually
+wrong in my opinion
+oh people are very passionate about
+Farscape okay it should be it spread
+shape here's well here's the interesting
+bit about this is apparently the sci-fi
+Network and now Netflix has a different
+order of the show than the DVD oh yeah
+that's happened with some other shows or
+they don't have them in the proper order
+and so apparently on the DVD the second
+at my biggest problem is they didn't
+seem to handle character motivation very
+well like they never seem to mention
+people wanting to go home or what their
+overarching goal was okay and what is
+episode 7 on Netflix is episode 2 on DVD
+and that episode they find an earth-like
+planet and the crux of it is the main
+character talking about how he'd rather
+go home
+okay and that's episode seven on Netflix
+okay so netflix has amount of order well
+they have them in the order that sci-fi
+channel or aired them on but not
+Australian size it's a whole big thing
+okay
+the DVD is supposedly the correct order
+and Netflix does not have that order
+sorry just adjusting the mic um okay
+and so sci-fi I think I want to say
+sci-fi has a history of doing that yes I
+Phi also aired the tremors TV show did
+you even know that existent well I think
+it only lasted like a season but they
+aired it sounds like it shouldn't exist
+I've heard it's actually pretty good but
+it's it's aired in the wrong they aired
+it in the wrong order
+mm-hmm um so I don't know um I I don't
+know what that is about sci-fi or but
+but in case my perception of the show is
+different than most people because I did
+not see it in the same order okay and so
+my feelings about the show have to be
+altered slightly huh this is all I'm
+saying
+Oh would you would you recommend trying
+to watch it in the correct order then
+there's there's Muppets on this show
+right I mean that's enough me into it
+and I did like that the the overall
+production value I described as charming
+okay it's very it's a little shocked
+evil character well that sounds great
+yeah so it's quite possible if you watch
+it in the correct order you will not run
+into the issues I read okay this is on
+to but it is on Netflix it is on Netflix
+so if I if I look into it then I have to
+make sure I watch them incorrectly yes
+all right I'm kind of shut about you're
+just gonna start bitching yeah no no I I
+did not know that about Netflix yeah
+hold on actor interrupted thank you for
+subscribing we very very much
+appreciated um I don't suppose you a
+quality order they were released on
+Netflix time so so for me it went pilot
+space books it went it went islet space
+bugs some other episode Oh pilot space
+bugs Klingon spy Rigel getting kidnapped
+peacekeeper death ship okay and and
+though so that was one two three four
+five and actually in actuality that was
+like one seven three six for sure you
+know so I watched him a little odd for
+that's obnoxious it is yeah I want to
+say there's other shows Netflix has done
+that with to I mean I know sci-fi
+channels done the past but I think
+Netflix has done that too yeah so this
+is all things people were people were
+very passionately tweeting at me that I
+was just wrong and I'm like the second
+episode they find it a planet that looks
+like Earth and I was like what are you
+talking on the ship and there's space
+roaches networks have done that too with
+shows that they like new shows that they
+don't have any confidence ends they're
+like oh this episode 7 stronger than
+episode 2 Civil Air episode 7 second
+like they did that with the clerks
+cartoon it only lasted they only aired
+two episodes of it but they aired the
+like they earned them out of order and
+they've done that with other shows too
+and it's like well if you if you're
+unsure about the show confusing the
+audience like the first two episodes
+that isn't a good idea
+right so yeah nobody knows what they're
+doing pretty much nobody knows basically
+so this is the this is this is what I'm
+going to say a half apology mmm - to any
+fans of our escape out there chance
+opinions of car escape do not represent
+red letter media as a whole running man
+take responsibility for the things he
+has said well and also it's hopefully
+people understand that my perception of
+Farscape is is was incorrect by no fault
+of my own yeah so I understand
+great thank you thank you for
+understanding I understand because I've
+no stake of this either I think your
+complaints for in the first place
+hmm okay but okay all right okay um
+isolate mutate thank you for subscribing
+now that we've reached the four month
+period I think it's okay to cuddle this
+is me putting that out there bring that
+out there for you you like these these
+stats that they give you don't know it's
+fascinating to see how long somebody's
+been with us yeah sure
+agreed I understand I understand mr.
+yeah don't you understand things like
+that mr. that's not in space cop in the
+new version that's one of the few things
+that was in the original that isn't in
+the new one really yeah is all the whole
+movie is gonna suck now she just
+everything reshoot everything yeah the
+whole movie it's a TR that line in some
+somewhere yeah that sounds like a plan
+so I know your name is Theodore J hooker
+one thank you for subscribing for the
+past five months we've really do
+appreciate it
+but your name could also be the Oder J
+hooker I hope his middle names like
+charms cuz then I need to be teaching
+hmm
+either way no that's his name was
+Theodore j-hook Theodore J that's like a
+joke name yeah I'm assuming there's no J
+yeah there was a Jan oh never mind
+nobody knew that I'm just dumb rich I
+gotta pay attention when I'm talking
+that's fine yeah no I'm just gonna stop
+trying oh yes I finally broke them
+urban vermin thank you for subscribing
+we very much appreciated I like saying
+your name Thurman Merman where does the
+name urban vermin I get some rides me a
+Thurman Merman yeah and these
+subscription notifications are manually
+activated so you have to choose whether
+or not you want to reveal how many
+months you've been subscribe okay when
+Yuri subscribe so twitchplayspokemon you
+are correct it's a new updates but if
+you're cool yeah that's Trevor well I
+think that's part of the thing is so us
+streamers can recognize easily who has
+been with us the longest because that's
+it's a game I see because that's how you
+win it's how you win it life yep
+oh sorry dr. J dr. J says his some
+happened like two days ago and no one
+saw we did what we we like so J thank
+you for a subscribing and thank you for
+being a bot
+it's truly appreciate no one else listen
+everyone else maybe your microphones dr.
+J oh that's right you want to be at your
+speakers
+that's how speak smooth okay everyone
+else is needed dr. Tate your daughter
+great job Thanks
+okay everyone else good unmute their
+microphone setup how are they know to
+unmute it if they can't hear you tell
+them to unmute it oh my god you're right
+this is a flawed system yeah guy yeah
+it's terrible so Jack yeah um did you
+hear about the Ghostbusters casting I
+did let's see for every response I you
+here's something you should know about
+me I have not seen bridesmaids okay um
+there's a great little comedy buried in
+there somewhere that's what that's all I
+heard here's my first complaint about
+the new Ghostbusters okay I'm sure
+they'll be many when I actually see the
+movie but for right now it's 45 minutes
+too long that's what I'm gonna say I'm
+calling it now it's gonna be 45 but it's
+too long that's not it's not you know
+and this is the thing like at this point
+cuz now they're talking about Chris
+Pratt being Indiana Jones do it's like
+all this stuff like it's inevitable and
+it's not even worth getting upset about
+anymore it's just like this is gonna be
+a thing no I don't think I don't think
+there's any problem with it I will my
+okay Kristen Wiig yeah she's fine I like
+Kristen Wiig just fine fine I'm sick of
+Melissa McCarthy yeah I think
+everybody's sick of her that's why I'm
+actually surprised I know she's buddies
+with Paul Feig the director or whatever
+and they did bridesmaids together but
+like the last few comedy she's done have
+been like horrible bombs yes so I was
+surprised that that didn't have
+some sort of influence but she's also
+like writing partners with Kristen right
+quick is she yeah oh I didn't know I was
+what are they written didn't they a
+bride bridesmaid no no most McCarthy was
+just an actress and that as far as I
+know I don't think she wrote it
+hey now I have to look this up Melissa
+McCarthy and Kristen Wiig go back okay
+that doesn't sound right to me but I
+don't know for sure so I'm not gonna say
+mmm I'm you don't you know what I'm
+sorry mom even before it was gonna be an
+all-female cast I was completely against
+the idea of a Ghostbuster sequel or
+reboot oh sure obviously I don't like
+amp now that it's an all-female cast I'm
+gonna be labeled as a misogynist
+it's amazing the movie doesn't need to
+be made the fact that it's an all-female
+cast at least the extra gimmick on top
+of other gimmicks seems to me it's not
+early gimmick so much is another way to
+differentiate it from like it'll help
+some if it was just for if it was like
+Bill Hader and I don't know Will Ferrell
+like it would draw even more comparison
+so at least there's something different
+about it um I don't know they're they're
+trying something new and that should be
+applauded they're trying they're trying
+well I don't know they're trying
+something new and pointless to a movie
+that is pointless to exist to begin with
+but I don't know how long it I just
+don't care cuz it's not gonna be
+ghostbusters right it's it's just it'll
+have been - Ghostbusters name yeah and
+that'll be about it but the other two
+cast members yeah are Cate and Kenan who
+I don't know if you watch Sarah
+Knightley III even I don't watch Sarah
+alive much anymore but I've seen enough
+to know that she's like the best thing
+on it okay she's really really good like
+a comedic actress just like the
+strongest part on that show yeah and on
+the fourth one is Lester Jones who I've
+only seen a couple times and she is like
+on Worst live performer on that show she
+was on the episode with Chris Rock they
+did this bit where they were like a
+bickering old couple and it was like
+embarrassingly bad like she was missing
+her mark she missed like she couldn't
+read the cue cards properly there was a
+part where she froze up for like 10
+seconds and then just walked offstage oh
+my now I'm back on it was so awkward so
+I don't know like I'm assuming she does
+stand up or something like I just into
+something that would warrant her getting
+a part in a fucking Ghostbusters movie
+but based on the stuff I've seen on
+Senate life she's just terrible as a
+live performer master kenobi
+double-oh-seven
+thank you for subscribing this might be
+the longest I've seen eight months
+there's nobody been doing this free he
+was subscribed before you even were
+doing it that's how dedicated he is
+eight months subscribing thank you octo
+Dre says he's been subscribing for nine
+so we'll see but we never see his
+subscription right now long okay um I
+you know different directors can work
+well with different performers and you
+can get that performance out of someone
+who's even bad on live television
+so like comparing a live performer to uh
+to a screen performer is a bit moot I
+suppose I just I'm curious genuinely
+curious like what she's done cuz you're
+I haven't seen anything outside of that
+what she's done that would make people
+think she would be appropriate them for
+this kind of leave well you know it
+really just could have been like a
+director's feeling about her where he's
+like oh I want to die you know I know I
+can get this performance out of her
+let's good yeah maybe here's the
+interesting part though okay if you saw
+this know um see I don't care either but
+I hear these things I got a movie
+website and they talk about this
+daughter I supposedly humble a constant
+feels first yeah all right bill all
+right die tides and I actually think
+this is pretty hilarious supposedly
+there's talk of Bill Murray being
+involved as a different character like
+he fought so long to not do ghostbusters
+3 and now that they're actually doing
+something different with it he's like
+okay I'll do that
+that's kind of funny but and I guess
+this is my whole thing is they are going
+outside of the no they're not just
+Malak oh my lord whatever it's with a
+cane oh yeah great um is there not just
+filling it with the young male comedians
+at the time like I did with the original
+Ghostbusters they are because that was
+so terrible rich but they've done it but
+I think they've done it they don't okay
+we're talking about really the only
+thing I take attention with it's not
+inherently better just because it's an
+all no yes no no but they know that that
+it's it's pointless if heinous pointless
+to make the movie to begin with yeah I
+think we can all agree with that but it
+would be even more pointless to remake
+it with just whatever modern comedy
+comedic male actors so that at least so
+they're saying like this is gonna be
+remade it let's try to put a new spin on
+it and see if something can happen yeah
+now I am not upset at all about the idea
+of Chris Pratt as Indiana Jones and I
+mean it's not the worst casting in the
+world no I think I mean yeah I'm not
+like I'm set by it cuz it's again it's
+like it's inevitable that's not him it's
+gonna be somebody um I I think he's a
+little too doofy from the 3d on Jones he
+doesn't have that edge but then again he
+might I just haven't seen him in a role
+where he has yeah no I do me and whereas
+Harrison Ford was not right he was an
+actor or Indian yeah here brought a
+little bit of comedic edge to the
+nanogenes
+the movies had a comedic tone but
+Indiana Jones himself was the cool guy
+you wanted to be yeah yeah Chris Pratt's
+more he's gonna be like me a mild parody
+of the cool guy you want to be that's
+possible but I'll be it's gonna be
+different but also the cool guy you want
+to be is not necessarily Indiana Jones
+anymore not as nobody's 80 yeah I want
+to be any other jokes in the Kingdom of
+the wrestling they should get Harrison
+Ford back I'm saying oh don't make more
+of these movies no no no what do I do
+what is the solution to any of these
+ultimately first of all dr. Talos thank
+you for subscribing
+we very much appreciate it what I'm
+saying is the the modern-day symbol of
+cool is no longer the the gruff silence
+time the Indiana Jones type right
+that's no longer what kids think is cool
+what what do people think is cool now
+star-lord it's not cool I don't know
+what he tries to be cool he's a little
+doofy that's what makes um that's why
+Chris Pratt was perfect yeah so via its
+it's no longer like people attempting to
+be John Wayne hmm you know that's not
+cool anymore
+I think now being cool is being
+self-aware like you look at the ant-man
+trailer the end of the trailer is like
+can we do something about the name like
+now you have to wink like everything has
+to wing and I can understand that desire
+to go there but I don't know I would
+like to see something that's just made
+completely sincerely Dredd movie we've
+always talked about the dread of it is
+great
+completely straight face it has a
+certain comedic element because of that
+yes but there's no winking in that movie
+no god no
+if anyone winked in that movie to get
+their eyes room yeah well and the the
+one thing I'm hoping is that it's not
+people keep calling me the Chris Pratt
+Indiana Jones movie which is of course
+nothing but rumors right yeah they call
+it a reboot I hope it's not like I know
+I think it's just gonna be like I've
+heard people compare it to like James
+Bond yeah just be another Indiana Jones
+movie in someone else's play and I think
+that's great that's what I'm like Mike
+mentioned actually a remake of Raiders I
+don't think is wrong about that III know
+I would doubt they would remake Raiders
+detect it to me that sounds completely
+pointless that's that there would be no
+I would think they would just do it
+that's just another adventure yeah
+absolutely that would be great that
+seems like the smartest way to do it
+that's the way they should do it yeah
+yeah yeah of course I don't need to make
+more Indiana Jones they need to make
+ghostbusters I don't need to do any of
+this stuff but they're going to whether
+you want it or not the going to exist
+yeah
+have you seen
+the Fantastic Four trailer I did
+supposed to oh well he know about this
+in related that right this very moment
+the director is back wherever they shot
+the movie they're filming a month worth
+of reshoots right now movie that comes
+out in just a couple months so
+supposedly it's like a disaster valuable
+scenes but that yeah that teaser didn't
+or is that a teaser that's not a full
+train
+yeah it's a teaser I kind of liked it
+and it didn't tease anything interesting
+it's just shots of fleek people looking
+at monitor you know what I liked like
+the look of it yeah
+I thought I thought it looked almost
+like when I saw the trailer I almost
+thought I clicked on the wrong trailer
+and I was watching the trailer for
+interstellar you know like after you
+watch it I don't remember anything
+sticking out like the long cornfields no
+I know you get that little glimpse of
+their suits um I thought I thought the
+thing just that little peak we get of
+like removing rock looked awesome
+hmm yeah no no I have zero interested it
+but agree but but supposedly behind the
+scenes it's been like a disaster or
+shoot so that's really do it they just
+cannot get Fantastic Four there's always
+issues of the production I thought it I
+thought the look of it was really neat
+um and hopefully it's not a total
+disaster having been the only person
+here who has seen all three fantastic
+four movies my hopes egg hi-yah but also
+I have literally zero stakes in a
+fantastic four yeah I think yeah thank
+you for you to do teaser like that you
+need some sort of even if you don't see
+like like money shots you need some sort
+of glimpse of like an arm stretching or
+dude on fire some well you got that we
+got a little dude on fire we got a
+little what happens in the trailer I
+haven't seen it it's just shots of
+people looking at computer monitors and
+talking about fate and destiny and then
+a blue laser comes up out of the earth
+cuz that happens in every call that God
+it wasn't on earth that wasn't on earth
+a blue laser comes out of an alien
+planet let's get things crazy straight
+here light keeps falling over it just
+kept going hmm
+well let's leave it will run
+the rest on the table okay that's weird
+yeah no I'm owed Oh like it didn't the
+look of it to be more specific didn't
+get me excited about the movie I just
+liked the visual like Ram I liked how
+the costumes looked it looked like they
+were on alien planets which is always
+exciting it looked like a sci-fi movie
+which I think a lot of superhero movies
+don't do okay except Guardians
+that's the mall guardians isn't even
+really a superhero movie rights a sci-fi
+adventure I buy adventure movie yeah so
+that it got me a little I don't want to
+say excited okay but I io what's what's
+a word for nosed you know what it got me
+it got gave you a big boner that's what
+you're trying to say we get it we get it
+rock monsters give Jack Packard a big
+boner we get it it got me not
+disappointed okay what does that mean
+indifferent yes I felt indifferent about
+it I was so incredibly indifferent which
+you know after seeing like ant-man I was
+really disappointed by that trailer that
+looked really boring and off and bland
+yeah and so I was disappointed by
+ant-man mmm the trailer see I wasn't
+disappointed cuz I have no investment in
+it anyway and what if it was an Edgar
+Wright movie but Paul Rudd I like Paul
+Rudd hey pretty much Laura yeah I like
+the shot I think people kind of were
+making fun of it but I like the shot
+reace 'i'm like riding the back of the
+like that was fun that was but I
+couldn't get a sense of the tone because
+I know it's supposed to be more comedic
+right and that doesn't come across in
+that teaser no mu all we got is Mad Max
+that's the only thing that looks
+straight up fucking awesome um I think
+that's not going to be a dumb action
+flick J how deep I think it's gonna be
+an awesome Mad Max movie do boyss yeah
+do boyss photo oh it is it I think
+you're saying that no no well you what
+are you gonna do du bois du Bois photo
+right sure
+Du Bois photo thank you for subscribing
+we very much appreciate it
+de blah de blah blah blah de blah fitted
+their wigwams feel swans Crips y'all
+let's go show em way a pretty shit ah si
+si
+hold on there sings stream is dead no
+stream came back it's okay
+du Bois
+well someone just mentioned Jupiter
+ascending I forgot that was coming out
+but it's the Wachowskis new movie Oh the
+Sundance raining people oh I don't know
+anything about this what Sundance what's
+what Sundance is going on right now okay
+so it's not the edison secret son dad
+screaming screening the movie that boot
+really so I heard oh oh I know all I
+know is the trailer Channing Tatum looks
+looks silly yeah he looks like comical
+it uh I don't know I know that the the
+Rachelle skis they tried to do their big
+ambitious Cloud Atlas like philosophical
+generation spanning epic you know yeah
+intelligent movie and everybody hated it
+oh yeah
+you see I I haven't seen it I gotta say
+a good thing I've heard mixed things or
+people saying it to misunderstood or
+whatever I haven't seen it I honestly
+didn't have much interested it right cuz
+everybody looks silly like those house
+keys just make everybody look silly but
+that movie was like a huge bombs yeah
+they're trying oh let's do another
+sci-fi action movie like we did with the
+matrix 37 years ago right
+Chiao skis or one-hit wonders so sorry I
+don't know if I've ever gone on record
+as saying I really liked this beat racer
+movie I've heard people say that that's
+kind of a misunderstood movie - I
+haven't seen it I think it's like it is
+what it's supposed to be I think it's
+pretty damn good I haven't seen it very
+stylized and there's the comic car
+cartoony right yeah I mean these days
+maybe a lot chuna CG but I felt the
+action sequences were amazing and like
+they got they got like the story is a
+Speed Racer story share if that makes
+any sense I really enjoyed it I like
+their Speed Racer I
+not seen it that's okay that's okay mean
+mr. mustard says Jack stop talking ever
+no how about that is this someone that's
+subscribed yep they subscribe just to
+say that my parent or they just want I
+mean you don't have to subscribe to say
+that no no he mustard is a subscriber
+and he just wants me to stop talking oh
+maybe he just disagrees with your
+opinion on Speed Racer
+that could be I don't know well you know
+I've said some controversial things
+Farscape it's true Speed Racer I was not
+disappointed by the Fantastic Four
+trailer I know that's that's a bold
+statement right there I never watch what
+the Fantastic Four trailer yeah it was a
+teaser it's the teaser no you don't have
+to well have to have a new teaser in a
+month when they've reshot half the movie
+that's I did not hear that is generally
+not a good sign
+yeah probably not probably not
+I saw someone asking about whiplash I
+still haven't seen whiplash they keep
+hearing great things about this movie
+let me watch it it's got that guy that
+guy's great that guy is great
+JJ Kasem and GK Simms I was gonna clean
+absolute most perfect casting you could
+do for Jay jonah Jameson yes ever thank
+God they did that that made his career
+it sees great lover of it he's great
+movies he's great everything I've seen
+to me he's the ISIS solid character
+actor yep uh whatever happened in that
+documentary about the Roger Corman
+Fantastic Four that'll come out oh my
+god probably nothing well they were it
+was in production like it's it's not
+like they wanted to do and just didn't
+make it they made it doomed doomed it's
+called yeah the untold story of Roger
+Corman's Fantastic Four or something
+like that
+I am googling here yeah look it up I
+know they had like a Facebook page and
+you could pre-order it you could
+pre-order the movie I want to see that
+I'm looking at all right hold cause
+pause on
+did you use the Google wrong I deaf
+parent Lee um ma'am all right someone
+just linked to it oh great what the fuck
+Oh apparently it's available oh it's out
+yeah or is it still me click on mom's
+it's still just for pre-order because
+last time I looked at it it looked like
+it was available but then you click on
+it and this is for pre-order I just
+added it to cart did you feel this
+anything I did not pre-ordered pre are
+available 2015 still pre-order come on
+come on guys and it's your movie I
+really want to see it that we talked
+about that quite a bit and it got cut
+out of the episode just for time and we
+were talking about how we'd love to see
+a documentary on commentary and they do
+have a commentary on their website you
+can buy that's already available oh yeah
+um so yeah yeah maybe maybe they're
+waiting for the release of the new
+fantastic that's it I tend to optimize
+marketing that's not a bad idea that's
+not a bad idea that's not a bad idea I'm
+sure the the Roger Corman is still going
+to be better than the new one that's Bri
+I'm gonna say 70% that's good there's a
+70% chance that's gonna happen there's a
+25% chance that it will be equally
+terrible for different reasons okay
+Allah the the other two Fantastic Four
+movie
+oh sure and there is a 5% chance of the
+new one being better hmm
+that's that's my official prediction all
+right sounds good and nothing but I mean
+Fantastic Four so lame I'm a comic book
+fan and even for a comic book fan
+Fantastic Four is doofy you would how
+does that see here's the thing the
+trailer for the new one rich it placed
+the like dark serious everyone else yeah
+and it doesn't work for like Fantastic
+Four is just silly big they should be
+that's why I don't I'm trying to think I
+think I saw the first Fantastic Four the
+Jessica Alba one and I remember at least
+having like a like a silly tone to it
+like even though I don't think a movie
+was any good it's like that's how you do
+Fantastic Four Fantastic Four needs to
+be light adventure fall they need to
+shrink themselves down and explore the
+universe in between molecules the
+civilization that lives there yeah
+that's a Fantastic Four movie yeah you
+don't play it like like every other
+superhero movie now which is they all
+want to be you know the Dark Knight they
+find the dimension where the the cosmic
+accountants balance the figures in the
+universe you can't be that funny anymore
+right she can't be silly someone if
+someone is quoting something here as a
+result of Disney's highest single
+shareholder and Marvel CEO Isaac
+Perlmutter Zanger with Fox studio over
+negotiations regarding the film and
+related rights to the Fantastic Four
+Marvel would rather cancel the Fantastic
+Four comics rather than provide any
+promotion however small it might be
+towards the Fox Studios film oh wow this
+is actually Marvel comic books is going
+through a big universe reboot soon yeah
+they do that every once in a while
+though vertical not Marvel no Marvel DC
+does DC this is every week hey but
+Marvel doesn't do marvelous not besides
+the addition of the Ultimate Universe
+share which was its own separate new
+universe didn't it didn't erase anything
+that happened it was like going on
+parallel okay well I would Marvel decide
+to do that when they're the most popular
+they've ever been
+because this gives them an opportunity
+to reinvent every character Oh movies
+sake to be more like the movies okay and
+it gives them an opportunity to say
+downplay character's roles in the
+universe that maybe they don't own the
+movie rights oh I see like maybe the
+Fantastic Four won't be an important
+part of the new users or the x-men or
+spider-man or isn't there talk of
+despite them getting spider-man back
+wasn't there some shit going on just
+rumors Daka just rumor but but yeah so
+they the you know they are really
+banking on these movies being successful
+forever so far they have been right it's
+going to die out it's going to probably
+I've enjoyed plenty of them oh my god
+like John keel said I missed a bunch of
+subscribers sorry everybody I'm looking
+back to the mountain universe reboot
+sounds like a fantastic jumping-off
+point to be if I were still reading yes
+oh okay
+evitt zidar or yvette siddharth thank
+you for subscribing we very much
+appreciate it umm grooving 42 thank you
+for subscribing appreciations all around
+Zeca mido thank you for subscribing I'm
+sorry that I missed all of you but we
+appreciate it every single one of you we
+really do appreciate it
+I get to talk in and I'm not looking at
+the monitor it's hard like I want to
+talk to jail I put the computer in front
+of your face I thought I just did as I
+put the laptop thing in between me and
+Jane like rich is playing so he's
+concentrating on something else I don't
+need to look him in the eye but yeah me
+and Jay are just talking here with
+microphones in front of our face a
+little weird now
+how does this work day I I'm just
+looking at an Apple logo now I can look
+on your dash for subs you don't have to
+physically throw scroll through the chat
+is that true
+that'd be great well look into that
+right now one of these days you'll
+figure out how this twitch thing works
+you know every time I think I have it I
+don't that's okay there's no more to
+that story
+Oh Bucky what has you had is asking
+about samurai cop - mom I don't know
+what we'll do with samurai cop - we'll
+see it of course sure I guess we'll make
+a decision after we see it who knows I
+mean of course we see of course we're
+going to see it as if of course you see
+it are you not laughing on seeing you
+all rich is the least biggest fan of all
+out of all of us with the original
+samurai cop so you got to see it I'm
+even if it's terrible I'm glad it exists
+I think it was just a bad oh say my god
+I'm watching you guys once again samurai
+cop is pure joy and then I saw I'm
+saying well I've seen it a second time
+since oh why wouldn't I love this how do
+i how do I view who subscribed in my
+dashboard tell me tell me how to do
+things that apparently I should already
+know how to do
+how do you do I'm in my dashboard you
+guys liars you guys are liars the horse
+that's many steps professor physics
+that's the thing would samurai cup 2 we
+don't know if they're going to play up
+the badness I kind of got the impression
+from the little bit I know about the
+movie that they're just while up until
+the casting of Tommy was so which is I
+don't know about that but up until then
+it seemed like they were just going to
+try and make a low-budget action movie
+with the characters from samurai cobb
+yeah
+which has the potential to go either way
+but we'll see
+I don't know what kind of tell him
+they're going for I still don't
+understand it the Tommy was so thing is
+sort of a push in the wrong direction
+potentially but who knows agreed
+agree that it's a push in the wrong
+direction yes
+I think I and personally I would think
+that that one show their hand well that
+yeah that's the thing that's it's kind
+of the impression I God knows yeah who
+knows that's true uh we don't know what
+his role in the movie is pika
+juice thank you for subscribing
+I get that name hey J and rich down a
+juice and I I believe that's a PlayOn
+Pikachu lady juice bars was throwing me
+off Jack hi
+I know Pikachu is there are knows a
+Pikachu is widest why is calling them
+pick a juice make it because he sent it
+sounds like he says pika juice when he
+does a lightning attack in Super Smash
+Brothers that's what I'm going to assume
+okay if I'm completely off I've been
+wrong or about different things and then
+take a specially grammar pika juice
+thank you for subscribing we very much
+appreciated especially grammar
+so wrong jack so wrong am i failure
+oh it's an opiate anthony reference oh
+well I don't listen to Opie and Anthony
+you know there are even a thing anymore
+I didn't want to leave or get fired or
+fall off a building something happen
+although Jim Norton came-- comedy guy
+Jim Norton he's on that show I guess or
+was on that show and there's someone
+posted a clip of him on the show one
+time talking about the blanket reviews
+oh sure honey he might have just been a
+guest or something I know I think he's a
+regular oh that could be a thing that's
+fine neither of I I've just seen that
+clip I've heard the name yes it was a
+popular program apparently I did I
+believe they were shock jocks that's why
+I would never listen to oh you're right
+here about that stuff Jay should save
+this kind of conversation for his blog
+you're oh that's true I'll talk about it
+I'll talk about on one of my upcoming
+vlogs that's great that's great how do
+you think of the titles for your blogs
+like you just pick out what you talk
+about most or like you know little tot
+the title of each vlog it's just
+whatever I talked about in the video and
+whatever I talk around the videos just
+you know whatever is on my mind yeah but
+sometimes you jump around you know and
+your topics they're not always so
+condensed oh you mean like if I'm
+talking about multiple things why do I
+name it ones right things done that once
+Jack yeah I've only done that once I
+just ask generally like where do you get
+your ideas from
+I wear a where do ideas come from Jack
+they just end up in your brain I wake up
+in the morning whatever's on my mind
+that's right I'm gonna do a vlog about
+this grind laughs that's great that's
+the way to do it I think that's great
+but keeps it fresh that's great
+thanks great that's a good question how
+rich how are you doing oh my god you're
+dying you for Hull points a store oh
+okay
+he's at a store he's gonna be fine right
+I know I would get into the yellow sure
+I don't know I have a I do this and I
+don't know why I have no idea where you
+are in the game I'm gonna fight right
+knee what the fuck that's garbage
+okay that's garbage less garbage um my
+turds are green my turds are cream oh
+thank you for subscribing
+we very much appreciate it the first two
+months my turds are green it's time to
+see a doctor
+ah I tried to Beck's seed game rich
+wouldn't listen to me because I didn't
+know what I was talking what they said
+Jackie you should back seed game for a
+change
+I don't know what I'm talking about so
+I'm not going to
+yeah this UI looks like something out of
+a Commodore 64 says something who's
+never played a Commodore 64 obviously
+never played a Ryan this looks nothing
+at all in any way shape or form not not
+not even remotely not even if we
+pixellated the graphics with this thing
+collect something at 64 cuz this game
+isn't really like a pixel art game no
+even no it's not which is I think what
+he's trying to get into and he played
+pixel games hey this is what the idiot
+just realized this he just said it as an
+offhand joke
+yeah now he's just getting slammed for
+it pretty much
+yes vvvvvv looks like a Commodore 64 yes
+that is correct
+I want to say someone out someone hacked
+super hexagon to play on an Atari and
+upload a video on it look pretty it
+looked pretty sweet huije how are those
+new key tapes doing oh pretty good yeah
+pretty good we need you know a couple
+more like two two or three mate or three
+mar 2 2014 3 more maybe three I think we
+could do it with two but if we had three
+be like a sure thing oh absolutely yeah
+yeah one for safety that's what they say
+one for safety well the full scale
+really 500k yeah Wow just looking a
+little bit these things are under arrest
+we're under estimating how many more
+okay all right five rich says fine
+that's true okay
+maybe I underestimated how much work was
+we're also just trying to get this done
+and so it's like eventually eventually
+there needs to be a realistic cutoff
+point here I just measure I was
+measuring the back side I think maybe
+five more all right all right that's
+fine okay five more new key tapes you
+heard of here ah so so I buy this
+teleporter and it cost me almost every
+thing I have rather than fully upgrading
+ship yeah first thing I run across as a
+drum ship with no air ah great
+investment great sometimes I don't they
+don't work out bridge long-term you got
+to think long through
+that's what you got to think
+oh that's a really good question cockle
+over 9,000 Jay can you confirm the rumor
+that it took 12 years to make the film
+boyhood oh my god I don't know if you
+guys heard this it took 12 years to make
+boyhood it took him 12 years to make
+that move that must be an amazing work
+of art yes great well I mean it did take
+12 years yeah and obviously how long
+something takes to make is directly
+correlated with how good it is
+absolutely absolutely that's great
+that's great that's great everything's
+great more so I just asked that question
+so I can say cockle overnight with a
+username like cock lover 9000 I'm sure
+you would love boyhood because it's now
+what that wasn't like a that probably
+came out more like a weird like sexual
+thing I just meant like with a name that
+juvenile you would probably enjoy a
+sophisticated a fake sophisticated art
+house film about growing up in child I
+didn't mean it a fake sophisticate
+thanks investigative of you growing up
+okay that came out it probably came out
+like a some sort of weird sexual slam
+who wants to survive and save the galaxy
+who wants to survive I fucked that one
+up you did damn it
+you did J
+spits yuck what there's one of me hey
+hey that's at me bragging it oh there it
+is a bowl of special okay okay
+Oh bull Special K okay I'm sitting kind
+of dis you're right I found it it's okay
+everything's okay everything could be
+fine Oh
+aw come on I said start typing the
+cursor just goes away right why is that
+I don't I don't know I'm very sorry and
+I don't know
+I don't know what I'm sorry all right
+I'm fucking everything's fine all the
+time we did we did we started a little
+bit later today than we normally did
+because rich and I were filming the next
+episode which I'm pretty excited about
+mmm can you say any more about it or do
+you not want to yet the you know we kind
+of I kind of painted myself into a
+corner with the title because you know
+we have to say what the next episode is
+oh yeah before we upload the previous
+episode so we get that little thumbnail
+reg and I wanted to title it
+why Super Mario Brothers is more
+immersive than Call of Duty okay which
+will be the title just because that's
+what I put I guess I can always change
+it thumbnail but it's it's more so why
+why is this old classic game more
+immersive than this modern new game okay
+and I feel like our conversation went
+very well when a little off the rails
+when specifically talking about college
+it has an interesting title okay so
+that's all that's fine yeah
+it has a title which will hopefully get
+people interested in watching it have
+some good content for them to watch not
+necessarily relate to the someone
+related to the title hmm enough related
+where if I do end up titling it that I
+won't feel very bad about it okay well I
+will say I am NOT a fan of YouTube
+videos with misleading titles
+yes leading content so you gotta be
+careful with that kind of thing it's
+true that's true cuz yeah you could you
+could like want to watch say a video
+button like someone's thoughts on
+modern-day news right sure yeah and you
+see that thumbnail in like oh this is
+someone's thoughts on today's news and
+you click on it that's what it is
+I love that one that is yeah yeah you
+want to be satisfied you can get what
+you're expecting yes absolutely
+yes yes
+yeah none it's not necessarily deceptive
+dad like it's it's a no-no we've had
+this discussion about what clickbait is
+before mmm and to me clickbait is is a
+intriguing title but then no content Wow
+content countenance no countenance no
+content to back up the intriguing title
+yeah okay ten reasons why we love
+Jennifer Lawrence oh yeah and then it's
+just like a slide show that you hook
+through yeah and then after the first
+two slides there's like an ad you have
+to click off the ad and then like the
+one of the slideshow pictures is like
+because she looks like this and it's
+just a paper version so yeah
+there's no content that BuzzFeed is
+BuzzFeed the one that does a lot of that
+type of stuff it's 100% buzz you know
+so that's clickbait and so to me having
+a eye catching title does not clickbait
+make it okay that's a proper sentence
+but but you also need an eye-catching
+title or for people to watch it who
+aren't our fans already sure so there's
+a balance between good title and
+clickbait I understand I know you do but
+they don't
+
+[Part II]
+yes oxygen you'll be amazed at what
+happens next
+oh yeah this homeless man asked for five
+dollars and you won't believe what god
+yeah ten reasons my check Packard is
+wrong about Farscape good job leftover
+beefcake oh wait no is that you that
+said that gave us that's pretty good
+nice have you seen clickhole yes Davey
+club's version of it is so great
+yeah they nailed it I'm really upset at
+them for not stealing one of my ideas
+but making a video before I could mm-hmm
+I wanted to make a video entitled you'd
+be amazed they're like you're eating
+this food all wrong you won't believe
+why you're eating food all wrong I'm
+like making like a diet video okay but
+just have people like take like pizza
+and stick it in their ear oh sure just
+like they are literally eating incorrect
+Shh and they made that thing click Oh
+made that yeah it's really upsetting
+that happened something I had it all
+planned out doing like Timmy Higgins was
+gonna come over there's like two days
+before that it came out beat me to it
+then that weird when that happens though
+and it's like someone has the exact same
+idea it happens it does happen it's just
+weird when spontaneous creation because
+it's not just that it happens and it
+always seems to happen really close to
+when you have the I assure or when you
+plan on executing it and yeah there's
+something in here I don't know how that
+works I don't know how it works either
+it came up a lot though when I was
+watching videos for Funny or Die you
+would see very similar premises all the
+time
+yeah there was one in particular that I
+tried to look more into I tried to like
+contact both of the video makers because
+it was so similar do you remember the
+boPET you know like it was like a little
+divisive oh yeah yeah :
+yeah yeah like it and it was two videos
+that started with them bopping it and
+then eventually the Papa told them to do
+awful things okay kill your mother
+what sure sure um and I was just like do
+these people know each other and it was
+uploaded to separate videos and I found
+out they were in separate parts of the
+country were uploaded the exact same day
+Oh weird and so they must have shot and
+edited around the exact same time but
+they're in different parts of the
+countries and it was literally they both
+start with the Popat and then the boPET
+starts telling them to do evil things
+Wow it was insane and it's like you
+think about that that's an easy premise
+that's yeah I can see someone doing that
+but the idea there would be to upload on
+the same day it's sort of weird yeah Wow
+and I couldn't I couldn't get ahold of
+them to follow through just like to
+figure out I wanted to backtrack their
+thought process because I thought it was
+so interesting that's crazy
+new that's crazy
+all right I can't find good weapons so
+I'm going with teleportation of mind
+control I think mind control I like it I
+usually don't do mind control but
+boarding seems to be my only I mean do
+you want to spend some cash on your haul
+yeah the answer is yes sorry salad baked
+I didn't mean to scare you with me
+telling you to kill your mother but
+that's Oh rich they're saying you should
+buy bug porn what is bringing that up
+but someone just mentioned for the
+mantises I don't know maybe what'swhat's
+the reference why why then why now I
+think they just really enjoyed that race
+really enjoy that okay and they wanted
+to bring up something they really
+enjoyed I guess what I'm saying is
+settle down rich what is who really
+enjoy someone who's referencing an
+earlier stream but like a stream from
+months ago a month ago and I thought it
+funny so I mentioned its original rich
+shot it right down just just poo pooed
+it away
+mm-hm
+trying to think of what else to talk
+about I haven't watched anything
+interesting lately I haven't seen any
+movies lately and then do Busey I
+watched John Carpenter's Village of the
+Damned but you also listen to his album
+well he listened to his that ones I
+talked about me was awesome that's what
+made me think like because I've seen all
+of his great movies so nobody tie it was
+like I'm in the mood to watch John
+Carpenter movie what have I not seen
+recently in Village of the Damned I'd
+only seen once cuz it's kind of lame
+okay so I watched that looks great it's
+a good look at movie so bad it's gonna
+meet premise but it's a remake so it
+looks like the exact same movie is the
+original no it was the last movie that
+Christopher Reeve did before his is exha
+dent yeah Tim Kirstie Alley and
+Mark Hamill is a priest really it's it's
+not a terrible movie yeah it's just not
+all that interesting the ending is
+pretty great because it's it's a movie
+about like evil children which I like
+evil children movies I guess I'm gonna
+go spoilers cuz nobody cares about
+Village of the Damned the end of the
+movie is cuz it's this town and the
+setup is really neat actually it's this
+town where the the parameters of the
+town everybody in the town just falls
+into a coma the exact same time okay
+so when they all wake up like a day
+later a couple hours later whatever it
+is like there there's one part where
+they're there at like a like a barbecue
+but the guy passed out on the grill so
+you know everybody wakes up and he's
+burnt to death on the grill sure um but
+like ten women in the town were
+mysteriously impregnated during the
+course of everybody being passed out and
+then you know they give birth of the
+children and they're all these like
+white haired little kids sure it was
+sort of connection and bond and there's
+something alien like about other evil
+children so the end of the movie
+Christopher Reeve has them all in a barn
+and he sacrifices himself and just blows
+the barn up and blows up all these
+little children it's wonderful
+so it's not certainly not what a job
+carpenters best but that's a very
+nice-looking movie yeah there that was
+in his period word he was not making his
+best work I want some cigars it's the
+least accurate impressive him good
+congratulations rich you win the award
+now Lisa and I were after our Farscape
+debacle our scada box we tried another
+sci-fi show which was kind of equally
+mad but a little more interesting to us
+called defiance okay I think which has
+some of the most dreadful CG sequences
+ever seen yeah a sci-fi channel original
+no budget and so like it's supposed to
+be this like post-apocalyptic alien
+I have taken over kind of thing and they
+had this like extended Jeep chase
+through alien landscape that was I mean
+they might have well had put a cartoon
+in the middle of the live-action TV show
+that's how bad the CG was both been
+watching mediocre entertainment I'm
+gonna I'm gonna have to go back because
+I bet John Carpenter's been on my mind
+because of this album I have to go back
+and watch all the good ones but I've
+seen them all so many time yeah I love
+those movies but
+subscriber we do Rhines lee thank you
+for subscribing I hope you're enjoying
+talking about mediocrity that's all we
+got right now it's January much Oh Jane
+Vulcan Oh sinnerman the John Carpenter's
+Masters of Horror episodes I really
+liked the first one cigarette burns with
+Udo cure I thought that was pretty good
+and I was like the first thing he was
+directed and got close to a decade what
+is it well it was a show on Showtime
+called Masters of Horror the premise was
+is each episode would be directed by a
+different famous horror director oh okay
+um most of them were kind of directors
+that we're not Masters of Horror for a
+couple of decades but there's any
+promise and there was some good episodes
+yeah he did one for that and the second
+season he directed one work I don't
+remember the name of it was but a
+monster attacked an abortion clinic and
+Ron Perlman was in it
+I only saw it once I think when it
+originally aired so I have to watch it
+but I remember that not being so great
+I mean solid premise oh absolutely
+monster Tex an abortion clinic where
+didi Isaac x03 nine thank you for
+subscribing
+welcome to mediocrity mastery I like
+that masters of our masters people that
+were at one point okay at least maybe
+that part of the title was cut out
+Masters of Horror dot a couple decades
+ago there's a couple solid episodes it
+was never it was kind of a disappointing
+show I was looking forward to it
+most of the episodes were pretty
+mediocre it was two seasons and then I
+think there was like a network version
+of it
+called like fear itself and that ran one
+season and unlike NBC or one of those
+networks the same basic idea but for
+whatever reason a different name yeah
+the best one the master Sephora was the
+Takashi Miike one called imprint that
+was way better than it stood out so much
+from the rest of them is really brutal
+and cool cool
+do you watch American Horror Story no
+just thinking of fun I've seen the first
+two seasons okay when I started watching
+the first season I actually went on the
+message board of the red letter media
+message board it was like does it get
+better because it was like but I watched
+the first episode and it was more than
+anything it was the editing drove me
+nuts okay there's like every second
+there was a cut and it was really
+distracting it's like calm down like you
+can create more atmosphere if you take
+your time and it was just like cut cut
+cut and it never got path I'd never led
+up so that was sort of annoying I'm just
+coming got used to it after a while I
+think that it's a terrible show all
+right but it's really excessive and I
+think that's part of the point so I
+think they're aware of what they're
+doing I think it's certainly contention
+aliy trashy I'm still not sure what I
+think of that show but the first season
+is like oh our house is haunted with a
+ghost oh wait there's another ghosts and
+in the next episode oh wait there's all
+their ghosts and it's just like all
+these different generations of ghosts
+haunting this one house to the point
+where it's is so convoluted
+the second season I like a little bit
+more because it was in like an insane
+asylum and there's some creepy nuns and
+shit like that okay but those are the
+only ones I've seen the third one I
+think just got added to Netflix so maybe
+I'll watch it Kathy Bates is on it oh
+yes
+Oh like that Kathy Bates he's great he's
+great things she's great and things in
+general hmm never ends what recently
+wanted to re-watch misery have you ever
+seen misery oh my god she's great that I
+haven't seen in a long time
+I kind of want to revisit that right now
+rich is failing how are you in bad shape
+yeah it's all has two points up so if he
+gets hit two more times
+oh my one missile he's direct oh there
+you go no I don't want to waste all this
+repairs I mean that's kind of awful I
+mean I need to start upgrading the base
+ship right I really need to do that
+girls who's gonna keep getting fucked
+yes yeah I'm with you
+well people were saying do not watch
+season 3 is that bad I'm curious about
+season four cuz it's about a freak show
+and that could be fun oh yeah I know
+I think that show might be bad I'm not
+sure it's bad but I've watched it the
+first two seasons I'm still trying to
+figure out what they're going for
+engaging does not equal good here as
+often we spend our time being engaged in
+terrible movies
+these are things we don't watch black
+mirror holy fog black mirror is great
+that's not Netflix it's a it's a British
+show and it's like an anthology show
+like a modern day sort of Twilight Zone
+type show Oh
+but each episode kind of deals with
+modern technology it's sort of more
+satirical than Twilight Zone okay oh my
+god it's so great the first episode is
+prime minister someone get know someone
+gets kidnapped and the the ransom demand
+they post some video on YouTube the
+ransom demand is that I think it's the
+Prime Minister he has to fuck a pig on
+live TV so the whole episode is
+everybody dealing with like this moral
+dilemma and him like struggling with if
+he should fuck this pig and all these
+people try to come up with ways to like
+do special effects so that looks like
+he's fucking a pig but he's not really
+it's so great no it's really well done
+this sounds fantastic it's great yeah
+like you're fucking a pig and you think
+comical but it's played like completely
+like sure if someone's life was in your
+hands and to save them you had to fuck a
+pig like that's what not just fucking
+pig you the fucking pig I'm live on live
+TV yeah oh my black mirror black mirrors
+I can't recommend black me or more all
+the episodes are really great okay I
+guess there's more than what's on
+Netflix I think it's only like six
+episodes on Netflix
+okay sure and of course for a British
+show that's like three seasons yeah
+there's a couple really really good
+episodes that's great
+yeah ooh lost in Technicolor is saying
+he sent Patton Oswald a Facebook message
+about his new book and how much I loved
+it and loved his movies and rlm and he
+replied oh that Patton Oswalt's a good
+guy what a nice fella he's a good guy
+what a nice fella
+oh they're just giving episodes now up
+like mirror yeah that the first episode
+is the pigfucker one that really catches
+it okay but there's another one where
+it's like everybody has this thing
+implanted in their eyeball where they
+can like replay on a TV stuff they've
+seen their past because it just records
+everything that's me and how that ends
+up like tearing this couple apart and
+it's really dramatic and really good
+because he's like obsessed with things
+that have happened in her past so she
+wants to see it you know replay
+something I'm going to watch you should
+it's really really good good the other
+day I needed something to watch and I
+forgot that new the new season of
+Sherlock is a lisanna in general okay
+that's good I've never watched any of it
+it's fine if you like detective show
+yeah I do so I like it
+and that Benedict Cambridge Cambridge
+Bishop we like him and I forgot that the
+season there the episodes don't
+necessarily have to be anytime and so
+you hear I was like oh maybe it's like
+half hour hour I can watch that it's
+like an hour and 40 minutes oh yeah yeah
+and so that's black mirrors the same way
+to where episodes are different lengths
+there you usually under an hour but damn
+British till their first seasons 3
+episodes their second seasons 12
+episodes or third seasons three episodes
+who cares this episode five minutes I'm
+thinking about Black Mirror I need to go
+back and re-watch those yeah no we won't
+spoil any black mirror
+but I that's what I will be watching
+next that sounds that's not very excited
+it's it's really really good and it's
+really cinematic like they're really
+well shot lots of lots of production
+value yeah yeah so used to cheap looking
+American TV shows each episode like
+they're all right around an hour or a
+little bit less but each episode could
+be a feature film that's great it was
+just expanded a little bit they all look
+great
+brendan van halen thank you for
+subscribing we very much appreciate it I
+mean Jon Hamm is on the Christmas Black
+Mirror episode that one isn't on Netflix
+I'll have to check that out that's
+interesting
+Jon Hamm he's a good one yeah he's great
+yes I've never seen Mad Men I'd have
+just seen him in like guest appearances
+and shit he's always really funny like
+he's in bridesmaids he's got a small
+cock bridesmaids and he's funny in that
+he's good and madmen I need to watch Mad
+Men the only problem is whenever he's
+very sad which is often okay he looks
+like a turtle
+he does this thing and and just like his
+lips jut out in a perfect little
+triangle okay and he kind of looks like
+a turtle and it makes me giggle every
+time he's having a real emotional moment
+all right
+I've I've never been disappointed by an
+episode of madmen but at the same time I
+don't seek it out it's like it's just
+consistently good but I've never like be
+like gotta catch that new episode of man
+sure cuz the men it's so bad
+Rich's tactus Eisen that's a word
+urban Verma says more like Jon Hamm some
+am i right you are that is an attractive
+attractive man
+gobbledygook that's a very straight
+that's a strange enough question where
+I'm going to talk about it no I can't
+imagine that rich has ever tried
+e-cigarettes no cigarettes why would you
+bring that up you we've talked about
+rich not drinking caffeine not drinking
+alcohol what I would wear can't can't
+give up those e-cigarettes though use
+the word thing rich does smoky
+cigarettes but the kind with no nicotine
+just the vapor he thinks they look cool
+we keep telling him they don't yeah
+that's really random that's the wrong
+thing to bring up really random yeah
+well that's the thing he was just random
+enough that it caught my attention new
+studies there's a YouTube show i watch a
+health care are you dude showing about
+e-cigarettes we don't know a lot about
+him yet no really yeah and the FCC are
+not the FCC FDA FDA keeps trying to
+crackdown but no studies have been done
+on how like okay these cigarettes in
+general so right now it's a huge
+industry because there's no regulation
+oh yeah okay
+well I'm gonna give up my e-cigarettes
+tomorrow you should you really should or
+don't I don't care give yourself cancer
+and other diseases from this thing that
+we don't know anything about whatever
+these cigarettes that are bold new
+frontier right
+all right so I was America one of the
+how does it work that's it sorry I was
+trying not to blow up people how do
+these cigarettes work you you vaporized
+smoke it's it's vaporized liquid and
+like the chemical version of nicotine
+and so their claim is that because
+there's no smoke no like ash no tar it's
+better for you
+but there's still nicotine particulates
+in the air you know like you exhale
+chemicals still everybody I know who
+smokes cigarettes yeah they do it
+because they're addicted cigarettes I
+don't know what you get out of nicotine
+in the first place
+well you're addicted to the nicotine the
+nicotine you you would normally you
+would get addicted to something because
+it makes you feel good or they don't
+like me in the first place
+nicotine gives you a buzz yeah yeah you
+get addicted to it where like if you
+don't have it you know why it would
+start in the first place yeah knowing
+that no like it gives you a buzz it
+gives you a little bit of a boost it
+makes you a little light-headed it makes
+you feel good yeah can't stop yeah yeah
+oh yeah it's incredibly this that's yeah
+I grew up around smokers I was like this
+is the worst yes like no thank you
+it was great when I was a smoker
+I enjoyed that hell on Oh mostly because
+it's a drug and yes drugs I never
+understood it was like it make you stink
+as as soon as it was really all done as
+soon as I was really all quit I felt one
+zillion times better sure no doubt about
+it yeah but you know
+you have your little routine and you
+know like now I have a nice healthy
+routine and I feel really good about
+that good breakfast oh my god now you're
+addicted to to a healthy routine yes
+but back in the day you know like I have
+my cigarette on my drive to school and
+I'm just good to go and do this and have
+my cigarette here and I need my
+cigarette ya know it's it's a it's a
+number yeah I'm really not around anyone
+that smokes anymore I got no one that I
+am around on a regular basis smokes so
+it's weird like I was out the other
+night and someone said I'm going out for
+a cigarette and they went out for a
+cigarette and then when they came back
+in I was like oh God like the smell was
+like ridiculous I know I was I was so
+removed for for so long
+like there's nobody I'm her own smokes
+regularly so you know it was like it was
+really like if you I was around you know
+people like that more often I'd probably
+be more used to it but having been
+distant from it for so long now and then
+being exposed to it again I was like
+Jesus it was his way more prominent
+awful yeah I that recently happened to
+me as well what a coincidence
+and and just you know like it's it's I'm
+gonna call it a dank yeah cuz it's worse
+than a stink where it's like a bitter
+sting it's a stank yep Emma Philip Oh
+Bruno thank you for subscribing he's
+been with us for the past five months he
+or she or they or its I don't mean to
+presume I assume and I shouldn't because
+it makes an ass out of you and me
+yeah I remember you know there's the big
+deal about the smoking ban in Wisconsin
+oh yeah how long ago was that now six
+seven years ago years ago yeah
+no negative impact whatsoever wrong
+business is faster yeah no not at all
+and I remember the the bar that I would
+frequent did the scrub down and I was
+talking to the bartender's cactus Club
+there's a bar that do it they have good
+bands by there and nice beer selection
+cactus club Milwaukee was good after the
+smoking ban they closed down for a day
+and just scrub the entire oh yeah sure
+just to like wash all the cigarette off
+of the walls
+I don't stalk with the bartender's
+answer is that like a fucking discus no
+no because the cigarette what else I'm
+sure they haven't washed along probably
+not
+but then it was like the thing I
+remember most is coming home after a
+night out
+oh yeah yeah which I if I was out I
+generally wouldn't do that anyway cuz I
+would be drunk I just want to go to
+sleep but waking up the next morning and
+just that smell yeah that that's stale
+cigarettes no and I would have to be
+repaired oh yeah at least I would make
+you oh god she she blame her she would
+kick me all night if I if I fell asleep
+thinking like cigarette that's
+understandable
+absolutely
+Oh God someone saying they bought a
+house from a smoker yep
+oh yeah yep that'll happen no it's it's
+tough when I was when I was younger I I
+worked helping clean out apartments
+after tenants would leave and that's
+something we would have to do often it
+just scrubbed down the walls and if
+someone had been there for a long time
+and they were a smoker he would take the
+sponge to the wall and it would drip oh
+yeah I've seen that it was enough to
+make you vomit it was the and yet
+afterwards I still became a smoker
+that's how powerful nicotine is oh my
+god it's great I don't know if I have a
+favorite Troma movie as I have not seen
+many of them I'll probably say it talks
+a good thing about you just because I
+mean that's the big one yeah
+oh man the first time I saw toxic
+avenger I was probably way too young too
+I thought it was I honestly thought it
+was a movie about sloth from the Goonies
+yeah cuz I'd see that cover at the video
+star all the time and his face kind of
+looks like it so me and my friend John
+rented it and I realized now of course
+that it's a comedy but at the time there
+was like extreme gorn it like a little
+kid gets his head run over by a car and
+like so my brain couldn't process the
+idea that it was a comedy mm-hmm so I
+was like this is the most fucked up
+thing I've ever seen cuz there's so much
+like extreme Gordon yeah it was probably
+like God how old would I have been 10
+maybe so it's like I I did not get that
+it was supposed to be a comedy because I
+was so taken aback by the violence and
+it wasn't it was until years later was
+like oh but that fucked you up as a kid
+it really did like I we were both we
+both like felt dirty and weird after
+watching it I was like I want to go home
+now like I just want to sit in my room
+by myself and look at the wall like I
+really like it really fuck with me
+mentally cuz I just did not understand
+it I'm sure that if the people who made
+that movie could hear you say that they
+would like it
+no absolutely no Lloyd Kaufman yeah
+that's right there was a there was a
+cartoon of toxic event toxic Crusaders
+yeah it was Ninja Turtles were popular
+so they had their own Saturday morning
+environmentally themed cartoon about a
+group of mutants there was there's lots
+of like talk about the environment and
+taking care of the environment and that
+was actually part of like carpets things
+like if I'm gonna do this dumb kids show
+I want to have it have a message so he
+worked it is great yeah that's fine I
+think I probably still have some talk
+super Seder toys somewhere in a box oh
+you need those some but pooper out of
+the butt would like to know what my
+favorite vegetable dish and/or vegetable
+is I suppose a potato is technically a
+vegetable
+is that your favorite I mean my potato
+it is I don't know Irish heritage
+potatoes are fucking great and
+everything cuz they're covered in butter
+and so so you like vegetables when
+they're covered with unhealthy things
+and make them less like vegetables 100%
+in in real life I would say broccoli I
+really enjoy broccoli I eat a lot of
+broccoli so broccoli is good
+Jay what is your favorite vegetable dish
+probably broccoli I also really like and
+people are pretty
+torn on this one yeah I like Brussels
+sprouts
+I like Brussels I really like Brussels
+I'm with you on that okay do you how do
+you prepare them
+i I just steam them yeah add a little
+bit of salt a little bit of pepper and
+just need them
+I don't do that's the way I'm with most
+vegetables I don't add like graduations
+I couldn't Sami ACK you're on the team
+yeah do it yeah no I eat my vegetables
+pretty much raw I Steve um but I don't
+do much else with them he's right there
+yeah little olive oil salt pepper bacon
+why don't bake Oh bake them put them in
+the oven 375 for like 20 minutes half
+hour yeah the outside will get like a
+little black and crispy and the whole it
+like they'll steam the inside but it'll
+be a little crunchy a little crispy mmm
+change your life okay change your life
+okay that's how I used to you until you
+got lazy well yeah it's a two pairing
+food is time-consuming really
+time-consuming I've moved to cauliflower
+I don't like cauliflower all that much
+that's yeah it's not as land it's not as
+good as Brussels sprouts yeah but it's
+much quicker yeah sure you know and
+that's our vegetable discussion today on
+vegetable Jeff like for breakfast they
+have spinach spinach with my eggs
+Alex vintage a lot too and I like I like
+that but um the eggs overpower
+everything so I can't necessarily say I
+like spinach you know what I do what I
+make because I tend to prepare food like
+well in advance like I'll make you know
+a bunch of one thing and just keep it in
+the freezer sure
+heat it up or cook it or whatever I make
+spinach patties okay they take spinach
+and take like a bag of spinach frozen
+spinach all right you can't do it brush
+to an egg some breadcrumbs a little bit
+of cheese and then you make like pennies
+out of it anyway how do you and they use
+cook them on my laptop
+sounds great yeah they're really good
+you're right food generally takes a lot
+of time just stop eating and see how
+much free time again it's true yeah yeah
+no I'll cook like like four or five
+chicken breasts at a time and then just
+store them in the fridge and consume
+them throughout the week so don't worry
+about it that's fine like I need super
+simple I try to keep things simple yeah
+I only do one dish meals yeah just
+because yeah it's like four for
+breakfast it's spinach eggs beans with a
+little like salsa sauce we gotta have
+the house sauce then lunches chicken
+broccoli beef any I just frozen chicken
+frozen broccoli dinner I've been mostly
+fishing cauliflower oh fish been moving
+to fish this is good for some reason I
+just haven't been very red meaty lately
+no I don't know what that is about me
+but yeah I'm not in general as far as
+stuff I prepare at home but if I'm out
+I'll eat the fuck out of a steak oh man
+oh listen there's nothing better than a
+well-prepared steak if I'm not used Eden
+you gotta do you gotta find called
+vagina you get you all you have to do is
+you have to know what farm the cow comes
+from and pay the farmer a little bit
+extra to kill a cow in heat this cow
+died wanting to get laid and I can taste
+it right listen for anyone who's bored
+by our vegetable conversation talk about
+something I see but this is this is our
+lives in general eat healthy yes this is
+the thing that happens I missed a sub
+thank you
+they're telling me but hey
+but pooper out of the button thank you
+for subscribing dan you already say that
+well I answered a question Oh subscribe
+you just like saying that name
+I just understandable I answered a
+question from bud pooper out of the bun
+and afterwards by pooper out of the
+button subscribe wait what was their
+name but pooper out of the button ok
+what I don't understand is is like if I
+don't understand pooper because
+generally a pooper is also is an acronym
+for but yeah where is a synonym for bun
+yes so if it's but pooper out of the but
+that means you're pooping a bun out of
+me that's what they were going for I
+like it yeah works on so many levels he
+works at at least two levels number two
+it works on number two level it wasn't
+even thinking that J alright excellent
+know so we've moved on from talking
+about vegetables to talking about poop
+well you know if you eat your vegetables
+that's what you're gonna talk about nice
+let me talk to you about regularity it's
+great don't ever email me at 10 o'clock
+in the morning it'll take you are the
+responder TMI whew
+it's it's worse that you said TMI I know
+that's why I said it okay great I don't
+say that in general conversation
+I appreciate that about you
+Elvis Elvis that sounds great two
+tablespoons olive oil 4 to 8 ounces of
+bacon chopped 1 pound Brussels sprouts
+the stems trimmed 1 cup dried figs
+stemmed and quartered salt ground pepper
+2 tablespoons balsamic vinegar sounds a
+little complicated what is it I guess
+that's what food is just a bunch of
+things that you throw together that's
+what it dishes I I prefer if I'm feeling
+extra saucy I bake chopped up bacon with
+my Brussels sprouts it's actually been a
+couple months now since I've had bacon
+yeah I've been really trying hard to cut
+bacon out of my diet which is a very
+difficult you guy I know you don't care
+for it as I say you could replace it
+with turkey bacon fuck you turkey
+Bacon's good in there so making it is
+not i eat turkey bacon very regularly it
+is a lie and I will not eat food that is
+alive it's not a lie I will not eat
+turkey bacon I will not eat fricking
+fake chicken whatever they call that and
+veggie burgers fuck that none of those
+things are lies though they are exactly
+what they say a veggie burger you know
+what I do with veggie burgers I put it
+on top of a regular burger okay
+protective really I don't think I've
+ever had a veggie burger
+I mean it just tastes like a bunch of
+vegetables squished together okay this
+tastes like onions okay so that's why I
+put it on top of a regular Wow okay sure
+they're you turkey Bacon's good it makes
+me and it's so so much better for you
+than bacon yeah I just cut out the whole
+thing I'd rather I would rather cut out
+all baked in the turkey bacon
+okay squirts Mik poo this is like a
+competition now thank you for
+subscribing we very much appreciate it
+and I appreciate the names a competition
+for the most juvenile name I think
+squirts mcpoot takes it if I'm gonna be
+the judge oh my god you got you a full
+hole how far are you okay great
+I am near the end to more sectors three
+do I have the last bosses full sector
+that's great you're doing you're doing
+very well
+loner at our John yes I love sushi
+oh yeah I love sushi so goddamn much it
+hurts we have uh we have a good sushi
+place here my monkeys duties I have been
+there in so long good sushi places that
+is we have a couple okay sushi places
+and then we have several terrible sushi
+places
+what's the terror I don't I've never
+been to a terrible one there's one
+there's one like three people I don't
+know remember otters girl that's like
+three blocks away from Benihana
+okay Ana's isn't a great sushi place
+yeah there's one a couple blocks down
+like closer to Grand Avenue in the hole
+that is some of the worst goddamn suits
+you have ever eaten never been there I
+ate it out of desperation I don't think
+I've been no sushi place other than to
+zoomies in Milwaukee cuz why would you
+why would you because it's a zoomies
+it's great usually if I'm with a group
+and I'm trying to convince people to do
+sushi will go to Benihana because I also
+do the e-bot that's that's the safe
+place yeah yeah and then they can if for
+it cuz no one else eats sushi that I
+know a girl Briana's well Jack let's go
+get sushi sometime how about that I
+would go get sushi got them love sushi
+I'm okay with sashimi that's just the
+fish on top of the rice yeah I like this
+shit yeah I like I like sushi as a
+presentation of shit put together which
+is all food as much as shit
+Liferay my favorite.i is is any sort of
+soft-shell crab Oh Jerry because snot
+shell crab just tastes like bacon it's
+not it's basically a bathing suit so
+we're gonna cut the stream short so we
+can sushi right now if someone saying
+you missed a sub I do that I've been
+doing that we don't have the sound on
+right now so I can't hear the what the
+fucks and we're busy talking about food
+right we're just gonna continue to talk
+about food square root of Jack poop
+thank you for subscribing
+we very much appreciate it I don't I
+don't know maybe that's too clever a
+name where I don't get it
+what is it is where root of Jack poo I
+think they just wanted to work poop into
+it somewhere
+I'm a writer yes get a little bit of a
+rhyme root in poo yeah I think that was
+what the intention all right that's fine
+that's fine
+I think that's fine
+right if I get if I get real desperate
+for tsukushi I'll go to pick and save
+and get the pick and save sushi it's
+fine no it's completely acceptable that
+I disagree yeah that's fine I mean
+obviously like you know what you're
+getting it looks like yeah you're not
+gonna go to a fast food place and
+complain that it doesn't taste like a
+you know a gourmet restaurant all right
+but you'll get it sometimes all right
+that's the pic and safe sushi I'll be
+with you I'll be happy I know I have not
+seen jiro Dreams of Sushi
+I have not either I believe I've been to
+his restaurant is that Jiro
+what's a cup what's his name - boo No
+Jiro's they know is a reference to Star
+Wars Episode one The Phantom Menace Jiro
+Nobu what a French restaurant called
+boob is that Jiro no I'm gonna yeah yes
+plan to blend mandalas I found out today
+apparently that movie strange magic the
+new Lucasfilm movie yes is one of the
+worst grossing movies of all time
+like opening weekend for movie that's
+playing on more than whatever it is 3000
+screens yeah
+one of the worst openings ever great I
+thought that was pretty interesting are
+you tired of taking pleasure in George
+Lucas's failures rich but it's not here
+anymore
+it's not even his failures though like
+he's credited as story by and so like he
+just told people like I maybe should
+have fairies what is here's a question
+who's gonna make his small personal
+films that he keeps saying there's going
+to make some day to him I guess so he
+keeps on like all these little
+experimental movies that a general
+audience won't why he can someday he's
+gonna make them he's never going to make
+these movies he's an old man to him
+strange magic is experience I haven't
+seen it what ducky do you think you're
+in here so you can see first thing thing
+about our fairies they have swords
+so we're calling them love pokers that
+was rejected I don't know the most
+disappointed either of you seen thx yes
+I love that great it's looking at that
+and then seems like it just feels like
+so much wasted potential
+it's like man if you continue to do
+stuff like that who knows what would
+happen well you know he went he went
+from that to wouldn't be famous because
+there wouldn't be a Star Wars damn it
+you're right
+there'd be another George Lucas failed
+no no good well he went right from that
+to American Graffiti mmm right which was
+his like in his head that was like no
+I'm gonna use my film school smarts to
+like and make a corporate movie it's
+gonna be great right was that intended
+to be like a big studio movie though I
+honestly don't know much about the
+production of American Graffiti yeah
+yeah well it was like his throwback to
+like the greaser moment sure I've seen
+it but I've seen it since high school
+but as far as like if it was a big movie
+I honestly don't
+oh yeah I mean I know people look back
+on it fondly now but yes it was it was
+big and it was a studio movie you know
+and then he kind of did the same stick
+with Star Wars we can throw back to
+something else yeah and I think that's
+what's why thx is so interesting because
+it's not throwback to anything it's just
+it creates its own world yeah man I
+really love that movie
+you should I'm a big fan of future
+dystopian movies about escape yeah like
+there's movie that came out a few years
+ago called beyond the black rainbow okay
+have your it was on Netflix I don't know
+if it still is oh man it's so good it's
+just really really visual and really
+it's really abstract but you can still
+tell what's happening which is you gotta
+have that balance absolutely but yeah
+but this to substance I see one many
+most thank you for subscribing these
+past five months we really appreciate
+all of them and that's the otherwise
+Mario Mario I can't kill you again
+you're still on my crew oh I didn't
+super Dukey Ness super Dukey yet Super
+Duke eNOS thank you for subscribing so
+people are subscribing now just to make
+names about food just to make poop names
+which is incredibly I think we should
+encourage also sir gex or geek C's yes
+sir yes sexy thank you for subscribing
+and also these past five months
+we appreciate your renewed subscription
+quest super shields oh that's great
+get them get them okay the ship you
+specifically get it by not attacking
+we're Ohno get the shields you have to
+be ultra peaceful okay do tell them
+attempt to heal them okay
+sir Zechs a surge exe house
+it's supposed to be surge dot exe oh
+well there was no way I could have known
+that this is what I want to let you know
+I just got that guy should I name this
+person after the same person or a person
+new person it's a it's a new crew member
+all right I'm sorry solid baked you had
+one jump with us but this guy's got max
+dance and he's a Zoltan yeah so you're
+fired that these are the rules these are
+our made-up rules to a thing that is
+made up in general so can i name you but
+you're not faithful huh
+this beats our old baby - rose I'm the
+remix you would love to die but you're
+gonna live so I can't name it after you
+you have no faith I like I like your
+arbitrary rules whatever I feel time
+wrong with his name I understand is name
+space cap space cop space care space cop
+is joining I'm tired of space cop you're
+not done with it yet no you can't be
+tired of it at the tedious part of an
+hour I'm doing lava
+Kentucky meets showers that's a great
+man that is a great name thank you for
+subscribing and filling us with meets is
+is that slang for something is that like
+a witness the next thing I'm gonna give
+you the Kentucky meet shower know what
+it means but it sounds like something
+awful like you better be good or I'm
+gonna give you the Kentucky meet shower
+no no it's just a thing you do know
+that's funny
+Kentucky meet our lucky me chair that's
+funny we we appreciate some way did you
+get the shield oh I'm saying don't
+Google it sometimes you get it with it
+with that I am NOT going to Google that
+okay we will not Google Kentucky meet
+shower if somebody else feels like
+googling it and maybe giving us a no
+limited explanation
+No
+Tyrone J can't take a break from space
+cop to work on the next blanky review
+because heads up it is when is it coming
+out it's coming out tomorrow holy shit
+you heard it here first we've been a
+whole month of that news all night
+coming out tomorrow 12:01 a.m. it comes
+out in in literally at just about an
+hour and a half I didn't even know that
+you were finished it you were in such a
+daze when I guess my mind is turned to
+mush J made the new plank of review I
+don't even remember doing yes this is
+insane it's insane and incorrect
+I haven't seen it yet what's your plugin
+voice sound like I I can't even do this
+is the crazy part is I can't even do the
+plink of this J you had me watch it
+before before we got started
+why do I have no memory of this oh my
+god did you get possessed did he do a
+good plugin i I didn't even know it was
+him I thought it I thought wow the real
+mr. blinken Wow yeah look for that in
+like an hour and 48 minutes holy shit
+yeah tomorrow I'm just gonna vlog about
+that the Kentucky meet shower was an
+incident where large chunks of red meat
+fell from the sky in a 100 by 50 yard
+area near Ramkin Bath County Kentucky
+for a period of several minutes on March
+23rd 1876 now phenomenon was reported by
+the New York Times in several other
+publications at the time
+so that's interesting that's crazy
+that's pretty cool I mean that's great
+that's great
+it rains fish on the Fargo TV series at
+one point does it yes oh that's another
+one I need to see oh god the Fargo TV
+show is really good it's like watching a
+ten hour movie I'm excited to see that
+I'm sure it'll come to screaming things
+about its yeah I actually just bought it
+on Amazon but it's it just dog yeah I
+don't think it's it's not a Netflix or
+anything yet but it's it's really really
+worth watching oh my god if there was
+such a thing as a Wisconsin butter bath
+I would do that shit Oh someone is
+mentioning the grim fandago old
+point-and-click adventure game
+critically acclaimed yes being dead has
+just been remade and released for modern
+systems I have the biggest first world
+gaming problem of all time right now
+which is what system do i buy it for I
+know I want to play it so I'm gonna buy
+it do i buy it for my computer knowing
+that sometimes I have to like render
+stuff out on my computer so I don't
+necessarily want to like leave something
+render in the background while I'm
+playing a game Oh
+good and install it get it from my
+computer install it on my laptop for
+just that reason
+yeah or do I get it for my handheld
+devices so I can play it while pooping
+oh my god right see my problem is what's
+your problem what they've done with the
+game is it's not it's not a remake it's
+just I hate remastering yeah so you know
+it's easier to get to run on modern
+systems mmm I think I might have tweaked
+like the interface a bit better some
+graphical updates might be neat but I
+already own the game and I can get it to
+run their probe third-party programs you
+get to run sure it goes like justify
+spending 14 bucks to own this exact same
+game again you know just to I mean
+literally it's just for easy a little
+slight graphical boost yep
+it's an event it's not for you it's for
+me yes for people who don't already own
+it for you like if you just if you
+wanted I'm sure there's steam
+achievements or whatever oh yeah I know
+you love steam achievements Oh someone's
+saying a shock muff shock wow we haven't
+talked about anything that we always
+been talking about food and poop we
+haven't talked about anything that would
+get the bingo oh if it was you think JIT
+oh no you couldn't have heard rich say
+that he doesn't like achievements yet I
+mean congratulations they might be full
+of it get it on the Vita that's what I'm
+thinking it's available on my Vita and
+out device then you can play it anywhere
+not just while you're pooping but
+anywhere while some things are under you
+on your computer you can be playing yeah
+but then it's a tinier screen no first I
+don't I'll bake the Vita screen and his
+first world from it's a nice screen you
+know I could see it's a decent you're
+bigger than a cell phone okay but
+it's a good problem and I guess Oh
+Krieger 7/8 oh he was just saying he
+likes to say shock oh that's
+understandable yeah you have to say it
+like they say it at the end of the
+trailer though Akbar J yes Elvis Elvis
+has a question okay have you seen the
+Japanese films House of Tetsu the Iron
+Man oh I saw that earlier I think no
+house or Tetsu the Iron Man those are
+two different movies I've seen house
+house ooh I own The Criterion version of
+it okay it's one of the most bad shit
+insane things I've ever seen
+all right and we should watch it at some
+point I've not seen sensitive the Iron
+Man I've been meaning to forever it was
+on Netflix for a while and then what's
+not me melon made by the same no no it's
+just another crazy Japanese movie all
+right yeah house is great house is a
+great movie to put out in the background
+at like a party like a Halloween party
+or something cuz they'll just have
+someone walk by and catch like five
+minutes of it and say what the fuck and
+they move on and you have to pay
+attention to the story okay that's great
+yeah intensive the Iron Man I believe
+has some certain ties to like body
+horror and like weird body mutation
+stuff which I'm interested in so right I
+should watch it
+I should track it down it sounded
+Netflix anymore so I should seek it out
+myself
+I know they made a sequel to but I
+haven't seen that it seems like a lot of
+work that's what I did with possession
+and now it's woman it's my favorite
+movie it's my favorite movie ever so
+sometimes you gotta seek things out I do
+not regret finding possession but I mean
+it's like if you have to type something
+yeah yeah I got a website
+I understand and like not only that you
+have to like do some research beforehand
+to see what you want we do we need an
+emoticon for mist sub that I miss
+another so oh my god don't think I did I
+don't see miss up but yes I will I will
+work on that
+getting a dedicated emoticon for hey
+idiots you missed a sub that's a good
+idea
+a good idea that came from square root
+of Jack cool so April I love you how do
+I feel about marriage after seeing
+possession I feel like it backed up
+everything I felt about marriage
+beforehand that's why I love it so much
+it was like this movie gets it one of my
+first recollections of stand-up comedy
+you know just I guess I'm just not the
+marrying type
+I mean a wedlock that sounds a little
+too close to deadbolts you know I'm
+saying
+but as like a 14 year old I thought it
+was brilliant who I knew nothing of
+marriage at the time
+Oh God not the words that is the word
+and of Turkey very sad oh it was like
+it's um below like wannabe stand up it
+wasn't like a big standard okay oh my
+god that's so bad that I loved it I mean
+wedlock says look so close to dead bolt
+he said nothing at all oh my god this
+made your favorite joke
+yeah it's it's a terrible joke but I
+remember loving it and like trying to
+repeat that to other kids as if it was
+you know my own joke at 14 all the 14
+year olds because we know a lot about
+we tell you farming for gunner levels I
+just I think did level up one guy but I
+can't get through the ship shields okay
+he's got a defense from that shooting
+down Singh my goal think an early Canon
+laser boys it's like every 50th shot
+gets a hit on their ship
+gotcha is he hitting you okay yeah well
+I mean if it's working I think I can't
+board because they got a mid pain right
+I can't take out the medbay because I
+can barely get through the shields sure
+so a prayer too quick so right now
+you're just leveling right now I'm just
+slowly degrading this guy yeah all right
+yeah they're saying send in your
+boarding party button and even if you
+take down the medbay but it looks like
+they have a repair drop yeah no that was
+not my job
+that was not my job from standard my
+jokes were much much worse
+if only I was as good as the webblock
+did both guys I've seen house of cards
+jf you see house of cards I haven't I am
+I should because I like David Fincher
+but I don't know I don't care about like
+political dramas and I'm sure it's more
+than just that but Europe and I'm sure
+it's a great channel bit I mean Kevin
+Spacey's yeah I'm sure it's fine I just
+say haven't found myself wanting to
+bother to get into it I got pretty far
+into it and again just like nothing
+drove me to keep watching it yes this is
+a fine show yeah I am no
+so yeah fair enough yeah weird sometimes
+you say things hey that was not a joke I
+did really
+
+[Part III]
+he has it weird sometimes you say things
+hey that was not a joke I did really
+good it's the longer you settle down I
+played a very hard original Nintendo
+game hmm
+I was gonna say spelunky is the game you
+always talk about this is a difference
+the monkey is a great game and after
+playing spelunker spelunky took a lot of
+cues from spoink er okay
+Bunker's and NES go hard as fucking
+balls oh yeah but after just like an
+hour I already made it past the first
+level and it's one of those you know if
+you die you start fucking over from the
+beginning of everything and it was great
+and I did alright at it
+done I'm whaling my finger at the
+microphone
+thank you I ain't donuts he liked one of
+my jokes my really poorly timed
+stuttering jokes for anyone who hasn't
+heard there's no point in telling any
+joke after the dead bolt
+right there's no point comedy is dead
+now that's the pinnacle I'm sorry I'm
+sorry the way I would usually start my
+sets is telling telling people that I
+got into stand-up comedy as a way to get
+over my stuttering because I used to
+have a stuttering problem and getting up
+on stage and talking to people has
+really helped smooth that out if you're
+interested you can go to the department
+of therapies something I see I forget
+already
+oh yeah I know that's what it was at the
+department of therapies I adopt they
+have a website you go to wwm and i'll
+help you out that's a funny joke because
+it's like I'm stuttering I guess but I
+got over my stutter I get it I
+understand the concept maybe I should
+explain it well you see what the joke
+here is is that the guy you thought he
+was going to farm but he's really going
+to his bedroom to fuck his life but what
+social construct tells us that fucking
+an animal is wrong is a web blog that
+sounds a little too close to dead bull
+but see here's the funny thing about
+that wedlocke brings two people together
+dead bolts keep them up it's the best
+joke haha
+it's the best joke ever
+yeah whatever just thinking about
+thinking about the guy delivery day cuz
+I can see it I copy the whole thing in
+my head however you're picturing him
+yeah I just picture how a guy who would
+tell that joke looks yeah you're correct
+alright you're like I want to say we
+were on vacation somewhere and it was
+just like the the comedy club at the
+hotel or something and it was like an
+all-ages thing no sure
+you know okay it had to be of course oh
+so it's not like somebody saw on TV it
+was just some guy you saw somewhere was
+some guys alive okay absolutely and and
+it makes it even better
+yeah I thought you're like just some
+random comedy special on TV or something
+no no some live and and he was billed
+like it was like he was part of this
+review show so there's a failed stand of
+cafes on his doing these crappy like
+resorts or whatever
+yeah it was it was in hindsight
+obviously like I said if when you're
+when you're 14 and like I'm such a I was
+and still am such a big fan of stand-up
+so it's just like taking in all the
+stand-up comedy I could to me was like
+well it does sound the same but they
+mean different you know my mind was
+blown
+I was also a really dumb 14 year old
+okay if that helps yeah maybe he wasn't
+neil hamburger neil hamburgers great I
+saw Neil hamburger perform in Milwaukee
+and it was like the have you ever seen
+any of his stand-up it's like the
+perfect like slightly outdated
+references that's too outdated you know
+now talking about like 80 stuff but he's
+doing like sons of Britney Spears jokes
+and it's like perfectly outdated like
+the exact right amount it's the amount
+of craftsmanship in his shitty jokes
+yeah he's remarkable yeah now I see I
+see some people mentioning like Patton
+Oswalt's and stand-up and I have an
+issue okay I don't think it's stand-up
+what is it storyteller storytelling
+can't be stand-ups we can be said
+technique yes and I don't think it's
+stand-up I guess if you have a very male
+make the rules you can make that role up
+once you own Webster's once you're in
+charge of Webster's I have a goal
+stand-up is beat in front of people and
+same things that make them laugh it
+doesn't have to be like take my wife
+please
+I think stand-up has a more structured
+Jack
+Jack what this is not an argument this
+is not a debate
+you are wrong stand-up comedy is more
+structured jokes and there reaches a
+point and so the most famous and best
+legendary stand-up comedians do not
+follow that structure though hacks
+follow that structure like Seinfeld yeah
+has structured jokes okay George Carlin
+had structured jokes he is some he also
+tells stories Richard Pryor tells story
+told stories
+no no they weave stories through their
+structure jokes that's that's narrating
+a June same as what Patton Oswalt does
+I'm I'm I'm okay being a little wrong on
+this I think I think they're like to me
+it's it's probably like who get upset
+with me when I call something a rogue
+like and they're like actually this is
+my thing I think there's a difference I
+think there's a difference
+I like Patton Oswalt I like his stories
+well it's great he's a great storyteller
+he's great at going up on stage and
+saying things that are funny that is
+true that is true that is true that is
+true
+oh god oh god you know what it's not a
+real stream unless you guys are really
+mad at me you're welcome
+and you know we all have our things that
+were wrong about mostly good job spakest
+but yeah and they're like I'll agree
+with you Jay patton oswalt
+patton oswalt is a funny guy and he is
+on stage with a microphone have you seen
+these actually really good he gives a
+really good performance in the movie
+young adults have you seen that with
+Charlize Theron no they're really good
+movie and he's really great in it and
+he's also in big fan which was directed
+by the guy that wrote The Wrestler
+Oh apparently that guy used to write for
+The AV Club years ago but he wrote The
+Wrestler and he groped and directed big
+fan and bettan I was also really good in
+that too that's that's like a movie yeah
+it's yeah he's like a sports fan and
+it's not you know completely socially
+yeah yeah it's a good movie so yeah
+Patton Oswalt to do more more acting I'm
+sure you've seen because he was on was a
+king of queens the sitcom that he was a
+regular on for a while yes I've never
+watched that show but I've seen the
+clips on YouTube there's like a scene
+it's like a party at their house and
+Patton Oswalt just stands completely
+still in the background staring at
+nothing for the longest time the entire
+scene and nobody noticed when they were
+shooting I guess
+I think I like that about him I like
+that about that as well
+little outside that box Co Resident Evil
+vs. Silent Hill I've never played any of
+the Silent Hill games rich and I aren't
+the biggest hair game fans I've played
+the Resident Evil games and I've
+disliked most of them I like to Reza do
+before because that was a little more
+action orientated
+aren't they all kind of action no no no
+well I guess I know the movies more than
+those amazing movies the first Resident
+Evil game was was a very unique thing
+that I hated it entirely which is it had
+fixed cameras almost as if they were
+security cameras okay but your character
+moves normally and so like but you would
+you would like like the camera being
+here and your character would walk down
+the hallway right so you have to press
+left to make the character walk down the
+hallway okay but then when you turn the
+corner the camera would be here so you'd
+have to then walk toward the camera and
+so you'd have to like constantly change
+which direction your character is
+walking to have that character walk in
+the same direction now yeah just
+frustrating a nice little mystery game
+Resident Evil 4 is great I played one of
+the Resident Evil's yeah which one did I
+play I don't even know it was okay
+that's my story
+yeah I don't know I was I was like I was
+staying at a friend's house I was out of
+town and there's crashing at their house
+and they were at work all day so I just
+had a video game system and they had
+Resident Evil whatever and so I just
+played it all day just to kill time I
+think this is kind of fun do you
+remember
+it would have been 2000
+did you play 2010 ish no older than that
+you mean like 2008-2009 so whatever
+Resident Evil game was big at that time
+do you remember Spanish in the game no
+were you dude I don't remember I I don't
+remember anything about it I played it
+for an afternoon and kill some time I
+remember thinking that it was kind of
+fun and that's the first and only time
+I've ever played any Resident Evil games
+we are you in space but before the
+thanks Jay this is you've made it far
+enough to at least no matter if you beat
+the mothership or not you've redeemed
+yourself from somebody yeah
+Sunday's replay know something
+he blamed me shit talkin Farscape wow
+that seems pretty reasonable oh my god
+and I'm sorry guys I did I forgot to
+tweet again I forgot to tweet that we
+were streaming I apologize oh my god
+right we were we got we got like almost
+800 people without any sort of
+notification yeah that's pretty good I
+mean this is I I mean I tweeted this
+afternoon what time we were streaming
+about hmm
+but I did not tweet at the start of the
+stream and I do app on I'm looking I'm
+checking my Twitter now and I really do
+apologize for that thank you guys for
+coming out anyway also apparently we
+missed a sub tears HTML Tyr s HTML very
+sorry but we really appreciate did I
+miss any more while I was apologizing
+for missing one I don't know operation
+turtle strike says Jack that's it
+everything is so wacky how did you how
+did you see that amidst all the the spam
+that were clearly ignoring how did you
+find that comment I am reading in
+between the lines that's what I'm doing
+against me saying that is kind of the
+answer to the spam isn't it have I seen
+danger 5 yes there you go absolutely the
+answers yes
+I've heard a little bit about danger fog
+I don't know what it is doesn't do it
+does anyone know what it is I've heard
+it's a danger I want to say it's a TV
+show like a British show or something I
+don't know I've heard of it yes I have
+not maybe I've seen it is it just is it
+a two-minute Internet video then yes
+I've seen it no I think it's a TV show I
+don't think it's an American TV show but
+I think it's a show yeah I think so the
+answer is clearly we're all big fans of
+danger 5
+that's all been downhill since danger
+three absolutely no series like you know
+you get the three and that's where it
+kind of Peaks right first third date
+your cousin little area come on bad
+cousin Larry does anyone remember Danger
+Mouse yes did you know the Danger Mouse
+cartoon that was made in the 80s was
+done by John Kricfalusi the guy that did
+Ren and Stimpy know it before a run and
+Stimpy yeah you did Danger Mouse huh I
+wish when you said do you remember
+Danger Mouse I thought you were talking
+about the electronic producer who made
+the Gorillaz album
+I wasn't dangerous
+oh no I'm not Danger Mouse Mighty Mouse
+is what I'm thinking there we go
+fuck you worry got it grandma eighties
+cartoon of Mighty Mouse which was of
+course been around for much longer than
+that but even the eighties iteration of
+it he went on to do run as hippy see you
+work subconsciously thinking about the
+gorillas I was oh I like the girls I
+don't have any other albums or but what
+I've heard I like that I believe it was
+Danger Mouse that did their second album
+okay
+that's all I know
+I want to say Dan the Automator
+produced their first mmm I don't know
+just seen words though I also I don't
+know nothing about nothing
+Oh dick neutral ralph bakshi had
+something to do with Mighty Mouse too
+well that's even more amazing I need to
+go back and revisit that I won't but but
+I should there are things like that
+where it's like I love this as a kid but
+I know if I go back to revisit it it's
+not gonna be worth my time even if it's
+good I don't think it will be all of
+pee-wee's Playhouse is on Netflix right
+now which is a great show and meant a
+lot to me as a kid but I no no I mean
+I'm sure it holds up for what it is but
+as someone my age I just can't imagine
+just sitting around watching pee-wee's
+Playhouse
+apparently Danger Mouse was the kids TV
+show back in the day yeah I remember
+that's why I was sick why would you
+don't us we both said oh yeah I remember
+that but I was I meant Mighty Mouse
+oh no there was danger there was a
+danger house in addition to that but I I
+was confused
+okay Jay was confused there's multiple
+things come on German and also I was
+typing and I don't have the mental
+fortitude to type and listen at the same
+time so I haven't heard a word you guys
+say for the past minute okay so that's
+all I got
+welcome shit's gettin weird to them
+breathing Channel oh my god yeah oxygen
+the oxygen channel that is the channel
+you missed it you guys blew it i 100%
+blew it and I acknowledge that I blew it
+that's great
+this is something and rich brings this
+board did you bring it from home or is
+this just something that's here there is
+just a piece of wood that rich brings
+from home really I thought that was just
+shit that was later on the students you
+have a designated piece of junk wood
+right all right this is functional it is
+just undies are just pieces of wood at
+the studio you can just grab it it's
+right in that bry desk I use it all the
+time for this kind of stuff all right
+it's it's weird it does just because
+it's all right it's so weird I'm losing
+my game you sure do it
+you know what just do it
+oh no they're saying we need to get on
+the trolley just let you use the piece
+of wood ie cream fuck I agree oh yes we
+did set up a previously recorded Steam
+account previously recorded dot rlm at
+gmail.com
+if you send game gifts to that email
+address we will receive them I don't
+know you know what I don't know did you
+hear about how upset people are about
+the WWE thing yeah do you remember we
+there there was a little bit of that
+Smackdown or Royal Rumble or whatever I
+haven't watched this whole Colgin yeah
+well we happened to be out the other
+night in a bar that was playing the
+Royal Rumbles yeah it's related to that
+okay is what you're saying
+yes okay apparently whoever won that was
+not who the majority of fans thought was
+going to win or who wanted to win okay
+and so people are so upset that they
+faked wrestler that they wanted to win
+didn't win that they've been cancelling
+their subscriptions okay this is it
+that's so not like there was no cheating
+involved obviously because wrestling's
+fake right but it was just
+we're upset that the outcome of this is
+not what we wanted yep
+no kind
+some some guy big guy won the big the
+big guy who wears a lot of black one and
+everyone wanted the doofy guy with the
+beard to win you know you don't always
+get what you want no and you're not the
+writer of the show just because your
+show didn't turn out the way you wanted
+it to fuck man
+yeah that happens yeah lost fucking blew
+it
+that Cyril blew it but they brought back
+won't even think product bag oh oh
+that's right you didn't like the any of
+us I like that oh that's what I'm
+talking about I hated the ending of laws
+that was a great everyone's friends and
+happy together forever
+ah they all love each other bullshit
+they all love each other hey that's
+great good for them but that's the thing
+like I know there are some people that
+will defend the ending of loss but a lot
+of people hated it yes and it's like
+well that was in do you wanna go back
+and reshoot the ending exactly exactly
+so now so there's this huge thing and
+people are pissing and moaning so what
+do they want new do they want a rematch
+where they get the results that they
+want
+it's all fucking fake so do a rematch
+and then never gonna get what they want
+but the only reason they got it is
+because they want like who cares yes
+that's the weirdest thing to be upset
+about that yes yes I mean I'm not a
+wrestling fan and I know some wrestling
+fans are very passionate about it but
+still I think most sane wrestling fans
+understand what it is but there's a
+story that happens yeah characters and
+whatnot
+yeah yeah I know it's it's been this
+huge deal especially and it's from a
+slightly more interesting perspective is
+now that fans
+are paying a monthly subscription they
+feel slightly more entitled oh that
+happens yeah and it's just like you're
+you're paying to watch the thing that
+they produce yeah there's there's no
+guarantee that your favorite wrestler
+will win right right you know yeah yeah
+pain for a subscription does not make
+you a part of the creative process no no
+you are so I guess if you are upset and
+you want to stop paying for that
+subscription that's the answer yes I
+guess when you put it that way but like
+again like what do they want a rematch
+yes you'll just take another group of
+people upset now that they're exactly
+yeah winning yeah this is the real thing
+no and by the way I don't know what I'm
+talking about
+we did see some with the Royal Rumble on
+the television we did see some of it and
+I've been trying to catch up to the news
+but I read so much of these articles
+about professional wrestling and it
+makes me cry oh my god I respect the
+athleticism of professional wrestler
+professional wrestlers are really strong
+and I like that about them know the
+athleticism of professional wrestlers it
+takes a lot of skill it takes skill to
+do what they do
+absolutely I'm not I'm not bashing
+wrestling fans I just know nothing about
+wrestling and I've been trying to
+decipher why people
+are so upset and what it seems to me it
+boils down to a guy didn't win that I
+wanted to win okay so are people on the
+chat saying that's wrong I'm sure it's
+more intricate than that because they're
+wrestling fans now sure but now hey we
+made it to the final level it's true but
+everyone knows that now like there's no
+there's no secret now like for what the
+funny thing though is like like there
+are people that are really into
+wrestling and they appreciate it for the
+things you said like the you know the
+the skill and the athleticism look at
+what they do even though it is fake the
+best of the people that are really into
+wrestling but then get told by somebody
+that isn't a wrestling fan like you know
+wrestling's fake right as if is if they
+don't know at this point right like
+you're talking to a grown-ass man yeah
+why the great gravedigger is not real
+just like related to that did you know
+that boyhood did you know that movie
+took 12 years to make 12 years jack did
+you know that I mean it was only like a
+week every year but that 12 years there
+is I have so little fox boy I appreciate
+all of your jokes the only reason we
+keep doing at this fight that people are
+like you guys must be really blood hurt
+that no one agrees with you're like no
+it's not even that it's just we just
+think it's funny to keep going about it
+the first two hours are okay and then
+out from then he turns into a miserable
+tour yeah I have a very low tolerance
+for art and from it's not even that like
+it's not like some abstract move I mean
+it's very straight forward
+it's oh overly simplistic and that's the
+thing and that's the Richard Linklater
+is like that or he just makes these very
+very simple you know characters doing
+stuff right before sunrise before sunset
+movies and I like those cuz I like those
+characters I like the kid in boyhood
+I don't like but it's but it's now it's
+like people are making it seem like oh
+it's just this epic journey of a boy
+growing into a young man and like no
+it's another Richard Linklater movie
+words just some people doing things like
+people are and changed their perception
+on it because they just shot over such a
+long period of time and I don't know I'm
+done with boyhood I guess I don't yeah
+that's what they're saying is what's the
+when did you guys start shooting the
+first trailer for space I know when our
+first full trailer is going to be
+when was the first fit space cop 2008 or
+2009
+okay right around there I'm gonna hear
+YouTube right now well then that's not
+accurate though as far as when that
+trailer results okay we shot we shot it
+after the recovered so I want to say it
+was around 2009 okay so not 12 years why
+but we can still advertise it as bean
+machine yeah so it's 50 so six six years
+yeah six year did you know it took six
+years to make space cop that's right
+space cop is so half as good as Boyle so
+by definition boyhood will be twice as
+good you know I'll take that well and
+we're for anyone I see some people going
+wait it took six years to make they
+started filming the original trailer no
+no we we shot the original space cop we
+shot a day and a half on it right and
+everything fell apart and it was it was
+a disaster Rich's eye swelled shut from
+cat allergy right and people that were
+supposed to show up for shoots didn't
+things are much more slapdash back
+though he's just fell apart so that was
+yeah the original space cop was a day
+and a half in 2008 or 2009
+now to the current the Korean space cop
+from the first shoot was in September of
+last year okay well no not last year
+last year's 2014 so September of 2013
+okay a little over a year here omits
+doing other things okay oh sorry hey I'm
+sorry I'm sorry
+here Tatsu thank you for subscribing and
+thank you for making me interrupt J now
+I'm a jerk oh my god mothership
+mothership I'm moving in what you moving
+in to attack oh I thought that was like
+a pun for like you're the mothership I'm
+moving it mothership moving on doesn't
+run at all no I didn't I didn't I didn't
+I do that's right Duke Nukem Forever
+took 15 years to make does that make it
+the boyhood of video games absolutely
+yes yes eraser hood eraser hood boy hood
+eraser it no someone else planned this
+out via eraser head took like six or
+seven years to make oh yeah yeah and
+that's more impressive to keep track of
+cuz you have someone that's supposed to
+be the same age the whole movie you have
+Jack the jack man's character seven
+years he got to make sure cuz he has the
+goofy big hair then you got to keep
+track of that and for several years also
+eraser has amazing and boy that's boring
+that's pizza guy
+we don't know half-life 3 is taking 8
+years to make we don't even know if
+they're making it we can't say it we
+can't talk about it we don't even know
+if they're working on a notoriously well
+they know when they announce half-life 2
+wasn't like before they were done oh
+there were early premieres of half-life
+2 that people were really disappointed
+by so they had to go back to the drawing
+board I couldn't remember maybe I'm
+wrong ever I remember being fairly close
+the amount of the voice good I mean I
+from what I remember they they announced
+it showed some early tests before they
+updated the source engine I don't know
+you know who will tell us the chat
+I think the chat tell us half-life 2
+leaked early 2003 so they redid parts of
+it that's what I found that alright and
+it came out in 2004 so we maybe we could
+go a little right no I thought it a
+beautician I thought I remember the
+half-life 2 early leeks being like
+unfinished or less than like they didn't
+look good and so they they had to like
+tighten stuff oh I might be thinking
+about Team Fortress 2 here the original
+showing of Team Fortress 2 at a very
+different art styles
+demo weasels is rich the picked-up XCOM
+enemy within and was sucking ass until I
+saw you backseat game for Jack so thanks
+is why I Mexican maxi games the good of
+everyone
+absolutely who's my favorite superhero
+it's fight or me oh god I sipped up my
+hoodie and no people are wondering if
+sex is happening
+oh they heard zipping noises I like
+spider-man my favorite superheroes did
+you get myself I sang a little song
+about my favorite superhero spider-man
+it should be
+and my second favorite superhero is face
+down space cops not a superhero he's a
+space cop you know everyday space cops
+gonna be here okay well when you put it
+that way
+space cops space firefighters there
+every day heroes in space who's my least
+light superhero Superman fuck that guy
+Superman's boring I think so yeah now is
+that the Bible Man character or is it
+the performance of Bible man by Willie
+Aames no I think I think Superman
+started out as a neat idea you know very
+simple basic strength right then they
+just kept adding shit now he's got laser
+vision now he's got freeze breath now we
+can fly did you notice it getting colder
+in here yeah this looks someone turned
+the fucking heat off who did that when I
+don't know I just noticed it was off
+when we turn it up when we were filming
+did you not turn it back on Mike turn it
+off
+why did he turn it off before we started
+filming oh okay so somebody turn it off
+because you were filming and then no one
+turned it back on that's what happened
+damn it no water it's so cold in here
+it's so cold in the deep look that up on
+YouTube if you haven't seen it it's
+amazing that's my favorite rap song
+strip you've seen it right it's great
+great on the music video for that just
+says the best cinematography I've ever
+seen in a music video I think I played
+that on the stream once one of the new
+years are one of the the December
+streams I think
+well this devil says when he was 10
+Bible man came to church that was it the
+real Bible man though where did he touch
+you is that a legitimate question no he
+touched him in his heart yeah and
+convinced him to do charity work yeah
+I'd love the concept of Bible man yeah
+because you can see I could see an
+entire group of people really rallying
+around that idea how should they made a
+number of videos about it so no one of
+our guerrilla interrupted sequels had a
+Bible man character in it yeah yeah I
+don't know if we ever gave a name but it
+was supposed to be it was a reference to
+my babe I know at some point I'm just
+gonna get hit with some kind of like
+laser blast or something as plastic
+costume was gonna like yeah melt into
+his skin and burn him yeah because he's
+not a real superhero he's just a guy in
+a costume
+we lost our Mantis but give us food the
+greater good sure it was sacrificed to
+fill the
+now I just have it so cold Mindy I'm so
+sorry
+literally I was just sitting here like
+watching rich playing just bobbing back
+and forth going yeah that's all night
+now apparently they played that cuz they
+brought back beavis and butt-head do you
+remember that a few years ago
+yeah I'm TV brought back because
+somebody and they apparently watch done
+lad
+so I think a lot of people are aware of
+it from that which I I didn't know it's
+on there I don't remember how I found it
+I think someone showed it to me but it
+reached a new level of Fame thanks to be
+visited that D it's it gets cold in the
+Vegas
+so I take it Micah's not coming back to
+play dr. Mario I think that's the same
+yes because I preface it with not but no
+one would even know that there was a
+possibility if you didn't just mention
+it it's fine once again
+mike has mentioned his wants to play dr.
+Mario and then completely flaked out
+well you know things happen it's okay I
+knew that he wasn't coming back as soon
+as she said yeah yeah we might come back
+I said oh yeah on the bright side I'm
+having a great game you know you're
+you're doing it I don't need to go to
+that stores resupply that's great good
+oh my god you really did lose my Mantis
+but
+are you finishing that thought what no
+I'm not okay no my things are going whoa
+there we go there you go thank you I did
+lose my Mantis bud Oh was on I'll get
+right on this trolley don't you worry
+you be the boolean a 90's children's
+film was I believe that villain telling
+a he-man villain right no like I'm like
+it like the little kids in elementary
+school and one of the kids getting
+picked on by the bowl what else would it
+be
+I don't I don't know if that's right but
+I know I have the giant bee man B or B
+or no I'm gonna Google B he-man
+character we come up with here buzz off
+yeah that's the thing
+I totally had that guy I did not realize
+that was his name you want rich to take
+power out of autopilot you can't you
+can't that wouldn't do anything yeah and
+you might not know the game so all the
+stuff on the left side at lower left
+seventh screen is interchangeable all of
+those green power series you can
+reorganize to give more power to some
+systems and take power away all the
+green power squares on the lower right
+hand side that's a one-time buy you
+cannot redistribute that the more you
+know big fat fatty fat fat thank you for
+subscribing we very much appreciate it
+I find that name offensive yeah that's
+fat shaming yeah yeah I got a big
+problem with that
+ya know I feel like that's a reference
+to something big fatty fat fat fat
+that bomb girls no not Freddie that fat
+sorry they'll you've made the name
+samosas name the guys big big fatty fat
+fat fatty fat fat I mean such a naughty
+Danny left along with big fat fatty big
+fat fatty is one think it off could be
+that's what I'm thinking of big fat
+fatty fatty fatty yeah you know what
+what dollar sounds somewhat similar but
+not quite identical okay
+big fat Betty big fat Betty you you
+you're talking diet doctor awesome thank
+you for subscribing and thank you for
+coming back for two months we appreciate
+it it might have been a reference to
+something I you know I remember who was
+I talking to I want to say it was Mike
+we were having this conversation Mike
+about Queen he's like everyone remembers
+Queens hits but you know no one
+remembers that b-sides at their lower
+stuff and I was like those are still
+great oh who cares people will remember
+more awesome yeah that's the case with
+most bands they have the popular songs
+and they have the songs that you know
+love people that pay more attention
+wasn't there absolutely that's every Big
+Ben
+Oh big fat fatty fat fat says I'm not
+fat shaming I'm no well we have been
+spending most of the stream talking
+about vegetables remember that room when
+we're talking about vegetables sex Alton
+oh that's what you call that's what you
+call a prostitute skeleton mmm a sexual
+dinner okay
+my army of sex Sultan's fuck all of the
+dread-nots the worst idea for a
+children's show I've ever heard how am i
+holding this sword I have no muscles his
+funny muscles just not this face oh
+that's right yeah you did that muscle he
+wasn't actually skeleton or a skeleton
+head your beefcake is that what you said
+that is what I said he shot a thing it's
+okay I'm almost done talking about
+vegetables shit's getting crazy it's
+true you know it's really good speaking
+of healthy foods there's these things
+called Benito's it's chips made out of
+out of black beans is that true yeah
+they're delicious
+fucking
+and down yeah yeah you gotta pick and
+save they're really good
+I get the chipotle BBQ yeah chips made
+from black beans you're looking for a
+healthy ish snack bean ito
+oh my god save order those or the sweet
+potato corn chips are really good
+nothing on the sweet potatoes oh sweet
+potatoes are fucking great I did the
+super gross really all done
+no no I like sweet potatoes that's okay
+I accept their you have a different
+palate a lot of people like super-dead I
+never got him now I think I had an
+unfortunate incident as a younger person
+with sweet potatoes okay we're like we
+never had them yeah because apparently
+mom my mom just didn't make them so at a
+Thanksgiving dinner there were sweet
+potatoes and in my head because I didn't
+know what they were I just thought their
+ego fails as a regular mashed potatoes
+and sweet potatoes mix them together oh
+that's weird and took a big scoop fall
+and it ruined everything
+so I think I still have that linger okay
+see I found like family gatherings like
+Thanksgiving and stuff yeah whoever
+makes the sweet potato whatever dish
+it's always mashed sweet potatoes but
+they always add like sugar and like like
+brown sugar and it becomes like and
+Marcy yeah it becomes like the super
+sweet almost like dessert dish yeah and
+like I don't like that like I don't like
+super sweet things anyway yeah like I I
+just like chopped up sweet potatoes and
+and just just you know serum in a pan
+and eat them and it's fucking delicious
+it's crazy
+Donna it's really good I don't
+understand you I don't understand me I
+like listen all I know yeah is I like
+sweet potatoes
+no no I just like so you potatoes great
+I don't know if this is a controversial
+opinion or not but you know it is is it
+there's gonna be people who like yeah J
+sweet potatoes fuckin rule they're gonna
+be like J you are wrong I lost all
+respect for you on because of your
+stance on sweet potatoes how could you
+man yes and sinnerman sweet potatoes are
+low in carbs it makes them much much
+better than mashed potatoes or any sort
+of potato sweet taste so you don't have
+a sweet taste they don't leave us wheat
+taste if you add fucking marshmallows
+and sugar - no it's not it's not sweet
+like a sweet potato they're called sweet
+potatoes but they're not sweet I'm
+trying to think of I'm trying to
+describe the taste it's not a very
+strong flavor but I like it it's cuz
+like a you know since then I've had like
+sweet potatoes and you know sweet potato
+fries stuff like that yeah what is the
+taste it's like a someone tell me what
+they taste like i I I'm trying to
+describe - for someone who has not had
+sweet potatoes in a while which
+apparently rich yeah yeah I don't know
+how I would describe the taste of it
+would you just tastes like sweet
+potatoes like almost a little caridy a
+little bit maybe a little like a cooked
+carrot what's this going to be potatoes
+would just say they taste like ass I
+think so I am upset about J's opinion on
+sweet potatoes that's clever
+that's good nailed it good job nailed it
+who said that
+Tim Salomon's good job congratulations
+yes this is redemption good job ray
+first Sunday
+oh yeah like it like like a mix between
+a carrot and a nut that's what a sweet
+potato is not a carrot Neddy it's weird
+I don't like it it's weird because I
+like them because they're really good
+for you it makes me feel things and
+thinks babies feel like doing anything
+else what can I do after that now
+nothing that was pretty incredible we're
+right now in debating sweet potatoes I'm
+gonna put this out there I think we've
+run out of this is that a pretty crazy
+night as far as conversation topics pink
+I think we need to settle down reconvene
+next week
+yes core like you were a good pilot -
+you'd add as many shots yes just what a
+good pilot does yes Oh a reminder to
+everyone Sunday we are doing a Super
+Bowl yes football European friendly
+stream we will be streaming starting at
+1 o'clock p.m. Central Standard Time
+shit's gettin crazy we're gonna play
+football games and football games we're
+gonna play football games and football
+games yeah that's funny
+you know like football is if you say
+football games and football games it's
+funnier because they're both the same
+word it would be funnier if I said the
+the different one is that we're gonna
+play football games and football you can
+see just like football games and the
+lame one subscribed Oh detective fat
+detective thank you for subscribing Oh
+Jay with a rare shout-out yeah I don't
+know what's happening ever but I did it
+you did it Jay I saw it on the screen
+and it happened you t2g football and
+football
+I think same football the same way both
+times as funny yes sure yes I like to I
+likes football
+no it's not yeah but I've done other
+funny things maybe Sunday early stream
+is the point of story I don't care about
+this joke anymore no I'm not going I
+would like if you wanted an alarm clock
+okay no the joke is that rich will have
+to get up by noon that's that's tough
+that's tough that's tough for some
+people it's specifically rich um I don't
+even care about the Superbowl anymore
+that Packer game destroyed my soul you
+could come here and play are you doing
+it before the Super Bowl or just during
+the Super Bowl
+I don't need because I know you don't
+care about the Super Bowl I don't know
+when the Super Bowl is okay it's it's
+later in the day
+okay a little bit later what an
+embarrassment
+that was insane do you remember what off
+wanna see Hawks had the most spectacular
+comeback in in postseason football
+history yeah you know they're never
+gonna forget that yeah that's gonna be a
+highlight for years to come absolutely
+not upset and an teams finding a way to
+lose yep yeah yeah it's all you're right
+I know I understand these things
+you you you mark the Bears but I've
+never seen I think I'd choose my season
+over yours in hindsight no no the
+Packers had a great season I will say I
+watched that last game at a bar I've
+never heard a bar get so quiet
+when that game was over it was like dead
+silence and everybody was just sitting
+there like staring at the floor victory
+it was so it was oh that was miserable
+they're saying that the game is that
+like 6 p.m.
+yeah that's usually better I don't you
+know well we'll talk to the chat if they
+want us to stop if they're gonna watch
+the game we'll still have it done we'll
+do whatever you guys want it'll be crazy
+town but we figured because it's
+European friendly many of them might not
+be American football we don't know we're
+not into American football I'm not I
+don't even know what the super boys it's
+pretty it's super yeah in any case
+that's all we'll be around and we're we
+should leave now to be done good night
+everybody
