@@ -1,0 +1,4312 @@
+Jan 17, 2016
+Undertale
+https://www.twitch.tv/video/54283335
+https://www.twitch.tv/video/54283492
+https://www.twitch.tv/video/54283655
+https://www.twitch.tv/video/54283821
+https://www.twitch.tv/video/54283941
+https://www.youtube.com/watch?v=wOc5g9WT0Xc
+https://www.youtube.com/watch?v=xj_UzKDwSSQ
+https://www.youtube.com/watch?v=T5Nm4XWga30
+https://www.youtube.com/watch?v=SzHZv-J4bmg
+https://www.youtube.com/watch?v=E6l_ZaeidYs
+https://twitter.com/PreviouslyRec/status/688858215161966592
+
+[Part I]
+it appears as if we're recording I got
+the email that we were going on that we
+were going is there some kind of twitch
+issue going on is there twitch you yeah
+I see my I see myself in my end hey
+there you go are you is the sporadic
+outages everybody hit refresh everybody
+who can't see us hit refresh let
+everybody who can't see us still know to
+hit refresh because we can hear we say
+to hit refresh you don't need to hit
+refresh that's true that would be a
+waste of time true well yeah the echo
+was because rich was watching on stream
+I was computer everything's fine now
+okay okay so I guess we should start
+from the top we're gonna start from the
+top because I started telling a story
+but apparently no one heard it because
+the channel is it up so here's my
+incredibly exciting story about my
+wasted day okay it's not I mean now it's
+built up a little bit but it's just it's
+a Jack story so prepare to be
+disappointed so my love of text
+adventures and you guys were talking
+about this in the chat you were talking
+about frog fractions frog fractions was
+the very first text adventure game I
+ever played yep
+and I loved it it was so much fun
+spoilers for frog fractions I guess and
+then we started playing the space quests
+and the police class and those are great
+I fell in love with text adventures I
+even found an app for my phone called
+fronts fr otz mm-hm and it's a way where
+you can play text adventures on your
+phone it's great and so I was playing
+this particularly clever one called the
+counterfeit monkey or maybe the curse
+that the counterfeit monkey I don't know
+but I'm falling in love with it again
+like I was up late last night and just
+laying in bed and playing the
+counterfeit monkey on fronts it was
+great so this morning I get the really
+dumb idea in my head where it's like oh
+you know what didn't I look into this
+before about like ways to make your own
+text adventure game would that be fun
+like and and I came across a few
+programs and one promised no programming
+needed use simple language make your own
+text adventure in minutes like oh this
+can't be you know I but it is
+pre-program
+yeah downloaded the program and started
+watching tutorials it's called um hold
+on I had this already it's called in
+foreign it's called inform and I started
+watching tutorials and like the guys neo
+showing you how to do this and you write
+it all in real language and so you say
+like the the main hall is a room to the
+east of the main hall is the grand hall
+even then like you just hit go and boom
+you have two rooms in your text
+adventure that's all you need like a ho
+oh this sounds great and then you know
+like the tutorials like here's how you
+put items in now you can pick up items
+and like there's all this built in
+programming language I was like so I get
+this dumb dumb idea in my head this
+morning you know I'm gonna make a really
+quick text adventure game before the
+stream tonight so rich can play it okay
+I can totally do this I'm gonna make a
+space cop text adventure game and you
+know like it was gonna be so simple
+right it was like Space Camp is gonna be
+in his one-room apartment and he has to
+drink a beer like that's gonna be it
+that's gonna be the game the beers gonna
+be in the fridge and that was gonna be
+it as I was like I was like that's the
+dumb ID I got in my head today and I get
+very very focused especially like when
+it when it comes to things that I don't
+understand cuz like I'm gonna figure
+this out so I love games so much like I
+just love figuring stuff out and so I
+started writing it's like oh this is
+neat and you know oh I can do this
+really simply and here's what I wanted I
+wanted it so you like in minutes you
+can't you can make rooms you can make
+items you can pick up items in minutes
+yeah
+and so I got I got a little
+over-enthusiastic okay so I said okay I
+want to start with a dream space cop
+space cop is dreaming about his dead
+wife
+okay and and in the dream the dead wife
+says space come they shot me in my
+fucking face and I wanted the player to
+have to type wake up to get out of the
+dream yeah but apparently that's hard to
+do okay cuz you could like I couldn't
+find anywhere I couldn't find any
+tutorial that said like how do you make
+a player space a a very specific thing
+in order to progress yeah there's none
+of that sounds like oh I have to maybe I
+have to make the dream a room and create
+a certain like if-then statements and if
+they type in anything else it'll just
+say they shot me in my fucking face
+until they can type wake up I couldn't
+do it
+hours I spent hours trying to get like
+trying to tell the game I wanted the
+player to type wake up huh couldn't do
+it okay so fuck it I found a way to like
+start in a dream and then start in the
+room right yeah so it's like okay here's
+here's my grand plan space cop needed to
+answer the hollow phone and get a beer
+from the fridge and the fridge had a
+lock on it okay
+so you got it you have to find the code
+to open the fridge and answer your
+holophone and then that'll be the whole
+game super easy it's a really long code
+to open the first well you know I was
+gonna make it easy yeah like like maybe
+the code was in space cops chair and you
+had to like inspect the chair to find a
+piece of paper the code and you know
+yeah again I was trying to make it
+really really sense yeah yeah I couldn't
+get the code to work because I could
+find out you can find a way to unlock
+and lock doors but you needed keys it's
+like no I don't want a key I want a code
+I want to type in a code but I couldn't
+do it mm-hmm and I got very focused I'm
+like figuring out how to make a code
+open a locked door and it just did not
+work send me feedback well what I
+discovered is the thing I discovered was
+that even though it uses plain English
+as a coding language you have to
+understand exactly what plain English to
+use and so you know you can say like
+space cops apartment is a room but if
+you want anything more in depth than
+rooms and items in rooms you need to
+figure out basically how to code yeah
+but it's not just regular code its
+coding in there special coding language
+so that's just like well fuck I could
+just use flash man and learn how to code
+for real Yoda
+yeah so basically my entire day was me
+trying to figure out their weird-ass
+programming language and failing I'm
+sorry
+it's alright they need a better program
+it sounds like well or I just need to
+learn how to really program stuff so I
+actually did I spent way too much time
+today I want to say I spent eight hours
+today just trying to get a one room text
+adventure game off cuz that's the idea I
+got in my head this morning wasted my
+entire day watching tutorials and
+reading manuals at least you were trying
+to be productive it was cold outside I
+took a nap that's my day yeah I had to
+play a video game for work that were
+reviewing but instead I overslept
+because I took a nap that's my day I was
+Richards day right so that was my story
+like let's see I think even that's
+better I would have preferred a nap
+because at least after a nap you feel
+refreshed it's like you got some sleep
+no I cuz I ended up sleeping way too
+long though it didn't end up being an
+abandoned that Bing like a second sleep
+cold um cuddled in my blanket who is it
+oh my god
+well that's the thing like I texted you
+this afternoon like I normally do and
+then I didn't I didn't hear back from
+you until like five o'clock because I
+had not left my computer since noon like
+all the sudden you texted me and I ran
+it's dinnertime and I realized that my
+lunch plate is still right next to me it
+was a horrible horrible day so that's
+the basically what I what I figured out
+is I'm just gonna figure out how to
+really code stuff and then I will
+actually have a useful skill instead of
+learning this code language that isn't a
+real language yep but but that's it
+that was my Jack had a bet I did well I
+failed is basically what happened I
+didn't have a bad time I failed I
+learned through failure that's okay and
+now that was my that was my story of my
+ways today so now we can play some
+wonder Dale are you ready for goofy
+voices and we ready to see what this
+thing has to say I'm ready
+who wants to be heat flames Minh Oh
+boots flames that's Yuri creepy he's a
+little guy I don't
+was that a character before oh my god oh
+this Picasso cheese okay where this
+smell in that guy's room I guess it's
+just easy to clean
+yeah tell us about wanna buy a hot dog
+it's only 30 g fuck yeah thanks can
+here's your dog Oh Sam's it's very wait
+see good buy another one oh whoops I'm
+actually out of hot dogs oh yes I gave
+you my last one
+you know a pervert hey I'm not judging
+I'd be out of a job without folks like
+you okay Alfie's posted a picture Jenner
+was a courier with the girlfriend that
+sands and Alfie do not mix picture of a
+cat girl figurine little Bowl it's a
+picture of a cat girl figurine next to a
+bowl of instant noodles
+those voices are too different and and
+that's that's whiplash Hill Skelton 95
+posted pictures
+are we posting hot pics here is me and
+my girlfriend that's a picture if that
+is flexing
+oh this is missing properties of papyrus
+them I think that's the cool friend
+giant muscular biceps are pasted on the
+biceps are also wearing sunglasses
+hello el cool scout legs baby five let's
+that's a joke right
+I think I hate this social media thing
+even in Game four oh wait this is yeah
+that is you go ahead that is you we
+Paris the old joke here is how strong my
+muscles are hey now Jesus try to move
+the microphone away from my mouth every
+time I do Myers as I scream OH
+sudden der plane a sax not because it's
+jealous Vulcan is paying attention to
+you opens the other one to go look at
+his finger come to do Oh
+the only update we have about space cop
+shipping is that they are getting them
+we're doing a company that if you have
+to remember we're we're like a three-man
+operation yeah I can I can guarantee
+that pretty much every copy of space cop
+has been personally handled by like all
+of us yeah and there's just a bottleneck
+but how many we can do are our printer
+because you can only be logged into
+PayPal in one station so we only have
+one printer printing out labels right
+there's a bottleneck where trust me well
+I downstairs cuz Sunday we could mail
+anyway yeah there's there's just there's
+a lot there's a lot waiting to go out
+yep there they are leaving the door as
+fast as possible so everyone who did
+ordered will get them digital version no
+word yet it's out when it's out I don't
+know what the issue is there but a bunch
+of this I don't know I hope it comes out
+soon I want you guys to see it so bad
+would you guys autograph blu-rays yes we
+will autograph anything in the PayPal
+comments make a comp coming make a
+comment about who you want to autograph
+it and it will happen
+which one is back XR busy
+xxxx is back I mean there's there's
+there's many of us there are only red
+letter media employees three people rich
+J and Mike that's it I'm here to help
+when I can but also like rich say
+bottleneck as far as printing stuff out
+getting into the air beginning and
+getting into the post office to the
+airplane we take it right to the
+airplane
+anyway yes all these things space cop
+has a 9.3 on IMDB as anybody who's
+gotten there cannot be like commented on
+it yet I don't know
+oh nevermind it's a sizzling nine point
+nine out of ten on IMDB yes
+Napster maps napstablook 22 is sitting a
+friend requests maps spam napstablook
+which one was that which one was that
+jack was from so many undertale
+characters sure it's that point I know
+John like me and Josh are not employees
+of red letter media we just come here to
+help out and watch movies and play video
+games an apron
+what
+okay that's interesting napstablook as
+the ghost which goes yeah yeah which is
+entire
+well yeah there are no two hotdogs on
+your rim shot rim shot rim shot
+give me my rim shot I its riches only
+job is a red letter media and of course
+I'm pretty right I I do work outside
+arrived I'm a freelance editor and video
+producer until I edit and produce videos
+or corporations last one oh my god stop
+don't get any more than skeletal
+snoodles would like to say got my sign
+to space got blu-ray yesterday watched
+it today loved it was everything I could
+hope for and more now get back to work
+on the sequel you Schmucks thank you
+skeletal snoodles I like I said I've
+watched it a bunch since I got my blue
+Donna is great I'm super excited super
+excited for everyone to see it it's so
+super weird watching yourself super
+weird
+hi it's dr. Alfie's this boosts up up up
+a puzzle it's kind of tiny switches over
+there you'll have to press on all three
+of them within three seconds oh I'll try
+at home you would with rhyme rhythm or
+the rival or the rhythm
+rich yes
+one small ball has a request for you in
+your space cop voice say roll tide roll
+yeah
+a bitch
+oh god bitch get on your back
+all those switches ensue tyranny source
+rocks no there is no there is no
+official fuck bot cameo in space cop
+because space cop is a real movie so we
+couldn't we couldn't get fucked bottom
+oh I keep missing it we couldn't work on
+a contract in time we know there was
+there was a big you know there was a
+kerfuffle Oh denied by the phone okay
+now president limit listen thirdly hey
+looks like looks like you only only need
+to press that do them whoops
+that's the last time I try to hold the
+puzzle LMAO LMAO hold the Mayo
+hey hey I'm going to the bathroom I just
+wanted you to know that so I'm I'm going
+to be FIA for a bit
+could be the bathroom for a while I'm
+sure you can handle this puzzle by
+yourself don't ask me what I'm doing
+about I love this character take that
+one up
+nice I think first figure out where you
+have to go maybe you have to go left
+there's this which is every other one
+oh so nice we we need that to be in the
+down position when I jump over here no
+you need to be in the right position
+when you jump over I don't think you
+need to go up I think you need to go
+left
+see like
+things that but you can't go there cuz I
+don't want to think it
+I love alphas like Alfie's is I love the
+character just because it's so
+stereotypical nerd so when you land on
+that left home the arrow needs to be
+facing right so when you press on this
+way to it we face in life oh we need to
+get over here yeah
+and and when you land I I think I get it
+now I was thinking that top one would
+take me to a screen up north for some
+reason oh okay okay I get I get it I
+understand hey free life that that's not
+gonna do
+oh no no you can't get over that
+mr. yes everyone had an LPS out there
+school but you guys up to it what do you
+guys up to cause if you if you're not
+updating the oh I'll come and hang out
+with you whatever you want to hang it
+down okay all the air do I hang out
+later
+combined brainpower threw up against the
+puzzle right look Joe getting rich up
+get it I believe Rich Dubee sandwich
+it says rich as a Star Trek fan what do
+you think of galaxy Frost hashtag r.i.p
+psi this question has been previously
+answered what do you think of Galaxy
+Quest that's great I can't get much more
+detailed that's great I was really
+worried when I
+I reluctantly watched Galaxy Quest
+because it's advertising and trailer
+made it seem like it was going to be a
+really crappy movie Galaxy Quest is good
+enough that I can't stand Tim Ellen but
+I like Galaxy Quest yeah the the trailer
+for Galaxy Quest and all the advertising
+for Galaxy bus make you think that it's
+going to be a very dumb movie and got
+kind of got a like a dumb premise but
+how do I do this how the hell am I
+supposed to do this I haven't been
+and yeah that's that's a big pass
+I do that but that fucks me up right so
+you need to come at it from the bottom
+somehow the music is getting louder than
+your voices in this section of the game
+I'm sorry
+there you go nice
+okay just took care of that
+now wait what happens if you go left
+right now nothing
+oh you can't okay I didn't know if you
+could like get off it and press it again
+don't know okay head back right doesn't
+help
+I head down
+we're gonna have to do an odd thing yeah
+and literally odd-numbered thing yeah
+but then I can't go over no but now you
+go up that's gonna reset thinks it's
+gonna be cuz there's no switch up right
+now
+that helps oh no I well no I wanted you
+to go up and then down
+that's what I did when no I meant up and
+then down down sorry oh sorry I that way
+that was my mistake I didn't alright so
+you want me to go up I want you to go up
+dumb and now into the exact down and
+down down we'll Mort so now we have to I
+guess yes now go to get off now I'll go
+up there that's exactly what
+interesting
+okay so what happens if you go up now oh
+right down now go left now go up now go
+down
+now go up again
+Booya now go on
+there okay easy sorry oh the one of
+those not have a switch and I didn't
+notice oh gee people think Duke Mewtwo
+is part of that beauty what lol that's a
+joke right fucking joke me too and it
+makes my it makes me sick the knife
+don't like I mean talk about cash is
+equal completely ruin all the
+characteristics of you'll do snake in
+the guard and says hey guys any chance
+of a European friendly stream soon never
+get to see you guys live and would love
+to join in the chat but usually starts
+at 1:00 a.m. my time we didn't know and
+then yes we do we do that now and then
+we will make another concerned effort to
+do one an earlier stream last month even
+I think okay yes we love will do another
+European friendly stream another like
+what tell me in the chat snake in the
+garden what is a what's in a what's an
+appropriate starting time our time keep
+in mind that right now did the math for
+central because I'm too lazy to do the
+math for you right now it's 7:30 because
+I don't give no fucks I'll do a stream
+at 7:30 every goddamn stream for all I
+give a shit it's 7:30 for us right now
+knowing the mouse might one day hack the
+computerized safe and get the cheese it
+fills you
+perfect snot that's absolutely perfect
+there's a piece of cheese inside this
+computerized laser safe the lasers have
+melted the edge of the cheese it's stuck
+to the table if we start about 1:00 p.m.
+o mg till they get it ruins Boo Boo's
+entire character arc I love it that
+Alpheus is still talking about new new
+one but you beaut to review you kissy
+cutie twos these are kissing their
+cuties it's trash zero stars worst view
+view ever yeah well do we'll do one of
+those like start in the afternoon
+streams we can do I don't know what
+character this is yet okay so I'm just
+gonna say hey you stop okay until we get
+some kind of cues okay oh oh oh hair
+weave weave like we like received an
+automated autonomy kept your body human
+wearing that's great good they told us
+who you were you were wandering around
+hot and right now I know how scary huh
+well yeah bring two will bring you
+someplace safe okay
+what is it bro shirt you're wearing like
+we're buried
+well brah are you thinking hey well I'm
+thinking you'd like my god and bang
+Tommy we like actually totally well the
+Royal Guard attacks yeah it's kind of
+like Tommy yeah a Tommy version of Tammy
+clean armor just try cleaning their
+armor you have to touch our G ones armor
+your hands slip off whoa like a handcuff
+the Merc hey whoa whoa whoa bro my gob
+oh wow nice big ass sweat pours from o
+to Zamora oh okay sweat that's pretty
+good indication go - OH - its Bert check
+yeah clean armor maybe clean average
+it's alright it's cooling dirt begins to
+wash away o night prepare to die right I
+think those a good call on the sweat
+yeah Oh - watches your movements alright
+would you want to know which one I say
+stick without - you know you eat it we
+know what to do with him clean his armor
+again
+you clean twos armor it's cool and dirt
+begins to wash away yeah you're heating
+up I thought that was related to sweat
+it was that the spot was the indicator
+nice isn't it much easier with the with
+the arrows think cell phone with the
+controller Oh two watches your movement
+it's cooling through up against the wash
+away your like gag or whatever yeah I
+already put I'm gonna catch you Oh can't
+damn dog you've been hitting that gym
+much better our one looking bothered by
+something okay now go for our one now
+let's go for I'll be like your item oh
+yeah you probably need a head day where
+are the hot dogs
+can you go to another page oh hey
+fucking rich
+you eat the hot cat urate fuse next oh
+good dude well whoa well okay joette
+pores from oh twos are murder check out
+a one now and see what the deal is with
+him
+maybe whisper oh I knew this was coming
+this was coming a kiss then hug kiss
+then hug kiss that hug good a you yeah I
+can't I can't take this anymore
+not like I did okay like I do like I
+like like you bro wave fight the way you
+talk
+superhot pet I love doing team attack
+with you man you're my man bro and you
+offered my bro man I know standing here
+with you pumpkin
+waving our weapons and kink oku I like I
+want to stay like this forever I mean I
+got you bro that was perfect yeah that
+was perfect I was thinking about that I
+had this in my hand
+oh one yep yeah but do you do you want
+to like get some ice cream
+like after did you go bro up some ice
+cream sure dude oh you can run away now
+they're looking at each other just happy
+man they're growin there bro it up the
+road and dude I'm your bro dude that was
+great wait uh how's how's the human
+doing
+it's Upton shows that biggie fur you
+forget to your your frickin job that was
+gruff Nick military hey guys long time
+rlm prereq fan keep up the good work
+these streams have gotten me through
+many dull and frustrating days at work
+thanks guys thanks for coming by and
+supporting my where do you work
+well maybe if it's dead this time of
+night it would probably be boring so and
+maybe he watches the YouTube videos well
+okay I back another darkroom huh don't
+worry my hacking skills I've got things
+covered whoo hello hey oh are you
+serious oh good evening beauties and
+gentle beauties this is mettaton
+reporting live for MTT news and
+interesting situation has arisen in
+eastern heartland
+fortunately our correspondent is of
+their reporting live brave correspondent
+please find something newsworthy to
+report our 10 wonderful viewers are
+waiting for you you're the correspondent
+yep
+basketballs up last isn't it darling
+too bad you can't play with these balls
+their empty seat print fashion
+basketballs for wearing not playing you
+can't get rich and famous like moi
+without beautifying a few orbs that is
+that's definitely bad for that's a
+metaphor let's slip on okay we have to
+find something Newsbreak yeah yeah
+that's just a ball that's lying there
+it's not it's not that's not huge it's
+not gonna be the first thing we find
+it's from a place but you're right
+you're right Oh dog what a sensational
+opportunity for a story I can see the
+headline now a dog exists somewhere
+frankly I'm blown away
+as per journalistic standards a death
+force field surrounds the area of injury
+oh my it's a present
+and it's addressed to you darling
+aren't you just bursting with excitement
+hmm what could be inside well no time
+like the present to find out this video
+game you found is dynamite
+though I don't make an appearance in it
+until 3/4 and oh it's it's undertale the
+game is through that's a meta it's a
+joke it's a joke about the game they
+were playing but I like that apparently
+from the heavens like mana slacken your
+audience's hunger for gorgeous robots oh
+that's a marathon
+oh no that movie script howdy how'd that
+get there it's a super juicy sneak
+preview of my latest guaranteed not to
+bomb film marathon that movie XXVIII is
+the everything robot read me just yeah
+movie x x.b i starring marathon okay
+thank everyone knows with Roman numerals
+I'm thinking like you yeah good text
+reading thing would take things
+literally sure sure I don't know I
+wanted to say yeah which is funnier
+which is it's 28th it's funny yeah so I
+was right 28 yeah I basically I just
+wanted to impress the trek the chat with
+my Roman numeral reading I mean my only
+concern is which is funnier sure which
+is 40 or 28 or XXVIII I've heard that
+like the other films Oh
+it consists mostly of a single for our
+shot of rose petals showering my oh I I
+really thought that's a rose power
+showering my erection but no showering
+on my wreck lining fuck
+well I read erection a weird I know it's
+not confirmed Rose battles showering my
+erection just get it on head you
+wouldn't
+so no sorry you wouldn't half spoil my
+movie for everyone with her promotional
+story would you
+oh that was close you almost gave me a
+bunch of free advertisement I think that
+is the one you should be bored I was
+probably gonna be one more over here
+then we'll make our decision oh it's a
+completely nondescript glass of water
+but anything could make a great story
+with enough spin and his movie would
+present for you to present we have a
+present from you you you have a video
+game which he said is dynamite so I
+don't trust that that's an easter egg
+cuz its undertale the video game is
+undertale yeah but I think if you report
+on that it's gonna blow up
+what look no the video game the video
+games will blow up yeah cuz he said it's
+dynamite
+oh this is guaranteed not to bomb yeah
+don't come so I think this is all
+guaranteed not to bomb oh that's clever
+shit jack that's some clever shit I
+think that's what you're supposed to do
+it unless we're supposed to reverse the
+meanings of that but I think the script
+is what we should do oh you're back
+you're on fire tonight you're on fire
+I'm on video game fire because I spent
+because I spent all day attempting the
+program of video game are you just in
+the Rossum kind of 4th dimensional video
+game plane I'm in the matrix and you can
+see through all developer logic that's
+right folks
+all right I'm going for it do it report
+it
+let's see what happens attention viewers
+our correspondent has found a movie
+script oh my it looks like it's for my
+latest film let's not keep them waiting
+let's open it up and get the scoop oh
+what's that
+inside the script fuck Oh what it should
+have flipped it that ticking sound that
+lit fuse Oh looks like I was wrong about
+the movie hands and it's about to blast
+you to bits
+cut to bits you haven't seen the rest of
+the room yet oh oh so there was dynamite
+at very least there was dynamite yeah
+the game dynamite in the present
+dynamite and the present the dog would
+have been good to report or maybe the
+dog would have attacked you maybe the
+glass of water is what we should the
+glass of water is glowing and we to say
+that's poison or something maybe okay it
+seems everything in this area is
+actually a bomb everything so we're
+fucked no matter what yeah
+that dogs a bomb that's just fun to say
+bad basketballs a bomb even my words are
+oh thank you brave correspondent if you
+don't defuse all of the bombs this big
+bomb will blow you to smithereens in two
+minutes
+then you won't be reporting live any
+longer
+Oh terrible how disturbing our nine
+viewers are going to love watching this
+yes this is our first playthrough of
+this game good luck darling
+don't worry I I saw the a bomb defusing
+program on your phone use the the defuse
+option when the bombers are the diffuse
+own no no and I'm not now go go go get
+them
+the defuser
+you're fighting the dog fusing the Bob
+great job keep heading around the room
+trying to go for the one in the
+bottom-left next my bottom left one was
+the water
+okay
+nice views rich
+oh shit oh I get bottom ops you got this
+you got this you got this all right you
+got me
+okay okay you got ya
+nice rich there you go nice defuse nice
+defuse present nice nice
+seven seconds we're fucked great job
+head for the center music ium field to
+trap the glass of water in there man oh
+man oh man you got this you got this
+five seconds
+you got this rich extremely agile glass
+of water okay go up to the big one oh
+well done darling
+use the activated all of the bombs if
+you didn't deactivate them the big bomb
+would have exploded in two minutes
+now it won't explode in two minutes
+instead it'll explode in two seconds
+goodbye darlin it seems the bomb going
+off well that's because well while you
+were monologuing III I fix a change with
+your hacking skills oh yeah oh yeah yeah
+that's what I think that's why I did it
+seems I've been filed again is this live
+no no we recorded this what like a week
+ago like a week and it just so happens
+that coincidentally someone when we were
+recording this a week ago also asked if
+it oh no we weren't even streaming when
+we recorded this we were just when the
+cameras off and everything at least at
+least they easy streaming off we just
+predicted that somebody would ask if
+this was live mm-hmm it was very clever
+of us unless they didn't and there's
+nobody in the chat acid this is live
+then we would very foolish
+what's Curcio doctor Alfie's for helping
+so much but i don't curse my 8 wonderful
+viewers for tuning in until next time
+darling oh wow well we we really showed
+him huh hey I know it's got a weird
+first I really think I I'm getting more
+but Bohr yeah Eyeborg
+coveted about guiding you so don't worry
+about the big robot I'll protect you
+from him if it really came down to it we
+could you know we could just turn though
+later this is Alfie's or Porky Pig yes I
+I notice you've been kind of quiet are
+you worried about building a score well
+don't worry
+okay just don't worry everything's gonna
+be fine
+the kid is this really nice guy I'm sure
+you can talk to him and live here your
+human soul you can pass through the
+barrier through the power of your soul
+your human soul so don't worry okay just
+just forget about it
+it's vile remember to bow and came to
+life with you about things like goodbye
+I like thinking that Alfie's does say
+goodbye after like whatever you know
+what is it good - video game Jerry Lewis
+the dinosaur that's it's very Jerry
+Lewis yes please select a location I
+sure I think you went right floor before
+we're on the floor - then I guess
+Bing right floor one okay oh wait this
+is where I started
+yeah just making sure
+guides says solid bakes equip the dirty
+apron in your inventory good try to try
+the left three if we were on the floor
+to before well go right to that one
+right - yeah we I'm a careful if you eat
+too many hot dogs
+you'll probably get huge like me huge as
+in super popular I mean
+I'm practically a hotdog tycoon
+apparently if we put on the apron we
+take less damage okay axes armored and
+yes we know about the bronze funds here
+in Milwaukee it's retarded it's in
+downtown Milwaukee it's just a it is
+literally a statue of Arthur Fonzarelli
+it's very strange I don't understand its
+purpose I forgotten how to get to the
+men you see over the year it's very it's
+very strange
+mostly because Happy Days did not take
+place in Milwaukee
+it took place outside of Milwaukee it
+took place at and it's you know so I
+don't know why it's here I don't
+understand I don't get it it's dumb
+screech was just booked in Milwaukee I
+don't know I'm screech lives near here
+now going to go to l-3 I think we were
+on I wanna make sure we weren't here
+this is all one we were here
+we weren't no okay unless you were here
+or last time being such a strange
+oh you're filled with dinner no
+oh wait we were here yeah bow-bow
+bow-bow was the Fonz from Milwaukee I
+don't know I did not just diss the Fonz
+what's at the suburbs
+it was the suburbs gives you shit that's
+fine but not more not like Milwaukee
+suburbs it was like like Appleton you
+know like how far is Appleton from
+Milwaukee very ours okay are you sure
+about that I have no clue I don't
+recognize oh you're probably what are
+you saying is you're probably wrong
+probably they don't recall yes it's a
+three I don't want to make sure cuz I
+wasn't paying attention the last time I
+went up an elevator oh yeah and I want
+to make sure we didn't miss shit okay so
+great great yeah oh who keeps a vodka
+gimlet I blew past the screech
+revelation who gives a fuck about
+screech man well what about screech now
+he got arrested again or something
+whatever who cares it took somebody with
+a knife before fuckin who cares and
+Dustin Diamond gay don't get over it
+get over it it's very cold / from
+DuckTales it's very cold today it is
+three degrees today
+it's a spider doughnut it looks more
+rubbery than usual
+we talk well welcome to our parlour very
+interested in some spider pastries all
+proceeds go to real spiders we have a
+great voice
+it looks like some sort of powerful
+bracelet wait it's just a croissant and
+that is a rubbery that is a rubbery
+doughnut it's a spider doughnut it looks
+small okay spider bakes a tall exhale
+all proceeds go to real spiders hi I
+ended up buying it I did it once but
+that girl even though I told her no she
+she kept staring at me and this creepy
+waiting you licking lips I'm out of cash
+hi Alfie's here wow this room is like
+it's like that Ruby saw before there are
+two puzzles to the north himself you'll
+have to solve them both to proceed also
+I I would like to say I well I don't
+really like giving away puzzle solutions
+but if you need help just just call me
+okay give me a call so to be a pick you
+like my statuses I'm here I'm here for
+you oh no gruff Mik military now thinks
+that screech is coming for me because I
+said I don't give a fuck about him well
+good moderate amount of publicity my old
+my own publicity I would refuse it I
+would refuse any screech related
+publicity ah urban vermin would like to
+ask a question rich are you or Mike or
+Jay doing promo for space cop like
+podcast appearances blog interviews etc
+love the stream guys do you ever
+call each other Harlech or chard like
+you're in Top Gun no ok so shared chart
+is more a thing just between me and
+Karen for the most part yeah but as far
+as promo work well we do so yeah we know
+each other nicknames no never know in
+high school I used to call Mike stone
+yeah yeah stow still close oh but I
+hastened then that ended I don't know
+why it ended it just ended that's a
+weird nickname new though yeah next time
+next time I see him I'm gonna call him
+and see if he reacts
+he probably rolling I'm very confused it
+probably hasn't heard that 15 years I
+don't know and promo is how you guys
+doing any promos hey it's not a
+conversation I've had with my courage a
+so it's not it's not come up
+least not what I've been around so I
+just saw if you follow both red letter
+media and Paul Scheer on Twitter Paul
+Scheer is apparently trying to wrangle
+red letter media for some sort of epic
+Star Wars podcast discussion and Paul
+Scheer is great so I hope they do it by
+the way if you're curious why my Steam
+name is charmed well that's the thing
+with me and Karen it makes so much sense
+once you know cut off the first couple
+letters of my name and you get churned
+also rich hard yeah
+charred also well here's here's how it
+started I didn't realize that until you
+thought Karen's name yeah is spelled
+weird it's instead of an e it's got an
+eidetic karen everybody ever might have
+spelt it wrong that's fine that's fine
+many policies I haven't I haven't gone
+out of my correct it because keep help
+keeps 4chan away that's fine I think
+most people know by now you know the
+stalkers have figured it out yeah so
+what's the point now yeah but everyone
+like always spelling Karen or think it
+was Karen yeah so well I just started
+calling her Rin one day last three
+letters her name just to emphasize the
+the I
+and then one day shortly after nearly
+burning down my grandmother's house
+Karen started we call it started calling
+me charge so it's got a double meaning
+both the last part of my name and the
+fact that I almost burnt my
+grandmother's house down be cool yes
+it's a great school yes our alum on how
+did this get made I would love that yes
+that would be cool but I think this is
+actually for a different like specific
+Star Wars related podcast but that uh
+that Paul Scheer does but I started
+calling Karen rim just people would get
+the fact that ring I n yeah and one of
+her friends is just sweet girl complete
+complete our head started calling her
+ring doesn't completely missed the point
+that's fine back
+
+[Part II]
+that's fine that's fine back back to the
+game actually wait I have an idea
+yeah let's let's be friends under net
+but then you could just pig me what you
+need help fuck wait
+we're already friends aren't we oh god I
+hope I sighed yeah did I did I even
+you've been reading my post this with
+the whole time
+well well I hope you were briefly about
+noob YouTube because it's just it's
+terrible it's a travesty
+okay alright
+looks like we're going up
+that only takes me back you have to
+there's a puzzle on top theorem and the
+puzzle in the bottom of the room and you
+need to clear both of those puzzles
+before you can go to the right of the
+room is what he said so choose your
+destination
+oh okay oh and you only have one shot
+well how does this work I didn't do this
+oh you so you have to clear you just
+have to have a clear space from the
+yellow arrow to the white arrow okay but
+all of these black boxes move whenever
+you press any direction I was kind of
+neat
+yeah nice simple focus
+no potions on that
+yeah you got it fucked up
+like this music
+I like this be like what that's right
+dr. Lyon these are this is a puzzle as
+fuck you know puzzle like that puzzle
+puzzle quest
+you could do a rich I believe in you
+I cannot I believe in you because I am
+stupid pants this dream has lost around
+23 viewers since we started that is
+incorrect midget testicles we how when
+we started streaming we had about 300
+years I have a fun little thing here to
+tell that gives me an info graph of how
+many people have been on there when we
+started trimming we had 312 viewers and
+that has steadily risen for the most
+most part of the stream we had about 539
+and now we've capped off at 600 so it's
+not our highest was 613 so we may have
+lost 13 viewers but we're still we're
+still doing pretty good still doing
+pretty good I have no idea what I'm
+doing but
+oh yes thank you time to research that's
+who Paul Scheer is he was also on human
+giant of really great really grow you
+know the solution no but I can figure
+out yeah
+nitrous oxide I figured out the last one
+so
+I think the key is that flip up top what
+oh I thought we needed to make a line up
+and down there I misunderstood oh sorry
+yeah you were firing the thing from the
+yellow arrow to the white arrow and so
+he's made it clear oh I thought we
+needed to make a path from the arrow to
+the arrow well yeah no I mean like line
+it up in that section like like a tube
+oh sorry then I then I did a very poor
+job of explaining it to you and I'm very
+sorry it's okay
+shit happens shit happens great urban
+vermin or gruff McMiller says jack or
+rich my girlfriend wants to know next
+best of the worst yeah and I think I
+just talked to Jay about filming that
+one recently so yeah my favorite medics
+were on moment right right what
+everything looks the brightest he poses
+to erratically like when he's on a
+cooking show on the eggs don't turn out
+right yeah he's like a box I don't know
+I don't know what boys to do with them
+well I'm trying to track of the jack but
+work also dude puzzles
+what happened in the chat now Oh someone
+said well because your girlfriend the
+Lance of that one for some reason very
+funny Jack it's obvious that you do work
+for rlm prereq works for RM weather it
+likes it or not apparently well you know
+kinda jack does not get an oral and
+paycheck free records our own thing it's
+Philly ated with our om
+yeah I do not get a paycheck firm we're
+all friends it doesn't matter that
+everyone everyone does get really caught
+up in this whole like is this our real
+job what do you guys do for work thing
+it's like imes fine
+you know how you did this blue laser
+before what's the deal here
+oh it's like blue just don't move the
+thermal
+oh my god how do you get past the orange
+oh you have to move to get password yeah
+hey hey hey y'all this is up this
+doesn't have anything to do with guiding
+you but hey hey would you would you want
+to watch a human TV show together
+sometime it's called um mucus security
+that's this is your call you're playing
+right now
+oh well oh well you are such a jerk
+that's okay he's been helping you
+through the puzzles been guiding you
+through this deadly labyrinth you can't
+have a much neater view kids he hugs
+with them yeah she has she get out of
+here
+yeah I just I just thought I'd ask
+I've guys I do remember but I think
+you'd really like it you gave it a
+chance
+hello columns like the Coliseum rows
+columns I remember jack yeah gotta be
+honest what you have to be honest about
+what everything oh I don't want to watch
+mew mew cutie kissy yeah I guess I don't
+that's a year
+working column Sunnis and Jack is a
+slave to our lm9 you know yes yes they
+have
+Oh No how do I shoot it say you know
+like there are obviously there are
+obviously situations where cactus you
+stop to smell the flowers like there are
+situations where I'd love to come and
+and like do a bachelorís like the
+Christmas episode the canned and
+Christmas episode I just couldn't be
+here because I had like other work to do
+and unfortunately like that's just how
+the schedule worked out
+I am really upset that I miss ya you
+should be it was great that's Christmas
+hey yeah the smell of cobwebs fills the
+air you're filled with determination
+right
+I'm glad Jules that you had a good time
+watching me realize what counts
+sometimes you just need that one thing
+that one thing what was there was I was
+having trouble remembering one of the
+the actors in space cop she came yeah
+she gave that's an unusual name and I
+could not remember cheek' and I worked
+with him on a couple days and I felt
+really bad about not remembering his
+name he's been in real things he's been
+in he's a real actor and he's great and
+space cop and I felt really bad and so I
+was and rich just came up with a nice
+simple little pneumonic device cheek'
+and you remember chica because you know
+what cheek a likes cheek a likes chips
+she had this thing he was eating the
+chips GK likes the chips and for summer
+and I still remember this to this day is
+just like GK likes chips you gotta you
+gotta associated associate things as
+like columns like the Coliseum like the
+columns in the Coliseum it's like oh
+that's the one thing I need now
+GK likes chips columns like the Coliseum
+there's this nice guy he got me a latte
+once Lance got me a latte
+I remember that states and capitals yeah
+back in school I remember Hartford
+Connecticut because Hartford heart
+surgery connect the cut you make from
+the heart surgery there you go Hartford
+Connecticut I've never never forgot that
+I forgot every other state in capital
+but not that one
+that's a weird one did you hear what
+they said they said a human wearing a
+striped shirt will come through yeah
+yeah see yeah I heard they hate spiders
+yeah I heard they love to stop on them I
+heard they liked to care their legs off
+I think these are all different spiders
+saying these things they all sound the
+same okay all every spider they're all
+related great I'm not coming up with 80
+different voices I heard oh it's her
+yeah
+how do I do just answer they were an
+awfully sticky with their stingy with
+its wrong they're awfully stingy with
+that money there you go you think your
+taste is too refined huh pastries don't
+you dare disagree with that nation I
+think your taste is exactly what the
+next batch needs traps you look at that
+Little Miss Muffet sat on a tuffet
+eating her curds and whey a long thing I
+know that on the side
+what's our strategy here oh sorry money
+Oh
+okay okay don't look so good
+didn't look saved you my dear oh fuck
+what what think peple is a better look
+on you trip in a strange purple web what
+don't give her any more money
+or Chappell we should be proud
+Oh My Jesus Christ you got this you got
+this like fucker face nine Wario says I
+don't know here's five dollars thanks
+for keeping me entertained we do our
+best
+thanks man Hilario we try I think you
+know you know I think it was fair to
+like rich was trying with the paying or
+maybe that did something I I don't think
+I don't think that's the right call but
+struggles muffin is so fused by your
+antics that she gives you a discount
+oh yeah do I do you were rich reading
+game informer no I think I have a
+subscription to it because you know you
+get the the GameStop power of the card
+or whatever so I get it I don't read it
+care about Mad Magazine oh nice on it
+like that kind of like games writing is
+so irrelevant now because any
+information it would give you has
+already been on the internet a month ago
+and I don't find their their stories
+that interesting this is different
+that's great that's great
+I think I like this battle gobbledygook
+says are there any reading materials in
+the Arlen bathroom or have phones made
+them obsolete phones have made them
+obsolete yes you just have to make sure
+you have a charge before you get it you
+know what you know what I have in my
+bathroom at home for a tablet there you
+go your bathroom tablet it does not
+leave the bathroom
+well casually what more so more so the
+tub
+I've taken a hot baths since my back
+went bad on me tub yeah I've read I read
+the table in the tub I'd be so afraid to
+get that thing near water yeah well
+there you go that's kind of weird I
+don't think I would probably ruin the
+tenly I don't think would kill me I
+could be wrong no there's fine enough
+electrical discharges to kill you it's
+just I'd be worried about ruining the
+tablet yeah this is I don't have it I
+can't afford me tonight it's just a
+cheap piece of shit the ipood yeah you
+get one of those cheap like Amazon fire
+tablets
+enough struggling is working yeah
+she's reduced the proper and you offered
+a lot of thing we have to keep we think
+we have to pay yep despite this clap
+along to the music
+did you check she be yellow check with
+oh oh you know Jackie usually gives you
+a hint right whoa no that was a
+croissant that was like a croissant oh
+right it was a croissant or rings Shane
+I should do a parlor excuse yourself if
+she invites you to her oh if she invites
+jewelry it's strange but I saw I saw
+them in the shadows changing sheets
+croissants
+nice nice nice there's odds of Heidi's
+up the web around you
+oh it's lunchtime isn't it oh my feed my
+pet you could eat a spider item to help
+you a lot but you have none
+yes sir oh so they're saying just
+survive hang her slows down your attacks
+but it's all just about surviving this
+is like with the boss attack oh my god
+right elegan and my rights telegin says
+whatever new character comes next make
+it sound like George Lucas that's what
+he's saying I don't care what that tells
+I was hoping for Peter Lorre
+today actually Peter Lorre my spiders
+been trumped in the ruins for
+generations
+yeah well hot dogs for home I wanted to
+save it
+nope they're real they go under the dole
+snag ins fate code is impossible though
+Oh apparently if you either had a spider
+donut or the spider cider you could have
+ended this fight immediately really yep
+it's fine she just pissed at you for not
+buying her shit buy my shit
+okay here we go here we go here we go
+I don't think we've done everything for
+the pacifist run I think we might have I
+don't know if it counted but I think we
+killed that ghost once did we have to
+restart you might have kept it simply
+killed the ghost so I don't think we're
+gonna get the pacifist run well I don't
+that counts as a death it's a ghost I
+didn't say it died oh yeah
+the next voice needs to be Michael Caine
+we'll get my cocaine in there
+Steven ater PC hue boys managed to order
+a copy of space cop before they sold out
+me and my mates are looking forward to
+watching it but good I'm really PS
+Jackie or laugh is underrated you know
+it's just a normal well it's no rich
+Evans's it's no rich oh Jesus Christ
+but I look for I look forward to so many
+people seeing space cop huh a telegram
+the spiders running the route this the
+spiders in the ruins it's brought me a
+sense of a Bruins what the saying of
+this for you handed you were really
+passionate about spiders this is all big
+misunderstanding I thought you were
+someone that hated spiders the personal
+aspects so you must submit a different
+human in a striped shirt sorry for all
+the trouble to you you can come back
+here anytime and for no charge at all
+I'll wrap you up and let you play with
+my pets again just kidding I'll spare
+you now it's over despairing you
+fearful self boy says hey Jack me and a
+buddy rewatched all three prequels
+yesterday to hurt ourselves curious when
+you've seen them last the blanket
+reviews here's here's how it works
+yeah okay yeah yeah pheromones came out
+I was excited along with everybody else
+of course saw it yeah yeah and then I
+saw one more time in the theater because
+I had to go with Karen and I wanted to
+see if it was really that bad it was
+like I was in I was in a state of like
+what I you know I was worried about it
+because Jedi are inherently boring
+characters yeah but then I saw it and it
+was just much worse than I thought
+you know yeah so there was the to view a
+is what I was that theaters I did see it
+once on video cuz I was still in a state
+of disbelief I've rented it once
+no oh my god must been shocked yeah
+there's no way it could have been that
+bad then attack of the clones at the
+theater yeah I really wasn't hyped at
+all I wasn't interested
+right well it'll be better this time and
+I'm like no you are Kara better shit I
+was in denial the first no the first was
+just all the expenses Matt that at all I
+was I was the one saying it can't be
+better
+we're stuck with these characters these
+characters are shit it's unsalvageable
+it's already unsalvageable and i want to
+see it because you almost have to and i
+got in free okay
+Mike Mike worked in the theatre of that
+and he was you know management liked him
+and they got everyone on the theatre I
+got to see it like days early mm-hm they
+had like a special employee screening
+and I got in on that okay I wanted to
+leave halfway through the movie I really
+honestly I wanted to leave after like
+the the forty-fifth talking on a couch
+scene I I literally wanted to get up and
+leave but I couldn't because I was
+invited in for free at an early
+screening and it would have been just
+like the rudest fucking thing imaginable
+it would have been so the last half of
+that movie was me just like I want to go
+and I couldn't leave
+because everywhere I don't like the Sam
+yeah episode 3 yeah I did like that
+outfit natalie portman where's maybe in
+that white jumpsuit yeah I did not go to
+see Attack of the Clones the second time
+in the theater yeah because I couldn't
+stand my first viewing yep yep and I
+certainly didn't get it on video or rent
+it or anything hmm
+and then episode three came out I had no
+interest in seeing it at all not even
+not even for the curiosity of seeing a
+new Star Wars film
+and I don't want to go I don't want to
+go and Mike and J actually just showed
+up at my house like uninvited they just
+showed up we're gonna see episode three
+I don't want to go oh we're going to see
+episode three come on no I don't want to
+go they basically dragged me kicking and
+screaming to see episode three in the
+theater I hated it yeah but God did I
+laughs after Darth Vader says the last
+the last part of that movie like right
+up right up it took before the credits I
+was in hysterics I could not stop
+laughing I did not see that movie again
+in the theater or in video yeah and I
+did not the first two were so bad I did
+not go to see the third one in the movie
+theater and then I did not watch any of
+them again until Mike started making the
+fellated reviews and I watched some the
+movies with Mike gonna take notes and
+discuss things that's it so I watched
+you know I watched the Phantom Menace
+these heck of clones and Revenge the
+sith one more time each with him and
+they were really long one more times
+because the whole time it's like well
+let's go back to figure that out what
+just happened wait let's rewash that
+what what is what is he trying to do
+what is puppy right under let's move on
+why is he doing this I know let's go did
+he say something earlier let's go back
+and check yeah
+and so like you know I watched it watch
+them one more time age but it like took
+like four hours four to five hours each
+viewing but you know and then I haven't
+seen them since I don't have analytical
+viewing doesn't even count as a viewing
+because you were dissecting yes yes yeah
+no and I haven't the first two I haven't
+seen since the theater and the third one
+I saw what I when it came out on DVD
+third one and I those are my only
+viewings of them so I mean because I
+know they're bad which is worse the
+prequel trilogy or Adam Sandler's works
+here's here's how it goes the prequel
+trilogy jeez ruins something beautiful
+Adam Sandler's movies were always ugly
+Billy Madison is a great movie whatever
+I don't care
+Billy Madison I don't care good a full
+movie happy Gilmore's all right Billy
+Madison is a beautiful beautiful movie
+yeah let's give God you know that was
+fun people like to hate on the new
+things that's why everyone's hating on
+force awakens somebody asked me if I
+really liked the force awakens yeah I
+liked it I don't know that I really
+really really loved it really even
+really really really like it it's fun
+was a good movie best Star Wars movies
+destroy the Jedi yeah
+the debate is as a whole is it better
+than Jedi guys good
+Genet parts of Jedi are like great yeah
+as a whole I don't think it works
+there's a lot of bad things in it
+the force awakens maybe doesn't have the
+same highs it doesn't have the throne
+room scene it doesn't have the glory
+that was Jabba's palace but as a whole I
+think it's more consistently better than
+Jedi was it's you know it's tough
+because it's so different totally you
+know like it's such a JJ Abrams movie
+with the you know like with the with the
+wisecracking and the and the you know
+what would poke that Poe Dameron you
+talk first I thought first who talks
+first what's going on like that's not
+that's that line right there is not
+something that would exist in the
+original Troy Star Wars movies that kind
+of like quick-witted everybody's having
+a great time that's JJ but that fight at
+the end of the force awakens done latest
+lightsaber fight so so much so much
+better than the the soulless emotionless
+ballet dances at the Preakness so much
+better right to awkwardly swing in there
+light swords
+not like a dance all right all right
+no more Star Wars sorry we got it we got
+games oh look it's SpongeBob SquarePants
+poster prowl or make them by the tides
+of fate hmm and guess who the two
+star-crossed lovers are going to be Jack
+thanks for recommending the man in the
+high castle binge watch it all with my
+brother last night anymore show
+recommendations Oh was the other one all
+caps by the way I think this is your 100
+human at the expanse if you if you have
+the ability to watch the expanse I've
+been really enjoying that so good yeah
+yeah five six episodes in that's the one
+where it's it's the Sapphire original
+and the action is not that good and some
+of the special effects are a little
+cheesy but the story is good enough to
+carry you through like I want to know
+what happens next
+expands the acting not so great
+Leon Fenrir please put this five dollars
+towards a plane ticket to Australia I
+don't think when are you guys getting
+off your American shaped couches and
+coming here that's that's a lot God at
+be sorry took that's but hey we'll take
+that that will put it in the go to
+Australia fund we got $5 my one true
+love
+oh do you like my pretty dress I made it
+with curtains and Starshine
+oh you have to sing oh my love please
+run away monster king forbids your stay
+humans must live far apart even if it
+breaks my heart they'll put you in the
+dungeon it'll suck and then you'll die a
+lot really sad you're gonna die cry cry
+cry so sad it's happening so sad that
+you are going to the dungeon well
+Turtles oh nice thank you thank you all
+thank you thank you whatever shall I do
+my loves has been cast away into the
+dungeon hmm a dungeon with a puzzle
+so dastardly my paramour will surely
+perish oh heavens
+have mercy the horrible colored tile
+maze each colored tile has its own
+sadistic function
+I'm so sorry for example a green tile
+sounds a noise and then you must fight a
+monster red tiles
+well actually wait a second didn't we
+see this puzzle about 800 rooms ago
+that's right you remember all the rules
+don't you great
+then I won't waste your time repeating
+them that's fine I'm here I'm here
+oh and you'd better hurry what am i
+voices scream mm-hm
+because if you don't get through it in
+30 seconds you'll be incinerated by
+these Jets of fire
+ah fuck my pop pop my poor love I'm so
+filled with grief I can't stop laughing
+good luck my darling
+it's falling down now in tears
+well hometown shower tiles make them
+artful if only they still know about
+rules that was sorry
+now let's watch oh oh I'm sorry it looks
+like you're out of time oh no I know
+you're already I'm trying to read the
+chat - here comes the flames darling
+they're closing in getting closer Oh
+watch out look I'll save you I'm I'm
+hacking into the firewall right now the
+firewall Oh No
+how could this happen boiled again by
+the brilliant doctor Alfie's at least
+I'm wearing my pretty dress
+Lilla that's right well I come on but
+better time to give up already
+you'll you'll never be able to see this
+not as long as we work together as a
+team then watch Mew kitty cat cutie
+watching I've gotten stabbed by on my
+video record Asian device your puzzles
+over now go home and leave us both long
+paws oh oh oh oh darling are you
+talking about did you forget what the
+green child you they make a sound then
+you have to fight a monster
+well darling that monster is me taking
+off the dress gonna fucking bitches turn
+about the best knob what okay wait we
+have a couple tips seriously come to
+Australia it's not that bad says uh
+subscribes to hack frauds I would love
+to come to Australia I've never been to
+Australia I would love to come to
+Australia we got two more dollars in the
+come to Australia fund that's seven
+dollars in the comfort of Australia far
+right just two thousand five hundred
+more like that and we'll be in Australia
+and we can have a one-way ticket to
+Australia what's a year and then let's
+see here uh anonymous says hey guys have
+you heard about the full-time streamers
+taking speed to stay awake during 24 and
+48 hour stream of phones would this be
+something you guys would be into I can
+send stuff to the rlm pioppi no no I can
+do a long stream I'll be tired but I'm
+not taking speed no no I would never I
+would never take even in my drug days I
+would not take speed this is it darling
+goodbye
+is that your phone
+you better answer it hey this is bad
+don't worry
+there's one last leg I installed on your
+phone you see that yellow button go go
+to those phones embed you and press it
+yes Gruff McNeal turn me on speed would
+be very scary we you know we'll do we'll
+try we'll see if we can think of a good
+thing to stream for 24 hours straight
+everything I'll just stay awake for 24
+hours no the great how these get a bunch
+of coffee No
+proceed yeah why this is how we do this
+what do you mean like why can't you
+figure out a way to run away listen to
+normal attack I think this is something
+different
+you've defeated me how can this be you
+were stronger than I thought
+excetera he walks away goodbye
+uh-oh it looks like you beat him you you
+did a really great job out there all
+thanks to you oh oh oh all the way wait
+I have a theory
+yep Alfie's created talk about five
+thousand yeah so he would have to help
+you defeat him so you would fall in love
+with him okay that's my theory so I okay
+which it doesn't change the fact that we
+have an option here yeah well this is
+what I'm saying
+he's like so Alfie's wants you to say
+all thanks to you so you know to be like
+oh you're my hero Alfie's I'm gonna be
+nice this time it was mean last time you
+really want to go mean huh we're not a
+jerk we're not playing this like a jerk
+I'm sorry I don't think they're gonna
+okay I think it's been a fine
+great I think it's good to find Emory it
+you
+she installed the robot defeating phone
+app whether or not innocent until proven
+guilty Jack you live in America don't
+you aren't you an American I do don't
+you believe in our values you know what
+but I've been watching making a murderer
+now oh fuck man
+it's so fucked up they're like a
+documentary style thing or is it a
+fiction thing it's a documentary style
+thing and then I'm gonna watch it oh you
+need to watch it it's amazing and it
+will make you like scared for every
+police officer for every police officer
+Dov every police oh yeah it's amazing
+the police officers make the murder is
+it what is it about specifically it's
+about Steven Avery who's a guy from
+Manitowoc so some a specific traits one
+specific story about how he was quite
+probably framed for rape and assault and
+then after he tried to sue the Manitowoc
+police department was then possibly
+framed for murder really yes this is
+like a real story and it's scary as hell
+huh like bait is a real-world story and
+this is just like retelling using old
+news footage and interviews and stuff
+okay it is scary as shit
+wait Emory 8:01 here's eight dollars for
+the come to New Jersey fund my creepy
+basement has plenty of room okay well
+there we go a dog Oh wha
+oh well I I mean uh you were the one
+doing everything cool III just wrote
+some stuff like programs for your phone
+hey hey yeah this might sound strange
+but can I tell you something but before
+I met you I I didn't really I didn't
+really like what's a little very much
+for a long time but I felt like a total
+screwup like like I couldn't do anything
+with without uh without Eddie got plenty
+again for without but but but but
+guiding you has made me feel a lot a lot
+better about myself
+so thank you for for letting me help you
+that's very kind of you to do anyway
+we're we're almost to the needy car is
+it's just best empty
+resort go bad let's finish this the real
+the real gun says his innocent isn't
+really about what the reason what the
+doc is about is about how fucked up the
+US justice system and I agree with that
+the whole thing is it's just all fucked
+up just kinda like surfer dude hey do
+you again business is excellent here
+these two fellas bought all my ice cream
+I've actually as sold out of everything
+amigo
+sorry oh wait there Kemosabe
+I'd still got a something for you a big
+ol smile about that hey baby
+and this kind of told you okay tell me
+hey we like taking a rain check on that
+killing you do like don't care you got
+about me okay hey
+Moki b85 says here's two more dollars
+for the company I am filled with
+determination
+nine dollars we have nine dollars for
+the come to Australia fun
+we're only four thousand nine hundred
+and ninety one dollars away just to
+making our dreams turn into reality
+alright let's see three PL away to the
+right for some great deals and then we
+have sands it's not to say area I heard
+you're going to of the core how about
+grabbing some dinner with me first
+yeah evening darling Sam's yeah sure
+Sam's is always an outstanding all right
+thanks for treating me Sam's over here I
+know a shortcut
+alright well here we are
+your journey is almost over
+you must really want to go home I know
+the feeling
+what Oh No maybe sometimes it's just
+better to take what's given to you down
+here you've already got food there's
+what you have to do really worth it let
+me tell y'all starring before the story
+the real Fionna says here's two dollars
+for they come to a Claire Wisconsin fund
+now that's that's as more ado let's
+puzzle more duels possible to about two
+bucks
+question so I am a century and Snowden
+forest right I said all there watch for
+him it's kind of boy
+fortunately deep in the forest there's
+this huge lock door and that's perfect
+for practicing knock-knock jokes
+so one day I'm not going about like
+usual I knock on the door and say knock
+knock and suddenly from the other side I
+hear a woman's voice who is there
+so naturally I respond dishes dishes who
+dishes a very bad joke
+go to Wawa then she just howls wet
+laughter or pain one of the hose gets
+the best joke she's heard a hundred
+years so I think I'm coming and she
+keeps laughing she's the best audience
+I've ever had then after a dozen of them
+she knocks and says what does she say
+jack
+what does she say on the tip that we
+just got we got a couple
+yeah we got a graphic military says
+here's two big ones to add to the Miami
+connection fund come down and see us for
+the dragon sound concert that will never
+happen
+thanks gruff so now work through $11
+okay
+mister sister Pfister just sent us a tip
+and say Brenau saber mao the spirit of
+1776 so if you go overseas you bring
+America with you also Jack should share
+some of his overwatch hype with rich so
+you can play simultaneously on the same
+team when it gets here rich does not
+like our mine only multiplayer shooters
+so I don't know if I can share my hype
+with them but it you know what rich is
+sharing his XCOM to hike with me so I
+think there's gonna be a little bag
+Thank You saver mouths okay I say who's
+there old lady old lady who oh I did not
+know you could yodel
+Wow
+needle needless to say you don't need us
+to say this woman was extremely good
+wake up telling each other jokes for
+hours eventually I had to leave a Pyrus
+gets kind of cranky without his bedtime
+story but she told me to come by again
+and so I did then I did again and again
+if you know what I mean I kept coming
+she kept letting me come back it's a
+thing now my thing I made a baby she had
+a baby because I kept fucking her in the
+door in the florist you through the door
+as a whole I read a hole by repeatedly
+banging at the door with my god that's a
+cock shaped hole which is basically just
+like a whole but Sanz is having a really
+beautiful moment here making a big joke
+I know okay great I know it's all I got
+cuz I'm not creative enough to get
+creative jokes okay telling bad jokes
+through the door and by bad jokes I mean
+savage fucking just savage
+and rolls one day though I noticed she
+wasn't wearing any panties she wasn't
+laughing very much I asked her what was
+up
+the answer was my god so I kept fucking
+my a sir what was up then she told me
+something strange if a human ever comes
+through this door could you please
+please promise something watch over them
+and protect them well you not now I hate
+making promises and this woman I don't
+even know her name but someone who
+sincerely likes bad jokes has an
+integrity you can't say no to solve or
+not says here's five dollars for the
+come to Denver fine these are all
+separate funds these are all separate
+funds you guys need to consolidate or
+else we're never gonna reach our goals
+and we don't consolidate I'm sorry also
+do you have an email address which I can
+send you steam gifts yes prereq at red
+letter media dot-com PR e
+ruc at red letter media comm do you get
+what I'm saying I love your sans voice
+so much that promise I made her
+you know what would have happened if she
+hadn't said anything buddy bow friend
+dad where you stand
+she just got real hey lighten up Paco
+I'm just joking with you besides haven't
+I done a great job protecting you and
+Irene
+look at yourself you haven't died a
+single time
+hey what's that look supposed to mean
+now am I wrong how many times did you
+die playing this fucking game oh my god
+I did a horrible job of protecting you
+no snake in the garden I checked with
+the Australians I checked with the
+Australians they agreed to the visit
+Ireland fund could get could get all
+their dunno let's see here we have $20
+for the come to north California fund oh
+this sounds like a nice one right
+actually picnic Oh see the redwoods from
+gobbledygook s-- helpful tip in lake
+tahoe dead hookers don't float to the
+surface
+oh and also we should check out DC
+Universe Online from the ps4 it's fine
+you fucks
+and we have two extra dollars for $20
+gobbledygook scan run that joke into the
+ground we have two extra dollars just
+for the prereq World Tour fun general
+two dollars in the slush fund and you
+subscribe to act front okay okay how's
+it well that's all take care of yourself
+kid okay someone really cares about you
+some cow lady who I keep fucking I don't
+think neither I think the way to ban the
+door was it like our real mother now you
+don't think that was the cold lady for
+the beginning I don't think that was the
+cow lady for me I think it's gonna be
+good okay I guess I could um let's see
+here we have two extra dollars for the
+before they come while yelling to
+Australia Fund so now we have thirteen
+dollars in the come while yelling oh my
+God look at this creepy guy Oh
+thinking back here I realize they forgot
+to make a reservation but they didn't
+want to look like a mess table so I kept
+walking me me anyway now I'm just kind
+of consuming doing off these viscous but
+like Vegas no I like Fisk is better
+you're right
+oh it's Hellboy little wind-up mazes
+with puzzles in order to foil humor
+attacks what our Billington's winding
+and confusing some awful tradition has
+old two feet without being up your
+armpit comedian I'm very funny people
+gonna laugh at my jokes but release they
+line up on your jokes at first and then
+then they all turn against you it's not
+very fun when people do that simple just
+people just don't understand what I'm
+trying the same with with my jokes I
+have a vision I keep changing my
+punchline that's because you know that's
+the way I originally wanted the
+punchline to be that way but some other
+comedians have have taken my jokes and
+they're bad they're basically white
+slavers just taking my jokes and abusing
+them some people say they tell them
+better but I think I think they're
+they're they're they're just as bad as
+white slavers no my son he when he wants
+to be a comedian like this was thought
+huh
+that's nice this guy is supposed to be
+some kind of like Bronx first yeah
+Boston person I guess but was this fun
+of an old no it's family so haters gonna
+be George's father but it's jokes well
+huh well not very funny not like not
+like my jokes I told much better jokes
+than my son
+well nobody laughs but they just don't
+get my jokes like I do know I make small
+personal jokes in my garage
+I sold all my good jokes for four
+billion dollars and then they wouldn't
+let me tell them anymore I don't know
+why they stopped letting me tell my own
+jokes and they paid four million dollars
+for my jokes
+it's weird I figure they're still my
+jokes really they just gave me money and
+I'm gonna take that money he told them
+these awful puns
+it's kind of an aversion tomorrow to our
+family well it's not very funny
+his mother passed on he says his mother
+Rob divorced me after sleeping with a
+friend of mine and and ruining my my
+view of love and marriage and human
+emotion well he couldn't stand living at
+home she was really talented especially
+Joe she had heard all my jokes
+some people think she made the butter I
+think you've ruined my original vision
+not not convinced that she made the bone
+I got rich now he helps me with my jokes
+he loves all of my jokes yeah Mitch
+McCallum Mitch Burke Helena sense I'm a
+terrible I'm gonna have to edit that
+punch line we good where's my queer CGI
+team can we we put some some cartoon
+animals into that punch line never make
+it my fault
+make them make them move around the wop
+and Stan how I suppose everything else
+in the punch line I'll have you fall
+down my behind baby fall down some think
+that's a funnier joke and we've ever had
+before
+yeah get out of here
+
+[Part III]
+get out here get out of here I'm talking
+to you all this it's breaking my heart
+I'm gonna go home and I'm going to cry
+into a pile of my money all I'm making
+my small personal jokes in my garage my
+people keep working on that left over
+beefcake here's a fiver for the throat
+lozenge fund Bravo on the voice work
+guys Bravo
+thank you beefcake welcome to mgt resort
+that admins abuse apartment to be
+building to hotel whether you're here
+for an either still here and TD Resort
+prides itself on there and a great stay
+just passing through nice and empty tea
+resort prides itself on and being best
+rule
+it's bad it's a potted plant elevator go
+straight to the capital but it's not
+working
+oh they'll do a faster accounting
+everybody's back here oh yeah I'm not
+gonna be home tonight
+I think there's some cold pizza my
+treasure hoard you get heat up yeah same
+thing as a son I'm outraged my Louie
+Armstrong is fine yeah all right that
+was fine oh hello dolly
+whoa whoa hey check it out yeah you
+should buy all my stuff
+junk food empty gun hey we want to come
+here what oh we only have 180 9g don't
+we have you gave a lot of it to that's
+why I didn't give that much we're like
+that's right a little slimy it's me
+mommy not doodoo and I think to myself
+no we have not discussed the petition to
+get George Lucas to direct episode 9 but
+because it won't happen there are very
+few certainties in the world but that's
+one home never gonna happen
+well that's wonderful
+you got hush puppies okay
+okay great
+yes we know the elevator to city is not
+working because of these incidents rooms
+are running at special rate 200 gr Rome
+interested to map to other stores you
+change mind that spectacular thing I
+like that that's like the sound of a
+hand buy something from this guy then I
+can just talk to we already bought it
+talk to him oh there's
+why do you keep trying to talk to me
+okay
+trouble doing I could shoot me with the
+clothes to post sorry so I wanted to be
+an actor so let me give you some advice
+little buddy there you've got skill here
+you've still got time don't live like me
+I'm 19 years old and I've already wasted
+my daily little thank you for me a
+little funny listen I like you little
+buddy so I'm gonna save you a lot of
+trouble never interact with attractive
+people unless you're one of them they're
+just gonna take advantage of you no I
+got time those two chicks asked me to
+sneak them into some glam buggers naive
+teenager that I was and yes to them
+bad idea what you think I'm anything you
+wander I'm ready so I went out to the
+alley and see those two ladies you know
+see what happened next
+then my boss that saw me what I was
+doing so startled the hamburgers my
+pockets double down to the ground not
+wanting to lose face scramble to pick
+them up but yes I was leaning over the
+light of the remaining hamburgers
+everyone calls me burger pants now what
+a first came to Holland it was my dream
+to work with medicine well but careful
+what you wish for little buddy
+God have you even looked around this
+place is a labyrinth of bad choices
+every time we try to change something
+for the better
+that's how humans are allowed eating
+humans are always hitting hamburgers
+made of sequins and glue
+it's literally just a freaking rectangle
+future what future nothing down here
+ever changes probably be trapped in this
+stupid job forever boy there's one thing
+that keeps me if a score gets just one
+more soul will finally get to go to the
+surface
+it'll be brand new world there's got to
+be a second chance out there for me so
+stay strong little buddy when I make it
+big I'll keep you in mind yeah oh yeah
+it was it was a good job good job
+I'm here I'm here I'm there where's the
+thing where's the thing but where's the
+thing we got two dolls from anonymous
+dear rich give me the other thing give
+me your thing the other thing the blue
+thing me the blue thing it's any of
+right give me give me give me give me oh
+we got all we got
+dear rich says anonymous your beard
+looks very handsome
+oh it's Ruffy right now thank you have
+you played way of the samurai or it's
+sequels like Dead Rising this story also
+advances with or without you it's just
+much more boring also hi okay maybe I'll
+maybe I'll look into it I haven't even
+haven't really even heard of it honestly
+okay John the bond no we have not played
+this before you're doing everything
+fresh off the cuff oh who are they
+nobody else is supposed to be here oh
+well we can't worry about that now I
+understand something spectacular happens
+on the second playthrough that's I was i
+tweeted that we were playing this today
+and someone says I hope you're not
+planning on only playing it once because
+it really gets good on the second
+playthrough we're probably not gonna do
+seconds we've already streamed through
+the whole game
+exactly so apparently something
+phenomenal happens don't spoil it okay
+someone hasn't played a person okay
+really
+this is it take the elevator up to the
+top of the court
+hey the white why don't you try to use
+the the elevator first Oh Oh watch out
+Oh magic pops out of its hat
+so much for exploration
+this magical mercenary only says one man
+think'll thank go Hoyt whoa whoa he's
+shooting tiny T's at you magic whispers
+arcane swear words
+think the pollen sunshine your defense
+increases by one think the pink delight
+those tiny tees are gonna get you min
+and plants his orbs
+holy tiny airplane he plants his orbs in
+a missing minute
+that was close
+why are there so many lobsters here I
+leave the son there's no problem right
+probably legally we just got we just got
+to keep heading forward like thing the
+elevators what oh the elevator should be
+working what will then goes right and
+keep heading up well uh where'd this pit
+come from I don't call the big pit here
+you should be able to walk across the
+surface of a floor which is not
+currently on the floor I can floor
+beyond the floor then when we make it
+there's there's just no there's anti
+floor is the problem we have anti floor
+and that's just not good jaqen which
+what stand up comics do you like I've
+been watching a lot lately and meets
+more George fucking Carlin when he still
+did stand up way way back when Eddie
+Murphy Murphy was great now Richard
+Pryor
+Dana Carvey has some really good looks
+like you can't proceed until you hit the
+switch you up but those these lasers
+will activate what you do looks like
+they'll come in this order orange orange
+blue got a move until the third one
+that did I get that right nope nope oh
+my god oh my god oh my god oh my god oh
+my god are you hurt
+I was so so sorry I like I gave you the
+wrong order everything's everything's
+going to be fine okay everything's gonna
+be fine the blood was just uh keep
+adding to the bright keep adding to the
+right I feel like I see that you guys
+are joking about Bill Cosby even before
+everyone knew he was a horrible racist
+rapist yeah he was never a favorite
+comedian oh really I like this one when
+it comes to media stand-up comedians
+nobody could touch their internal a
+crossroad as well true try hitting to
+the dots of the right today I do three
+well wait wait wait though I think you
+should maybe head up and step come on
+funny dialogue and a funny dialogue
+dancer
+night-night blocks the word neck nuts
+the clocks the way night-night
+this Megaton mercenary wields the Good
+Morning Star a deal a deal dude
+holy fuck jesus fucking christ
+night y night watches quietly sing
+tonight night night night starts to look
+silly be good night
+jesus fucking christ
+night night smashes her morning star
+night night
+sing again yes goodbye
+whoa fuck oh no shit shit why do you
+always appease rich you obviously don't
+agree that guy I'd never said that was I
+was we bicker about things constantly
+the curve on things has it George Carlin
+is a fine stand-up comedian very good
+stand-up comedian great stand-up
+comedian who's the best that's really
+sinister I'm not taking that away from
+rich we're not having it out because we
+are two adults and then maybe have
+disagreements stamp means good we find
+though everybody loved it now the
+stand-up comedian it's like a like Ricky
+Ricardo I don't know where the same I I
+understand Patton Oswalt who was in
+space cop there's a very good stand-up
+comedian I haven't seen much of since
+like some clips online they're good but
+I've seen I just haven't seen much he's
+good he's a good storyteller I don't
+like David Cross at all why do you think
+all of his stories are very much I've
+never seen do stand-up
+David Rock yeah yeah he's a money he has
+very similar style the patent were they
+more just tell stories
+and it's less of it's less stand-up in
+more storytelling patents the same way
+I saw a couple people say Mike Birbiglia
+Mike Birbiglia is a genius storyteller
+again it's like that weird thing about
+stand-up where they're more tell stories
+and like they're amusing stories but
+they're not necessarily like jokes you
+know but
+anyway
+Patton Oswald star of ratatouille that's
+right oh god of course Steve Martin is
+one of the all-time man that's the real
+point for me person funny man like his
+movies Steve Martin is the best thing
+stand up though yeah no yes
+no that manages Jesus he's very funny
+he's very funny
+great movies great comedic actor great
+comedic actor writer subkeys ab anjali
+he's an actor he's a director he's a
+negative brilliant not the best ever
+stand of a comedian no no no no no
+that's my that's my opinion different
+fight fight fight you know it's fine
+smells like magic
+I've heard really good things about him
+was that the King Notaro tipping Aurora
+who whatever like you know everyone
+loves um louis louis c.k
+and lucy pray say Louie CK is brilliant
+a brilliant brilliant stand-up comedian
+and he endorsed that taking it what the
+fuck is her name I have it somewhere I
+have her stand-up special it's supposed
+to be fantastic it's like the stand-up
+special that she performed like after
+she was diagnosed with cancer and like
+it
+it moved Lewis DK so much that he like
+bought the rights to it and sold it
+through suppose I take it in the tower
+okay that was I haven't seen it but I've
+heard great things can we agree that
+Dane Cook is the worst thing no I know
+we can bring it up minions we can't talk
+about stand-up comedians without me
+talking about how much Dane Cook sucks a
+great amount of enthusiasm he has a
+great on of suck he isn't he has a great
+amount of no-talent Chris Rock had some
+good Jim Jim Gaffigan had some very good
+stand-up specials that whole pot is hot
+pockets oh it's crazy Gaffigan
+you know what tiny favor anyone can have
+enthusiasm he did have it though I'm not
+saying I'm not I'm not even saying he
+was great I think he was all right and
+his enthusiasm just carry over care meal
+that's right
+Dane Cook is suffering from hike back
+lash it's not that bad but everyone gave
+him shit because he was overrated by the
+I don't care I don't care do people hate
+and Hathaway is that a thing I don't
+know I've never heard that she's
+America's Sweetheart as far as I'm
+concerned nice
+to attack
+shit rich you monster they're attacking
+night-night
+nygma
+understand with any of those initials me
+I'm sorry
+Mike and j8na plan
+they can hate whoever they want to do
+okay great great do you die yeah
+Sarah Silverman that's a good one Debbie
+restore Sarah sometimes very funny
+very very funny
+I don't rich you you fool I tried I
+don't know what is and isn't a healing
+item because everything just says a
+wacky name and they do their own things
+and after I use the thing that wasn't a
+heal item it went right into the battle
+don't you have like eight hot dogs okay
+I like to we've been using them here
+there it only holds so many did you go
+back up north go right next time
+okay let's Chatty more focusing right
+I've never seen and I know Amy Schumer
+has her own show and I've heard really
+good things about that movie she was in
+with Bill Hader you'll remember it I'm
+sure I've never seen any of her stuff
+I've heard good things this music is
+great by the way Fred von Paula fuck a
+ghost no I talked to magic oh wait you
+can you can run away or you can spare
+him
+go back you can spare him is he yellow
+yeah he was yellow Oh was he which is
+not paying attention Paula Poundstone
+like a tiger Paula Poundstone had this
+one bit about Pop Tarts that possibly
+changed my life forever it's like the
+first stand up a bit I can remember is
+Paula Poundstone spit on pop tarts and
+eating pop-tarts and I remember seeing
+that as a young boy and saying that
+speaks to me because I love pop-tarts
+I'm not joking I'm getting fatigued
+getting fatigued here and take this and
+read the chat yeah let's do this
+what is Z is Z or X go forward I mean
+for I mean the one that's like enter
+yeah
+X is back you can also just use enter
+for forward
+almost the last movie I saw in the
+theaters Star Wars The Force awakens
+I just dropped the whole bunch of stuff
+on hamburgers do you were Jack like
+Bilborough
+I don't know who he is Jack - you like
+Bill burr yeah speaking of stand-up what
+about Jay Leno he killed it on tonight's
+show all right my opinion of Jay Leno is
+that he killed The Tonight Show
+I hate Jay Leno rich Bob's Burgers
+disgust it's a perfectly fine animated
+sitcom it's good it's not the best one
+ever
+he's very good entertaining you gotta
+know so much you have Bob's Burgers fine
+it's a show I watched with Karen when
+she was up and it's not the most
+ambitious show at all it's it's it's
+light fair but the librarians is very
+entertaining as stupid as it kind of is
+the library is that the one with like
+Noah Wyle yeah no no Becca Rebecca
+what's her face Romania
+yes it's a fun show
+most of both the season Enders left me
+with a nice warm happy feeling in my in
+my stomach and it was a good thing it
+wasn't serious drama not everything
+needs to be serious ultra drama it's
+like it's like Friday the 13th the
+series only less dark fine find the
+magic artifacts and put them in safe
+storage same thing same exact premise
+only with more interesting characters
+and less murder but it's the sub murder
+in his stomach not his heart I have no
+heart
+so you move through and you stand still
+yes
+anyone watching Columbo adjusted it to
+one more thing you know I get a little
+confused sometimes I'm just trying to
+put the pieces to get in here you should
+do a stream s Columbo the whole stream
+upholstery loose Columbo how much Jack
+how much to do the rest of the stream as
+Columbo I will not make the same mistake
+there Richard I will not lie to you
+what about up what about a two hundred
+dollar donation we just gotta kick the
+price up what do you do it for a two
+hundred dollar donation but you do the
+rest of the stream well let the rest
+that's the cat that's not worth the
+money first I would feel bad yeah and
+people don't want to hold on to two
+hours what how much money two hundred
+okay that's one solid donation that's
+not spread out right I just wanna I
+wanna rich is making rules here I know
+I'm I'm it's up to you your your your
+thing
+how much cheese new Colombo the whole
+Sherman sees no this is this is rich so
+Jack will do Colombo for the whole
+stream for $300
+so Lagaan says he paid $4 which actually
+ever there was telling on that night
+the rich boy stream there's people
+before you who dude there's two
+different like $40 donations yeah no
+enriched back thou no I did i I wanted
+to but I didn't I didn't I I asked
+permission if I could change voices cuz
+because and my reasoning was Jimmy
+Stewart wasn't entertaining enough for
+the whole string sure I still did funny
+voices I just did funny funny voices and
+I asked permission and you know what
+everybody was glad to have fuckin Don
+Wilson back that's true you ended that
+was down with previously recorded live
+they can't be sellouts as they have no
+principles to violate no that's that's
+very true you can't call someone a
+sellout if they're not bending their own
+values
+mr. glitch says I got Don Wilson on my
+answering machine now that's right best
+ten bucks I ever spent
+that's right damn Wilson how much - how
+much to have jack permanently talk in
+the papyrus voice does he know that
+would you like alone $50,000 for the
+rest of this room for the rest of any of
+our streams oh yeah $50,000 $100,000
+how much papyrus for every four there
+every stream ever oh that I mean listen
+boys 1 million dollars two million
+dollars one hundred million dollars for
+the rest of this Co for the rest of ever
+oh I'm just I'm just breaking it down
+like do you want papyrus for the rest of
+this stream no I wouldn't I wouldn't do
+anything for the rest of the stream cuz
+it's not gonna be much no no yeah that's
+the problem like a fire that be a
+challenge
+okay
+oh it doesn't look like my BAP at all
+I'm sorry I have to go the air is filled
+with the smell of ozone you're my sir
+with beer Meister 2089 says we're going
+to need a Kickstarter to make me do
+papyrus I will not do this blast for the
+entirety of all of our screams that
+would be terrible could you imagine that
+just me being bad boys I have a price
+and you know quite frankly it's your
+voice not mine I would do it I would do
+it for let's see here
+not for for the rest of our streams ever
+here but for the next six months worth
+of streams for $100,000 whatever the
+next two weeks
+let's get let's get into the realm of
+plausibility the next two weeks for
+streams so four straight Sunday
+Wednesday Sunday minimum three hours
+stream minima four streams minimum three
+hours of Pyrus all the time yeah that's
+realistic
+two thousand dollars one solid donation
+two thousand dollars and you get you get
+you get four streams with nothing but
+the papyrus voice okay okay
+leftover beefcake says they would have
+no viewers left we would have no viewers
+left that's when they start the donate
+to stop the voice campaign oh you people
+love the voices we know we know how much
+you want undertale and please quest
+dreams you love the voices okay right
+yeah we have an actual decision yeah
+North is the Warriors back yeah
+West is the sages path East is the end
+all paths lead to the end whether Easter
+says done trip
+I love the voices but only in doses yeah
+that's that's the real yeah a variety of
+voices as fun a single one is not I
+didn't hear any complaints about Don
+Wilson well Don Wilson is a special boy
+but you know what even Don Wilson the
+entire stream looked great after a wild
+one Don Wilson is the camera there was a
+hundred G inside this garbage can I
+decided to leave it the seminar okay I
+just want to keep you up on the
+situation
+if we donate well you do the papyrus
+voice even if there is a somber week
+following a major terrorist attack here
+my absolute if I agree I have already
+agreed the next four streams three hours
+at least the stream nothing but the four
+wire stories I don't care if they are
+attacking us on while we are screaming
+and doing that voice
+even if New York New York all of New
+York will have some very sad those who
+attacked us with great vengeance that's
+that's what I would promise that's the
+front you guys are getting pretty close
+to the end I just want to say the people
+who told you you have to play the game
+again to get the cool thing are wrong
+you can do it by loading your save which
+doesn't take that long okay
+wins a lot and final froggit appear
+I attacked him oh fuck
+did not want to attack you in slot nine
+to apologize
+how much for rich duel my quest I'm not
+that great at impressions there's like a
+handful I do but I'm really terrible at
+them I don't have a mic impression I
+don't have a jack impression I don't
+have a J impression I just I I'm not
+good at those things and and in general
+they can't reload the save they missed a
+part did they ruin pacifists we don't
+think so we kill what goes though I
+think it said he wasn't dead after the
+fight because he was a ghost so I think
+we're ok ok
+is the oh my god a troll to reference no
+it's just something I said that I
+thought was funny haha really is I
+didn't I didn't see troll - it's a lot
+of freely recently probably waited then
+we were doing it do we even do anything
+with troll - I've seen her recently I
+don't know it was for something on the
+show because he didn't it was recent
+years um it was recent years that I saw
+it half in the bag did something on the
+documentary yeah but I don't think I was
+in that discussion
+no you weren't in that discussion but I
+just assumed you start with them no no
+no I didn't it was that even before you
+move here that discussion depends upon
+how really it was my Lucas impression is
+great my Lucas it's like fluky is what
+it is I'm usually not good at
+impressions I've seen I've seen better
+George Lucas impressions online you do a
+very good like I said my George Lucas is
+basically just depressed Kermit the Frog
+could it be fraud you Miss Piggy just
+died there's a terrorist attack in New
+York and this baby's dead
+nobody can get in contact with fuzzy we
+know for sure Ralph had a gig we didn't
+I hope you make it out I'm heading over
+to Gruber sauce right now I I need to do
+with friends
+anyway back tonight it's the oh my god
+that mic does this plink at a reference
+to your oh my god yes I'm pretty sure
+this I've been doing oh my god since we
+were in like high school oh my god
+remember if like the oh my god was in
+any like you know the be busting service
+I'd be original playing videos I know I
+know
+I don't know if I did that as much as
+planket know her era classic blinkin
+ever said oh my god but oh my god was
+the thing that I am just said right
+go back to a safe point after this
+what did we what is messed up with this
+room
+oh fuck I thought he had mercy rich who
+is planket based on nobody really here's
+here's the fluid origin I'm sure there's
+people who don't know sure Mike was
+doing like a college film project thing
+and basically we took old mary-kate and
+Ashley Olsen videos and the plan was to
+splice me into the mary-kate and Ashley
+Olsen videos there was man not that was
+even earlier than that oh yeah yeah this
+was a one of them like mary-kate and
+Ashley Olsen like little detective movie
+for babies and they're on the phone
+talking to a mr. plinkus who we misheard
+as Lincoln and then we just took their
+dialogue and then the plan was just
+generally to have me saying whines
+they'd be talking to me and I would be a
+mr. click 'add and I just tried to sound
+as insane and crazy as I could right mr.
+plinkus
+yep what we heard is play it right it
+became playin and that's how play
+guitars yeah I got it sounded crazy cuz
+I'm know I'm talking to these little
+girls at the children's film and I just
+wanted it to be insane yeah that's how
+pleading came about
+similar to Don Wilson I think I was in
+the same frame of mind when I started
+doing Don Wilson original plank it was a
+bit well it was a little bit less
+subdued okay he's he's mellowed out over
+the years miss waters been water fixes
+crab that were yeah I don't want it
+goblins or ghosts kind of all out there
+oh you didn't know what he's gonna say
+crazy old man right
+fling it when he has to do dialogue and
+a half on the bag that just kind of
+mellowed him out of this you know I had
+the door over I watch this whatever pops
+into my head is all crazy just I'm
+reading the lines and it's gotta be like
+you got to understand the dialogue
+do these student films that you were
+Mary Kate nationally still exist I I
+think they're on the run that are medium
+YouTube unless we had to take them down
+do copyright with the kid very good
+Ashley that's possible I think they're
+up somewhere I'm sure you can probably
+find them somewhere in the at red letter
+media calm you know there's there's a
+half in the bag section there's the best
+of the worst section and I believe
+there's like a miscellaneous video
+section and in there should be the old
+blanket ones cuz they were they were up
+on YouTube before we were a thing even
+yeah
+before there was a blanket before there
+was anything and I could just like
+through some of our old YouTube videos
+up on the interwebs and it's possible
+they got taken down because there I mean
+there is a copyright material mary-kate
+and Ashley Olsen I'm not sure people
+ever recognized you guys on the street
+maybe four times a year roughly same I
+guess I just recognize me I might have
+told this one on stream recently the
+weirdest one for me I was just at a
+grocery store
+recent years yeah well I might have I
+might have recently told this I mean
+like on a stream so this might be
+repeating myself but year or two ago I
+was just going to the grocery store and
+I was driving the space cop car around
+okay and some like 12 13 year-old boy
+runs up to me recognizing the space cop
+car is that you're rich Evans and he had
+like a very confused father who was
+wondering why his 12 year old boy was
+talking to a a 37 year old fat man
+stranger in the parking lot of the
+grocery store
+Preston
+did any non-space cops give you shit
+about that car
+ah one time I was stopped at a red light
+really nice out so I had my window
+rolled down summer and this older lady
+next to me it was like staring at my car
+she looked over me said are you a cab
+and I'm like no I'm not a cab what are
+you what does that mean are you a cab
+I'm not a cab ma'am
+what does that stand for she's pointing
+at the logo on the car it's it's it's
+four things four thing what what is it I
+just started rolling the window up and
+and she said before I close the window I
+could clearly hear there hear her well I
+never well you should give it a try lady
+you might feel better
+this is save save save save look in the
+trash save I know there's $100 in the
+trash but I'm not taking that yeah
+somewhat you save I don't know where it
+saves bodies I
+my knees and I click the button that
+turned out and there was like in who's I
+think maybe the users over here
+there is news
+okay
+they got me
+not doing well I don't have a lot of oil
+there's no penalty for taking the money
+you jump not my money
+behind this door you totally need
+healing items while you take the money
+and then buy a shitload of healing items
+there's this room and then there's the
+elevator
+so what wait I go through the door the
+elevator burner my game changers it's so
+weird
+great mr. glitch says hey assholes I was
+that old woman
+I never how do you do this right why is
+it work that way a so weird
+so now I've been doing worse without to
+go to this stupid area
+which is missing the mic comments what
+what what what's wrong with her mics and
+see anything about my
+I'm gonna have not seen the revenant
+Jackie um I had a chance to we will not
+be taking repeting questions I had a
+chance to see the revenant I'm sure it's
+great instead I saw Jurassic world
+everybody is saying elevator elevator
+takes you to the beginning of the level
+so you can get healing items faster yeah
+but I need to go back to get the money
+because barely machole maybe they want
+the mic closer to your face I don't I
+don't know I got money Jack needs to be
+closer to the mic Amir dog don't worry G
+I got mad cash great I just bought like
+eight Amber's all right great let's do
+this here's the core
+okay I get it did you guys ever beat the
+old hunters I have not been to Jack have
+you beaten the old hunters no no I'm
+right now I am stuck on the orphan of
+costs who was kicking my ass just
+absolutely kicking my ass and and that
+fire blood starved Beast
+I have not beaten either of them and I
+try multiple times to beat either the
+fire blood start beast or the orphan of
+cause so that's how far I am if you know
+the old hunters DLC oh yes there you are
+darling
+z Goten says hey guys have you seen
+manborg yet it's an ultra-low budget
+homage to eighties sci-fi a great pick
+for best of the worst and it's only like
+an hour long oh we like that our long is
+good I have never heard of it them it's
+time we have our little showdown it's
+time to finally stop the malfunctioning
+robot nah malfunction reprogramming get
+real this was all just a big show and
+act
+Alfie's has been playing you for a fool
+the whole time as she watched you on the
+screen
+she grew attracted to your adventure she
+desperately wanted to be a part of it so
+she decided to insert herself into your
+story she reactivated puzzles she
+disabled elevators she enlisted me to
+torment you all she also she could save
+you from the dangers that didn't at
+first
+someone pre Keable yeah also you would
+think she is the great person that she's
+not it's time for our at this very
+moment alfie is waiting outside the room
+during our battle she will interrupt
+she will pretend to deactivate me saving
+you one final time finally she'll be the
+heroine of your adventure
+yo regard her so highly she'll even be
+able to convince you not to leave
+how I might have heard some Tony Tony
+tell y'all to do it alright alright
+yelling are not can you see I've had
+enough of this predictable charade I
+have no desire to harm humans far from
+it actually my only desire is to
+entertain after all the audience
+deserves a good show don't they and
+what's a good show without a plot twist
+dun dun dun
+Hey Oh what's going on what's going on
+you don't tell like who's the secret
+plot of mine or are you the door just
+locked itself sorry folks the old
+programs been canceled but we've got the
+finale that will drive you wild the mic
+is a mile away for your face right now I
+do that on purpose when I do the
+football voice because I'm yelling I see
+and if I move the microwave if I move
+the mic away when I'm yelling it will be
+normal volume for everyone out there
+rich what I'm being considerate of her
+own I'm just I didn't know what was
+going on but I move it back I'm just
+like this so they didn't befriend
+moondyne we didn't yeah we didn't we
+didn't we make friends with her after
+the thing we didn't kill her I don't
+know
+anyway we saved her real drama real
+action real bloodshed on our new show
+attack of the killer robot
+his metal body renders him in the
+vulnerables of attacks
+oh great you didn't befriend her you
+have to go to her house for that her
+house whatever
+you can do it later hurt that's
+worthless be sure there weren't work on
+me darling listen darling I've seen you
+fight you're weak
+if you continue forward a score will
+take your soul and with your soul mask
+or will destroy you but if I get your
+soul I can stop as Gore's plan I can
+save humanity from destruction rich
+freed Stardust as as long as you didn't
+kill anything
+the game will tell you what criteria you
+need for the pacifist ending when the
+time comes don't worry
+is this enough to do a score as Tommy
+why sue from the Y so from the rule $30
+I can't do impressions
+damn you bad you say attack me if that
+sounds like a genetic 14 man that's not
+Tunney why sir hey Dave I can do
+therefore as Gore hey babe hey babe you
+love me I don't know how to dodge these
+attacks
+hey I'm not sure
+oh maybe you can shoot it oh that's
+right shoot it
+Oh damnit dummy
+you can shoot when your shit is yellow I
+forgot that already
+stay determined
+I can do Park park for asgore I'm pretty
+good at pork pork did I save after I
+bought all my shit I did not why so is
+super easy to impersonate I suck at
+impersonations and I the ones you've
+heard of the few I could do I haven't
+seen the room so I don't know his voice
+that much it's all bullshit I did not
+hit her I did not you know what we'll
+have to wait and see as Goran will find
+our asgore voice your daddy me apart
+Lisa oh hi mark
+not cheep cheep cheep cheep cheep cheep
+cheep cheep cheep personnel's good Jimmy
+poor Eduardo I'll have half decent Jimmy
+Shores
+I think my problem was the other
+
+[Part IV]
+I do I'll have half decent yummy stores
+I think my problem was the other the
+other night was we're not men you gotta
+go really high with Jimmy Stewart for no
+particularly good reasons
+I just gotta goes up there everyone his
+voice just like some water on your elbow
+all right here we go I got this
+I was on that rearrange of car I was one
+that hired everyone to kill you better
+or was short-sighted plan you know what
+would be a hundred dog that are killing
+you myself okay now I have to come back
+and shoot the things
+özgür will take your soul away their
+souls are with us our humanity rich can
+you do Palpatine you know knowing Mike I
+would just be ashamed to even try
+as soon as your friends see this fully
+operational space station no one can do
+it like my station is fully operational
+take your Jedi weapon and strike me down
+all I can do the tragedy is that Mike is
+not doing Palpatine professionally right
+for that that show what's rebels Star
+Wars rebels
+I can't see what's going on don't give
+up okay others
+there's one last way to be Metatron it's
+made them I can call what I want I'm
+calling a Metatron yours you're all
+saying it wrong I'm the only one saying
+it right now this is a a work in
+progress so don't judge it too hard but
+you know how Metatron always faces
+forward that's because there's a switch
+on his backside so so if you can turn
+him around
+well press the button and the switch on
+who you know he'll be he'll he'll he'll
+he'll be vulnerable vulnerable I've
+gotta go
+Altos arguing
+you tell mettaton that there's a mirror
+behind it
+hello mirror right I have to look
+perfect for our grand finale
+I don't see it where is it
+did you just flip my oh my if you
+flipped my switch that can only mean
+what that you're desperate for the
+premiere of my new black how rude
+lucky for you I've been aching to show
+off for alone yeah
+so as thanks I'll give you a handsome
+reward I'll make you laugh can you can
+you do Bowie no okay I don't know just
+just
+British I think I'll make your loss
+living moments I was going for more like
+a deaf man okay like a rock star
+I'll make your last living moments
+absolutely beautiful
+damn medicine yes makes his premiere
+Bost he'll turn
+kind of pros that's the worst bowie rich
+I told you I can't do impressions the
+audience
+lights camera action
+oh shit my name's if you shoot him twice
+you shoot the legs and the yellow ones
+drama bro my hands blood che get the
+ratings as high as you can
+oh they're dropping you turn and scoff
+at the audience they're rooting for your
+destruction shit
+hi boo I know you shoot them right
+before they hit you
+on brand food great the audience lesson
+smile for the camera
+violence smells like
+oops you say you aren't going to get it
+at all
+ratings gradually increase during
+meditation oh it's time for a pop quiz I
+hope you brought a key book this one's
+Eddie usually quite fun
+hey prom why do you look most about
+medicine good looks and very strong nice
+detail you're right I do look quite nice
+great most say you aren't going to get
+hit at all
+ratings gradually increase during the
+time your essay really showed everyone
+your heart why don't I show you mine
+he'll motherfucker he'll yep
+what what what I'm making the instant
+noodles this is amusing I'm greatly
+amused by this heals me all the way God
+oh wow you lived fucking fuck Wow Brad
+fuck but how are you although you're a
+full stop problem
+yeah I probably shouldn't have shot it
+shooting terms the color of the next one
+find out stay still and just shoot till
+you hate the pace shoot shoot great
+he'll turn you turn and scoff at the
+audience they're rooting for your
+destruction this turn lights camera
+bombs stick and dodge ticking down Siam
+didn't do me a ton of good things are
+blowing up okay great
+Pope's oh it's dramatically the audience
+knows all right but you think Mad Max is
+a chance at the Oscars what's it
+nominated for I'm gonna say no because
+they usually don't honor action movies
+like ever ever so I'm gonna say no
+chance
+sure but I'm not even sure what it's
+nominated for I must talk about effects
+or sound design or something along those
+lines it's not gonna win anything can
+you hold the shoot thing down
+oh no fuck
+the lower your HP the more ratings pose
+gets you oh great
+I got his arms down gladiator won best
+picture I guess gladiators an action
+movie oh fuck yeah gliding is the next
+fuck
+he'll join me too yeah yeah take over
+take over do it rich you do it alright
+do I need to buy healing items I think
+you're well double check your inventory
+I believe you're good yeah you have all
+that star fake don't eat the instant
+noodles don't do it
+elevator where am i oh the room probably
+this thing hey Jack I watched Mad Max
+for the first time on my phone while on
+an airplane but like Mad Max Mad Max Mad
+Max road warrior or fury road Oh what
+what what shoots by the way is that Z
+I'm assuming a Z yes Emery you know
+anytime you find nope anytime you can
+see it that's good whatever one it is
+nice
+that's right they nominated the Martian
+as a comedy
+yeah bombs you don't need to hit hitting
+their little robots and more okay okay
+great
+when are we going to review VR like the
+oculus I don't know maybe not I don't
+care about it so I don't know
+fury road on the
+well I fucked up so bad we're gonna try
+to pose with like no help night Oh 500
+points for a dramatic pose problems I
+gotta dodge no isn't worthy worthy
+effort but you know what we get to start
+right in my contacts yeah yeah
+how do I feel about the hateful eight I
+haven't seen it I'm sure it's good
+Tarantino has a long history of making
+very good movies that's all I got that's
+all I got Mad Max is nominated for Best
+Picture and Best Director you know
+probably if it probably won't win best
+picture but probably will win Best
+Director also like it just it just
+doesn't matter that's that's the reality
+of these shows doesn't matter it's a big
+old circle Turk
+hi the idle everyone cares about
+they're rooting for your destruction
+this time smile for the camera nice
+do-do-do-do-do-do
+what did you sir what you look yeah you
+look nice
+Oh No sometimes a few words speak the
+loudest
+you look nice
+yeah I got hit once you hit him that's
+the important part
+yeah I say just go straight posting the
+other ones are harder yeah it's worth it
+if you don't get hit which I just did
+twice there you go
+no that's bad starfish yes nerf it's a
+good one oh oh my god I know how to do
+that too
+oh that's dumb I was just dumb I even
+know how to do that Star Wars was not
+nominated cuz Star Wars came out this
+year
+no way yeah yeah oh wait oh yeah don't
+listen to Jack Jack is dumb
+Jack is da man you should now listen
+today now let's say my last year we've
+probably be nominated for editing and
+sound and special effects
+all right all right whoa hahahaha all
+rich uh have I heard of until dawn yes
+I've heard of until dawn
+I have no particularly strong feelings
+about it at the great
+whoa whoa better time at a time
+look it down you say you aren't gonna
+get hit at Oh get it get that heart
+heart heart more important target him I
+did get hit oh fuck
+smells like minutes that's all right are
+we streaming until we beat it I think
+we're close enough where we might what
+time is it oh it's only 10:30 you can
+shoot them oh god oh god it's all right
+that's all right that's all right
+just heal the motherfucker here I'm
+gonna fuck up
+I hate that one yeah that's a tough one
+the show must go on really you know oh
+wait no no you don't need to go hey back
+out okay you turn it stop at the
+audience they're rooting for your
+destruction this turn
+yeah
+I post
+nice nice
+now it's fire ring well darling it's
+either me or to you but I think we both
+already yes Golf will win witness the
+true power of humanity Saviour whoa whoa
+fuck man
+Oh God
+great great great great well live on our
+usual style then you really prepare a
+campaign that they're no I can't no I
+did Jesus really go here
+okay all right
+nice okay I think people probably just
+need him to get to what 10,000 assume so
+you just need one more thing one more
+thing here right so you got this you got
+to hurry make your choice or else it
+goes down okay oh you're at 10,000 leave
+reads alone be there Colin mouths
+theorem one lucky viewer will have a
+chance to talk to me before I leave yes
+eerie von 606 we're the ones that called
+alien isolation a door opening simulator
+that was pretty nice of us let's see who
+calls him first
+Wow your own boo boo Wow do you have the
+way about oh hi many time I really like
+watching your show but my life is pretty
+boring seeing you on the screen I kind
+of lost the boys oh boy yay go I said I
+gotta get back into it brought an
+excitement to my life vicariously I
+can't tell but I guess this is the last
+this is posed to me Alfie or not I don't
+know I'll miss you
+bet attack oh wait I didn't need to talk
+so long
+oh no wait wait boom hey they're already
+long nap
+valve egg another born getting this is
+given people merit on your show red is
+so happy about you right you ready
+though this many times you've hole my
+mother town shame hardened Wow why do I
+see everyone fine dude yeah man
+darling perhaps big night meat better do
+stay here or a while thick my ship knows
+which way to go good at this robot voice
+thing like this is my defeated robot I'm
+sure you'll be able to do you Maggie
+that it's all for the best antique boy
+yeah do this dance forms and their feet
+well I'll be darling then oh no III you
+better show up with a lock are you - oh
+my god mad at I'm minutes are you are
+you are you oh my god it's just the
+batteries
+that's odd if you were God wha I would
+have I would have I would have had to
+have built a new sex toys well I would
+have had to have done fortunately your
+dildo could be safely reattached to any
+kitchen appliance that I I mean hey it's
+no problem you know he just it's just a
+robot if you miss if you mess it up I
+can always just build another why don't
+you go on ahead
+why don't I get more healing items it's
+probably what she's happen immediately I
+can't go back there's no return we're
+dead
+so it's not a sorry about that well
+let's keep going so you're about to be
+asked or hails us you must be you must
+be about pretty pretty excited about all
+that huh
+you'll finally you're finally gonna go
+home
+oh I just had the realtor wait I mean I
+was just going to say goodbye I can't
+take this anymore I lied to you
+a human soul isn't strong enough to
+cross barrier it takes at least a human
+soul add a monster soul if you want to
+go home
+you'll have to take us all you'll have
+to kill a spark I'm sorry beep we're not
+gonna kill we're not gonna kill okay no
+we're gonna die because we have no
+helpful items talked about except for
+the instant noodles
+whose impaired relax look at that hot
+ass parallax right oh yeah said I love
+it I go back in a lobby I'm assuming
+then that elevator you're on this one
+over here that I passed oh oh maybe
+maybe no okay no okay
+the g64 says instant noodles are full
+he'll when you're fighting a score I'm
+gonna imagine we need more than one full
+heal okay wait should we make some calls
+is a score you wanna call oh no oh oh
+that's not what a man I is a score going
+to be the bunny lady from the beginning
+no it's gonna be the flower one foot Oh
+flowey red we're gonna have to fight
+flowey at some point right a score after
+a score I'm gonna be flowery it's not
+gonna be too real okay that is not going
+to happen okay okay oh no response from
+anyone wait yeah the tutorials house
+and it
+huh maybe you're right
+wait
+was the info on that locket no I don't
+know I'm sure it's great
+no don't think what was it but a worn
+dagger believe it I'm gonna have to use
+it huh
+yeah but I'll take up a slot and you can
+fill that slot with the healing Adam if
+you get a healing item later I even have
+it we can drop it if we have to okay oh
+did you equate Queen Lee's one item at a
+time is that how this works equip the
+stained apron you this day name that
+protects you I don't know but they just
+they just gave it to us it's got it's
+got to do something rich you can look up
+with the information on these yeah oh
+yeah cuz they gave us the worst item
+near the end of the game go to Stanford
+when they go to info depends 11 heels 1
+P every other time
+our defense 15 it says best friend so
+you get more defense but the other one
+heals you it once every other turn will
+be dead like a few hits
+all right heart locket remember the
+noodle heal that was for HP that wasn't
+every other term by the way chat we're
+not reading you
+we're not gonna read that we're not
+gonna read the chat a long time ago heal
+but it fell into the ruins
+as goals Journal
+look there's a Santa Claus outfit inside
+mr. dab guy number one knows news old
+nozzle
+for king dad parents of father is it
+your Terry L was the mother yeah this is
+father
+yeah figure the Kings I heard the humans
+call he wrote the human back
+who's as real well I guess we'll find
+out
+I'm sent out of there
+it's a good
+okay looking a fireman's the goals are
+still alone
+we treated the human child as their home
+wait who have we met Azrael
+I'm gonna guess something that happened
+to Ezreal
+instead don't there's anything in the
+fridge
+okay I'll take them we need healing
+items some right
+all right let's do it
+got the keys let's go let's see what
+sort of emotional heart this game on
+earth send us rich
+when one day the human became very ill
+the thick human had only one request to
+see the flowers from their village but
+there was nothing we could do the next
+day the next day
+as well wracked with grief definitely um
+first round wreck with grief
+well absorb the soul he transformed into
+a being with a mobile phone
+wait the human soul crossed through the
+burial he carried the human's body into
+the sunset back to the village of the
+humans has crossed over and for
+reserving the the soul of the Dead
+kidney okay else we all reach the center
+up the village there he found a bed of
+golden flowers he carried the human unto
+it
+suddenly screams rang out the villager
+saw has real hold in the human's body
+they thought he had killed the child
+okay
+the humans had decked him with
+everything they had he was struck with
+blow after blow Ezreal had the power to
+destroy them all boy bands we all did
+that fight back
+watch it as we all smiled and walked
+away
+okay
+always stumble at all he's entered the
+castle into the castle against his dust
+spot across the God and he became the
+flower of man I don't know
+I'm plowing him but Kingdom fell into
+the bear the king the Queen had lost to
+the children in one night the humans
+once again
+yeah my good man good man
+the King decided it was time to end our
+suffering every human who falls down
+here must die within ourselves we can
+shatter the barrier for you there it's
+not long now
+King ESCO will give myself King a
+scarlet save us all you should be
+smiling duel are you excited aren't you
+happy
+why'd you happy that be things are going
+on his joy
+it's like joy sub didn't that take me
+there oh it's a Save button
+I want healing items god dammit I don't
+think we needed healing items they can't
+be right that can't be right let's say
+just in case now say just in case no
+there's no way out
+there's no way out oh you can't go in
+that elevator and I go down oh wait I
+didn't use the elevator right because
+I'm stupid you should have saved before
+you done that just in case yeah they're
+not gonna block your path it's fine
+I declare it's fine it's fine
+everything's fine I'm not looking at the
+chat I just want to let everybody know
+that put the old eleven I'm not fighting
+them without an army of cheeseburgers in
+my pocket sure if you can even get an
+army okay you can hear them can you see
+case
+that was that was a nice little little
+weird story bit it was a little you know
+well heavy a little heavy on the start
+but it was nice
+oh we don't have any money for anything
+oh this is terrible
+well you can buy one way go back can
+sell sell that knife no no you can't you
+got an extra hamburger hamburger
+I'm gonna star fruit thing yeah what's
+that a hammer 40 now I think you know
+what a hamburger is 40 now the starter
+started me it's a hamburger shop I
+assumed they were all hamburgers
+what what's going on and then I guess
+you're not reading the champ I'm not
+reading the chat because I don't want I
+want I want to discover who as glorious
+through the game and I'm very sure
+someone in the chat is saying something
+at this exact moment so I'm not looking
+at the chat save again so you don't have
+to be bit bit bit
+all right last corner wait go back to
+that what say 562 minutes that can't be
+right that that really can't be right
+exactly what that means
+that's 562 minutes I'm not sure divided
+by sixty ten hours I'm not sure I'm not
+sure either I think that's our play time
+oh oh here we go that since his sands as
+go
+that's a I think that's my sensor so you
+finally made and the end of your journey
+is at hand in a few moments you will
+meet the king together you will
+determine the future of this world last
+then now you will be judged you will be
+judged for your every action you will be
+judged for every expe over Quan cxp it's
+an acronym it stands for execution
+points a way of quantifying the pain you
+have inflicted on others when you kill
+someone you're exp increases when you
+have enough he asked me your love
+increases too as an acronym it stands
+for level of violence oh I have
+measuring someone's capacity to hurt or
+you kill the easier it becomes to just
+drench yourself the more you distance
+yourself the less you will hurt the more
+easily you can bring yourself to hurt
+another
+what it fans but you you never gained
+any love nobody loves you
+of course that doesn't mean you're
+completely innocent or naive just that
+you kept a certain tenderness in your
+heart no matter the struggles our
+hardships you faced you strive to do the
+right thing you refuse to hurt anyone
+even when you ran away you did it with a
+smile you never gave love but you gained
+love does that make sense maybe not now
+you're about to face the greatest
+challenge of your entire journey
+your actions hero will determine the
+fate of the entire world
+if you refuse to fly a score will take
+your soul and a story you mattered but
+if you kill a score and go home
+monsters will remain trapped underground
+what will you do if I were you I would
+have thrown in the towel by now no is it
+I'm not sure he's me thing he would have
+given up no I want to have enough it's
+just a silly way to Frison this tender
+moment so tender moment and I say the
+goofy way it's like they want it to be a
+joke no I don't think so
+my you didn't get this far by giving up
+did you that's right you have something
+called danger when nation know it's hard
+to for me to talk with enthusiasm
+I apologize so as long as you hold on as
+long as you can do what's in your heart
+I believe you can do the right thing all
+right we're all counting on you kid God
+why aren't they aren't they supposed to
+tell us to go back and talk to what's
+the phrase or did we actually do that
+right the first time
+I don't they were they wrong who no I
+want to say the chat was wrong about
+whatever I'm sure right about whatever
+they were saying we're out we're going
+on we're moving forward
+definitely say we don't wanna go through
+that again start here
+yeah I go check out
+cheeseburgers what what what Oh what
+that's our coffin mm-hmm it's empty
+well gia those are the souls of all the
+people that he's killed I think some
+bodies
+yeah well that I mean they're giving you
+plenty of reasons to kill asgore we
+can't do it jack I'm saying we can't do
+it don't do it rich don't kill him
+oh it's the flower oh no oh no they're
+not wait wait wait
+it's later BOGO Santa Claus Santa Claus
+okay there's a Santa Claus out of it oh
+just a moment I have almost finished
+watering these flowers stop peeing on me
+shut up Chloe oh god he did shake oh
+fuck I so badly wonder would you like a
+cup of tea but
+you know how it is what nice to today at
+home birds are singing flowers approving
+perfect weather for a game of catch I'm
+just saying I used to play catch with my
+boy he's dead now you know what we must
+do when you are ready come into the next
+room so I can let's do it it's in this
+chair do it No okay that's oh that's
+Torian
+alright let's do it let's do it ho ho
+tense she's a little awkward just think
+of it don't is it a dentist I mean you
+seem like a nice kid oh listen usually
+you've asked us if we were ready like a
+million understand I'm not ready either
+I can do it I can do it do it fucking do
+it
+this is the barrier this what keeps us
+all traveled on the ground with a windy
+down yeah if by chance you have any
+unfinished business
+please do what you must
+are you ready it's very light means the
+Twilight is shining through the barrier
+seems your journey
+all for determination human it was nice
+to meet you goodbye Oh death oh fuck oh
+you just killed the mercy yes he did
+I'll fuck yep okay we're dead we're so
+good keep talking to him and just keep
+talking to him I don't want if you don't
+want to fight him okay oh my god oh god
+oh god
+Jesus Christ rich what I have a lion I
+think what happened I even know what
+happened my alive no he didn't he did
+orange and blue attacks you firmly tell
+a head score to stop keep talking keep
+talking seems talking won't do any more
+good fucking keep talking anyway
+you got this you got this attention in
+fairness keep talking keep talking
+I don't care if it says that I won't do
+any more good this is our planet
+Oh God
+the holes are gonna be no that wasn't
+where the holes are gonna be this time
+rich okay
+maybe check them
+keep keep talking keep talking I know
+won't do any more good just keep talking
+and chat I see you in my peripheral
+vision just like fucking scrolling and
+scrolling and I know you're probably
+telling us what to do but we're taking
+this taking this to the limit all you
+can do is fight no we're not going talk
+this out
+nope I let me the penny long time you're
+gonna look at the tape yeah look at the
+chat I won't say that I don't of the say
+anything to you you don't I'm saving a
+man
+you know why I'm looking at the champ
+because I don't want to be here all
+night
+I'm gonna stay determined right okay
+what's up everyone
+oh we did have a
+okay Anonymous's and maybe you read this
+one I don't remember
+Jack and rich you are the wind beneath
+my wings every moment away from you is
+an eternity football glory says great
+mettaton dying voice sounded like
+Stephen Hawking's battery getting low
+you nail the jacket you nailed it
+I'm not doing any better than right
+are you doing worse yeah I think yes I
+think so fine I am doing much work I
+can't do it now I'm gonna read the chat
+you tell me when you want to give up
+then I'll tell you what to do that's how
+this works
+get good jack
+get good
+fucking on it
+or bother says nice continue to walk
+into the attacks Jack thanks I'll bother
+really really helping out helping out of
+our how most almost perfect perfect look
+at his eyes flash myself as he moved
+during the oranges right rich you're not
+helping either yeah but I'm an asshole
+hunker down on the roof then punch him
+in the dick yeah
+check is employing the Rocky Balboa
+strategy of combat it's just yeah just
+suck up all that damage oh yeah and then
+get brain damage and makes me shitty
+sequels no I'm not obviously this is the
+strategies not working hmm what do you
+think you should do right here's my
+here's my new plan yeah because
+obviously I died is
+I'm gonna fight him a little I'm gonna
+I'm gonna you know get him to the point
+where you don't talk anymore then I'm
+gonna fight him a little bit okay and
+then try to talk again okay
+that's my new plan just like hit him a
+couple times and bags stop hitting me
+you know like I'll hit you back okay and
+we'll see if that works but really
+that's my only option
+jack is one stubborn ass that's true
+that's very true about me ready
+you know that's great already I'm fuckin
+oh right
+do you think I'm better at the dodging
+on these we'll switch over
+then you just tell me what what attacks
+you wanna do fighting or talking that's
+not okay you know you have you seen I've
+read a bit you've heard of it I think I
+know what to do but I'm gonna let you
+tell me which ones which which moves to
+make I'll just do the Dodger essentially
+I tried just not hitting that dents in
+the dirt
+I think I have to
+oh dear we're going to be here all night
+we're kind of stuck with it now and
+there's a lab we can't have another
+stream just for the last fight can we we
+have to wait over here until this is
+done now right
+I'm good you don't get
+I wish we could get a forward more
+health this is gonna be bad for us
+you gotta help
+
+[Part V]
+oh fuck
+no idea what to do
+the trick is to constantly sled talk and
+RAM yourself into every attack but know
+that helpful that's helpful
+a tubful jack
+it's tough
+I mean obviously it's tough but the real
+tough part is you know the
+the tactic for all of the minor enemies
+don't you know the tactic for all the
+minor enemies is different than the boss
+tactic yes specifically this one and and
+the fishface lady you know well they're
+special they're split their specials so
+of course the taxes could be different
+but they're so this one is so different
+where it's like how could how could we
+have been prepared for it
+you know the question is did we miss
+something that would keep us from
+getting the spare him ending I don't
+know did we do something that would keep
+us from getting the spare him and do we
+have to you know one of things do we
+have to kill him do we miss something to
+spare him did we not do a thing did we
+not do a thing okay they say we're good
+as far as not missing things okay
+he's killed you three times already not
+seven
+kind of have something to do with this
+fighting
+sans told us we've been a good boy
+okay yeah we so we haven't killed anyone
+yep gotta have something to do with this
+fighting so maybe we just have to get
+his level down far enough you know
+and then we can talk to him
+knowing that rich and Jack might beat a
+score and then go home to eat cheese and
+eggs fills me with determination that
+says Red Dog gautama red d'Agoult Red
+Dog Ultimo Jack is playing right now
+beef in it
+be fair
+have Jack equipped the dagger before the
+next friend I think I already equipped
+that knife we just found we have the toy
+dagger
+that's in the inventory we found another
+one that I equipped right in the room
+but I wonder if we're supposed to have
+the toy dagger equipped that's what they
+know I don't think so I'm not sure I
+don't know anything
+saying we have the better dagger
+equipped yeah my only thought is if we
+get his help down too far enough will
+trigger something
+oh fuck you I moved
+get killed enough times and he'll get
+bored I'm sure that's not warned dagger
+not toy we have the warn dagger equipped
+yes we have the warn dagger
+come on Jack you can do it you can do it
+stick and jab stick and jab I'll fuck
+you I moved you gotta help see the toy
+knife is in our inventory
+look
+I wonder half fuck if these if these
+it's the up
+alright alright alright
+so the plan of attack
+week is there a way we can get health
+items I mean yeah if we go all the way
+back five more months there's get more
+money
+we have to go farm do you know what we
+have to do you don't entirely know about
+sorry all I really got from that was
+fighting it seems to be the only path to
+go and my my thought is if we can get
+him to low enough health maybe we can
+get him talking again you know that's a
+soon yeah cuz we just need more talking
+from him I'm not looking at the chat not
+looking at the chat chat
+before time same dance
+way too long my knees
+all right I fucked this attempt up I'm
+going to die really good yeah those are
+funny you just have to kind of go down
+until you find that opening and let the
+opening up you rich okay that's fine no
+wait listen you're getting your you're
+getting your mojo backwards you're just
+getting that mojo probably it probably
+shouldn't take it with you this year you
+were getting the mojo did you want it
+back you seem to be having the Mojo and
+you're right we were that we were doing
+silly we were mojo swapping the mojo
+swapping over mr. mojo swapping mr. mojo
+risin mr. mojo mr. mojo risin no no no
+doors mr. mojo risin mojo risin get your
+motor rock rising get your motor rising
+oh he nods grievously after he's killed
+me five times five
+they'll never get the Timmy Armour they
+won't even go get some food we're broke
+we're fucking broke
+oh wow mustache the player says how does
+it feel to get butt-fucked by a guy
+named a scorer but fuck it it'll be the
+guy he's probably not gonna be gentle
+about it easy either
+you know it's not his you know the guy
+who's not gonna wreck your anus a firm
+cushy
+did today go to college no Timmy did not
+go to college no we did not have enough
+money to send me to college
+if you go to Timmy village you can sell
+items for more than they cost to buy
+right I remember someone saying
+something about that is like that's
+saying like a long process longer and
+more tedious than fighting the firm or
+dying over and over again
+temmie village is over 30 minutes of
+grinding I don't great it's way better
+to just fight the farm okay
+forget the healing items you guys are
+good enough to beat this since veggie 64
+was obviously a new viewer
+these ones stupid plane falling the
+hardest time with those
+you should check and see if you have
+healing items in your box just checks a
+box a box through your phone that sounds
+like a good idea that is a good idea how
+you talking now that's useful
+information right now jack is playing I
+switched it back to Jack after one try
+because Jack was in the he was in the
+zone and I wasn't a better mojo I was
+rusty yeah so I'm gonna better mood you
+check your box check your box what we're
+gonna do now we're gonna go diddle up
+box for a little bit see if there's any
+goodies in there no I'm Sam open the box
+what's in the bag
+it seems that you guys are not enjoying
+playing and you have Stockholm Syndrome
+with this game oh no I there's large
+parts that I enjoy about this game this
+boss battle in particular like I enjoy
+the cleverness of this game yes overall
+lots of very clever things I enjoy this
+game of fun characters there are moments
+like this when I'm sure you have to do a
+very specific thing and it feels
+contradictory to what the rest of the
+game has taught us that I'm sure is very
+clever oh wait but it doesn't feel
+natural you know an ice cream
+put away that weight alone I'm gonna you
+don't need the fucking tapir anymore oh
+that's a good idea I want to see what
+the snowman screen does yeah oh nice
+please take this to the ends of the
+earth that's where we don't eat snowman
+piece not the snowman piece snowman
+piece no wait they're saying no eat
+don't eat don't dairy the snowman piece
+I guess that counts is killing something
+oh oh Jesus did you eat it
+no I didn't come
+a la some people saying it doesn't
+matter if you do the vast majority or
+like and large-cap saying don't eat the
+snow man I'm not gonna there's no Matt
+be okay okay it doesn't count as killing
+killing something and we have nothing in
+the bench to be fucked well we got the
+nice cream so we got one more how fine
+well you just bring the snow man maybe
+we're in an emergency I don't know
+everyone people are telling us no the
+snow man gives you a piece of him to
+take to the end it's sad to eat it is it
+just because it's sad or will it hurt us
+in our pacifism run it's just an easter
+egg if you bring it to the end
+so I guess something happens I'm still
+have it
+it's sentimental garbage snow is
+delicious it doesn't hurt you it's just
+sad
+you hate that one hate that one rich
+this one I'm not too fond of
+talk to him three times it makes things
+so much easier it lowers his defense
+when you talk about that's right I
+forgot about that
+let's take bets on how long it takes to
+defeat this boss 20 minutes 40 minutes
+question mark sir longer than that there
+is the 100 hole in the trash yes but a
+second by as much as another hamburger
+well how much money was it in the trash
+under just honoured you sure was just
+honored
+hey I was just honored
+I think I have no yeah 100
+the food in the alley shop for sheep
+that's right there's that alley shop
+100 gold can buy for cinnamon bunnies
+and Snowden Energy will buy you junk
+food in the shop in the creepy alleyway
+like a current gold situation is we only
+had like fifty nine gold we could go
+back to that 100 G that Jack like
+refused because I'm a nice guy to take
+that money that somebody threw in the
+garbage because they didn't want it
+anymore
+the the bicycles somebody's mention
+because you can use them twice now so
+saying you're out doing that bad
+nope
+there was that was the lowest I got him
+down health-wise how far down wasn't
+less than happening who I'm gonna guess
+it's gonna need to be like 10% other
+things yeah yeah yeah
+stay determined
+let's give their money huh it's good
+that money let's get that money and go
+to that outlet
+oh yeah you're right no you're right all
+right all right everyone ten you could
+win easily what more food they have
+confidence in you
+you know I feel pretty good I'm almost
+the last time you stood up Jack it's oh
+it's been way too long I just
+straightened out my legs a little bit
+ago and my knees are killing me
+yeah so you go you quick do this I'm
+gonna stand up thank you no problem
+you'll be fine you'll be fine
+now you're gonna remember what a trash
+can was because while you're gone I'm
+totally gonna steal money from that
+trash can
+all right where was it where was it jack
+where was the trash thing blow here
+which was which way right hold this up
+monsters right right Oh much better you
+know just we've been sitting for like
+three hours and so we have to beat this
+fucking game
+oh we're beating oh yeah there guys so
+go right right you tell me right
+again up again
+really no really there there is an
+energy drink in in the kitchen right now
+and I'm not gonna have it because then I
+just won't get to sleep tonight it's way
+too late for that but I was thinking
+about it I was thinking about when we
+started this room but I have had plenty
+of coffee today whole idea of coffee
+that's a regular diet koban one there's
+no there's no good the damages Lobby is
+down here right yeah have any fun good
+things 17 oh that's perfect that's
+better than what we had no we're done no
+are you sure you sure I'm filled up
+enough oh but you know what you could do
+what sells something that's useless no
+no we don't have anything that's all I
+got for the other thing there's a save
+station up there put some stuff in a box
+oh no but I guess it'll matter as long
+as you say yeah okay great
+oh wait wait I'll pay the house Angie if
+you get medicine to autograph my but
+that might have been possible maybe okay
+find our way back now okay what are they
+saying what's going on what's the jam
+they're saying I'm guessing it's over
+after a score anyway yeah
+ezmo I dare you to stop playing right
+now I never continue oh my god wait when
+that would that be terrible we would be
+terrible gamers if we just like yep
+alright no more we're not gonna show you
+how it ends
+many people think we are terrible gamers
+I mean you know ya know why don't we
+live up to our reputation I mean why
+change no why change now
+alright we're terrible gamers it's fine
+see you later everyone this one I get it
+okay okay here we go are you doing this
+oh my goodness let me give one shot okay
+she's gonna get one chat now don't save
+you because there's another save above I
+mean you can't save you yeah yeah it
+seemed very redundant like very
+redundant saves oh boy why are those
+there in case you died oh my god there's
+another one here too yeah that's that's
+the final oh my god okay here we go here
+we go you got this rich what let's get
+this all right now remember to talk to
+him to lower his attack and defence yeah
+asko are
+you chose
+I hate this one spot all right
+firmly tell us
+nice yeah I'm better at that one than
+you yeah oh I'm terrible at that one
+okay so now fight or if you want to use
+an item you there is an item that heals
+only ten and increases your speed
+the CT speed boosts and hpsm
+I have this fight
+all right
+Oh green still green
+arc
+nice
+dammit sorry that is the worst fucking
+attack yeah I want something closer
+together
+ah
+Oh dead center
+yeah sorry dad oh fuck you
+nope nope nope nope nope nope
+what blue
+Oh rich fool
+oh that's crazy
+like oh my god losing are you
+Oh God
+and where has low HP that's a new
+message he'll obviously yes yes I think
+that's the the metabolism there if you
+have yab yab you down okay but he has
+low HP this is a new message
+all blue except for last what do you
+think your attacks are becoming stronger
+yeah I know I know
+waitwait but any one more fight we have
+more healing items
+I'll books and watch what I was moving
+them steadily moving I know same thing
+as having a baby daughter
+ah wait Oh notice how it is I remember
+the day after my son died
+the entire underground was devoid of
+hope the future and once again been
+taken from us by humans in a fit of
+anger and declared war
+I said I would destroy any human that
+came here I would use their souls to
+become godlike and for yes from this
+terrible prison
+and I would destroy humanity
+and that monsters ruled the surface in
+peace
+the people's hopes are turned
+my wife however became disgusted she
+left this place never to be seen again
+truthfully I do not want power
+I do not want to hurt anyone I just
+wanted everyone to have hope but
+I cannot take this any longer I just
+want to see pirate life
+I just wanted my iron
+this wall has gone on long enough I have
+the power we are having a fucking moment
+here rich ever take my soul and leave
+this cursed place merci merci everything
+I have done hurt you
+who wouldn't rather stay down here and
+stuff up
+then live happily on the surface I
+promise you for as long as you Romania
+my wife and I will take care of you as
+best we can
+what about those other kids you've
+murdered
+they get half the pie don't worry I've
+murdered a lot a lot of you little
+children we could be like a family
+though what oh no what he got murdered
+by something
+oh is it flowery flowey whatever same
+you really think that okay totally right
+about that flower what what what what
+this is where they said we had to reload
+a save
+what the game just automatically shut
+off
+well is it a crash or was that planned
+that's planned yes of course it's
+planned
+gunshot fade to crash
+it's not over till we say it's over you
+hack for HUDs open it again fucking open
+it again do it again long ago two races
+ruled over the earth is it broadcasting
+yeah it's broadcasting oh now you might
+have broken it oh wait
+let's go on let's go
+the file erased
+oh-ho you're huge number of battle about
+you I never could have gotten past you
+for so long
+you feel me right up it's great to have
+a soul inside me again
+you feeling left out action you can
+practice with your kids and these voices
+don't you I do boys take your all-star
+yura yura undertale all-star well you
+know o scape into your own safe aah
+oh and forget about okay so are you
+gonna watch me tell you to bloody pieces
+and over
+then you can stop me that's actually the
+top of going from that deep to that high
+yeah I can imagine I can imagine no fun
+oh Jesus Christ oh my what what what oh
+we can move all around jesus god fucking
+christ
+don't you guys see that
+turns off Jesus that's pretty cool
+jesus H man I can't I can't I can't even
+fucking what's the trick here oh fuck
+man fuck what's the trick fuck man four
+times just being in the box I tried to
+stay in that circle that's that's wrong
+move out of that circle first thing you
+can try running up to his face or
+something do something clever like go on
+no does that do it no
+Oh God
+fight
+are you safely under his hide behind his
+him nope nope
+the trick is get good right you know it
+wouldn't be so bad if it didn't turn off
+the game yeah that's a little bit
+annoying every single time it's annoying
+it's annoying but I kind of loved it it
+really really punishes you what do i
+press alt enter yeah
+all right here we go
+that's just fuck there man
+move move move
+Jesus
+oh and I'm sorry what I'm sorry what
+I'm sorry what I'm sorry what X ants I'm
+I tried better
+oh thank thank thank goodness what look
+any fuck the hurts are helping you Souls
+I get that
+just don't die I'm working on not dying
+fuck it's okay it's okay stay calm yeah
+stay calm
+fuck what stop it grab all of them you
+move really slow rich old things grab
+all things
+oh wow oh fuck Wow oh fuck oh fuck no no
+I don't realize what will happen if I
+defeat you I would love to realize what
+would happen if I defeat you
+it saves progress it says okay lose that
+mean that means been waiting have to go
+through all of that again this is so
+different for everything else you've
+done yeah I've noticed that
+we're getting there we're getting there
+we're in green we haven't done green
+before
+don't get hit by all the things nope you
+know working on it now now get hit by
+all the things I'm hitting the Z button
+oh when I get to fight by the way oh no
+me all right anymore
+yeah we got a result solace just matter
+just I'm afraid the bombs oh my god oh
+my god let there go my god
+oh and the bees the bee flies watch out
+for the people to have a fight is he on
+the fight there you go you did 23
+dampens bridge congratulate you 23 out
+of 100,000 million
+I got you just you just me
+give me them give me that give me the
+Glovers and let the clovers oh wow he's
+defense dropped to zero that's the power
+of hope
+I got to not get hit with a thing soon
+it's a slight bit of madness
+what that was me nope
+oh what a shame get to see you
+all right when the powers
+oh the souls what i doing
+whoa
+well I think that was an undertale and
+undertale of the ages
+one full pass was so far
+that's the right call rich that's the
+right call well change it killing me is
+the only way to end this merci merci
+where's me he let me live I'll come back
+merci merci merci
+because it's a video game but totally I
+would go for a kill in real life yes Oh
+we kill the mad flower that wants to use
+the souls to take over the world
+the souls of the innocent children okay
+okay everyone your
+I just can't understand oh we ran away
+Oh what you went through the door okay
+now it's an upper tail hey Toby Fox
+that's a nice game and you too Tammy
+Qiang timid I'm a Qiang and all of you
+too and as well as you and did it all
+and you as well
+and either you to thank you for this
+nice game nother game one of the same is
+there more ma they're saying ma let's
+see we got hey is anyone there
+Wow
+I'll just leave a message sure
+oh it's been a while the Queen returned
+and is now ruling over the underground
+she's in state at a new policy kill all
+of these youth and shoulder all of the
+humans who fall here will be treated not
+as enemies but as friendless it's
+probably for the best anyway the human
+souls the King gathered seem to have
+disappeared
+apparently you murdered their souls it's
+very depressing nobody here likes to
+think about it
+the king was gonna put them in like in a
+nice bedroom yeah they were gonna get
+free meals but no the souls are dead
+things are looking grim for our freedom
+the moon's trying her best not to let us
+give up hope so hey how are you doing if
+we're not giving up down here don't give
+up
+wherever you are okay who knows how long
+it will take but we will get out of here
+sans who are you talking to nobody
+Wang Wang a nobody can I talk to that
+poo here
+knock yourself out second I recognize
+this noble human I'm doing fine
+well besides one thing the Queen
+disbanded the Royal Guard since we don't
+have to fight human no more oh I have no
+idea what to do with my life but that's
+okay because I'm still working hard even
+if it's all nothing at all so don't feel
+like papyrus is heart who then is what
+is the good dinosaur names got bad she's
+lost a job then she lost her mouse you
+said Bauer taken care of her she lives
+on our couch now over a sleepover
+there's no escape from the play oh we
+gave her a job to Saints hi there the
+illegal hot dog stand illegal hot dog
+stand she she hates working the hell
+bullshit make some food hot ow
+oh yeah she's still buy new for the
+disappearance of a skull she stalks me a
+lot she has a ludicrous plan to cross
+the barrier and beat you up who believe
+to be honest neither guess impossible
+but I want to believe it's not cuz I
+want to go with her
+then I'd get to see you again hate it
+even if I'd have to fight you
+you know well pinky fix cross
+you are the undertale all-star Jack all
+right be my vocal cards why did you get
+don't you realize it'd be nice just
+makes a good hard look at yourself
+you made all these great friends but now
+you probably never see him again
+not to mention how much they've been set
+back by you hurts if you had just gone
+through without caring about it you
+wouldn't have to feel bad now so I don't
+still end up like this what is life
+really that unfair yeah yeah it is maybe
+just a punk-ass bitch
+what if I told you I knew some way to
+get a better day you have to know you
+safer where in the meantime why don't
+you go see you dad it seems like he
+could have been better friend who knows
+maybe she's got the king do y'all happen
+me see you soon
+all right what's the plan for that Wow
+what do you mean those Hey apparently
+there's more we can do I know I know I
+know
+no no we are not are we done done I'm
+done done like with this game in general
+streaming or do you think we'll do that
+last bit what's looking to leave its
+shores they're saying they're having fun
+but the road to the truth end that road
+to the true ending can be a tedious yeah
+yeah no okay no I'm good yeah I'm good -
+fun night definitely for tonight oh my
+god for tonight of course but no I mean
+I'm good we'll see you know what we'll
+see how about that how about
+okay we had see you I need to get out of
+here yep hit alt enter again Oh Dino
+spumoni a few hidden am my worst you if
+you didn't see Linda and she was like a
+mini boss he was like a fish face woman
+with big lance and armor yeah she was
+like this devilish night that she was -
+she looked like the monster for The
+Creature from the Black Lagoon wearing
+plate armor and a cape
+absolutely what do we got no we've got
+gruff Mick military Joey to read these
+always your voice shop I can I can do
+old on I'm just reconnecting over here
+Jeff Finity maybe definitely definitely
+maybe base nine Wario specs for for 12
+months in a row Emory 801 14 months in a
+row bless our drugs 15 months in a row
+crocodile brain 15 months in a row
+drunky peep clinics peep crocs Grunk e
+peep corn ox subscribes to happy frauds
+mister sister Pfister that's a great one
+and I hope to see that around mister
+sister sister defects oh yeah baby
+Slayer the baby Slayer 1 5 6 for 16
+months in a row Oh powerful rain drop 16
+months in a row
+zen of been
+from plenary render on to me
+top ramens Elvin Fox lady Denning and oz
+Mike for 12 months in a row thank you
+for subscribing we really appreciate it
+happy Anniversary House Mike yeah happy
+happy happy anniversary
+and what one year is the paper
+anniversary big one the paper
+anniversary pretty much everything's
+digital I'm just saying that's supposed
+to one-year anniversary it's email now
+the emails the digital thanks the
+digital paper the digital writing the
+text message anniversary and Krieger
+seven eight three sixteen months in the
+row 16 months in row
+jumping in
