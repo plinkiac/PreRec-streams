@@ -388,7 +388,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 05/06/2016 | 01:21:29 | 74482017  | w6NXmXsrt4Q | Phoenix Wright: Ace Attorney (Jack, Rich)
 05/06/2016 | 01:39:53 | 74489382  | sWMhhIT_pww | The Legend of Zelda: A Link Between Worlds (Jack, Rich)
 05/11/2016 | 01:19:29 | 74996603  | 7VYygLshEzM | Fistful of Gun (Jack, Rich)
-05/11/2016 | 00:36:18 | 74982732  | qk7cJtGY1Po | Ultimate Chicken Horse (Jack, Rich) 74982732 | qk7cJtGY1Po
+05/11/2016 | 00:36:18 | 74982732  | qk7cJtGY1Po | Ultimate Chicken Horse (Jack, Rich)
 05/15/2016 | 01:52:48 | 75310617  | pgBsrxujbk8 | DOOM (Jack, Rich)
 05/15/2016 | 01:43:58 | 75314023  | 7zjBBuvpa0Y | DOOM (Jack, Rich)
 05/18/2016 | 02:05:28 | 76327671  | rLdKIukgxTo | DOOM (Jack, Rich)
