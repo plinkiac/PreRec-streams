@@ -159,21 +159,10 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 02/05/2016 | 00:07:37 | bit.ly/3eCuC6C | The Witness (Rich)
 02/07/2016 | 03:40:04 | bit.ly/38nweQx | XCOM 2: War of the Chosen (Jack, Rich, Jay)
 02/10/2016 | 03:44:18 | bit.ly/2U9m2mm | XCOM 2: War of the Chosen, Dragon's Dogma (Jack, Rich)
-
-02/17/2016 | 01:13:50 | 59095040  | vJPtWuyKdc4 | XCOM 2: War of the Chosen (Jack, Rich)
-02/17/2016 | 00:58:34 | 59095812  | UEi2wf-EZuk | XCOM 2: War of the Chosen (Jack, Rich)
-02/17/2016 | 01:19:03 | 59097336  | 3Lor2yBBcaE | XCOM 2: War of the Chosen (Jack, Rich)
-
-02/22/2016 | 01:20:28 | 59179831  | ixcKkqASBK0 | XCOM 2: War of the Chosen (Jack, Rich)
-02/22/2016 | 01:12:22 | 59184308  | s3HF6sIPGWg | XCOM 2: War of the Chosen (Jack, Rich)
-02/22/2016 | 01:08:10 | 59189242  | BUU0oVFoQEk | XCOM 2: War of the Chosen (Jack, Rich)
-
-02/24/2016 | 01:09:41 | 60467307  | q57mjS6LDHQ | XCOM 2: War of the Chosen (Jack, Rich, Jay)
-02/24/2016 | 01:10:13 | 60470346  | -PjVjVc14k4 | XCOM 2: War of the Chosen (Jack, Rich, Jay)
-02/24/2016 | 01:05:14 | 60472748  | yKvGDn4lLJQ | XCOM 2: War of the Chosen (Jack, Rich, Jay)
-02/24/2016 | 01:01:52 | 60473689  | wNHJ9MKTwY4 | XCOM 2: War of the Chosen (Jack, Rich, Jay)
-
-02/28/2016 | 01:02:27 |    --     | B3hQ6UzmRUk | XCOM 2: War of the Chosen Live Discussion (Jack, Rich)
+02/17/2016 | 03:31:27 | bit.ly/38uv6Lf | XCOM 2: War of the Chosen (Jack, Rich)
+02/22/2016 | 03:41:00 | bit.ly/36cuU0e | XCOM 2: War of the Chosen (Jack, Rich)
+02/24/2016 | 04:27:00 | bit.ly/2IhdQ0K | XCOM 2: War of the Chosen (Jack, Rich, Jay)
+02/28/2016 | 01:02:27 | bit.ly/2Ig0mCI | XCOM 2: War of the Chosen Live Discussion (Jack, Rich)
 
 03/02/2016 | 00:40:03 | 61634727  | H7_bPKwybmk | Plinkett v Milwaukee (Jack, Rich)
 03/02/2016 | 00:53:59 | 61650305  | 3xPQvBjATq4 | Superhot (Jack, Rich)
