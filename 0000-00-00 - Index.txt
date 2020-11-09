@@ -181,709 +181,226 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 04/18/2016 | 04:23:52 | bit.ly/3eDhGgO | Dark Souls III (Jack, Rich)
 04/20/2016 | 03:45:52 | bit.ly/3pb2jRO | Dark Souls III (Jack, Rich)
 04/27/2016 | 04:25:03 | bit.ly/32tb0Nk | Hyper Light Drifter (Jack, Rich)
-
-05/01/2016 | 05:11:08 | 73290481  | tNQF84bzQf0 | Organ Trail (Jack, Rich)
-05/01/2016 | 00:00:00 | 73292063  | IZNLvuAkwEc | Organ Trail (Jack, Rich)
-
-05/04/2016 | 03:14:15 | 73843526  | gxiqQ1rW85o | Hand of Fate (Rich)
-05/04/2016 | 00:00:00 | 73843596  | fxdltbj9uc4 | Hand of Fate (Rich)
-
-05/06/2016 | 03:01:22 | 74482017  | w6NXmXsrt4Q | Phoenix Wright: Ace Attorney (Jack, Rich)
-05/06/2016 | 00:00:00 | 74489382  | sWMhhIT_pww | The Legend of Zelda: A Link Between Worlds (Jack, Rich)
-
-05/11/2016 | 01:55:47 | 74996603  | 7VYygLshEzM | Fistful of Gun (Jack, Rich)
-05/11/2016 | 00:00:00 | 74982732  | qk7cJtGY1Po | Ultimate Chicken Horse (Jack, Rich)
-
-05/15/2016 | 03:36:36 | 75310617  | pgBsrxujbk8 | DOOM (Jack, Rich)
-05/15/2016 | 00:00:00 | 75314023  | 7zjBBuvpa0Y | DOOM (Jack, Rich)
-
-05/18/2016 | 03:52:41 | 76327671  | rLdKIukgxTo | DOOM (Jack, Rich)
-05/18/2016 | 00:00:00 | 76328252  | ttiVVoN5oXQ | DOOM (Jack, Rich)
-
-05/22/2016 | 04:08:51 | 76328899  | kAR2hW5QoWY | Phoenix Wright: Ace Attorney (Jack, Rich)
-05/22/2016 | 00:00:00 | 76328977  | eMsftXlDEdg | Phoenix Wright: Ace Attorney (Jack, Rich)
-
-05/25/2016 | 04:29:15 | 77618342  | TJ_hbTT1yZ8 | Duskers (Jack, Rich)
-05/25/2016 | 00:00:00 | 77620431  | mbL_Ac2t0Ac | Duskers (Jack, Rich)
-
-05/29/2016 | 03:37:56 | 78860332  | P_Wz1-tKBuU | Doom (Jack, Rich)
-05/29/2016 | 00:00:00 | 78861099  | jnwA_THZOC0 | Doom (Jack, Rich)
-05/29/2016 | 00:00:00 | 78861835  | 5729c2oSbVI | Doom (Jack, Rich)
-
-06/01/2016 | 04:13:05 | 79407133  | wkesh4ub6Rs | 20XX (Jack, Rich)
-06/01/2016 | 00:00:00 | 79410108  | 3B4gXudNLwc | 20XX (Jack, Rich)
-
+05/01/2016 | 05:11:08 | bit.ly/3n6eiOv | Organ Trail (Jack, Rich)
+05/04/2016 | 03:14:15 | 73843526, 73843596 | gxiqQ1rW85o, fxdltbj9uc4 | Hand of Fate (Rich)
+05/06/2016 | 03:01:22 | 74482017, 74489382 | w6NXmXsrt4Q, sWMhhIT_pww | Phoenix Wright: Ace Attorney, The Legend of Zelda: A Link Between Worlds (Jack, Rich)
+05/11/2016 | 01:55:47 | 74996603, 74982732 | 7VYygLshEzM, qk7cJtGY1Po | Fistful of Gun, Ultimate Chicken Horse (Jack, Rich)
+05/15/2016 | 03:36:36 | 75310617, 75314023 | pgBsrxujbk8, 7zjBBuvpa0Y | DOOM (Jack, Rich)
+05/18/2016 | 03:52:41 | 76327671, 76328252 | rLdKIukgxTo, ttiVVoN5oXQ | DOOM (Jack, Rich)
+05/22/2016 | 04:08:51 | 76328899, 76328977 | kAR2hW5QoWY, eMsftXlDEdg | Phoenix Wright: Ace Attorney (Jack, Rich)
+05/25/2016 | 04:29:15 | 77618342, 77620431 | TJ_hbTT1yZ8, mbL_Ac2t0Ac | Duskers (Jack, Rich)
+05/29/2016 | 03:37:56 | 78860332, 78861099, 78861835 | P_Wz1-tKBuU, jnwA_THZOC0, 5729c2oSbVI | Doom (Jack, Rich)
+06/01/2016 | 04:13:05 | 79407133, 79410108 | wkesh4ub6Rs, 3B4gXudNLwc | 20XX (Jack, Rich)
 06/05/2016 | 03:55:16 | 79462827  | PYcGNlzBf94 | The Flame in the Flood (Jack)
-
-06/08/2016 | 03:07:19 | 79478816  | 1Mzmq0qBe_A | Mirror's Edge (Jack)
-06/08/2016 | 00:00:00 | 79478905  | KAMmbXadq80 | Mirror's Edge (Jack)
-
-06/12/2016 | 04:25:19 | 80274328  | crK0q28GGVc | Steamworld Heist (Jack, Rich)
-06/12/2016 | 00:00:00 | 80278709  | BlTglisQCjg | Steamworld Heist (Jack, Rich)
-
+06/08/2016 | 03:07:19 | 79478816, 79478905 | 1Mzmq0qBe_A, KAMmbXadq80 | Mirror's Edge (Jack)
+06/12/2016 | 04:25:19 | 80274328, 80278709 | crK0q28GGVc, BlTglisQCjg | Steamworld Heist (Jack, Rich)
 06/15/2016 | 03:00:12 | 72709214  | tagfsS-joIY | E3 2016 (Jack, Rich)
-
-06/19/2016 | 03:24:36 | 80634752  | VoOqFs6eAGU | DOOM (Jack, Rich, Jay)
-06/19/2016 | 00:00:00 | 80640934  | ANHVyFEH0F0 | Crypt of the Necrodancer (Jack, Rich, Jay)
-
+06/19/2016 | 03:24:36 | 80634752, 80640934 | VoOqFs6eAGU, ANHVyFEH0F0 | DOOM, Crypt of the Necrodancer (Jack, Rich, Jay)
 06/22/2016 | 02:24:43 | 81034152  | KYDx4rTgepk | Mighty No. 9 (Jack, Rich)
-
-06/29/2016 | 03:04:06 | 81105242  | aQXS5HNiJAs | DOOM (Rich, Jay, Colin, April)
-06/29/2016 | 00:00:00 | 81107848  | WdNy6jU9FmA | Rocket League (Rich, Jay, Colin, April)
-
-07/03/2016 | 03:51:03 | 81734925  | Dst6Xhqmq8s | Phoenix Wright: Ace Attorney (Jack, Rich)
-07/03/2016 | 00:00:00 | 81735485  | MHems-oLfOY | Phoenix Wright: Ace Attorney (Jack, Rich)
-
+06/29/2016 | 03:04:06 | 81105242, 81107848 | aQXS5HNiJAs, WdNy6jU9FmA | DOOM, Rocket League (Rich, Jay, Colin, April)
+07/03/2016 | 03:51:03 | 81734925, 81735485 | Dst6Xhqmq8s, MHems-oLfOY | Phoenix Wright: Ace Attorney (Jack, Rich)
 07/06/2016 | 03:31:33 | 81738163  | L_g1IzVSBhk | DOOM (Rich)
-
-07/08/2016 | 04:03:29 | 81760762  | jdzYdYm4EV4 | INSIDE (Jack, Rich)
-07/08/2016 | 00:00:00 | 81767971  | c44kQIm3m9k | INSIDE (Jack, Rich)
-
-07/10/2016 | 03:24:21 | 81923646  | qmhRv0EQB_w | Furi (Jack, Rich)
-07/10/2016 | 00:00:00 | 81926491  | FVzETBZo-Z0 | Furi (Jack, Rich)
-
+07/08/2016 | 04:03:29 | 81760762, 81767971 | jdzYdYm4EV4, c44kQIm3m9k | INSIDE (Jack, Rich)
+07/10/2016 | 03:24:21 | 81923646, 81926491 | qmhRv0EQB_w, FVzETBZo-Z0 | Furi (Jack, Rich)
 07/13/2016 | 00:39:31 |    --     | jHjVtnYrFMo | Pokemon GO (Jack, Rich)
-
-07/17/2016 | 04:15:58 | 81967175  | lnmLy6S0bnU | Necropolis (Jack, Rich)
-07/17/2016 | 00:00:00 | 81973383  | grbwAT_tCJA | Necropolis (Jack, Rich)
-
-07/20/2016 | 03:34:19 | 83288826  | W51qOKRoKZo | GhostControl Inc. (Jack, Rich, Jay)
-07/20/2016 | 00:00:00 | 83293743  | i_T-pCS4IF0 | GhostControl Inc. (Jack, Rich, Jay)
-
-07/24/2016 | 02:58:14 | 83302407  | siI2gAT6QVM | Defunct (Jack, Rich)
-07/24/2016 | 00:00:00 | 83306278  | lYWzllq0qGY | Hand of Fate (Jack, Rich)
-
-07/27/2016 | 02:54:31 | 83309429  | Tw7vkZoBH1w | Headlander (Jack, Rich)
-07/27/2016 | 00:00:00 | 83310619  | eSv0vxb0_0k | Headlander (Jack, Rich)
-
-07/31/2016 | 02:49:02 | 83312161  | 2JjmlJvFvAw | Quadrilateral Cowboy (Jack, Rich)
-07/31/2016 | 00:00:00 | 83313015  | xUIf-H6T1zw | Quadrilateral Cowboy (Jack, Rich)
-
-08/03/2016 | 02:21:25 | 85633822  | N9qTEAVgNn8 | Severed (Jack, Rich, Karin)
-08/03/2016 | 00:00:00 | 85640865  | ZHK1F5BOR1M | Severed (Jack, Rich, Karin)
-
+07/17/2016 | 04:15:58 | 81967175, 81973383 | lnmLy6S0bnU, grbwAT_tCJA | Necropolis (Jack, Rich)
+07/20/2016 | 03:34:19 | 83288826, 83293743 | W51qOKRoKZo, i_T-pCS4IF0 | GhostControl Inc. (Jack, Rich, Jay)
+07/24/2016 | 02:58:14 | 83302407, 83306278 | siI2gAT6QVM, lYWzllq0qGY | Defunct, Hand of Fate (Jack, Rich)
+07/27/2016 | 02:54:31 | 83309429, 83310619 | Tw7vkZoBH1w, eSv0vxb0_0k | Headlander (Jack, Rich)
+07/31/2016 | 02:49:02 | 83312161, 83313015 | 2JjmlJvFvAw, xUIf-H6T1zw | Quadrilateral Cowboy (Jack, Rich)
+08/03/2016 | 02:21:25 | 85633822, 85640865 | N9qTEAVgNn8, ZHK1F5BOR1M | Severed (Jack, Rich, Karin)
 08/07/2016 | 02:18:43 | 86932166  | kwjaUqSrNsg | Pac-Man (Rich, Karin)
-
-08/14/2016 | 03:52:34 | 86933658  | vHot35dw4qM | Half-Life 2 (Jack, Rich)
-08/14/2016 | 00:00:00 | 86934815  | QFKn7iFds1o | Half-Life 2 (Jack, Rich)
-08/14/2016 | 00:00:00 | 86935345  | km0okWxy0VI | No Man's Sky (Jack, Rich)
-
-08/17/2016 | 04:06:49 | 86935887  | Ju-TIT45NYE | No Man's Sky (Jack, Rich)
-08/17/2016 | 00:00:00 | 86935961  | E-vUQYarjeU | No Man's Sky (Jack, Rich)
-
-08/21/2016 | 03:12:15 | 86936529  | 0CpDWvp6fUc | Police Quest III: The Kindred (Jack, Rich)
-08/21/2016 | 00:00:00 | 86936589  | gUAxMIbkdbA | Police Quest III: The Kindred (Jack, Rich)
-
-08/24/2016 | 03:37:18 | 89403961  | VkEcco8OoOM | Starbound (Jack, Rich)
-08/24/2016 | 00:00:00 | 89406064  | Mx0RofOYeUw | Rocket League (Jack, Rich)
-
+08/14/2016 | 03:52:34 | 86933658, 86934815 | vHot35dw4qM, QFKn7iFds1o | Half-Life 2 (Jack, Rich)
+08/17/2016 | 04:06:49 | 86935887, 86935961 | Ju-TIT45NYE, E-vUQYarjeU | No Man's Sky (Jack, Rich)
+08/21/2016 | 03:12:15 | 86936529, 86936589 | 0CpDWvp6fUc, gUAxMIbkdbA | Police Quest III: The Kindred (Jack, Rich)
+08/24/2016 | 03:37:18 | 89403961, 89406064 | VkEcco8OoOM, Mx0RofOYeUw | Starbound, Rocket League (Jack, Rich)
 08/28/2016 | 04:49:25 | 89406952  | rBWzz4oALd4 | Jack's PC Build (Jack, Rich)
-
-08/31/2016 | 03:40:02 | 89408212  | akIoOFvE048 | Overwatch (Jack, Rich)
-08/31/2016 | 00:00:00 | 89409248  | 8E8EaL4tTAE | Overwatch (Jack, Rich)
-
+08/31/2016 | 03:40:02 | 89408212, 89409248 | akIoOFvE048, 8E8EaL4tTAE | Overwatch (Jack, Rich)
 09/03/2016 | 04:31:24 | 91287060  | uWuTvtefcMc | Deus Ex: Human Revolution (Rich)
-
-09/04/2016 | 07:49:06 | 91287869  | mq7dc0Ii6-U | Orcs Must Die! (Jack, Rich)
-09/04/2016 | 00:00:00 | 91289694  | KTq9iSOcPKs | Orcs Must Die! (Jack, Rich, Jay)
-09/04/2016 | 00:00:00 | 91290891  | B8Yr4tz3gwg | Orcs Must Die! (Jack, Rich, Jay)
-
-09/07/2016 | 02:50:10 | 92836955  | joOsp55-ohU | FTL: Faster Than Light (Rich)
-09/07/2016 | 00:00:00 | 92840111  | -LNiKDwxJiA | FTL: Faster Than Light (Jack, Rich)
-
-09/11/2016 | 03:11:33 | 93142788  | CN2wVarsnk0 | Pokemon Uranium (Jack, Rich)
-09/11/2016 | 00:00:00 | 93146538  | YuGgtdqdobI | Pokemon Uranium (Jack, Rich)
-
-09/14/2016 | 02:44:39 | 93938409  | 8cmjVgzfbIY | ReCore (Jack, Rich)
-09/14/2016 | 00:00:00 | 93943026  | khVqDL_66oA | ReCore (Jack, Rich)
-
-09/18/2016 | 03:38:40 | 94323059  | O_GBWUMSbD0 | Sir, You Are Being Hunted (Jack, Rich)
-09/18/2016 | 00:00:00 | 94326654  | ie88vqpBKZ0 | Sir, You Are Being Hunted (Jack, Rich)
-09/18/2016 | 00:00:00 | 94512401  | kBaVY4nnFZE | Sir, You Are Being Hunted (Jack, Rich)
-
-09/21/2016 | 02:35:57 | 94523016  | -Pwa8HdQWL8 | Vampire the Masquerade: Bloodlines (Jack, Rich)
-09/21/2016 | 00:00:00 | 94680271  | wNgZAviICUQ | Vampire the Masquerade: Bloodlines (Jack, Rich)
-
-09/25/2016 | 04:04:53 | 95513207  | uaNdS6b9sHk | EVERSPACE (Jack, Rich)
-09/25/2016 | 00:00:00 | 95516012  | MFAXLD80HBU | EVERSPACE (Jack, Rich)
-
-09/28/2016 | 03:09:51 | 95906142  | Y-fIJxddYu8 | Clustertruck (Jack, Rich, Karin)
-09/28/2016 | 00:00:00 | 95943925  | 1zykgSXywlI | Clustertruck (Jack, Rich, Karin)
-
-10/05/2016 | 03:34:02 | 96239211  | S-5vDSw5TH8 | Dustforce, Haydee (Jack, Rich, Jay, Josh)
-10/05/2016 | 00:00:00 | 96240572  | yRpWSny9924 | Please, Don't Touch Anything (Jack, Rich, Jay, Josh)
-
-10/09/2016 | 03:48:52 | 96241839  | nTjU5-9qOCs | Five Nights at Freddy's: Sister Location (Jack, Rich)
-10/09/2016 | 00:00:00 | 96242926  | KsJ2YNYfegI | Spooky's Jump Scare Mansion (Jack, Rich)
-10/09/2016 | 00:00:00 | 96243819  | L08kpyM2334 | Psychonauts (Jack, Rich)
-
-10/12/2016 | 02:22:25 | 97391427  | sfSr3uj_jpg | Thief (Gold) (Jack, Rich, Karin)
-10/12/2016 | 00:00:00 | 97391954  | Flh8pCsoxt4 | Thief (Gold) (Jack, Rich, Karin)
-
-10/16/2016 | 03:20:52 | 97970799  | 9-6kDrAw41c | Gears of War 4 (Jack, Rich)
-10/16/2016 | 00:00:00 | 97971993  | Yq_UDBI-UcU | Gears of War 4 (Jack, Rich)
-10/16/2016 | 00:00:00 | 97972352  | 2FgCRlAIyKc | Gears of War 4 (Jack, Rich)
-
-10/19/2016 | 04:09:38 | 97972944  | LFuN0kBwuDo | Mr. President (Jack, Rich)
-10/19/2016 | 00:00:00 | 97973142  | gRTzH3nnprQ | Mr. President (Jack, Rich)
-
-10/23/2016 | 03:45:02 | 100808171 | ZgPCOkzWmYc | Aragami (Jack, Rich)
-10/23/2016 | 00:00:00 | 100809409 | ytLojRb5QJA | Aragami (Jack, Rich)
-
-10/26/2016 | 04:12:57 | 101455170 | 5oYTr2bDRqc | Dead by Daylight (Jack, Rich, Jay)
-10/26/2016 | 00:00:00 | 101458302 | B3FtDHDHi5o | Halloween Forever (Jack, Rich, Jay)
-
-10/30/2016 | 03:05:32 | 102140403 | M4C8Qy8Unr0 | Zombie Night Terror (Jack, Rich)
-10/30/2016 | 00:00:00 | 102142674 | 2BwAAN8JnNM | Zombie Night Terror (Jack, Rich)
-
+09/04/2016 | 07:49:06 | 91287869, 91289694 | mq7dc0Ii6-U, KTq9iSOcPKs | Orcs Must Die! (Jack, Rich, Jay)
+09/07/2016 | 02:50:10 | 92836955, 92840111 | joOsp55-ohU, -LNiKDwxJiA | FTL: Faster Than Light (Jack, Rich)
+09/11/2016 | 03:11:33 | 93142788, 93146538 | CN2wVarsnk0, YuGgtdqdobI | Pokemon Uranium (Jack, Rich)
+09/14/2016 | 02:44:39 | 93938409, 93943026 | 8cmjVgzfbIY, khVqDL_66oA | ReCore (Jack, Rich)
+09/18/2016 | 03:38:40 | 94323059, 94326654 | O_GBWUMSbD0, ie88vqpBKZ0 | Sir, You Are Being Hunted (Jack, Rich)
+09/21/2016 | 02:35:57 | 94523016, 94680271 | -Pwa8HdQWL8, wNgZAviICUQ | Vampire the Masquerade: Bloodlines (Jack, Rich)
+09/25/2016 | 04:04:53 | 95513207, 95516012 | uaNdS6b9sHk, MFAXLD80HBU | EVERSPACE (Jack, Rich)
+09/28/2016 | 03:09:51 | 95906142, 95943925 | Y-fIJxddYu8, 1zykgSXywlI | Clustertruck (Jack, Rich, Karin)
+10/05/2016 | 03:34:02 | 96239211, 96240572 | S-5vDSw5TH8, yRpWSny9924 | Dustforce, Haydee, Please, Don't Touch Anything (Jack, Rich, Jay, Josh)
+10/09/2016 | 03:48:52 | 96241839, 96242926, 96243819 | nTjU5-9qOCs, KsJ2YNYfegI, L08kpyM2334 | Five Nights at Freddy's: Sister Location, Spooky's Jump Scare Mansion, Psychonauts (Jack, Rich)
+10/12/2016 | 02:22:25 | 97391427, 97391954 | sfSr3uj_jpg, Flh8pCsoxt4 | Thief (Gold) (Jack, Rich, Karin)
+10/16/2016 | 03:20:52 | 97970799, 97971993, 97972352 | 9-6kDrAw41c, Yq_UDBI-UcU, 2FgCRlAIyKc | Gears of War 4 (Jack, Rich)
+10/19/2016 | 04:09:38 | 97972944, 97973142 | LFuN0kBwuDo, gRTzH3nnprQ | Mr. President (Jack, Rich)
+10/23/2016 | 03:45:02 | 100808171, 100809409 | ZgPCOkzWmYc, ytLojRb5QJA | Aragami (Jack, Rich)
+10/26/2016 | 04:12:57 | 101455170, 101458302 | 5oYTr2bDRqc, B3FtDHDHi5o | Dead by Daylight (Jack, Rich, Jay)
+10/30/2016 | 03:05:32 | 102140403, 102142674 | M4C8Qy8Unr0, 2BwAAN8JnNM | Zombie Night Terror (Jack, Rich)
 11/02/2016 | 03:04:13 | 102143252 | VyQJ4Xxbao0 | Owlboy (Jack)
-
-11/06/2016 | 03:28:42 | 102148914 | JN-41C9XxII | FTL: Faster Than Light (Jack, Rich)
-11/06/2016 | 00:00:00 | 102154414 | 4vdOJItmi5E | FTL: Faster Than Light (Jack, Rich)
-
-11/11/2016 | 04:01:37 | 102159343 | cOp5gZapLeA | Space Rogue (Jack, Rich)
-11/11/2016 | 00:00:00 | 102160676 | ZwMAczusy3I | GoNNER (Jack, Rich, Karin)
-
-11/13/2016 | 04:32:13 | 105345451 | M3X4jcg1PTg | Stardew Valley (Jack, Rich)
-11/13/2016 | 00:00:00 | 105345972 | 91P1wN3yAIE | Dishonored 2 (Jack, Rich)
-11/13/2016 | 00:00:00 | 105346294 |     ---     | Dishonored 2 (Jack, Rich)
-
-11/16/2016 | 02:48:12 | 106105652 | m_33Djnw7CE | The Binding of Isaac: Rebirth (Jack, Rich)
-11/16/2016 | 00:00:00 | 106143918 | 1wNLJF5c6RY | The Binding of Isaac: Rebirth (Jack, Rich)
-
-11/18/2016 | 03:39:09 |    --     | sLOPZwv8FBY | Dishonored 2 (Rich)
-11/18/2016 | 00:00:00 |    --     | m5yfBaz4yYQ | Dishonored 2 (Rich)
-
-11/20/2016 | 04:37:22 |    --     | iM52UUfuaS4 | Planet Coaster (Rich, Karin)
-11/20/2016 | 00:00:00 |    --     | Rr26Jkx3PXM | The Binding of Isaac: Rebirth, Bookworm Adventures 2 (Rich, Karin)
-
-11/23/2016 | 03:18:46 | 107010250 | ivpHuzTg4gw | Pokemon Moon (Jack, Rich)
-11/23/2016 | 00:00:00 | 107013090 | RPBUz7q0mp0 | Pokemon Moon (Jack, Rich)
-
-11/27/2016 | 03:45:02 | 107841103 | ZrFyw1m_r_Y | The 7th Guest (Jack, Rich)
-11/27/2016 | 00:00:00 | 107848041 | 0GfygGKddFU | The 7th Guest (Jack, Rich)
-
-11/30/2016 | 03:49:30 | 108528566 | 0TSJt9hpt9s | Dishonored 2 (Jack, Rich)
-11/30/2016 | 00:00:00 | 108980401 | LQoc7ZOFNvo | Dishonored 2 (Jack, Rich)
-
-12/04/2016 | 04:06:09 | 108994115 | h60mmnzRT74 | EVERSPACE (Jack, Rich)
-12/04/2016 | 00:00:00 | 109008558 | mj7-QRVZctE | EVERSPACE (Jack, Rich)
-
+11/06/2016 | 03:28:42 | 102148914, 102154414 | JN-41C9XxII, 4vdOJItmi5E | FTL: Faster Than Light (Jack, Rich)
+11/11/2016 | 04:01:37 | 102159343, 102160676 | cOp5gZapLeA, ZwMAczusy3I | Space Rogue, GoNNER (Jack, Rich, Karin))
+11/13/2016 | 04:32:13 | 105345451, 105345972, 105346294 | M3X4jcg1PTg, 91P1wN3yAIE, --- | Stardew Valley, Dishonored 2 (Jack, Rich)
+11/16/2016 | 02:48:12 | 106105652, 106143918 | m_33Djnw7CE, 1wNLJF5c6RY | The Binding of Isaac: Rebirth (Jack, Rich)
+11/18/2016 | 03:39:09 |    --     | sLOPZwv8FBY, m5yfBaz4yYQ | Dishonored 2 (Rich)
+11/20/2016 | 04:37:22 |    --     | iM52UUfuaS4, Rr26Jkx3PXM | Planet Coaster, The Binding of Isaac: Rebirth, Bookworm Adventures 2 (Rich, Karin)
+11/23/2016 | 03:18:46 | 107010250, 107013090 | ivpHuzTg4gw, RPBUz7q0mp0 | Pokemon Moon (Jack, Rich)
+11/27/2016 | 03:45:02 | 107841103, 107848041 | ZrFyw1m_r_Y, 0GfygGKddFU | The 7th Guest (Jack, Rich)
+11/30/2016 | 03:49:30 | 108528566, 108980401 | 0TSJt9hpt9s, LQoc7ZOFNvo | Dishonored 2 (Jack, Rich)
+12/04/2016 | 04:06:09 | 108994115, 109008558 | h60mmnzRT74, mj7-QRVZctE | EVERSPACE (Jack, Rich)
 12/07/2016 | 02:04:40 | 112316377 | 9Yg8j5AI0sc | Chatting with Edmund McMillin (Jack, Rich, Jay, Edmund McMillin)
-
-12/11/2016 | 03:45:29 | 112357634 | uF5LPF2mW_w | UFO: Enemy Unknown (Jack, Rich)
-12/11/2016 | 00:00:00 | 112541068 | MBoeqJ-71pc | XCOM: Enemy Within (Jack, Rich)
-
-12/18/2016 | 03:49:27 | 112554988 | AT4w4th63Kk | The Binding of Isaac: Rebirth (Jack, Rich)
-12/18/2016 | 00:00:00 | 112701229 | Q_Pg_pVt0v8 | The Binding of Isaac: Rebirth (Jack, Rich)
-
+12/11/2016 | 03:45:29 | 112357634, 112541068 | uF5LPF2mW_w, MBoeqJ-71pc | UFO: Enemy Unknown, XCOM: Enemy Within (Jack, Rich)
+12/18/2016 | 03:49:27 | 112554988, 112701229 | AT4w4th63Kk, Q_Pg_pVt0v8 | The Binding of Isaac: Rebirth (Jack, Rich)
 12/21/2016 | 04:42:15 | 113819439 | jj2H7_wjww4 | XCOM: Enemy Within (Rich)
-
-12/28/2016 | 04:18:32 | 114004914 | tXf5PMiEfNE | Dead Rising 4 (Rich, Karin)
-12/28/2016 | 00:00:00 | 114006194 | pPZut8KnkaE | XCOM: Enemy Within (Rich, Karin)
-12/28/2016 | 00:00:00 | 114012890 | EzZVEhTaIS8 | XCOM: Enemy Within (Rich, Karin)
-
-12/31/2016 | 04:18:28 | 115485050 | zqd7AHGDvKI | Runbow, Stardew Valley (Rich, Karin)
-12/31/2016 | 00:00:00 | 115489658 | 0gjowaJBkmQ | Undertale, Shantae (Rich, Karin)
-
-01/01/2017 | 05:49:19 | 115490363 | 3mZoel5B_8Y | DOOM (Rich, Karin)
-01/01/2017 | 00:00:00 | 115490595 | Xndv7WEw1aw | DOOM (Rich, Karin)
-
-01/04/2017 | 05:58:08 | 115823373 | wk09X13mefQ | Fixing a PS4 controller (Jack, Rich)
-01/04/2017 | 00:00:00 | 115853924 | uZX160699KQ | Glittermitten Grove (Jack, Rich)
-01/04/2017 | 00:00:00 | 115901947 | EVUGdyy3cY0 | Glittermitten Grove (Jack, Rich)
-01/04/2017 | 00:00:00 | 112296480 | j-9h60lEho4 | Glittermitten Grove (Jack, Rich)
-
-01/08/2017 | 04:06:50 | 117254192 | GQ3lg_jb0_M | Tiny Heist, Go Long!, Secrets Agent, No Pineapple Left Behind, Gurgamoth (Jack, Rich)
-01/08/2017 | 00:00:00 | 117711952 | jWHmz20jTEs | Orion Trail, Capsule, Find Me a Good One, Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist (Jack, Rich)
-
-01/11/2017 | 02:50:57 | 118479825 | PSrqadS3Sks | Master Spy (Jack, Rich, Karin)
-01/11/2017 | 00:00:00 | 118522430 | PK5H_rUF_m8 | The Stanley Parable (Jack, Rich, Karin)
-01/11/2017 | 00:00:00 | 118528339 | odWCD_28NXI | Orion Trail (Jack, Rich, Karin)
-
+12/28/2016 | 04:18:32 | 114004914, 114006194, 114012890 | tXf5PMiEfNE, pPZut8KnkaE, EzZVEhTaIS8 | Dead Rising 4, XCOM: Enemy Within (Rich, Karin)
+12/31/2016 | 04:18:28 | 115485050, 115489658 | zqd7AHGDvKI, 0gjowaJBkmQ | Runbow, Stardew Valley, Undertale, Shantae (Rich, Karin)
+01/01/2017 | 05:49:19 | 115490363, 115490595 | 3mZoel5B_8Y, Xndv7WEw1aw | DOOM (Rich, Karin)
+01/04/2017 | 05:58:08 | 115823373, 115853924, 115901947, 112296480 | wk09X13mefQ, uZX160699KQ, EVUGdyy3cY0, j-9h60lEho4 | Fixing a PS4 controller, Glittermitten Grove (Jack, Rich)
+01/08/2017 | 04:06:50 | 117254192, 117711952 | GQ3lg_jb0_M, jWHmz20jTEs | Tiny Heist, Go Long!, Secrets Agent, No Pineapple Left Behind, Gurgamoth, Orion Trail, Capsule, Find Me a Good One, Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist (Jack, Rich)
+01/11/2017 | 02:50:57 | 118479825, 118522430 | PSrqadS3Sks, PK5H_rUF_m8 | Master Spy, The Stanley Parable, Orion Trail (Jack, Rich, Karin)
 01/15/2017 | 03:46:27 | 119158827 | Fl4q7YuCpXo | XCOM: Enemy Unknown (Rich)
-
-01/18/2017 | 03:36:08 | 120156489 | wyk2YZxJUuI | Warhammer 40,000: Dawn of War 2 (Jack, Rich)
-01/18/2017 | 00:00:00 | 120202666 | 017x4gC9nBE | Warhammer 40,000: Space Marine (Jack, Rich)
-
-01/22/2017 | 04:14:52 | 120858049 | nYV_RRXLBrk | Jalopy (Jack, Rich)
-01/22/2017 | 00:00:00 | 121092092 | DI1E2CBiCrs | Warhammer 40,000: Space Marine (Jack, Rich, Jay)
-01/22/2017 | 00:00:00 | 121620589 | b1QmpsCaS7k | Warhammer 40,000: Space Marine (Jack, Rich, Jay)
-
-01/25/2017 | 03:50:51 | 121637713 | PhXMeG_qPSY | Resident Evil 7: Biohazard (Jack, Rich)
-01/25/2017 | 00:00:00 | 121707348 | WN3RXh2IH-g | Resident Evil 7: Biohazard (Jack, Rich
-
-01/29/2017 | 03:05:26 | 122277306 | 2igKSbl3sFk | Master Spy, Valkyria Chronicles (Jack, Rich)
-01/29/2017 | 00:00:00 | 122506354 | cLcD2f8kNAM | Valkyria Chronicles (Jack, Rich)
-
-02/01/2017 | 03:21:05 | 122558377 | N7rDdjrw1Ms | LET IT DIE (Jack, Rich)
-02/01/2017 | 00:00:00 | 122723335 | lVbGosHp_1U | LET IT DIE (Jack, Rich)
-
-02/05/2017 | 03:34:13 | 123256577 | juxUmoSYFx0 | Panty Party (Jack, Rich)
-02/05/2017 | 00:00:00 | 123486223 | ssjbk6_vBX0 | XCOM: Enemy Unknown (Jack, Rich)
-02/05/2017 | 00:00:00 | 123489370 | cd0QKRD6q4I | The Binding of Isaac: Rebirth (Jack, Rich)
-
-02/08/2017 | 04:28:02 | 124699861 | iH82vP7HdKc | Nioh (Jack, Rich, Jay
-02/08/2017 | 00:00:00 | 124751820 | 3gOdBGA5fDs | Nioh (Jack, Rich, Jay)
-
-02/15/2017 | 04:52:42 | 124955579 | tbb8FvkNkgc | WWE 2K16 (Jack, Rich, Josh)
-02/15/2017 | 00:00:00 | 124982334 | -jba5nLwLDA | WWE 2K16 (Jack, Rich, Josh)
-02/15/2017 | 00:00:00 | 122491639 | KsG92UNtAnc | WWE 2K16 (Jack, Rich, Josh)
-02/15/2017 | 00:00:00 | 123310405 | NNYiPwSwnPc | WWE 2K16 (Jack, Rich, Josh)
-
-02/19/2017 | 01:58:07 | 128995643 | eO08rem6TGo | Tower of Guns (Jack, Rich)
-02/19/2017 | 00:00:00 | 129001297 | 8nbekCsS3ow | Ninja Pizza Girl (Jack, Rich)g
-
-02/22/2017 | 03:45:16 | 129005892 | oV8P7LNI6FU | Overwatch (Jack, Rich)
-02/22/2017 | 00:00:00 | 129081657 | eWFNdm8fnVc | Overwatch (Jack, Rich)
-
-02/26/2017 | 02:22:28 | 130215649 | H3x7YhGNDfk | Berserk (Jack, Rich)
-02/26/2017 | 00:00:00 | 130233355 | UiUgCTcVorY | Berserk (Jack, Rich)
-
+01/18/2017 | 03:36:08 | 120156489, 120202666 | wyk2YZxJUuI, 017x4gC9nBE | Warhammer 40,000: Dawn of War 2 (Jack, Rich)
+01/22/2017 | 04:14:52 | 120858049, 121092092, 121620589 | nYV_RRXLBrk, DI1E2CBiCrs, b1QmpsCaS7k | Jalopy, Warhammer 40,000: Space Marine (Jack, Rich)
+01/25/2017 | 03:50:51 | 121637713, 121707348 | PhXMeG_qPSY, WN3RXh2IH-g | Resident Evil 7: Biohazard (Jack, Rich)
+01/29/2017 | 03:05:26 | 122277306, 122506354 | 2igKSbl3sFk, cLcD2f8kNAM | Master Spy, Valkyria Chronicles (Jack, Rich)
+02/01/2017 | 03:21:05 | 122558377, 122723335 | N7rDdjrw1Ms, lVbGosHp_1U | LET IT DIE (Jack, Rich)
+02/05/2017 | 03:34:13 | 123256577, 123486223, 123489370 | juxUmoSYFx0, ssjbk6_vBX0, cd0QKRD6q4I | Panty Party, XCOM: Enemy Unknown, The Binding of Isaac: Rebirth (Jack, Rich)
+02/08/2017 | 04:28:02 | 124699861, 124751820 | iH82vP7HdKc, 3gOdBGA5fDs | Nioh (Jack, Rich, Jay
+02/15/2017 | 04:52:42 | 124955579, 124982334, 122491639, 123310405 | tbb8FvkNkgc, -jba5nLwLDA, KsG92UNtAnc, NNYiPwSwnPc | WWE 2K16 (Jack, Rich, Josh)
+02/19/2017 | 01:58:07 | 128995643, 129001297 | eO08rem6TGo, 8nbekCsS3ow | Tower of Guns, Ninja Pizza Girl (Jack, Rich)
+02/22/2017 | 03:45:16 | 129005892, 129081657 | oV8P7LNI6FU, eWFNdm8fnVc | Overwatch (Jack, Rich)
+02/26/2017 | 02:22:28 | 130215649, 130233355 | H3x7YhGNDfk, UiUgCTcVorY | Berserk (Jack, Rich)
 03/01/2017 | 03:14:00 | 130640715 | QFVKhAhqv6k | Horizon Zero Dawn (Jack)
-
-03/05/2017 | 04:29:56 | 133594122 | DihurWQrI-s | 1-2-Switch (Jack, Rich)
-03/05/2017 | 00:00:00 | 133596854 | KFb8vlNwA14 | SnipperClips (Jack, Rich)
-03/05/2017 | 00:00:00 | 133603358 | ErCbEYwHKtQ | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-03/08/2017 | 04:06:58 | 134177231 | O4qB4Y8Nw2I | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-03/08/2017 | 00:00:00 | 134179037 | -eoQiP95Flo | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-03/15/2017 | 02:25:36 | 134646344 | UKgO7l7xTbg | Plinkett's Little Adventure (Jack, Rich)
-03/15/2017 | 00:00:00 | 134647106 | NZSE_POJvwA | Invisigun Heroes (Jack, Rich)
-
-03/19/2017 | 04:36:32 | 135171641 | 89rwyzTjD18 | Resident Evil (Jack, Rich)
-03/19/2017 | 00:00:00 | 135177031 | 3054_kdAcbk | Nier: Automata (Jack, Rich)
-
+03/05/2017 | 04:29:56 | 133594122, 133596854, 133603358 | DihurWQrI-s, KFb8vlNwA14, ErCbEYwHKtQ | 1-2-Switch, SnipperClips, The Legend of Zelda: Breath of the Wild (Jack, Rich)
+03/08/2017 | 04:06:58 | 134177231, 134179037 | O4qB4Y8Nw2I, -eoQiP95Flo | The Legend of Zelda: Breath of the Wild (Jack, Rich)
+03/15/2017 | 02:25:36 | 134646344, 134647106 | UKgO7l7xTbg, NZSE_POJvwA | Plinkett's Little Adventure, Invisigun Heroes (Jack, Rich)
+03/19/2017 | 04:36:32 | 135171641, 135177031 | 89rwyzTjD18, 3054_kdAcbk | Resident Evil, Nier: Automata (Jack, Rich)
 03/21/2017 | 00:48:13 | 130239736 | 9O7D15E-zfc | FTL: Faster Than Light (Jack, Rich)
-
-03/22/2017 | 03:59:10 | 133512973 | gO-LTeBpgYM | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-03/22/2017 | 00:00:00 | 133515224 | NIScIGwEPQU | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
+03/22/2017 | 03:59:10 | 133512973, 133515224 | gO-LTeBpgYM, NIScIGwEPQU | The Legend of Zelda: Breath of the Wild (Jack, Rich)
 03/26/2017 | 02:20:35 | 136440160 | s8DQ8JvLYB8 | Phoenix Wright: Ace Attorney (Jack, Rich)
-
-03/29/2017 | 03:47:48 | 136443129 | p7tZQH2vEA8 | Phoenix Wright: Ace Attorney (Jack, Rich)
-03/29/2017 | 00:00:00 | 136447277 | eeuZZtj0X8o | Phoenix Wright: Ace Attorney (Jack, Rich)
-
-04/02/2017 | 03:50:10 | 137750843 | ctR09tOERRk | Catacomb Kids (Jack, Rich)
-04/02/2017 | 00:00:00 | 137751752 | X0yVI6gqqpE | Magicka (Jack, Rich)
-
-04/07/2017 | 04:42:33 | 137752942 | mpxiyjJbdeY | 20XX (Jack, Rich)
-04/07/2017 | 00:00:00 | 137754213 | zDvUOsozY-k | Spelunky (Jack, Rich)
-
-04/09/2017 | 05:07:58 | 139706495 | ytmwpx4VDx0 | The Legend of Zelda: Breath of the Wild (Jack, Rich, Jay)
-04/09/2017 | 00:00:00 | 139710556 | 9rW60Z8eL38 | The Legend of Zelda: Breath of the Wild (Jack, Rich, Jay)
-
-04/12/2017 | 04:06:18 | 141216269 | bp7J8-_b3qg | Bayonetta (Jack, Rich)
-04/12/2017 | 00:00:00 | 141221202 | 6Md34TfbJjc | Bayonetta (Jack, Rich)
-
-04/19/2017 | 03:24:49 | 141862421 | PJc35Gk5Yfg | Flinthook (Jack, Rich)
-04/19/2017 | 00:00:00 | 141871240 | IxQsWzSoClA | Flinthook (Jack, Rich)
-
-04/23/2017 | 02:53:13 | 145045681 | rsclDhJSt3Y | Shovel Knight (Jack, Rich)
-04/23/2017 | 00:00:00 | 145047213 | K-wXUNdc-sQ | Shovel Knight (Jack, Rich)
-
-04/26/2017 | 03:40:18 | 147256572 | MyY5DDOQVyQ | Bayonetta 2 (Jack, Rich)
-04/26/2017 | 00:00:00 | 147257673 | _9UkbtE7AbU | Bayonetta 2 (Jack, Rich)
-
-04/30/2017 | 04:14:03 | 147259770 | hCX74lA0BsA | Steredenn (Jack, Rich)
-04/30/2017 | 00:00:00 | 147261016 | MMbz-Bb11J0 | Steredenn (Jack, Rich)
-
-05/03/2017 | 03:28:16 | 149402902 | DfYSClMJOzw | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-05/03/2017 | 00:00:00 | 149404807 | zSCYilZCubQ | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-05/07/2017 | 03:47:50 | 149406166 | 5LhVN6q1JFU | River City Ransom: Underground (Jack, Rich)
-05/07/2017 | 00:00:00 | 149407179 | Bs7EvuruJL8 | River City Ransom: Underground (Jack, Rich)
-
-05/10/2017 | 05:19:24 | 150697147 | jka_Ic4ivh0 | STRAFE (Jack, Rich)
-05/10/2017 | 00:00:00 | 150702977 | siatSG14szM | STRAFE (Jack, Rich)
-
-05/15/2017 | 03:30:00 | 153749776 | 3spwufkT6_Y | Zelda: Oracle of Seasons (Jack, Rich)
-05/15/2017 | 00:00:00 | 153754018 | aVttD5dRNWs | Zelda: Oracle of Seasons (Jack, Rich)
-
-05/17/2017 | 04:25:03 | 153839815 | GY-0kWZZcLk | STRAFE (Jack, Rich, Karin)
-05/17/2017 | 00:00:00 | 153846860 | NlBB-mEQNYA | STRAFE, Bookworm Adventures (Jack, Rich, Karin)
-
-05/21/2017 | 03:18:17 | 153856562 | PY_hcSkJ8GI | Ziggurat (Jack, Rich)
-05/21/2017 | 00:00:00 | 153861092 | a7YbVqJcuCU | Ziggurat (Jack, Rich)
-
-05/24/2017 | 03:26:26 | 155045636 | gW0qBni2lpM | The Surge (Jack, Rich)
-05/24/2017 | 00:00:00 | 155092048 | 03phPW_a8Xk | The Surge (Jack, Rich)
-
+03/29/2017 | 03:47:48 | 136443129, 136447277 | p7tZQH2vEA8, eeuZZtj0X8o | Phoenix Wright: Ace Attorney (Jack, Rich)
+04/02/2017 | 03:50:10 | 137750843, 137751752 | ctR09tOERRk, X0yVI6gqqpE | Catacomb Kids, Magicka (Jack, Rich)
+04/07/2017 | 04:42:33 | 137752942, 137754213 | mpxiyjJbdeY, zDvUOsozY-k | 20XX, Spelunky (Jack, Rich)
+04/09/2017 | 05:07:58 | 139706495, 139710556 | ytmwpx4VDx0, 9rW60Z8eL38 | The Legend of Zelda: Breath of the Wild (Jack, Rich, Jay)
+04/12/2017 | 04:06:18 | 141216269, 141221202 | bp7J8-_b3qg, 6Md34TfbJjc | Bayonetta (Jack, Rich)
+04/19/2017 | 03:24:49 | 141862421, 141871240 | PJc35Gk5Yfg, IxQsWzSoClA | Flinthook (Jack, Rich)
+04/23/2017 | 02:53:13 | 145045681, 145047213 | rsclDhJSt3Y, K-wXUNdc-sQ | Shovel Knight (Jack, Rich)
+04/26/2017 | 03:40:18 | 147256572, 147257673 | MyY5DDOQVyQ, _9UkbtE7AbU | Bayonetta 2 (Jack, Rich)
+04/30/2017 | 04:14:03 | 147259770, 147261016 | hCX74lA0BsA, MMbz-Bb11J0 | Steredenn (Jack, Rich)
+05/03/2017 | 03:28:16 | 149402902, 149404807 | DfYSClMJOzw, zSCYilZCubQ | The Legend of Zelda: Breath of the Wild (Jack, Rich)
+05/07/2017 | 03:47:50 | 149406166, 149407179 | 5LhVN6q1JFU, Bs7EvuruJL8 | River City Ransom: Underground (Jack, Rich)
+05/10/2017 | 05:19:24 | 150697147, 150702977 | jka_Ic4ivh0, siatSG14szM | STRAFE (Jack, Rich)
+05/15/2017 | 03:30:00 | 153749776, 153754018 | 3spwufkT6_Y, aVttD5dRNWs | Zelda: Oracle of Seasons (Jack, Rich)
+05/17/2017 | 04:25:03 | 153839815, 153846860 | GY-0kWZZcLk, NlBB-mEQNYA | STRAFE (Jack, Rich, Karin)
+05/21/2017 | 03:18:17 | 153856562, 153861092 | PY_hcSkJ8GI, a7YbVqJcuCU | Ziggurat (Jack, Rich)
+05/24/2017 | 03:26:26 | 155045636, 155092048 | gW0qBni2lpM, 03phPW_a8Xk | The Surge (Jack, Rich)
 05/26/2017 | 03:34:27 | 155623519 | vNCrQFI_vi8 | Vanquish (Jack Rich)
-
-05/28/2017 | 05:47:49 | 156131378 | tiPA_e6Wp7I | Lego Worlds, Friday the 13th: The Game (Rich, Karin)
-05/28/2017 | 00:00:00 | 156159159 | 94khWgPVj4U | Friday the 13th: The Game (Rich, Karin)
-05/28/2017 | 00:00:00 | 156292766 | 08WDhRA3cps | Friday the 13th: The Game (Rich, Karin)
-
-05/31/2017 | 04:39:21 | 158620887 | xvAQhleaigc | Friday the 13th: The Game (Jack, Rich, Jay)
-05/31/2017 | 00:00:00 | 158632844 | agMvDTiigf0 | Friday the 13th: The Game (Jack, Rich, Jay)
-
-06/04/2017 | 01:29:42 | 158644159 | hUbZTCLPI20 | STRAFE (Jack, Rich)
-06/04/2017 | 02:21:02 | 158658435 | hfaSllC4ZUY | Friday the 13th: The Game (Jack, Rich)
-
-06/05/2017 | 04:14:43 | 158883121 | CjHXwXYQpLQ | FTL: Faster Than Light (Jack, Rich, Karin, Katie)
-06/05/2017 | 00:00:00 | 158895662 | KC6powhN9Tg | Organ Trail (Jack, Rich, Karin, Katie)
-06/05/2017 | 00:00:00 | 158899231 | vrp3YJI3e90 | The Barbie Game: Queen of The Prom (Jack, Rich, Karin, Katie)
-
+05/28/2017 | 05:47:49 | 156131378, 156159159, 156292766 | tiPA_e6Wp7I, 94khWgPVj4U, 08WDhRA3cps | Lego Worlds, Friday the 13th: The Game (Rich, Karin)
+05/31/2017 | 04:39:21 | 158620887, 158632844 | xvAQhleaigc, agMvDTiigf0 | Friday the 13th: The Game (Jack, Rich, Jay)
+06/04/2017 | 01:29:42 | 158644159, 158658435 | hUbZTCLPI20, hfaSllC4ZUY | STRAFE, Friday the 13th: The Game (Jack, Rich)
+06/05/2017 | 04:14:43 | 158883121, 158895662, 158899231 | CjHXwXYQpLQ, KC6powhN9Tg, vrp3YJI3e90 | FTL: Faster Than Light, Organ Trail, The Barbie Game: Queen of The Prom (Jack, Rich, Karin, Katie)
 06/07/2017 | 02:06:03 | 159355651 | g6mw6JMIAIc | The Witcher 3: Wild Hunt (Jack)
-
-06/11/2017 | 04:03:00 | 159387973 | H3cB49hbId4 | Friday the 13th: The Game (Jack, Rich)
-06/11/2017 | 00:00:00 | 159407115 | 5CPDZeEcJrc | Friday the 13th: The Game (Jack, Rich)
-
-06/14/2017 | 04:03:23 | 161889759 | CIOAoYSRKDs | Friday the 13th: The Game (Jack, Rich)
-06/14/2017 | 00:00:00 | 161901493 | hpwiP_eUhRg | E3 2017 (Jack, Rich)
-
-06/21/2017 | 04:22:14 | 162380759 | 5Eyr7zvqaiE | Friday the 13th: The Game (Jack, Rich)
-06/21/2017 | 00:00:00 | 162438655 | Tqhy-I_Fb3M | Friday the 13th: The Game (Jack, Rich)
-
-06/28/2017 | 03:50:08 | 162732924 | bz6CJSZVP1Q | Wolfenstein: The New Order (Jack, Rich)
-06/28/2017 | 00:00:00 | 163163810 | s2nQGPJYTC0 | Wolfenstein: The New Order (Jack, Rich)
-
-07/02/2017 | 04:21:27 | 163495784 | tTl_KN0o1t8 | Friday the 13th: The Game (Jack, Rich)
-07/02/2017 | 00:00:00 | 163502569 | Lz90b1z2b-8 | Friday the 13th: The Game (Jack, Rich)
-
-07/05/2017 | 04:44:26 | 164132318 | 0wMphCnr5mo | Friday the 13th: The Game (Jack, Rich)
-07/05/2017 | 00:00:00 | 164135708 | qKzJsfV-viE | Friday the 13th: The Game (Jack, Rich)
-
-07/09/2017 | 03:34:19 | 164509834 | yKfXZ81f__o | Wolfenstein 3D (Jack, Rich)
-07/09/2017 | 00:00:00 | 164516402 | h13LSCKGfUQ | Friday the 13th: The Game (Jack, Rich)
-
-07/12/2017 | 04:36:14 | 164525722 | JdBUbvOc_kE | Watchmen: The End is Nigh (Jack, Rich)
-07/12/2017 | 00:00:00 | 164530210 | 9NL1ZFijffw | Watchmen: The End is Nigh (Jack, Rich)
-
-07/16/2017 | 03:32:00 | 166667830 | ZQA5pedBJwY | Friday the 13th: The Game, Press X to Not Die (Jack, Rich)
-07/16/2017 | 00:00:00 | 166682561 | TtIHnQ-ypp8 | PlayerUnknown's Battlegrounds (Jack, Rich)
-07/16/2017 | 00:00:00 | 166964351 | -hL07lmQj-0 | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-07/19/2017 | 05:31:45 | 166966545 | Uro-Gb_wzWU | PlayerUnknown's Battlegrounds (Rich)
-07/19/2017 | 00:00:00 | 166968002 | WAj0hM65p0Y | Friday the 13th: The Game (Rich)
-
-07/22/2017 | 03:52:29 | 166980168 | DxYFXPiKHqQ | Doom (Rich)
-07/22/2017 | 00:00:00 | 166980994 | uluyXlcZnIc | Mega Man Maker (Rich)
-
-07/26/2017 | 04:51:36 | 168469594 | gjsH2ISyEoA | PlayerUnknown's Battlegrounds (Jack, Rich)
-07/26/2017 | 00:00:00 | 168482251 | fLNoTtUOFDQ | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-07/30/2017 | 03:49:50 | 168549034 | HcpnEmoLTCE | PlayerUnknown's Battleground (Jack, Rich)
-07/30/2017 | 00:00:00 | 168549868 | sop6LJCW2I0 | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-08/02/2017 | 04:35:29 | 169268463 | TUqsiTeM8l8 | Dead Cells (Jack, Rich)
-08/02/2017 | 00:00:00 | 169702530 | jkR1A-DYe7M | Dead Cells (Jack, Rich)
-
-08/06/2017 | 03:06:36 | 169707999 | uuEvwXM8cAk | Dead Cells (Rich, Karin)
-08/06/2017 | 02:25:30 | 169714808 | qhd43DCRUSc | Friday the 13th: The Game (Rich, Karin)
-
+06/11/2017 | 04:03:00 | 159387973, 159407115 | H3cB49hbId4, 5CPDZeEcJrc | Friday the 13th: The Game (Jack, Rich)
+06/14/2017 | 04:03:23 | 161889759, 161901493 | CIOAoYSRKDs, hpwiP_eUhRg | Friday the 13th: The Game, E3 (Jack, Rich)
+06/21/2017 | 04:22:14 | 162380759, 162438655 | 5Eyr7zvqaiE, Tqhy-I_Fb3M | Friday the 13th: The Game (Jack, Rich)
+06/28/2017 | 03:50:08 | 162732924, 163163810 | bz6CJSZVP1Q, s2nQGPJYTC0 | Wolfenstein: The New Order (Jack, Rich)
+07/02/2017 | 04:21:27 | 163495784, 163502569 | tTl_KN0o1t8, Lz90b1z2b-8 | Friday the 13th: The Game (Jack, Rich)
+07/05/2017 | 04:44:26 | 164132318, 164135708 | 0wMphCnr5mo, qKzJsfV-viE | Friday the 13th: The Game (Jack, Rich)
+07/09/2017 | 03:34:19 | 164509834, 164516402 | yKfXZ81f__o, h13LSCKGfUQ | Wolfenstein 3D, Friday the 13th: The Game (Jack, Rich)
+07/12/2017 | 04:36:14 | 164525722, 164530210 | JdBUbvOc_kE, 9NL1ZFijffw | Watchmen: The End is Nigh (Jack, Rich)
+07/16/2017 | 03:32:00 | 166667830, 166682561, 166964351 | ZQA5pedBJwY, TtIHnQ-ypp8, -hL07lmQj-0 | Friday the 13th: The Game, Press X to Not Die, PlayerUnknown's Battlegrounds (Jack, Rich)
+07/19/2017 | 05:31:45 | 166966545, 166968002 | Uro-Gb_wzWU, WAj0hM65p0Y | PlayerUnknown's Battlegrounds, Friday the 13th: The Game (Rich)
+07/22/2017 | 03:52:29 | 166980168, 166980994 | DxYFXPiKHqQ, uluyXlcZnIc | Doom, Mega Man Maker (Rich)
+07/26/2017 | 04:51:36 | 168469594, 168482251 | gjsH2ISyEoA, fLNoTtUOFDQ | PlayerUnknown's Battlegrounds (Jack, Rich)
+07/30/2017 | 03:49:50 | 168549034, 168549868 | HcpnEmoLTCE, sop6LJCW2I0 | PlayerUnknown's Battleground (Jack, Rich)
+08/02/2017 | 04:35:29 | 169268463, 169702530 | TUqsiTeM8l8, jkR1A-DYe7M | Dead Cells (Jack, Rich)
+08/06/2017 | 03:06:36 | 169707999, 169714808 | uuEvwXM8cAk, qhd43DCRUSc | Dead Cells, Friday the 13th: The Game (Rich, Karin)
 08/09/2017 | 04:31:54 |    --     | G8McwH4SaxQ | Friday the 13th: The Game (Rich, Karin)
-
-08/13/2017 | 04:39:25 | 170543318 | IfJ0yZfCiN8 | PlayerUnknown's Battlegrounds (Jack, Rich)
-08/13/2017 | 00:00:00 | 170988390 | Tne4rL2IYLI | Friday the 13th: The Game (Jack, Rich)
-
-08/16/2017 | 03:55:24 | 171028720 | dIG02v6zhQw | Hollow Knight (Jack, Rich)
-08/16/2017 | 00:00:00 | 171041791 | Le4LuOJXxGw | 20XX (Jack, Rich)
-
-08/20/2017 | 04:45:28 | 171742028 | 1lrn-IlFqlA | FTL: Faster Than Light (Jack, Rich)
-08/20/2017 | 00:00:00 | 171975795 | -tzeBFQbMT0 | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-08/23/2017 | 03:18:14 | 172465832 | OlDlgAh1Z7U | PlayerUnknown's Battlegrounds (Jack, Rich)
-08/23/2017 | 00:00:00 | 172479131 | fen2W_2MxpI | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-08/27/2017 | 04:38:09 | 172573649 | T2IbzpwipZA | Sky Rogue (Jack, Rich)
-08/27/2017 | 00:00:00 | 172585561 | Ex4CKKVsld0 | Sky Rogue (Jack, Rich)
-
-08/30/2017 | 05:25:45 | 172752806 | UpiufrtGj2U | Mario + Rabbids Kingdom Battle (Jack, Rich)
-08/30/2017 | 00:00:00 | 173218384 | INofjxLYg94 | Mario + Rabbids Kingdom Battle (Jack, Rich)
-
+08/13/2017 | 04:39:25 | 170543318, 170988390 | IfJ0yZfCiN8, Tne4rL2IYLI | PlayerUnknown's Battlegrounds, Friday the 13th: The Game (Jack, Rich)
+08/16/2017 | 03:55:24 | 171028720, 171041791 | dIG02v6zhQw, Le4LuOJXxGw | Hollow Knight, 20XX (Jack, Rich)
+08/20/2017 | 04:45:28 | 171742028, 171975795 | 1lrn-IlFqlA, -tzeBFQbMT0 | FTL: Faster Than Light, PlayerUnknown's Battlegrounds (Jack, Rich)
+08/23/2017 | 03:18:14 | 172465832, 172479131 | OlDlgAh1Z7U, fen2W_2MxpI | PlayerUnknown's Battlegrounds (Jack, Rich)
+08/27/2017 | 04:38:09 | 172573649, 172585561 | T2IbzpwipZA, Ex4CKKVsld0 | Sky Rogue (Jack, Rich)
+08/30/2017 | 05:25:45 | 172752806, 173218384 | UpiufrtGj2U, INofjxLYg94 | Mario + Rabbids Kingdom Battle (Jack, Rich)
 08/31/2017 | 03:24:10 | 174010840 | _mtXJRhHiTc | Friday the 13th: The Game (Jack, Rich)
-
-09/03/2017 | 04:05:42 | 174225899 | 7qWyqm0FP98 | Mario + Rabbids Kingdom Battle (Jack, Rich)
-09/03/2017 | 00:00:00 | 174355985 | srsgyAI1rDI | Mario + Rabbids Kingdom Battle (Jack, Rich)
-
-09/06/2017 | 03:42:01 | 174698830 | LipcyQpWV9Q | Fight of Gods (Jack, Rich)
-09/06/2017 | 00:00:00 | 174706247 | 89TCAAtTLe4 | Silver Grapple (Jack, Rich)
-
-09/10/2017 | 05:43:46 | 175198066 | q2zi8nx-214 | XCOM 2: War of the Chosen (Jack, Rich)
-09/10/2017 | 00:00:00 | 175472323 | rzl6hFC1-n4 | XCOM 2: War of the Chosen (Jack, Rich)
-
-09/17/2017 | 04:23:09 | 175946212 | 7hzhtR_jB0E | Metroid: Samus Return (Jack, Rich)
-09/17/2017 | 00:00:00 | 175990933 | ZIbTuvpWS6E | Metroid: Samus Return (Jack, Rich)
-
-09/20/2017 | 04:01:33 | 176332584 | TLGpIpdBePI | XCOM 2: War of the Chosen (Jack, Rich)
-09/20/2017 | 00:00:00 | 176334428 | FpiTAIGrgbc | XCOM 2: War of the Chosen (Jack, Rich)
-
+09/03/2017 | 04:05:42 | 174225899, 174355985 | 7qWyqm0FP98, srsgyAI1rDI | Mario + Rabbids Kingdom Battle (Jack, Rich)
+09/06/2017 | 03:42:01 | 174698830, 174706247 | LipcyQpWV9Q, 89TCAAtTLe4 | Fight of Gods (Jack, Rich)
+09/10/2017 | 05:43:46 | 175198066, 175472323 | q2zi8nx-214, rzl6hFC1-n4 | XCOM 2: War of the Chosen (Jack, Rich)
+09/17/2017 | 04:23:09 | 175946212, 175990933 | 7hzhtR_jB0E, ZIbTuvpWS6E | Metroid: Samus Return (Jack, Rich)
+09/20/2017 | 04:01:33 | 176332584, 176334428 | TLGpIpdBePI, FpiTAIGrgbc | XCOM 2: War of the Chosen (Jack, Rich)
 09/24/2017 | 02:50:56 | 177773729 | W47jsSQzqxo | LEGO basement sorting (Jack)
-
-09/27/2017 | 04:53:24 | 178116468 | aNTZqZinP9w | Heat Signature (Jack, Rich)
-09/27/2017 | 00:00:00 | 178121208 | -UYZ8XLtrOc | Heat Signature (Jack, Rich)
-09/27/2017 | 00:00:00 | 178357767 | 1kfh2QrzsrM | XCOM 2: War of the Chosen (Jack, Rich)
-
-10/01/2017 | 03:30:29 | 179082368 | lK7WPtRk3F4 | Cuphead (Jack, Rich)
-10/01/2017 | 00:00:00 | 179083500 | pvpN0aa3MtU | Cuphead (Jack, Rich)
-10/01/2017 | 00:00:00 | 179084765 | gS4ywctHU28 | XCOM 2: War of the Chosen (Jack, Rich)
-
-10/04/2017 | 02:47:20 | 179819722 | axRU6V_zFGo | FTL: Faster Than Light (Jack, Rich)
-10/04/2017 | 00:00:00 | 179821171 | PWE9-yVIazA | Spelunky (Jack, Rich)
-
-10/08/2017 | 04:58:07 | 180930263 | p6mJTe8CXCA | Golf Story (Jack, Rich)
-10/08/2017 | 00:00:00 | 181072303 | eN6QnFWiNYc | Ruiner (Jack, Rich)
-10/08/2017 | 00:00:00 | 181425765 | oC0y5437NJI | Roasting Jack's Nuts (Jack, Rich)
-
-10/11/2017 | 03:39:53 | 181593254 | mKM0wyhfzec | Brutal Legend (Jack, Rich)
-10/11/2017 | 00:00:00 | 181594620 | 9xd6HUEp2QE | Brutal Legend (Jack, Rich)
-
-10/15/2017 | 04:37:13 | 182617851 | AIh9p3zWDl0 | Friday the 13th: The Game (Jack, Rich)
-10/15/2017 | 00:00:00 | 182619385 | D5PJXa5NJsM | Friday the 13th: The Game (Jack, Rich)
-
-10/18/2017 | 04:32:07 | 183345981 | T-wbOA_lJtM | Heat Signature (Jack, Rich)
-10/18/2017 | 00:00:00 | 183347636 | HnSG9Sc6Sbo | Overgrowth (Jack, Rich)
-10/18/2017 | 00:00:00 | 183348875 | _-NQKFWSH_c | Overgrowth (Jack, Rich)
-
-10/22/2017 | 05:13:55 | 184463827 | ZtCZXxbQMFo | Space Quest II (Jack, Rich)
-10/22/2017 | 00:00:00 | 184465501 | oyIP5wL615Q | Space Quest II (Jack, Rich)
-10/22/2017 | 00:00:00 | 184467237 | iaxL3PtvXgE | Space Quest II (Jack, Rich)
-
-10/25/2017 | 04:32:29 | 185502791 | JhXnW5KaqjI | Stardew Valley (Jack, Rich)
-10/25/2017 | 00:00:00 | 185507635 | tHD4kJSMCG8 | Stardew Valley (Jack, Rich)
-10/25/2017 | 00:00:00 | 186064468 | pSTEl3xgDB8 | The Witcher 3: Wild Hunt (Jack, Rich)
-
-10/29/2017 | 04:31:01 | 186238820 | 3zEoHXJ9WuY | Mario Odyssey (Jack, Rich)
-10/29/2017 | 00:00:00 | 186240610 | VkEZGcC-848 | Mario Odyssey (Jack, Rich)
-
-10/31/2017 | 04:10:10 | 186719956 | PYS1Rqx-neE | Death Road to Canada (Jack, Rich)
-10/31/2017 | 00:00:00 | 186723147 | GhxJVhnqyDg | Friday the 13th: The Game (Jack, Rich)
-10/31/2017 | 00:00:00 | 186724418 | mlFKpGEpAjo | Friday the 13th: The Game (Jack, Rich)
-
-11/05/2017 | 04:25:14 | 188068713 | 9GzoI20sF3E | Mario Odyssey (Jack, Rich)
-11/05/2017 | 00:00:00 | 188070695 | 5Wk0oLR7PiU | Mario Odyssey, Stranger Things 2 Spoilers (Jack, Rich)
-11/05/2017 | 00:00:00 | 188072204 | dsDASsJdW7k | Mario Odyssey, Stranger Things 2 Spoilers (Jack, Rich)
-
-11/08/2017 | 04:11:23 | 188805622 | 6Tf66ueqE1k | Hand of Fate 2 (Jack, Rich)
-11/08/2017 | 00:00:00 | 188807281 | zHdAs7_xaQw | Hand of Fate 2 (Jack, Rich)
-
-11/12/2017 | 02:45:59 | 201223701 | XaBWwDpbeFU | Final Fantasy VII (Jack, Rich, Karin, Katie, Erin, Jim)
-11/12/2017 | 00:00:00 | 201224262 | _VeYbJtVjSo | Final Fantasy VII (Jack, Rich, Karin, Katie, Erin, Jim)
-
-11/16/2017 | 03:11:37 | 202072189 | HVDaGVdHfwg | Horizon Zero Dawn (Jack)
-11/16/2017 | 00:00:00 | 202126132 | 39Prz1AlkAg | Horizon Zero Dawn (Jack)
-
-11/19/2017 | 04:13:37 | 202812062 | d-0USa0rLgs | Superflight (Jack, Rich)
-11/19/2017 | 00:00:00 | 202814190 | Q6k3PO5XlSQ | Superflight (Jack, Rich)
-11/19/2017 | 00:00:00 | 202816017 | ZWIDd8qAmaI | Hand of Fate 2 (Jack, Rich)
-
-11/26/2017 | 06:59:39 | 205611112 | HGNAGIzvM7c | Little Nightmares (Jack, Rich)
-11/26/2017 | 00:00:00 | 205613187 | zhACqhr1vxc | Little Nightmares (Jack, Rich)
-11/26/2017 | 00:00:00 | 205618586 | SUrI2Wg-ZHc | The Witcher 3: Wild Hunt (Jack, Rich)
-
+09/27/2017 | 04:53:24 | 178116468, 178121208, 178357767 | aNTZqZinP9w, -UYZ8XLtrOc, 1kfh2QrzsrM | Heat Signature, XCOM 2: War of the Chosen (Jack, Rich)
+10/01/2017 | 03:30:29 | 179082368, 179083500, 179084765 | lK7WPtRk3F4, pvpN0aa3MtU, gS4ywctHU28 | Cuphead, XCOM 2: War of the Chosen (Jack, Rich)
+10/04/2017 | 02:47:20 | 179819722, 179821171 | axRU6V_zFGo, PWE9-yVIazA | FTL: Faster Than Light, Spelunky (Jack, Rich)
+10/08/2017 | 04:58:07 | 180930263 181072303 181425765 | p6mJTe8CXCA eN6QnFWiNYc oC0y5437NJI | Golf Story, Stardew Valley (Jack, Rich)
+10/11/2017 | 03:39:53 | 181593254 181594620 | mKM0wyhfzec 9xd6HUEp2QE | Brutal Legend (Jack, Rich)
+10/15/2017 | 04:37:13 | 182617851 182619385 | AIh9p3zWDl0 D5PJXa5NJsM | Friday the 13th: The Game (Jack, Rich)
+10/18/2017 | 04:32:07 | 183345981 183347636 183348875 | T-wbOA_lJtM HnSG9Sc6Sbo _-NQKFWSH_c | Heat Signature, Overgrowth (Jack, Rich)
+10/22/2017 | 05:13:55 | 184463827 184465501 184467237 | ZtCZXxbQMFo oyIP5wL615Q iaxL3PtvXgE | Space Quest II (Jack, Rich)
+10/25/2017 | 04:32:29 | 185502791 185507635 186064468 | JhXnW5KaqjI tHD4kJSMCG8 pSTEl3xgDB8 | Stardew Valley, The Witcher 3: Wild Hunt (Jack, Rich)
+10/29/2017 | 04:31:01 | 186238820 186240610 | 3zEoHXJ9WuY VkEZGcC-848 | Mario Odyssey (Jack, Rich)
+10/31/2017 | 04:10:10 | 186719956 186723147 186724418 | PYS1Rqx-neE GhxJVhnqyDg mlFKpGEpAjo | Death Road to Canada, Friday the 13th: The Game (Jack, Rich)
+11/05/2017 | 04:25:14 | 188068713 188070695 188072204 | 9GzoI20sF3E 5Wk0oLR7PiU dsDASsJdW7k | Mario Odyssey (Jack, Rich)
+11/08/2017 | 04:11:23 | 188805622 188807281 | 6Tf66ueqE1k zHdAs7_xaQw | Hand of Fate 2 (Jack, Rich)
+11/12/2017 | 02:45:59 | 201223701 201224262 | XaBWwDpbeFU _VeYbJtVjSo | Final Fantasy VII (Jack, Rich, Karin, Katie, Erin, Jim)
+11/16/2017 | 03:11:37 | 202072189 202126132 | HVDaGVdHfwg 39Prz1AlkAg | Horizon Zero Dawn (Jack)
+11/19/2017 | 04:13:37 | 202812062 202814190 202816017 | d-0USa0rLgs Q6k3PO5XlSQ ZWIDd8qAmaI | Superflight, Hand of Fate 2 (Jack, Rich)
+11/26/2017 | 06:59:39 | 205611112 205613187 205618586 | HGNAGIzvM7c zhACqhr1vxc SUrI2Wg-ZHc | Little Nightmares, The Witcher 3: Wild Hunt (Jack, Rich)
 11/29/2017 | 01:55:58 | 205616229 | OCKb1yrgypY | AER: Memories of Old (Jack, Rich)
-
-12/05/2017 | 06:06:21 | 207283334 | LqnUTazgCik | Overwatch (Jack)
-12/06/2017 | 00:00:00 | 207397522 | NF-wZslptQA | Spider-Man 2 (Jack, Rich)
-12/06/2017 | 00:00:00 | 207399243 | AFA227FU9So | The Incredible Hulk: Ultimate Destruction (Jack, Rich)
-
-12/10/2017 | 02:22:25 | 208665282 | 72v_JDVxY0M | Getting Over It with Bennett Foddy (Jack, Rich)
-12/10/2017 | 00:00:00 | 208669962 | CHRC2lKQ8gg | Getting Over It with Bennett Foddy (Jack, Rich)
-
+12/05/2017 | 06:06:21 | 207283334 207397522 207399243 | LqnUTazgCik NF-wZslptQA AFA227FU9So | Overwatch, Spider-Man 2, The Incredible Hulk: Ultimate Destruction (Jack)
+12/10/2017 | 02:22:25 | 208665282 208669962 | 72v_JDVxY0M CHRC2lKQ8gg | Getting Over It with Bennett Foddy (Jack, Rich)
 12/13/2017 | 04:32:40 | 209388198 | 7ChkqOBr-hY | Ghostbusters: The Video Game (Jack)
-
-12/17/2017 | 04:01:35 | 210513404 | 7l-tunxwCTQ | Ghostbusters: The Video Game (Jack, Rich)
-12/17/2017 | 00:00:00 | 210516725 | b0fGc_WO1Yc | Ghostbusters: The Video Game (Jack, Rich)
-12/17/2017 | 00:00:00 | 210518156 | rZ83mOxb0VA | Ghostbusters: The Video Game (Jack, Rich)
-
-12/20/2017 | 04:36:33 | 211300206 | rT4a5Wi2OvU | Okami (Jack, Rich)
-12/20/2017 | 00:00:00 | 211304199 | AXaqxSezKA0 | Okami (Jack, Rich)
-12/20/2017 | 00:00:00 | 211305472 | _ctMyMF6frs | Okami (Jack, Rich)
-
-12/27/2017 | 05:22:18 | 213173589 | N0sYKNpCEY4 | Ghostbusters: The Video Game (Rich)
-12/27/2017 | 00:00:00 | 213175171 | ybrIApVOahE | Friday the 13th: The Game (Rich)
-
-12/31/2017 | 03:32:36 |    --     | JlXtN2SuvE4 | Dead Rising 2 (Rich)
-12/31/2017 | 00:00:00 |    --     | z74BzgkeHds | Dead Rising 2 (Rich)
-
-01/03/2018 | 03:34:14 |    --     | OoO7F9QSX0o | Dead Rising (Jack, Rich)
-01/03/2018 | 00:00:00 |    --     | rUPgmV9yP1k | Dead Rising (Jack, Rich)
-
-01/07/2018 | 04:57:05 | 216539652 | g7qBCYL_NEE | Getting Over It with Bennett Foddy (Jack, Rich)
-01/07/2018 | 00:00:00 | 216541941 | GH1S1q4GxLI | PlayerUnknown's Battlegrounds (Jack, Rich)
-01/07/2018 | 00:00:00 | 216543454 | yW3Qfi-KbVA | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-01/10/2018 | 03:50:32 | 217441932 | AS1zBBTwPGE | PlayerUnknown's Battlegrounds (Jack, Rich)
-01/10/2018 | 00:00:00 | 217443615 | i3cg-d6Qqug | No gameplay, just general discussion (Jack, Rich)
-01/10/2018 | 00:00:00 | 217444289 | FxqMaNv_OOQ | Left 4 Dead 2 (Jack, Rich)
-
-01/14/2018 | 03:47:39 | 218738560 | 5t2pIzCBsWg | PlayerUnknown's Battlegrounds (Jack, Rich)
-01/14/2018 | 00:00:00 | 218739333 | vv2L2Oip0-4 | PlayerUnknown's Battlegrounds (Jack, Rich)
-01/14/2018 | 00:00:00 | 218740329 | D6OMgglwjHI | PlayerUnknown's Battlegrounds (Jack, Rich)
-
-01/17/2018 | 04:51:42 | 219725204 | fsDNpLZwfNE | Human Fall Flat (Jack, Rich)
-01/17/2018 | 00:00:00 | 219725914 | X5RqerkRpfI | Human Fall Flat (Jack, Rich)
-01/17/2018 | 00:00:00 | 219728332 | unbejgt_0LU | Spelunky (Jack, Rich)
-
-01/21/2018 | 04:27:30 | 221136810 | Wlq6qfdlUS8 | Dead Rising 2 (Jack, Rich)
-01/21/2018 | 00:00:00 | 221139365 | GZhk8mbEbMc | Dead Rising 2 (Jack, Rich)
-01/21/2018 | 00:00:00 | 221141521 | iNAsCwIoWek | Dead Rising 2 (Jack, Rich)
-
-01/24/2018 | 04:14:53 | 222100427 | C_LUYzBToNw | Iconoclasts (Jack, Rich)
-01/24/2018 | 00:00:00 | 222102318 | KHsORQsc0nQ | Tony Hawk's Pro Skater HD (Jack, Rich)
-
+12/17/2017 | 04:01:35 | 210513404 210516725 210518156 | 7l-tunxwCTQ b0fGc_WO1Yc rZ83mOxb0VA | Ghostbusters: The Video Game (Jack, Rich)
+12/20/2017 | 04:36:33 | 211300206 211304199 211305472 | rT4a5Wi2OvU AXaqxSezKA0 _ctMyMF6frs | Okami (Jack, Rich)
+12/27/2017 | 05:22:18 | 213173589 213175171 | N0sYKNpCEY4 ybrIApVOahE | Ghostbusters: The Video Game, Friday the 13th: The Game (Rich)
+12/31/2017 | 03:32:36 |    --     | JlXtN2SuvE4 z74BzgkeHds | Dead Rising 2 (Rich)
+01/03/2018 | 03:34:14 |    --     | OoO7F9QSX0o rUPgmV9yP1k | Dead Rising (Jack, Rich)
+01/07/2018 | 04:57:05 | 216539652 216541941 216543454 | g7qBCYL_NEE GH1S1q4GxLI yW3Qfi-KbVA | Getting Over It with Bennett Foddy, PlayerUnknown's Battlegrounds (Jack, Rich)
+01/10/2018 | 03:50:32 | 217441932 217443615 217444289 | AS1zBBTwPGE i3cg-d6Qqug FxqMaNv_OOQ | PlayerUnknown's Battlegrounds, general discussion, Left 4 Dead 2 (Jack, Rich)
+01/14/2018 | 03:47:39 | 218738560 218739333 218740329 | 5t2pIzCBsWg vv2L2Oip0-4 D6OMgglwjHI | PlayerUnknown's Battlegrounds (Jack, Rich)
+01/17/2018 | 04:51:42 | 219725204 219725914 219728332 | fsDNpLZwfNE X5RqerkRpfI unbejgt_0LU | Human Fall Flat, Spelunky (Jack, Rich)
+01/21/2018 | 04:27:30 | 221136810 221139365 221141521 | Wlq6qfdlUS8 GZhk8mbEbMc iNAsCwIoWek | Dead Rising 2 (Jack, Rich)
+01/24/2018 | 04:14:53 | 222100427 222102318 | C_LUYzBToNw KHsORQsc0nQ | Iconoclasts, Tony Hawk's Pro Skater HD (Jack, Rich)
 01/26/2018 | 04:20:54 | 223514288 | aH9W-GLtNXg | Dead Rising 2 (Rich)
-
-01/28/2018 | 04:11:35 | 223517370 | Ic20vtSQ-j8 | Titanfall (Jack, Rich)
-01/28/2018 | 00:00:00 | 223518822 | XLhhbz_J7Nw | Titanfall (Jack, Rich)
-
-01/31/2018 | 03:53:12 | 224489890 | ijRG9BDq8Us | Friday the 13th: The Game (Rich)
-01/31/2018 | 00:00:00 | 224490087 | IQab8HHV9Hs | Friday the 13th: The Game (Rich)
-
-02/04/2018 | 04:26:51 | 225834050 | Dr6L4Rlo2EQ | Slay the Spire (Jack, Rich)
-02/04/2018 | 00:00:00 | 225836317 | IsxAux_UL3k | Slay the Spire (Jack, Rich)
-
-02/07/2018 | 04:32:16 | 226846810 | t_CbSaxFtXU | Dandara (Jack, Rich)
-02/07/2018 | 00:00:00 | 226849185 | 06UpkjpmAk4 | Dandara (Jack, Rich)
-02/07/2018 | 00:00:00 | 226851476 | ZqlWlBBg5W0 | Slay the Spire (Jack, Rich)
-
-02/09/2018 | 11:35:11 | 227554967 | e-OT_JZ5s1Q | Dead Rising 2 (Rich)
-02/09/2018 | 00:00:00 | 227555449 | WZd9Rr7LNkk | Dead Rising 2 (Rich)
-02/09/2018 | 00:00:00 | 227555708 | XoCCgidqLxc | Dead Rising 2 (Rich)
-
-02/11/2018 | 04:32:24 | 228250761 | J9DXsBjCaRM | Slay the Spire (Jack, Rich)
-02/11/2018 | 00:00:00 | 228251768 | VtEAvjc6SZU | Injustice: Gods Among Us (Jack, Rich)
-02/11/2018 | 00:00:00 | 228252538 | Ka4fdxjFpLs | Injustice: Gods Among Us (Jack, Rich)
-
-02/15/2018 | 03:27:37 | 229502235 | w9HvvGU5mG4 | Injustice: Gods Among Us (Jack, Rich)
-02/15/2018 | 00:00:00 | 229504053 | 3Y5Z3bAxnII | Injustice: Gods Among Us (Jack, Rich)
-
-02/18/2018 | 06:44:31 | 230998008 | XNiYrT6cFlg | Dead Rising 3 (Jack, Rich)
-02/18/2018 | 00:00:00 | 230998807 | qlepOcM35WI | Dead Rising 3 (Jack, Rich)
-02/18/2018 | 00:00:00 | 230999165 | VObkAnSerpU | Dead Rising 3 (Rich)
-
-02/21/2018 | 03:46:11 | 231536295 | o5xYrxszDtU | Slay the Spire (Jack, Rich)
-02/21/2018 | 00:00:00 | 231538479 | 1oRuprc7XiY | Slay the Spire (Jack, Rich)
-
-02/25/2018 | 05:04:25 | 234368826 | tmRyhP7HNso | Slay the Spire (Jack, Rich)
-02/25/2018 | 00:00:00 | 234370875 | mfkvC7ZtcNk | Slay the Spire (Jack, Rich)
-02/25/2018 | 00:00:00 | 234382573 | QGB7wqgIbW4 | Slay the Spire (Jack, Rich)
-
+01/28/2018 | 04:11:35 | 223517370 223518822 | Ic20vtSQ-j8 XLhhbz_J7Nw | Titanfall (Jack, Rich)
+01/31/2018 | 03:53:12 | 224489890 224490087 | ijRG9BDq8Us IQab8HHV9Hs | Friday the 13th: The Game (Rich)
+02/04/2018 | 04:26:51 | 225834050 225836317 | Dr6L4Rlo2EQ IsxAux_UL3k | Slay the Spire (Jack, Rich)
+02/07/2018 | 04:32:16 | 226846810 226849185 226851476 | t_CbSaxFtXU 06UpkjpmAk4 ZqlWlBBg5W0 | Dandara, Slay the Spire (Jack, Rich)
+02/09/2018 | 11:35:11 | 227554967 227555449 227555708 | e-OT_JZ5s1Q WZd9Rr7LNkk XoCCgidqLxc | Dead Rising 2 (Rich)
+02/11/2018 | 04:32:24 | 228250761 228251768 228252538 | J9DXsBjCaRM VtEAvjc6SZU Ka4fdxjFpLs | Slay the Spire, Injustice: Gods Among Us (Jack, Rich)
+02/15/2018 | 03:27:37 | 229502235 229504053 | w9HvvGU5mG4 3Y5Z3bAxnII | Injustice: Gods Among Us (Jack, Rich)
+02/18/2018 | 06:44:31 | 230998008 230998807 230999165 | XNiYrT6cFlg qlepOcM35WI VObkAnSerpU | Dead Rising 3 (Jack, Rich)
+02/21/2018 | 03:46:11 | 231536295 231538479 | o5xYrxszDtU 1oRuprc7XiY | Slay the Spire (Jack, Rich)
+02/25/2018 | 05:04:25 | 234368826 234370875 234382573 | tmRyhP7HNso mfkvC7ZtcNk QGB7wqgIbW4 | Slay the Spire (Jack, Rich)
 03/01/2018 | 02:48:43 | 235391137 | scAk0ew48AQ | Into the Breach (Jack)
-
-03/04/2018 | 04:21:37 | 235392601 | rQH9R6Wn6ZI | Dishonored (Rich)
-03/04/2018 | 00:00:00 | 235393801 | vIP3klkj51I | Dishonored (Rich)
-03/04/2018 | 00:00:00 | 235394014 | VIqGOTWkRCU | Dishonored (Rich)
-
-03/07/2018 | 03:06:10 | 237890196 | KOsEzIveFo0 | Into the Breach! (Jack, Rich)
-03/07/2018 | 00:00:00 | 237892708 | E5q5-n0Z1PM | Into the Breach! (Jack, Rich)
-
-03/11/2018 | 04:07:30 | 237895862 | WRFt-fMrMAw | Bloodborne (Jack, Rich)
-03/11/2018 | 00:00:00 | 237898520 | eyenqpdo3q8 | Bloodborne (Jack, Rich)
-
-03/14/2018 | 04:11:30 | 238915591 | jwo-B09tD7g | Ghost of a Tale (Jack, Rich)
-03/14/2018 | 00:00:00 | 238922652 | y_08XqMCRvg | Slay the Spire (Jack, Rich)
-
-03/18/2018 | 04:04:39 | 240383197 | qdqMm0qk3VU | Bloodborne (Jack, Rich)
-03/18/2018 | 00:00:00 | 240387010 | fXwhKEUJqTk | Bloodborne (Jack, Rich)
-03/18/2018 | 00:00:00 | 240387850 | OfcHZp5YYB0 | Bloodborne (Jack, Rich)
-
-03/21/2018 | 03:31:49 | 241570802 | qNKhUfQEd9k | Serial Cleaner (Jack, Rich)
-03/21/2018 | 00:00:00 | 241579956 | VX-jdcvAVsA | Viscera Cleanup Detail (Jack, Rich)
-
-03/25/2018 | 07:11:33 | 248335427 | YFXCyEcmy6g | Bloodborne (Jack, Rich)
-03/25/2018 | 00:00:00 | 248337297 | qhlyeRjojK8 | Bloodborne (Jack, Rich)
-03/25/2018 | 00:00:00 | 248339066 | Jq5rfUv3GGY | Bloodborne (Jack, Rich)
-03/25/2018 | 00:00:00 | 248521479 |     ---     | Bloodborne (Jack, Rich)
-
-03/28/2018 | 03:37:28 | 249411949 | I2y0r7P1IiY | Dishonored (Jack, Rich)
-03/28/2018 | 00:00:00 | 249413307 | 63_3bCRqgUQ | Dishonored (Jack, Rich)
-03/28/2018 | 00:00:00 | 249415242 | ANdV65o3Hgo | Slay the Spire (Jack, Rich)
-
-04/08/2018 | 04:02:37 | 252001718 | _9aacOShfVw | Diddy Kong Racing (Jack, Rich)
-04/08/2018 | 00:00:00 | 252005055 | kvFeA8tbMOM | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-04/08/2018 | 00:00:00 | 252007723 | -syyYZ95XAA | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
+03/04/2018 | 04:21:37 | 235392601 235393801 235394014 | rQH9R6Wn6ZI vIP3klkj51I VIqGOTWkRCU | Dishonored (Rich)
+03/07/2018 | 03:06:10 | 237890196 237892708 | KOsEzIveFo0 E5q5-n0Z1PM | Into the Breach! (Jack, Rich)
+03/11/2018 | 04:07:30 | 237895862 237898520 | WRFt-fMrMAw eyenqpdo3q8 | Bloodborne (Jack, Rich)
+03/14/2018 | 04:11:30 | 238915591 238922652 | jwo-B09tD7g y_08XqMCRvg | Ghost of a Tale, Slay the Spire (Jack, Rich)
+03/18/2018 | 04:04:39 | 240383197 240387010 240387850 | qdqMm0qk3VU fXwhKEUJqTk OfcHZp5YYB0 | Bloodborne (Jack, Rich)
+03/21/2018 | 03:31:49 | 241570802 241579956 | qNKhUfQEd9k VX-jdcvAVsA | Serial Cleaner, Viscera Cleanup Detail (Jack, Rich)
+03/25/2018 | 07:11:33 | 248335427 248337297 248339066 248521479 | YFXCyEcmy6g qhlyeRjojK8 Jq5rfUv3GGY --- | Bloodborne (Jack, Rich)
+03/28/2018 | 03:37:28 | 249411949 249413307 249415242 | I2y0r7P1IiY 63_3bCRqgUQ ANdV65o3Hgo | Dishonored, Slay the Spire (Jack, Rich)
+04/08/2018 | 04:02:37 | 252001718 252005055 252007723 | _9aacOShfVw kvFeA8tbMOM -syyYZ95XAA | Diddy Kong Racing, The Legend of Zelda: Breath of the Wild (Jack, Rich)
 04/16/2018 | 03:24:07 | 253564859 | tZiUbDbm21c | The Legend of Zelda: Breath of the Wild (Jack)
-
-04/18/2018 | 03:44:04 | 254144683 | 1eMYkyQk_3g | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-04/18/2018 | 00:00:00 | 254325681 | A5YINZCsHR0 | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-04/18/2018 | 00:00:00 | 254327107 | d0nud5pFdTc | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-04/22/2018 | 03:28:19 | 254580850 | KI2Etq_A03U | God of War (Jack, Rich)
-04/22/2018 | 00:00:00 | 254584606 | cFWp2Jx0jc0 | God of War (Jack, Rich)
-04/22/2018 | 00:00:00 | 254586793 | nLoCum1oRJg | God of War (Jack, Rich)
-
-04/25/2018 | 04:47:08 | 254593182 | _fKPboJicSc | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-04/25/2018 | 00:00:00 | 254595573 | MjB-usWZ2Js | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-04/25/2018 | 00:00:00 | 254597840 | 8TBSUckpjVg | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-04/29/2018 | 04:52:31 | 256048290 | YS_5f5pd-kw | God of War (Jack, Rich)
-04/29/2018 | 00:00:00 | 256050171 | ffez980BWJQ | God of War (Jack, Rich)
-04/29/2018 | 00:00:00 | 256051320 | kfONQNvSg1E | Slay the Spire (Jack, Rich)
-
-05/02/2018 | 04:02:58 | 257144605 | BL9vkxNhY-E | Minit (Jack, Rich)
-05/02/2018 | 00:00:00 | 257148386 | 2zKts6XNIiw | Minit (Jack, Rich)
-05/02/2018 | 00:00:00 | 257149751 | KbWObYxvuF0 | God of War (Jack, Rich)
-
-05/09/2018 | 03:38:07 | 259701641 | I9meT9m3QvY | Detective Pikachu (Jack, Rich)
-05/09/2018 | 00:00:00 | 259705558 | wA9RxC7tWIg | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-05/09/2018 | 00:00:00 | 259707028 | DvzC3qx-oyw | The Legend of Zelda: Breath of the Wild (Jack, Rich)
-
-05/16/2018 | 03:59:16 | 262256730 | xhGOUtvBaVE | Wizard of Legend (Jack, Rich)
-05/16/2018 | 00:00:00 | 262260930 | hPEYHzU3GbA | Wizard of Legend (Jack, Rich)
-05/16/2018 | 00:00:00 | 262265156 | i6kP-qdOh20 | Wizard of Legend (Jack, Rich)
-
-05/20/2018 | 04:05:49 | 264753137 | zskWI5MjpmY | BattleTech (Jack, Rich)
-05/20/2018 | 00:00:00 | 264758141 | B3wqboiVLBA | BattleTech (Jack, Rich)
-
-05/23/2018 | 03:46:44 | 264866074 | uq_F1apdjTQ | Hyrule Warriors (Jack, Rich)
-05/23/2018 | 00:00:00 | 264873548 | qU5z8qwJvrE | Hyrule Warriors (Jack, Rich)
-05/23/2018 | 00:00:00 | 264877542 | rh1BOxgTs2s | Hyrule Warriors (Jack, Rich)
-
-05/27/2018 | 03:24:55 | 269170974 | Ils2ZZg9PbU | Space Quest III (Jack, Rich)
-05/27/2018 | 00:00:00 | 269171684 | xN29neOVLkw | Space Quest III (Jack, Rich)
-
-05/30/2018 | 04:26:25 | 269173264 | qhc9HClLfls | Space Quest III (Jack, Rich)
-05/30/2018 | 00:00:00 | 269176509 | CW9VXMkgMxs | Descenders (Jack, Rich)
-
-06/03/2018 | 02:46:09 | 269180313 | SoL1uA-kdqE | UNWORTHY (Jack, Rich)
-06/03/2018 | 00:00:00 | 269181145 | l5jbz-CWYl0 | Friday the 13th: The Game (Jack, Rich)
-
-06/06/2018 | 04:33:13 | 278450237 | O_ABXDLojxk | Shaq Fu (Jack, Rich)
-06/06/2018 | 00:00:00 | 278453513 | yGC9Ihr94TM | Moonlighter (Jack, Rich)
-06/06/2018 | 00:00:00 | 278457094 | WvTBr-oTyVA | Moonlighter (Jack, Rich)
-
-06/10/2018 | 04:45:48 | 273159188 | UH5pJPIKsl4 | Skyrim (Jack)
-06/10/2018 | 00:00:00 | 273159187 | r--SBOn3EFk | Skyrim (Jack)
-
-06/13/2018 | 03:09:00 | 273173027 | Y5i-9XedyyM | E3 2018 (Jack, Rich)
-06/13/2018 | 00:00:00 | 273173026 | LiSUg0dqD9A | E3 2018 (Jack, Rich)
-06/13/2018 | 00:00:00 | 273173028 | B1hbGvzDqPs | E3 2018 (Jack, Rich)
-
-06/17/2018 | 04:04:37 | 274566265 | jjsZ5xxlyKc | The Witcher 3: Wild Hunt (Jack, Rich)
-06/17/2018 | 00:00:00 | 274568882 | 3YUHvJ3GHFM | The Witcher 3: Wild Hunt (Jack, Rich)
-06/17/2018 | 00:00:00 | 274571831 | phYB8NXTRJ4 | The Witcher 3: Wild Hunt (Jack, Rich)
-
-06/20/2018 | 04:33:40 | 278343806 | ajtD0UsIR2U | Recettear: An Item Shop's Tale (Jack, Rich)
-06/20/2018 | 00:00:00 | 278349404 | SXwi5cN90eo | Enter the Gungeon (Jack, Rich)
-06/20/2018 | 00:00:00 | 278353242 | E0fidGC90Uc | The Witcher 3: Wild Hunt (Jack, Rich)
-
-06/25/2018 | 05:09:54 | 278461916 | f9wkEgysQAU | Spider-Man: Web of Shadows (Jack, Rich)
-06/25/2018 | 00:00:00 | 278465022 | wN_59GFAyII | Spider-Man: Web of Shadows (Jack, Rich)
-06/25/2018 | 00:00:00 | 278468225 | vXk-1kfCfys | Spider-Man: Shattered Dimensions (Jack, Rich)
-
-06/27/2018 | 04:11:52 | 278472845 | wJ_blCRif6o | Injustice 2 (Jack, Rich)
-06/27/2018 | 00:00:00 | 278476648 | yr3uwC4YAeo | Injustice 2 (Jack, Rich)
-
-07/01/2018 | 04:02:56 | 279944992 | _2w_XbDwlBU | Injustice 2 (Jack, Rich)
-07/01/2018 | 00:00:00 | 279948205 | MQNZObyFWwI | Injustice 2 (Jack, Rich)
-
-07/11/2018 | 06:06:58 | 283637825 | qKlBVHTKWD0 | Orcs Must Die! (Jack, Rich)
-07/11/2018 | 00:00:00 | 283641274 | qO_39IvbByI | Orcs Must Die! (Jack, Rich)
-07/11/2018 | 00:00:00 | 283645405 | w6D8e1oiezA | Orcs Must Die! (Jack, Rich)
-
-07/15/2018 | 03:56:03 | 285230149 | A09WYiIbmkk | Tomb Raider (Jack, Rich)
-07/15/2018 | 00:00:00 | 285230148 | 444X-JRRw3U | Tomb Raider (Jack, Rich)
-
-07/18/2018 | 03:34:10 | 286449618 | SWJkrAjbqL0 | Orcs Must Die! (Jack, Rich)
-07/18/2018 | 00:00:00 | 286449619 | acKv6FlhTL8 | Orcs Must Die! (Jack, Rich)
-
-07/22/2018 | 04:23:29 | 288091864 | tp2pg4s2J0Y | MOTHERGUNSHIP (Jack, Rich)
-07/22/2018 | 00:00:00 | 288091865 | 5e8wBm4o5Ws | Bloodstained: Curse of the Moon (Jack, Rich)
-
-07/25/2018 | 05:24:23 | 289347253 | 8JivUDxsbvE | PlayerUnknown's Battlegrounds, Rocket League (Jack, Rich)
-07/25/2018 | 00:00:00 | 289348066 | op1sxzbWkeo | Rocket League, Friday the 13th: The Game (Jack, Rich)
+04/18/2018 | 03:44:04 | 254144683 254325681 254327107 | 1eMYkyQk_3g A5YINZCsHR0 d0nud5pFdTc | The Legend of Zelda: Breath of the Wild (Jack, Rich)
+04/22/2018 | 03:28:19 | 254580850 254584606 254586793 | KI2Etq_A03U cFWp2Jx0jc0 nLoCum1oRJg | God of War (Jack, Rich)
+04/25/2018 | 04:47:08 | 254593182 254595573 254597840 | _fKPboJicSc MjB-usWZ2Js 8TBSUckpjVg | The Legend of Zelda: Breath of the Wild (Jack, Rich)
+04/29/2018 | 04:52:31 | 256048290 256050171 256051320 | YS_5f5pd-kw ffez980BWJQ kfONQNvSg1E | God of War, Slay the Spire (Jack, Rich)
+05/02/2018 | 04:02:58 | 257144605 257148386 257149751 | BL9vkxNhY-E 2zKts6XNIiw KbWObYxvuF0 | Minit, God of War (Jack, Rich)
+05/09/2018 | 03:38:07 | 259701641 259705558 259707028 | I9meT9m3QvY wA9RxC7tWIg DvzC3qx-oyw | Detective Pikachu, The Legend of Zelda: Breath of the Wild (Jack, Rich)
+05/16/2018 | 03:59:16 | 262256730 262260930 262265156 | xhGOUtvBaVE hPEYHzU3GbA i6kP-qdOh20 | Wizard of Legend (Jack, Rich)
+05/20/2018 | 04:05:49 | 264753137 264758141 | zskWI5MjpmY B3wqboiVLBA | BattleTech (Jack, Rich)
+05/23/2018 | 03:46:44 | 264866074 264873548 264877542 | uq_F1apdjTQ qU5z8qwJvrE rh1BOxgTs2s | Hyrule Warriors (Jack, Rich)
+05/27/2018 | 03:24:55 | 269170974 269171684 | Ils2ZZg9PbU xN29neOVLkw | Space Quest III (Jack, Rich)
+05/30/2018 | 04:26:25 | 269173264 269176509 | qhc9HClLfls CW9VXMkgMxs | Space Quest III, Descenders (Jack, Rich)
+06/03/2018 | 02:46:09 | 269180313 269181145 | SoL1uA-kdqE l5jbz-CWYl0 | UNWORTHY, Friday the 13th: The Game (Jack, Rich)
+06/06/2018 | 04:33:13 | 278450237 278453513 278457094 | O_ABXDLojxk yGC9Ihr94TM WvTBr-oTyVA | Shaq Fu, Moonlighter (Jack, Rich)
+06/10/2018 | 04:45:48 | 273159188 273159187 | UH5pJPIKsl4 r--SBOn3EFk | Skyrim (Jack)
+06/13/2018 | 03:09:00 | 273173027 273173026 273173028 | Y5i-9XedyyM LiSUg0dqD9A B1hbGvzDqPs | E3 2018 (Jack, Rich)
+06/17/2018 | 04:04:37 | 274566265 274568882 274571831 | jjsZ5xxlyKc 3YUHvJ3GHFM phYB8NXTRJ4 | The Witcher 3: Wild Hunt (Jack, Rich)
+06/20/2018 | 04:33:40 | 278343806 278349404 278353242 | ajtD0UsIR2U SXwi5cN90eo E0fidGC90Uc | Recettear: An Item Shop's Tale, Enter the Gungeon, The Witcher 3: Wild Hunt (Jack, Rich)
+06/25/2018 | 05:09:54 | 278461916 278465022 278468225 | f9wkEgysQAU wN_59GFAyII vXk-1kfCfys | Spider-Man: Web of Shadows, Spider-Man: Shattered Dimensions (Jack, Rich)
+06/27/2018 | 04:11:52 | 278472845 278476648 | wJ_blCRif6o yr3uwC4YAeo | Injustice 2 (Jack, Rich)
+07/01/2018 | 04:02:56 | 279944992 279948205 | _2w_XbDwlBU MQNZObyFWwI | Injustice 2 (Jack, Rich)
+07/11/2018 | 06:06:58 | 283637825 283641274 283645405 | qKlBVHTKWD0 qO_39IvbByI w6D8e1oiezA | Orcs Must Die! (Jack, Rich)
+07/15/2018 | 03:56:03 | 285230149 285230148 | A09WYiIbmkk 444X-JRRw3U | Tomb Raider (Jack, Rich)
+07/18/2018 | 03:34:10 | 286449618 286449619 | SWJkrAjbqL0 acKv6FlhTL8 | Orcs Must Die! (Jack, Rich)
+07/22/2018 | 04:23:29 | 288091864 288091865 | tp2pg4s2J0Y 5e8wBm4o5Ws | MOTHERGUNSHIP, Bloodstained: Curse of the Moon (Jack, Rich)
+07/25/2018 | 05:24:23 | 289347253 289348066 | 8JivUDxsbvE op1sxzbWkeo| PlayerUnknown's Battlegrounds, Rocket League, Rocket League, Friday the 13th: The Game (Jack, Rich)
