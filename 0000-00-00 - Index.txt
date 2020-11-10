@@ -403,3 +403,5 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 07/18/2018 | 03:34:10 | 286449618 286449619 | SWJkrAjbqL0 acKv6FlhTL8 | Orcs Must Die! (Jack, Rich)
 07/22/2018 | 04:23:29 | 288091864 288091865 | tp2pg4s2J0Y 5e8wBm4o5Ws | MOTHERGUNSHIP, Bloodstained: Curse of the Moon (Jack, Rich)
 07/25/2018 | 05:24:23 | 289347253 289348066 | 8JivUDxsbvE op1sxzbWkeo| PlayerUnknown's Battlegrounds, Rocket League, Rocket League, Friday the 13th: The Game (Jack, Rich)
+
+https://docs.google.com/spreadsheets/d/18yOofeoEUNw1wbg-tecIObhXv2HyTdsJrLJQPkdrhe0/htmlview
