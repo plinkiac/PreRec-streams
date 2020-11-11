@@ -1,0 +1,4612 @@
+May 9, 2018
+Detective Pikachu, The Legend of Zelda: Breath of the Wild
+https://www.twitch.tv/videos/259701641
+https://www.twitch.tv/videos/259705558
+https://www.twitch.tv/videos/259707028
+https://www.youtube.com/watch?v=I9meT9m3QvY
+https://www.youtube.com/watch?v=wA9RxC7tWIg
+https://www.youtube.com/watch?v=DvzC3qx-oyw
+https://twitter.com/PreviouslyRec/status/994292659543007232
+
+[Part I]
+you didn't snow probably maybe hey hey
+everybody what's up if if you can see or
+hear us welcome to the stream we did it
+what what did we do we were here we did
+that we did the stream we're doing a
+stream right now yeah we did it we did
+we did it and Pikachu is here it's a
+mighty accomplishment too much you know
+after the near farcical failures I had
+last week I would say it's an
+accomplishment everywhere everyone is
+aware by now
+but I made a big mistake last week
+Wednesday rich oh you're talking about
+okay I made a big big mistake
+where's biscuit we when we film episodes
+here yeah and this you know this is
+across the board for most of our shows
+there's no one really behind the camera
+I know I know and so usually what I do
+when I film myself as I have you sit in
+my seat I get to focus about right
+because you know we both sit differently
+and so you know the focus is never 100%
+right but and then I sit down and say it
+looks all right right but I got this new
+camera that has a follow face autofocus
+feature easy and for our last review I
+used it and it worked great it followed
+my face I was in focus all the time
+right
+for some reason when I recorded myself
+for the God of War review autofocus
+decided to say fuck you to everything
+maybe maybe it's not such a great option
+after all oh I learned that lesson rich
+I went right ahead and learned that
+lesson and so all of the footage was
+unusable which is a real shame because I
+thought we had a fantastic discussion
+about God of War it was good discussion
+really enjoyed a discussion so I was
+feeling a little down in the dumps I'll
+talk to you about it and we said yeah
+you know we'll just go back to the
+cartoons everything
+we'll be fine and so I so then I wasn't
+really happy about it said oh they hate
+the cartoons like
+right what what the fuck you gonna do
+exactly that was the thing either either
+you know at the time look like action
+what you do animate and then everybody
+hates a little spray art or we use the
+footage of you out-of-focus which it was
+it was so out of focus you wouldn't have
+liked it right so then I spend all even
+even a little out of focus is fine but
+you know but here's the thing if it's a
+little out of focus
+I can fix stuff you know put a little
+sharpening thing on it and put a little
+haze on it like you can kind of fix it
+so that you hide the out of you guys
+okay
+but it was so bad out of focus that it
+was it was unusable yeah and so then I
+spend Friday Saturday and most of sunday
+editing the audio which is how I do the
+animated episodes I just listen to the
+audio and cut it up that way then later
+put in the little cartoons in the
+appropriate gameplay footage right no
+problem
+everything's going right but that's you
+know two and a half days of work and
+then I'm talking with Lisa about it and
+yeah it's still a little down in the
+dumps and she and and and she goes you
+know instead of the cartoons why don't
+you just like film biskits for her you
+know like 30 minutes and just put
+footage of biscuit over the entire audio
+track I was like that's pretty funny
+that is a pretty funny idea huh that's
+my call you hover has like rich what do
+you think of this idea of just putting
+cat footage over us talking and you came
+up yeah with your chair you came up with
+a brilliant solution by the way thank
+you it was I'm gonna call it a group
+effort
+yeah little bit of me a little bit of
+Lisa a little bit of you I wouldn't come
+up without Lisa suggesting just using
+footage of biscuit exactly that's the
+thing was it was and and so then as but
+as soon as you said that like just put
+biscuit in your chair and cut to biscuit
+I was like that is so hilarious so then
+I run my ass over here Sunday night pick
+up a chair pick up the the backdrop pick
+up all the stuff bring it home and film
+biscuit yeah but but here is so here's
+the the bad part and why the episode
+isn't
+until today is because I had to re-edit
+from scratch all those edits to the
+audio only didn't translate to the video
+in it oh so I had to start all the way
+from the beginning again I'm sorry it's
+alright I'm so sorry
+okay to sit like a switch turns the
+video back on would ya wouldn't that
+have been great wouldn't that have been
+just great I don't know how things work
+it would have been great but my
+particular workflow didn't work out like
+this so then you know get it all edited
+pretty happy with it
+it was actually done really early
+Tuesday morning mmm
+and so then no export upload and and
+after I upload it as I always make it
+happen - I watched the video and it was
+it was so it was uploaded yesterday
+morning yeah start watching the video
+and there is a horrifying audio glitch
+well what was the audio glitch you know
+that part where we talked about the
+boulder fight yeah and then I cut to
+like the audio of the Baldr fight and
+you know talk about the health
+regeneration yeah all that right for
+some reason it actually like it was a
+really interesting audio glitch it
+started like picking up a random audio
+snippets from earlier in the timeline
+and so you and I would you and I would
+just be like so what's the problem with
+that hey rich uplift good what's good
+blows go and and for the entirety of
+that gameplay footage the audio glitched
+out and then it went back to normal
+after that problem with the upload or
+well that was the question so that oh so
+I go to the video and the video has the
+same glitch oh shit it must have messed
+up on the export yeah so I go back and
+do the export again to export it takes
+like an hour and a half two hours yes
+long video I do the export again have
+the same glitch but in the timeline
+everything plays perfectly huh exactly
+and so then it's just like what is
+happening so then I try to you know like
+nudge the audio a little bit maybe maybe
+add a fade-out just trick it trick it
+into working okay just because it's one
+of those things where it's like there's
+no logical reason why it's doing this in
+the in code when it's when it's encoding
+to H point two four six or whatever
+it hits a snag and then freaks out and
+so is like oh maybe I can nudge it
+didn't work and so I just started
+exporting like the 30 seconds that was
+broken and it kept being broken what the
+fuck is happening right yeah I never
+figured out what was wrong what I did
+was normally what I do is I send my
+timeline over to media encoder which is
+a separate program that just encodes and
+sends it off this time I exported in
+Premiere only which is fine except for
+you have to keep Premiere open the whole
+idea about media encoder is that you can
+do stuff in Premiere while media encoder
+works okay so I export in Premiere and
+everything worked fine I still don't
+know why it freaked out but basically
+that ADA ate up the entirety of
+yesterday this is the video could have
+been up yesterday
+it's what you're doing is you're anti
+plugging media uploader media and coding
+your media and code what I'm saying
+again reverse plugs what I'm saying is
+Adobe the Adobe suite has some bugs but
+any piece of software yeah that sounds
+like a lot of hard work and effort yeah
+get this episode it was it was very
+difficult but I think it's a great
+episode what our next whatever doing
+that's right we're going to figure out
+what our next what our next what our
+next we do need to figure out what we're
+gonna do next we do need to figure out
+what we're gonna do next
+let's get that pikachu up man i don't
+know what we're gonna do next you know
+what we're gonna do next we're gonna
+we're gonna get our set figure it out
+yeah what the fuck did you get a button
+what
+they started him in just film it on your
+phone next time I I have a solution by
+the way so the other thing with the with
+the focus is I spent a lot of time
+figuring out a salut le proof solution
+so I have a solution that unless I
+physically move something on the lens
+everything will be fine for next time
+okay so hopefully my dummy solution
+right start from the beginning in easy
+mode you can use auto focus I think
+that's fine suggestion that first of all
+that is a fine suggestion like I said
+the the reason I use auto focus is
+because when I use you to focus it's
+still slightly off you know it's not
+necessarily I'm a different height than
+you it's we just sit differently right
+so it's it's just not perfect but I
+figured out a solution rich okay I got
+me I got me a thing on a stand as a
+focus mount that I can just put on my
+chair exactly where I sit I got an app
+on the phone so I can actually look at
+the shop while I'm sitting there it's my
+camera's Wi-Fi enabled so everything's
+gonna be fine everything's gonna be fine
+you want to start an easel know how loud
+is this for you guys this is pretty loud
+for us
+detective Pikachu Oh
+you can't teach rich to point the camera
+at your face look I am talent okay
+there there there's in front of the
+screen and behind the screen
+you know Sam rich is the face I'm
+supposed to be the Wiz behind when I
+don't I don't want rich has such an
+important job here at red letter media I
+don't want to waste any of his precious
+brain cells with knowing how it handled
+wake up okay so people can't understand
+Pikachu
+well we're hearing this in pieces when
+he tries to talk to other people he says
+pika baby just here pika pika yeah okay
+I get it okay oh my god just a horrible
+garbage monster in the sewer that's what
+this is what pokemon would really be
+like it's just horrible monsters
+everywhere
+I do something I don't somebody has to
+do the bouverie exactly exactly so like
+what what you think to yourself what do
+you want from residence do you want him
+on camera or do you want him futzing
+around behind us the answer is quite
+obvious Tim good man right turn the game
+volume down it's too loud okay how's
+that god damn these pokey moms they're
+they're a nuisance someone should have
+really exterminate them this is the
+prequel this is why they decided to
+start fighting them for money making
+them fight for money like a squirrel in
+a city park well he just jumped on a
+dude the detective a mystery
+understand I get it
+the kid understands Pikachu I get it
+he's a good guy remember I walk through
+Grant Park in Chicago and just stop like
+a hot nearby hotdog place I had a just
+bag of french fries yeah walk into Grand
+Park army of fucking squirrels and
+pigeons just following me like I thought
+they were going to mug me and take good
+price because they if they understood
+that concept they absolutely would okay
+what you got something to do what do you
+want who do you want to be Pikachu or
+the kid shit I'll be the kid you'd be
+the Pikachu
+I thought they had actual audio well
+they did but now we're reading okay so
+that's it hey yeah but this seems more
+important and I got here early so I
+should be able to make an appointment
+there's some place she needs to stop off
+at i scan shows you the ways later okay
+come on let's get these guys and get the
+necklace back oh gee willikers oh shit
+for this leave this child to me I'm
+counting on you for the necklace what do
+you mean leave this child to me all
+right here we go we're moving
+you were not prepared for this
+no no this is this is a this is a
+supposed to be kind of Phoenix right you
+know kind of I guess oh shit oh shit I
+had to do something what dragon yeah you
+can't hit shit monkey Oh settle down
+Pikachu I think it's a good thing
+they're what I ate and said sad oh yeah
+I bought you something
+quick time event yeah I don't know how
+much voices will be doing because there
+is occasional voice work shit this is
+intense
+that music is over-the-top let me do
+some detective Jack I don't know about
+the story to a game play ratio here Jack
+so far so far we haven't done much
+detecting man stop this game please nope
+not yet no it looks like this is going
+but they shit made a mess of things
+oh boy oh yeah hard to believe that
+Pokemon can run amok like that haha in
+the heart of the city
+you Chi Chi willikers yeah well you know
+you shove us in balls I mean they're
+just rebelling man hey what the fuck do
+you expect that slavery was outlawed
+you know like century ago man we're
+sentient beings sentient beings here we
+got thoughts and feelings so yeah we got
+a riot we've got a Pokemon we've all the
+freedom I would love it if that was the
+backstory to a Pokemon game just like
+Pokemon are sick you shit man there's
+sick of it oh yeah a little bit quick on
+the button that pad yeah we'll figure
+out where the
+Aipom
+you think waiting in no time yeah well
+what you can do that a Pikachu but you
+don't be like I'm a fucking talking cat
+thing and just I just saw these ladies
+here they can relax you know because
+we're like hit the button I go we're
+gonna get that necklace back or
+something oh well here's the thing
+don't worry cuz we're gonna get that
+necklace back for you oh that's right
+because I'm your interpreter Oh cuz I
+can understand you I get it okay thank
+you in that cases it's get right down to
+the investigation that that's what
+exactly will we do to investigate look
+fuckin clues you you dumb shit have you
+yeah I mean every never late for
+something before you got a fucking brain
+in there kid I eat on to somebody Jesus
+Christ in the entire life you've never
+looked for a thing is what you're saying
+to me like you get hungry and food just
+appears in front of you all right we
+gotta interview witnesses ask people
+around okay got it
+alright yeah don't put down I always
+carry a pen and a notebook
+why just randomly I've gotta go I've got
+a surprise really I mean Halloween how
+many people carry around notebooks and
+pens and papers is that like normal
+people just expect to suddenly be a
+detective but what if I want to write
+something
+oh geez you're a writer oh my god no no
+like a thought or an idea or directions
+to my favorite hot dogs
+that's a pansy shit there kid just write
+down the shit that the people say I
+don't know okay got him pre your own
+unique case list okay I got it
+Nicholas it belongs to the girl but a
+napalm took it and okay
+okay we're gonna talk to the girl think
+you can find it well you're no help I
+wonder I wonder if she's gonna tell us
+anything about this giant
+a pom tail print on the thing here yes
+about the a thumb Sean says yeah I was
+so happy you gave biscuit proper credit
+in the credits I did and I know that's
+just professional that's professional I
+did waver I did waver on whether or not
+to give biscuit proper credit and I also
+wavered on whether or not I would give
+an explanation before yes good way I I
+figured that was the right call I did
+try that like I tried a little like Jack
+messed up his footage so so here's
+biscuit and it wasn't it sort of roll in
+the junk yeah absolutely
+but you know you gotta try some stuff
+out cuz you're not sure what's gonna
+work the and then it was like wrestling
+whether or not I start with that y-you
+know I start with that wide of you just
+sitting while I'm getting the cameras
+already yeah and I think that Hut just
+helps set it up so this kid right over
+my head alright so are we reading this
+or not yeah I'm just kind of going
+faster all right this is our first case
+I'm not gonna really worried about the a
+poms I don't know if we're gonna full-on
+voices here well it doesn't seem to be a
+lot happening yet but no end
+conversation okay leftover BK XS sounded
+like Jack wanted gotta for her to be
+more of a parenting simulator we already
+had that the game is called who's your
+daddy
+also Jack Taco Bell doesn't sell
+cheeseburgers just an FYI I know they
+don't sell cheeseburgers but my point
+was what if one day Taco Bell had a
+cheeseburger on their menu and then you
+ordered the cheeseburger and then say
+what are you an idiot that was my point
+with the Taco Bell thing but nobody in
+in the analogy or in God of War
+neither of these people were selling
+cheeseburgers yeah who tried to order a
+cheeseburger no in in the game Mamere
+says you should take them out of the
+race and the kid instantly shit all over
+that idea and then the big compass point
+that tells you where to go next in the
+game pointed away from the witch's Hut
+the MIR said to Carla which Mamere said
+to go to the witch and this and the kid
+said I don't need to but the kid was
+obviously hurt and Mamere said you
+should go to the witch in there and you
+know Balder said you should go with him
+and you punched him in the face I want
+to buy that cheeseburger I disagree
+I agree with Jack for one listen I
+understand this end and you know this
+could just be you know obviously rich
+and I are coming at this from different
+perspectives this could just be me I
+give this game 45 minutes this is a game
+where you obviously have to pay
+attention to what is going on I've known
+and you're paying attention to zero
+percent of it is zero zero percent of
+the game we're gonna give this you know
+a solid hour maybe anyway here's what
+I'll tribute this to from my experiences
+is just me as a parent
+oh and so you know I I really think
+that's what it boiled see it's not you
+as a parent it's Kratos as a parent oh
+no but I'm saying from my perspective
+you know the kid is sick and even though
+the kid is saying I'm you you yeah you
+are a good dad well I try to be Kratos
+is not a good dad
+he's out of his element right but Kratos
+as the main character of the narrative
+is still someone I'm supposed to project
+myself onto like Bayonetta like
+Bayonetta like like you know what I can
+see that Jack with you I first of all I
+got the links to make it work I do I
+have dancers legs I can't help that
+about me second in Bayonetta you're
+supposed to be the badass witch who
+kicks everyone's ass that's that's what
+you project yourself onto right and so
+no the game didn't tell jack to go after
+the witch the head on cray doses ass
+said that but the game Kratos and the
+kid all set no we have to go to the
+compass point and I'm not I'm not
+discounting that point
+I'm not discounting that like the cut
+you know the the the game said to go
+somewhere else but you know let's let's
+let's go on and miss all of these clues
+because we're talking about kind of war
+can I just like a look at that it's
+obviously now if if like dishonored the
+game had a pattern of letting you do
+things
+dishonored right dishonored has a
+pattern of letting you figure some data
+for did not have that pattern of letting
+you do things God have or had the
+pattern of this is this is our
+experience we've set up go through with
+it and I think that's a fair point and I
+and and this was me you know figuring
+here here's in games we'll get to
+Pikachu in just a second in games that
+are a little more linear but offer some
+choice usually it's a stark a be choice
+like you know think of thinking of like
+by oh sure sure right sure not a lot of
+choice in Bioshock but it you know like
+it has that illusion so it has that a be
+switch and so it to me this was a clear
+a beast kind of war didn't have any
+event it had open worldliness to it but
+not like a story a be choice it had an
+open worldliness
+to it it had a it did have the go around
+wherever in the map that you wanted to
+all right you know I okay I don't know
+why you would go to the witch's Hut I
+just have no idea why because I would
+even cross somebody's mind because in
+the mere said to premiere Mamere planted
+the idea in my head and that's what
+that's what it made it so clear to me
+Chad I'm not I'm not arguing with a cat
+and losing I am arguing and we have we
+have hit a wall we have a disagreement
+and it's just not worth my time to bang
+my head against the wall because it's a
+wall
+we just we just have a simple
+disagreement and that's fine and
+conversation that's not how you win
+arguments sometimes you can't win
+arguments it's just gonna read to people
+who say contrary things over and over
+again and you get nowhere
+that's true
+you know that's true and and this is a
+this is a situation where I feel like
+you know it's a very opinion based oh so
+I'm just like the game hadn't done
+anything up into that point was like
+you're in charge what do you where do
+you want this story to go next the game
+hadn't done any of that it hadn't been
+going on sure but it did have a free
+roam element do you do you what you sure
+do you want to go here do you want to go
+there and so I assumed that this was
+buckled in with the free roam all right
+because Mamere planted the idea rich
+please play this instead of Jack oh fuck
+no you don't play the Pikachu I can't I
+go I can't I go to the park
+let's dig
+okay great so what we learned is that I
+would not accidentally stop on this D s
+this 3d s because it's it's custom
+custom moderns this is the custom modded
+3ds that wouldn't capture video from it
+that has the special out that we can
+capture video from rights this is this
+is one that rich cannot mess with the
+one I inadvertently stole the cord to
+yeah that's a break it so I'm so sorry
+about that I really I really thought we
+had another it's a pretty generic cord
+so you would think that we would have
+another okay Pikachu this is tutorial
+this is one so we're just we're gonna
+try to barrel through the tutorial like
+yes I see the the ketchup print here and
+then I need to go over here and see the
+paint print like I see it
+fantastic idea rich I'm pretty good at
+games I understand how games I think I
+think I have a pretty good understanding
+of how things work in general something
+I did tell rates you know we were
+talking when when we got here about
+games we do want to play after editing
+you know I knew I did need a day just to
+not play anything like just take a day
+of input you know I actually might go
+back to God of War now that I'm done
+with the story yeah cuz I am I'm
+completely done with the story and after
+the story you can just go around and do
+all the side quests now that have no
+story I think I might actually enjoy it
+okay so I think I am gonna go back to
+God over here for so I hope I wasn't too
+harsh on it wasn't like we talked to you
+brought up pluses and minuses we did
+some things we've evenly disagreed about
+some things we just agreed about but
+it's true we thought it was more of a
+problem than I did yeah yeah no like I
+said overall I think we had a really
+like I'll totally agree with things like
+yeah I could use some enemy variety
+right okay and and like NES style
+palette swapping right doesn't really
+constitute a new enemy I'm so glad I had
+footage of those the lava orc and the
+eyesore and the and also like the
+Guardian to he'll who's just a green orc
+like come on you could have made some
+kind of new enemy for the hello boss
+giving a new enemy I would totally agree
+with you and shit like that yeah yeah
+yeah no this was not a like I said
+that's kind of thing like you know it's
+an eight point five seven nine point
+three sure sure
+eight point five just pulling numbers
+out of my ass big grin didn't kill the
+game oh my god
+oh okay so what we've learned here is we
+have to talk to people then find clues
+then talk to people again okay see so
+now there's new options to talk to
+people about we can speak with frou-frou
+and we can ask about the ketchup because
+Pikachu here detective Pikachu can speak
+to pokemons and she's has fruit fur as a
+pet dog it's great this might be just a
+game I play on my own so this kid not
+realized today that he had talked to
+pokemons or is it just this one Pikachu
+he can't talk to other pokemons it's
+only this specific Pikachu this specific
+Pikachu he this specific Pikachu is the
+only Pokemon that he understands so
+Pikachu has to translate Pokemon to him
+and he has to translate Pikachu into
+humans all right but by the way these
+kids this kid right now is an enemy of
+the state as far as far as the worlds of
+Pokemon is concerned because this kid
+can now hat now has the ability to
+communicate with any Pokemon anywhere
+how does it make him an enemy of the
+state though in the world of Pokemon
+industry thrives on the exploitation of
+these monsters they they make them fight
+they use them as a free labor
+they they exploit them all over the
+place and all of a sudden if this kid is
+like no the all of these animals have
+complex thoughts and consciousness and
+and are really intelligent beings it
+would Rock Pokemon society they wouldn't
+care you don't think at that point not
+until the violence not if they built all
+of their industry on it then then the
+violent uprising would happen it would
+take 400 years in the Civil War to clear
+up this problem and then still things
+would be uneasy
+look Pokemon and it's not a
+happy-go-lucky world man
+no I don't think it is it's just not
+okay
+faint yes it was the a pom that has been
+crazy
+okay I'm not familiar with Pokemon but
+they do anything with them other than
+just collect them and force them to
+fight
+oh yeah there's like peripheral Pokemon
+characters like for example there's like
+the big strong bodybuilder Pokemon and
+they work for movers like they've moved
+by sixes and they don't get they don't
+get paid for this presumably I assume
+they get food okay they're animals you
+know Pokemon are animals okay so yeah no
+there's just Pokemon and different in
+different work sectors all throughout
+the Pokemon world I don't want to see
+the Pikachu power plant right that's
+probably not a fun place to be
+exactly just just Pikachu's on a
+treadmill like terrible they really do
+they need the treadmill I thought they
+did electricity things maybe that's
+that's redundant I mean it's just when
+they if you want to get that extra a
+little bit more out of them I mean as
+long as we're there here might as well
+pump me or exercise them that gets them
+stronger I just think they have them all
+in like a cramp cage that's lined with
+like a shag carpet yeah well then you
+want them to move around to generate
+that static rotating ceiling like that's
+perfect
+my phones in some better position
+working yeah yeah you keep you keep
+asking I don't keep asking it anything
+that keeps the button he keeps getting
+rusty okay we're getting there
+yes I know the one had the ketchup one
+went to the park one went to the bank we
+know this already great well if we're
+not going to read things I'm just gonna
+get caught up on yeah yet again I'm
+trying to get through this part so we
+can get to the good stuff all right all
+right slow shazbot says hey Jack hey
+slim shazbot notice you're wearing a
+fight night shirt on the last best of
+the worst I was super excited for that
+game and glad to see you're looking
+forward to it too I I'm a Kickstarter
+backer of fight night so I got the
+t-shirt cuz it looks cool it's a for
+those who don't know fight night night
+as in like a knight of the round table
+is a first-person pixel art game where
+you play as a knight and you punch
+monsters okay and it looks very
+interesting and very neat but it's a
+first-person melee game where you just
+go around punch monsters and it has a
+neat art style so it looks good they
+have a way to go to sell me on that huh
+they have a ways to go to sell me on
+that sure I see I could see that okay
+can I go now oh alright looks like
+you've collected a good amount of
+information it played the latest build
+at PAX and it was great to finish the
+tip they've oh good good yeah I'm
+excited for its release I know I think I
+think I got invited because I wanted the
+t-shirt cuz I thought it was a neat
+t-shirt design I'm in the tier where I
+could play the beta if I wanted but I
+said I don't feel like I'm way testin
+cuz I'm excited you know the original
+doom but you're punching monsters in a
+dungeon
+no I mean you you optionally punch them
+but really who the fuck does that you're
+shooting monsters in a dungeon yes I'm
+I'm less sold on on first-person melee
+though dishonored did it
+so yeah that's true well we'll see yes
+well it's that's I mean that's any game
+right
+gosh dang it I wanna figure out where he
+found went the white let's see we have
+testimony that the a pump split off down
+different paths so Jack his cat is
+beautiful biscuit and knows he's
+beautiful and by the way hold on I mean
+yeah we saw this one oh yeah
+okay also we saw we saw the Prince so
+biscuit was so happy to be in the video
+by the way I set him up on the chair and
+gave him a little treat and give him a
+treat every once in a while and he was
+so free like if you note in the video
+his tail is wagging and he is just happy
+to be there
+and biscuit is less of a cat and more a
+hair beast because like if you notice
+that part of the video where I put him
+on his back so he's belly is up he just
+lays there and like normal cats don't
+like to be on their back they like to be
+on their feet but if you pick him up and
+turn him upside down he'll just lay
+there because he's a hair oh yeah and so
+it was beautiful and so yeah he just i
+got about 15-20 minutes of biscuit
+footage just biscuit he's beautiful he's
+beautiful okay so you said that there
+that's right
+any problem with the ketchup went that
+way come on guys
+next to the ketchup print I understand
+this is the first case but okay great
+great we did it back at on best of the
+worst we wouldn't be able to riches well
+no my and my cat is hypoallergenic so
+rich could could power through night
+rustic don says howdy sexy faces big fan
+all the way from the United States of
+Sweden curious what you think about Star
+Wars bounty hunter lore story about
+clones that George Lucas made no only
+movies matter I don't know anything
+about bounty hunter lore I also don't
+know anything about bounty hunters lore
+sorry oh my god he's dead just seems to
+be unconscious
+I'll see the necklace anywhere this is
+horrible
+that's a horrible image no it's great
+it's horrible ah was that about the Star
+Wars what what was that question the
+Star Wars bounty hunter Lord do what do
+we think of it I felt like I had that
+was a starting-off point of a
+conversation that I've completely lost
+that I'm sorry I'm sorry Chad for us to
+pursue it's this persistently only to
+find that the necklace is gone and the a
+pom is unconscious okay rich we're gonna
+read now now we've started the game we
+got we got a murdered Aipom
+it's your Pikachu turn just like times
+like these we need to calmly sort out
+the situation now why don't use open up
+your notes like you stood there earlier
+kid okay case notes hey open find the
+necklace okay no problem case notes turn
+the 3d on I don't think this game
+supports 3d really yeah I'm not seeing a
+difference on the screen okay
+we should investigate the scene all
+right
+look for traces of the incident by
+investigating the scene where it
+happened there in other words this place
+you're so helpful Pikachu you say all
+the words all the time it's got a letter
+find scratches maybe it was knocked out
+and a quarrel with someone like a fight
+there's something look
+holy fuck he rolled over Jesus Christ
+says oh wow what about this feather
+feather it looks like a piece of shit
+maybe maybe the desk needs more
+resolutions to it so I'm gonna cockroach
+looking thing but Ally finds a feather
+whatever his New York his cockroaches
+everywhere
+cockroaches everywhere in New York pokey
+city I don't know what they call shit in
+this universe
+punky Pope city in pokey state that's
+pretty much yeah that's usually like
+they have a theme like they're named
+after colours or flowers like what is it
+blue Ted is blue town it's a deep red
+from the ketchup and berry yeah yeah
+yeah yeah berry right certainly not
+blood it's not blood no it's a spicy
+berry so it doesn't seem like it would
+have been holding the berry to eat it
+what yeah that got added to the clue you
+see see in this section of the game rich
+I need to move my cursor around until
+thing says it's a clue
+leaves yeah they're wooded with it
+leaves it seems like that grass that
+grows around is it's what they do
+so then it should be very surprising
+that there are leaves next to where
+there's you know leaves everywhere
+by jiminy that's a clue that leaves by
+the leaves that are everywhere but you
+didn't it's a soft drink can maybe the
+Aipom was drinking it if anything it
+seems like trash empty
+perhaps a troll dear
+their garbage can go over and look at
+the garbage can do you get it you're
+gonna find more clues buy their garbage
+can
+what I'm gonna spell it out for this kid
+because she looks dumb you don't look
+like you knows too much a beat-up copy
+of today's morning paper Oh details a
+nice down Highway incident adds a tough
+read because it's ripped are you saying
+it's garbage
+it's a newspaper but nobody reads us yes
+it's garbage now they have the Internet
+webs isn't that what they use now all of
+them all the webs yes
+signs of a quarrel lost Nicholas it
+seems pretty certain that the poem was
+attacked by someone or something put who
+Jesus Christ I don't fucking know we got
+a gag oh look at that garbage can maybe
+we'll find out got it no problem we'll
+start with the unconscious a pup wait I
+already did he was beaten into some
+leaves and some newspapers and fell into
+a Barrett he had a berry in his hand to
+be fair
+it's like a berry from that tree over
+there so I guess it's possible that a
+pom was trying to take out its opponent
+with the berry I don't care about any of
+these clues this game is for babies you
+know it's easy well every animal and
+this is a Pokemon so rather came from an
+animal yes but did you watch any other
+twitch streams sure rarely all right
+that's fair me as well clearly I said
+you saw the question as a child didn't
+the grand Pooh Bear every now and then
+okay carlsagan42 okay he's not very
+rarely though yeah every once in a while
+I'll catch a stream here they're just by
+people or I've started I started having
+a banana on the background some art
+streams I'm like no people painting
+streams and people doing Photoshop work
+and it's just like it is just nice just
+to see someone create something in the
+background that's always nice that's
+good no I don't I don't often have a
+chance to have like just noise in the
+background but that's nice
+who is the owner of the black feather
+what yeah I know
+I'm looking for a garbage can cuz I
+obviously have to find a garbage can
+there is a garbage can boom
+it's empty rich so much for clues who
+did they pound was just in a quarrel by
+the tree over there has he calm down
+yeah oh good I was scared so I didn't
+want to get too close now I can do my
+job
+oh yeah it can be dangerous to me in the
+middle of a fight so as they pump
+fighting with another Pokemon did you
+see anything sorry but I don't know I
+kept my distance burr problem tell us
+about Pokemon in the park there are four
+kinds Parker's fighting in the three
+areas in each area has a different
+assortment a bird Pokemon living in it
+bird Pokemon in the mountain area we
+have hid doves what if what if it is
+cafe area
+Taillow is in the calf area which is
+completely check I'm keeping an eye on
+you guys yeah
+just ask another question
+great we did it what about you what
+about you dumpster nope hey palms just
+just dead just sitting there dead Said's
+dead no no they go out of their way in
+fact say he's not dead okay look at that
+imagery he's not moving at all right
+I think in the close-up he might have
+been breathing so there's no ambulance
+is coming right no nurse joy to save the
+day hey dude
+the guy says I'm busy and so now we're
+saying like what are you busy with help
+me out with my case so he's looking for
+a pen he's looking for a pen is the
+feather a pen
+unlikely
+wow there's no I don't think ok ok you
+can't show him well here hold on maybe I
+could no I don't think I can like give
+him a thing ok
+couldn't saw many XS don't think elderly
+men elderly as ice and I'm swimming I've
+watched these streams since the summer
+before College
+we are only we're not elderly
+middle-aged Jack I'll think middle-aged
+this is the stone's throw away from
+elderly Jack this weekend is graduation
+ready for home yet but seriously thanks
+for all the fun streams clinical
+depression and laughs you're welcome
+sorry chin says hi guys finally able to
+catch a stream just stop by to say I am
+totally ok with this Pikachu riches
+cannon Pikachu rich they use
+how the furniture says rich come up with
+a dumbest name for a Pokemon that you
+can who could chew
+Lucca chew jag have you seen why don't
+you play in hell it's fun Japanese
+action movie filled with gore and the
+magic of moviemaking no no I love the
+title though I love the title okay you
+know what I was thinking with it with
+all the craziness news that was breaking
+last week you know what I was thinking
+would be a really great title for a
+movie
+cocaine Mitch cocaine Mitch yeah
+wouldn't you see him wouldn't you watch
+a movie called cocaine Mitch they were
+said there was that uh there was that
+fringe candidate who was running for
+like governor of a state and he started
+going after Mitch McConnell calling him
+cocaine Mitch okay okay in his campaign
+ads and like I heard that name I was
+like huh I would definitely watch a
+movie called cocaine Mitch you don't
+think no that's not doing it for me I
+think I definitely would it so here he
+in my head here's what cocaine Mitch
+would be about it would be very similar
+to the crank series specifically cranked
+to high voltage in which someone has to
+continually do more and more cocaine to
+like finish the their crime spree or
+their heist so the cocaine Mitch those
+that one of the Golden Plover come why
+don't you play in hell
+why don't you play in hell great Don
+Beveridge says you tell the crew to push
+the Whopper button do it Proust Inc says
+the biscuit cam was borderline
+experimental and it paid off great your
+virtual acclaim Congrats boys I'm glad
+you liked it
+reg if you still not seen the Godfather
+watch him
+you have not seen the Godfather I know
+I'm a horrible person
+hmm a horrible means uncaring person no
+you know that's just uh that's a normal
+sorry Jen says but that being said
+you're gonna hate trying to play this
+game on the stream yep my very shameless
+mention of Phoenix right here uh yeah I
+will hate playing in a stream I do hate
+playing it on stream already I am you
+for speeding through it what do you mean
+I don't know I was all set like read
+shit and then just wanted to skip skip
+you got you got right into skip mode I
+did it's probably my fault yeah watch me
+go like that
+I'm getting out of here yeah I hate this
+already Mouse yeah let's move maps
+alright what point do you think we
+should just do something else then maybe
+when we're like an hour in cuz then
+that's a nice
+all right that's a nice all right all
+right oh okay here's a cafe in in theory
+no I mean I've already done it on my own
+but I'll let you replay them I could do
+the the hard trial of the sword oh shit
+yeah you've art so you beat it yep
+congratulations the hard now that you
+saw me get my ass kicked in the middle
+trials yeah hard trials only took me two
+tries really that's great
+just the wind section just throw me for
+a loop no sure I couldn't handle it I
+kept letting good weapons fall off the
+edge yeah okay well you could you could
+attempt the one-hit obliterator
+challenge oh yeah I think I have a file
+I could try that do you have all the
+divine beasts I might uh they're fine oh
+not on this file oh okay well I stopped
+playing so I could play them I didn't
+have you have you been have you been
+seeing speaking of the emulated version
+of breath of the wild have you been
+seeing all of the play as zelda oh yeah
+they've been they've been hitting the
+regular new psychos just like look at
+these amazing zelda mods they did the
+plays link'll mods already done yeah
+yeah and now they play a Zelda but like
+the Zelda mods have like their own voice
+animate their own voice cues like
+detailed animations I'm very jealous I'm
+gonna turn the sound down even more
+unless you turn the music off people are
+complaining about the music it's very
+repetitive
+okay I don't know if that's an option
+Pro Austin says also what is the best
+American science fiction film ever made
+I go 2001 a Space Odyssey with originals
+Planet of the Apes and Terminator close
+behind says I see alien as more horror
+than sci-fi well this is have to be
+cerebral because I mean Robocop's pretty
+fucking awesome I love Total Recall
+I'd put Robocop above Total Recall but
+what was the quick view if you replace
+Arnold Schwarzenegger with with Harrison
+Ford you've got yourself far more
+cerebral film the reason Total Recall is
+hard to take seriously is because Arnold
+is a cartoon character and of course
+he's a secret agent but if you get
+somebody who's plausibly just a normal
+schlub like Harrison Ford rides the line
+Harrison Ford is perfect yeah you can
+buy here that Harrison Ford he could
+either be a normal dude yeah or a super
+secret agent and then it's a bit more of
+a question okay sure sure
+Harrison Ford just just casting Harrison
+Ford alone makes Total Recall 70% more
+cerebral well and then you'd actually
+have like a real actor who could handle
+a range of emotions beyond screaming
+yeah originally it was Patrick Swayze
+that's not a bad choice either yeah that
+could have worked but Schwarzenegger
+total cartoon character and it's fun I'm
+not hating on Total Recall by the way
+because it's fun but uh fucking fucking
+Dark City is great I want something
+that's a little bit more cerebral it's
+asking for they're asking for cerebral
+sci-fi or why don't I blog that's the
+question I'm saying if you want like
+sci-fi can be be schlocky like this we
+did Robocop oh that's great that's great
+I don't know how well most people would
+think it aged but I've always been fond
+of Logan's Run
+what a fantastic sci-fi movie Logan
+Logan's Run takes place in a
+post-apocalyptic world but Humanity is
+survived because there's some people who
+have like they're in like a big shelter
+there's big fancy shelter it's like a
+little little mini paradise under a dome
+but they're able to maintain this
+paradise and manage resources by killing
+people when you turn 30 once you're 30
+you are put to death yes for anyway you
+guys probably know like the imagery of
+Logan's Run even if you haven't seen it
+it's the one where they have the crystal
+in the hand and when their crystal beeps
+it's time for them they've turned 30
+they've turned 30 but they're unaware
+that they died is that it like they get
+like so they make some ceremony out of
+it like rebirth right right yeah I
+figured what they actually call it
+renewal or something they call oh I
+think that's it
+that's some ceremony where they get
+dressed up and the thing comes down and
+zaps them all yes yes and so it follows
+it follows our hero who is kind of
+gliding along in life and you know just
+well yeah her hero hunts down the people
+who try to run who try to flee when they
+turn 30 they try to escape and his job
+is to hunt them down and murder them is
+that it yeah oh man it's Sandman he puts
+them to sleep fucking love Logan's room
+it's great it's great movie like one of
+the first scenes in the movie is he just
+orders up a girl because like because
+they live in a utopia where all of their
+needs are met all the time they just
+have a service where it's like I want to
+fuck someone and they they predicted
+tinder this that's exactly what it was
+like I want to fuck some on her and some
+lady gets teleported to his room and
+she's like and she's like yeah I don't
+feel like fucking he's like then why you
+on the teleporter right
+why are you on the fuck out Ron 8,000
+and they get into a whole like morality
+argument he's just like I was just
+looking to fuck someone later it's great
+is great
+and and then like you you kind of reach
+a point in the movie where you think
+it's legitimately going to end but it's
+only a half hour in and a whole another
+movie starts that's equally great
+Logan's Run is great yes Logan's right I
+need to re-watch Logan's Run no thank
+you
+no sanctuary and if you're horribly
+confused right now
+you haven't seen Logan's Run the fuck
+Tron 8000 yes the fuck oh Tron 8000
+that's a patent pending they did for
+that was exactly tender i I wonder if I
+wonder if we look back at Logan's Run do
+you think the he swiped that off like
+he's like like they got the idea I
+wonder because I think he goes through a
+couple of them right he goes through a
+couple wait like so yeah feel like
+fucking that don't feel like fucking
+that I wonder
+the fuck is this kid doing I don't know
+I'm done all right I give up we'll find
+something else to play cuz I can't I
+can't do this I can't do this in stream
+this is too much this is too much
+goodbye Margaret Mead says you guys need
+to read audiobooks I would buy this shit
+right
+I can't barely talk let alone read can
+you imagine we trying to read somebody's
+writing and it would just be all fucked
+up it would not work I almost did record
+an audio book recently but stuff got in
+the way
+yeah and just timing and you know like
+the the the medication thing was was
+going on and I just completely ran out
+of time and motivation but I came very
+close to doing someone's audiobook okay
+it is something I would be interested in
+eventually all right so we're done with this
+
+[Part II]
+it's noisy cuts uh okay hold on we got
+to put the green screen on us and then
+we go Kaimuki and then we go do you rich
+do you consider Fight Club a sci-fi
+movie no I don't what's science fiction
+about Fight Club nothing he just has a
+brain condition it's not necessarily
+science fiction it's a psychological
+movie yes you don't have like a space
+brain condition if his robot brain was
+projecting a split personality onto him
+then the his his specific split
+personality might might not match
+real-life cases of multiple personality
+syndrome you don't talk to yourself and
+think you're talking to yourself alright
+that's not that's not enough to make it
+science fiction in my book no no agree
+agreed we're gonna do here is change
+that yes the thing is totally science
+fiction the thing is absolutely science
+fiction Fight Club is fantastical and
+maybe even slightly future but not
+exactly sci-fi and what way is Fight
+Club even slightly future I was going to
+ask the exact same question what sort of
+future tech not even just tech just
+future anything nothing nothing I want I
+want whoever wrote that to think about
+that for just two seconds making soap
+they make soap today they made soap two
+hundred years ago
+it had a video rental store it had a
+blockbuster video people it is Fight
+Club is 0% science fiction 0% get it
+together people get it right together ok
+we are now good to go we will go over
+here I'm gonna close up my 3ds I'm gonna
+update the stream just my controller out
+of juice that would be bad
+well oh whoa we'll do the same thing
+we'll plug it into the laptop if there's
+an open thing okay hold on let me update
+our thing assuming this thing
+okay
+what am i doing what's happening what's
+going on okay I'm updating the stream is
+what's happening to breath well there
+you go
+for the ps4 yeah we moved the HDMI cable
+for to the ps4 is what happened
+great alright we we see no signal yep
+give it a second there it is there it is
+this is gonna be a riveting YouTube
+video well so now you but now it cuts
+right here right here
+sure alright you wanna hit the end again
+so you know when to start no I can see
+when the zola comes on yeah that's
+beating up sorry great rich must absorb
+a lot of light it's very dark
+how do you look you can see that screen
+better than I can are you very very dark
+there have a very very dark okay I can
+kind of adjust while you play you keep
+playing all right so so Jack hey rich
+because YouTube has been pushing it yeah
+have you watched any of that Cobra Kai I
+have not but I've heard good things
+about him I've heard I have heard
+positive things about Cobra Kai I've
+started watching it with Karen oh yeah
+and I'm gonna have a nice thing to say
+about it oh my god the the very first
+episode yeah it's just fucking it's it's
+fucking it's fucking classic it is
+textbook
+somehow to make your protagonist
+sympathetic okay it is fucking textbook
+that's great they take a character who
+in the original Karate Kid the bully
+right yeah is the bad guy biggest
+fucking jerk in the world the first
+episode of Cobra Kai takes this
+character last time we saw him he's a
+fucking dirtbag yeah and they make you
+give a shit what happens about him and
+care about him that's great
+they make him shockingly likeable for a
+character who is still kind of an
+asshole Oh still he's still kind of an
+asshole but you you understand why and
+you're you're rooting for him to get his
+shit together
+I think I gotta watch this Cobra Kai
+yeah all right yeah
+III yeah there's advertisements for it
+everywhere and yeah I'm excited
+whoa he was not the bully yeah I was
+there's an argument made that Danny
+provoked him at every step of the way
+even though it was kind of an asshole I
+don't know that I'm 100% on board with
+it you can you can probably nitpick but
+because of the tropes of the time he he
+was the stereotypical bully and he was
+meant to be the bully and even if you
+can point to specific things in the film
+you say well really Danny provoked him
+us as the audience is supposed to think
+of him as the bully you remember that
+scene with a dress like skeletons and
+they beat the shit out of him yeah he
+provoked that by like turning the shower
+on on he provoked that right totally now
+they're wrong to beat the shit out of
+them but up but he only did that because
+they did something first no none of that
+scene no none of that scene but earlier
+they did something like months later go
+over it no months or not months not
+months later earlier they did something
+to provoke Danny doing the water thing
+what yeah no I I watched the thing and
+it's not that clear it really isn't
+Oh yep there is you're right Danny is
+the first person to throw a punch Danny
+is the first person to throw a punch
+yeah well I guess what I'm saying is
+they are coded bully as an audience
+member
+sure for for the shirt for the kids
+movie they are the bully so anything
+Danny does to them is okay because
+they're the bullies but there is also
+the other argument is that the dojo
+teacher is the real villain of the
+credit sure oh absolutely
+I even think at the end of that Karate
+Kid you're kind of sympathetic towards
+where's the bully losing right so now
+this is like the hardest of the tribe
+this is the hardest of the trials okay
+you know cuz he's pushed by the by the
+dojo master right kind of like how the
+Nerds are terrible people in Revenge of
+the Nerds exactly exactly there there's
+just like you know and obviously these
+are dumb 80s movies and so that like
+there's that that like the movie
+shorthand you know bullies bad guy nerds
+good guy and look I'm I'm just saying
+the argument has been made not that I am
+100% on board with it
+I'm not saying Danny Larusso is terrible
+horrible and the real villain I'm just
+saying there's there's an argument sure
+sure
+Bufo know in 1944 says Jackie you are
+never allowed to stream detective
+Pikachu again I'm fine with that I'm
+absolutely fine with that I might I
+might play it in my free time but
+probably now that that just did not work
+out very well that did not work out very
+well at all
+and I'm okay with that
+I used the word tropes so I'm only about
+I'm only about halfway through it but I
+the thing that stands out of me most is
+that first episode of Cobra Kai yeah
+extremely effective oh okay that's good
+oh so okay so here's the issue with our
+green screen you just noticed it got all
+fizzy and greeny right and it got all
+fizzy and greeny when the big TV that's
+right in front of us went to all black
+because we're no longer getting that
+light source and so the the reason why
+we have green screen issues is because
+we have a giant television in front of
+us we're gonna we're gonna start this
+again okay so up as you see it gets
+darker and so now we no longer have that
+light from the TV coming in to us and we
+have a different camera today because
+Jack was an idiot and forgot the nice
+camera at his house my problem
+so actually hold on I'll see what I can
+do to fix this oh yes mess with the
+lighting that's worse that's far worse
+oh okay terrible at our jobs we are
+terrible at our jobs
+we're not the best I don't think we're
+terrible and yes Cobra Kai references
+that Danny's came Creek kick himkick
+crane kick yeah at the end of the
+illegal event I'm playing the game and
+my attention is split the Cobra Kai does
+reference that the crane kick it uses at
+the end of the Karate Kid
+wasn't a legal move it's totally easily
+kicks him in the fucking face it is not
+it is not ignored by the show some kind
+of looks alright that should fix most of
+the green-screen issues I turned up the
+ambient light so that should be that
+should help miss Cobra Kai a sequel to
+Karate Kid yes yeah - all of them - the
+Scott Baio not Scott Baio Ralph Macchio
+Karate Kid yes it has it has the same
+actors in it right uh yeah it's even the
+same actors and it's like timeline
+appropriate where it's the the same
+actors in there this age so now it's
+like oh the the the the guys from Karate
+Kid are now old men and here's where
+they are now
+Hilary Swank new Karate Kid does that
+take place in the same fictional
+universe that one I believe it does
+because mr. Miyagi trains her oh where
+the the Jaden Smith Karate Kid is just a
+reboot cuz that's him in Jackie Chan
+right the new I want to say it's called
+the new Karate Kid that's one with
+Hillary Swank right no that's one wait
+yes it's called the new man the reboot
+is just the credi kid exactly Oh God I
+that's what I believe
+I have not seen Hillary Swank you
+haven't seen the Hilary Swank one I
+haven't seen well I haven't seen that
+one ever I did not see her in the covert
+guy either
+oh okay she I mean you never know Hilary
+Swank's weird she might do it
+just like I'll be in your episode yeah
+I mean they mention the shit out of pat
+morita but that's understandable well
+absolutely I absolutely agree
+ed Oquendo says hey do you guys have any
+experience getting a raccoon out of an
+attic no asking for a friend
+is this something someone can do on
+their own or should the landlord get
+involved if they have a landlord let the
+landlord get involved because raccoons
+can be incredibly dangerous and they
+could have rabies
+so don't fuck around with that oh I
+still got you son of a bitch that's
+that's horseshit is what that is yeah
+Lanta landlord that 100% that is that is
+not a renters responsibility
+eh that's right QB Eagles QB Eagle says
+a bas always be assuming rabies always
+when dealing with wild animals just
+always assume they have rabies not the
+worst advice because ya betta
+boo-boo-boo-boo-boo club break boxes yes
+is it will all right I need to break all
+the boxes
+I need almost robbed me gotta get their
+meat raw fucking meat
+oh wait dagger 18 says hey Jack and rich
+what's the dynamic like when you guys
+have a guest on best of the worst
+do you guys I have to like you know
+we've recently the most recent best of
+the worst is up now Simon yeah whatever
+his last name is do you remember
+Simon Simon Simon the the quasi famous
+Hollywood writer was on and you know
+obviously it's different just because
+there's someone new but I don't think
+like nothing really changes not really
+you know it's like you know we I was
+gonna say like the the the only thing
+that changes is there's a longer period
+before we start watching movies just so
+we can all shoot the shit like hey a new
+guy to shoot the shit with Simon Barrett
+Thank You sinnerman
+what is he doing
+hopping just hopping that's fine
+I'm hop jack uh-huh and I was I was just
+really happy I had a really good ball
+drop this time really really fantastic
+ball drop with the pen so no I have no
+idea how Simon ended up here I don't you
+know that's not our jobs that's not our
+department we show up and we make the
+jokes about the movies that's our job
+but nice to have him he was fantastic
+yes gave it gave us a little gave us a
+little prior insight david pryor insight
+something we hadn't even accounted for
+for as David Pryor does not have nudity
+in his movies which given the amount of
+like gratuitous cleavage and crotch
+shots in deadly workout I was rather
+surprised to learn that as soon as it
+was shocking yeah and given the amount
+of you know like braless 'no sin man
+killers but they won't cross the nudity
+line i thought that was an interesting
+little tidbit good christian folk is
+that what they're I'm strongly sure why
+not why not man Bing nice shootin rich
+thank you
+nice you probably shouldn't be using all
+my arrows yeah you only have 1312
+its effective it is effective but you
+know you also have like enough
+disposable weapons at this point where
+you could throw a couple yeah but I
+don't wanna get too close to these guys
+sure Aswan slinger says nudity costs
+more that's by the way that's a really
+reasonable explanation for why they
+don't have nudity in their films what
+did he shot you know I walked into them
+Oh the spikes yeah I like that guess but
+he looked like he was really uneasy in
+front of the camera well it's it takes
+getting used to it legitimately takes
+some getting used to to be comfortable
+in front of the camera there's a there's
+no blaming them for that
+oh nice you nice shooting
+you did it you did it
+everybody's first visit is usually rough
+I mean it's it's tough you have to you
+have to act natural it's a performance
+but you're also just chatting with your
+friends I don't know I don't know that's
+even true well rich you've been doing
+this for how many years how many years
+have you been in front of a camera no no
+the first visit Fergus isn't always like
+for one for one jim's visits have never
+not been awkward and that's what makes
+Jim great okay that's true that's true
+I want to say both Jim and Colin kind of
+have a special a special aura about them
+that that's great Jim and Colin are
+unique
+Jimmy go over there Corky that's a
+better way to put it yes Jim and Colin
+are quirky
+fuck me the teddy bear airbag vid that's
+a lot of Hearts random lightning strike
+really yeah yeah that sucks
+due to doomed tiny dwarf says hey have
+any of you read or heard about the manga
+no I could I don't even need to finish
+that because the end I mean for if it's
+gonna be now berserk it's a dark fantasy
+that inspired games like Dark Souls and
+blood-borne it might be something you
+guys would be interested to read
+probably not
+I played we played the game remember the
+the dynasty Warriors like right though
+so we played a bit of the berserk game
+and that's as far as we got with berserk
+manga
+dudu child of furniture says what are
+the earliest what are your earliest
+memories of playing video games being a
+filthy millennial my earliest earliest
+memory is playing Rayman 2 on the ps2
+pong and pac-man pong game pac-man oh
+yeah these memories pac-man in the
+arcade and remember the Atari 2600 sure
+which is why I can say it's a piece of
+shit sure that's there for me it's pong
+my my grandparents had pong for 4 they
+had pong 4 which was a standalone
+shameless it was pong four different
+ways is what it was and it was a
+standalone box with two you know
+controllers with dials on them and I
+lived right next door to my grandparents
+and so we would spend a lot of time over
+there and they didn't they did not have
+many games and so it was pong for and
+then you know in my own in my own world
+like outside of that probably my
+earliest like fully formed memories and
+keep in mind that my memory is very very
+bad was when we had we had like what
+what system did we have growing up you
+know like eventually we got a Super
+Nintendo and you know we had a Nintendo
+but we didn't play the Nintendo super
+much but the first system that I really
+remember when I was a teenager was
+having a Sega Saturn
+the first Sega Saturn well that's like
+when I'm a teenager it's like I'm really
+into playing games we had a Sega Saturn
+I'm sure my mother got it at it like a
+rummage sale for like ten dollars it's
+like hey you like the video games right
+and so yeah the first I remember is a
+Sega Saturn it we had like gex Scud the
+disposable assassin
+and like you know a Madden game I'm sure
+but the Sega say you know and before
+that we had you know we had Super
+Nintendo like I remember I remember long
+bouts of Super Smash TV and off-road
+super off-road we played that a lot but
+but a man I remember gex and Scud the
+disposable assassin Jack when are you
+guys gonna try out detective Pikachu
+well dream fapper you might be just
+showing up or that could be a joke but
+we played it for the first hour of the
+stream and decided let's play it anymore
+did robbed robbed go around Milwaukee
+handing out copies it's good
+no but later in life you know if I die
+fuck it I'd rather save those items and
+cook them do you think yeah when's the
+next things you know how close are you
+doing cooking close but close button
+sure for those who don't who don't know
+Scott the disposable assassin is a
+popular indie comic book that got turned
+into a game define popular the world's
+tallest midget right it's right They
+Might Be Giants is a popular indie band
+like not many people know about him but
+you know it's it's in there right it's
+it's a scud the disposable assassin it's
+out didn't he
+am I wrong did he'd not go on to do some
+Vader's him was that him was at the same
+guy you're thinking you might be
+thinking of Honan Vasquez you don't
+invest games is that the same guy it's
+good no no Rob schrab
+went on to I he wrote parts of community
+I think okay he's been around
+and what has Rob schrab done he did he
+did a really fun short called robot
+bastard this was like early internet
+days he made a he made a little short
+called robot bastard and it has like a
+cardboard box oh my god
+he's on harmontown quite a bit I believe
+that what has Rob schrab done he spelled
+Rob sure there's Rob truck oh he wrote
+Monster House which is a very good movie
+he's writes for the Sarah Silverman
+program Uncle grandpa Rick and Morty he
+writes for Rick and Morty he wrote
+right here let's see what he's written
+what is he written
+oh yeah robot bastard it's great
+check out robot bastard if you can but
+but in any case so he's a he's actually
+from Milwaukee and he with Dan Harmon I
+believe were in a improv comedy troupe
+here called the dead alewives and later
+in life I met some other people who were
+in the dead alewives and I I didn't even
+know at the time that he's get dad I
+ball at the time I didn't even know
+that's get there get there I didn't even
+know that Scud was based off of a comic
+I just thought of it as a video game but
+huh
+I remember enjoying the video game but I
+you did it rich partner half half heart
+and a half oh thank you beefcake for
+linking to robot bastard isn't really
+fun really fun later in life I got the
+the the completes Scud the disposable
+assassin book and it's really good
+really good comic series for anyone
+interested dies of lightning strike
+that's entirely possible you can do a
+rich
+now I don't want to miss I know there
+are hidden chests with ancient arrows in
+them and I don't remember where the fuck
+they are oh it's something I could
+really use though
+sure because I assume you face yeah
+I was this another one us another one of
+those situations where it's in the walls
+oh nice
+Oh God lightning Anonymous's hi guys
+have any of you heard of a game called
+heroines quest heard of it I haven't
+played it but I heard a lovely made
+tribute to quest of glory series and
+it's free on Steam is it free that's
+what they're saying like I paid a buck
+or two for something to consider for the
+next adventure stream well if it's a if
+it's an old text adventure yeah that
+could be fun heroines quests you made it
+you made it to the to the campground
+rich I have to not fuck up grabbing my
+free life over there right so I don't
+want that to fly away so just one of
+them yeah oh man rich did he do the
+trial dessert no no I have nots brutal
+Jack I believe it's brutal you know what
+I I went I defeated the I went through
+the champions ballad and I got my
+motorcycle and then I spent another
+approximately five hours just riding
+around with my motorcycle yeah cuz it's
+awesome
+riding around on a motorcycle I wasn't
+even doing anything I'd ride around my
+motorcycle rescue people from from
+goblins and just fuck around in general
+and I think I'm done with it now all
+right I got my motorcycle and I'm super
+happy like there's a couple like
+optional quests that I could do like I
+still need to find the big horse which I
+refuse to look up online like I really
+want to find that big horse on my own
+but
+but riding around on that motorcycle is
+intensely fun
+I almost wish that I would have it stuff
+because like there's no you know once
+once you do the the regular champion
+stuff you you're kind of doing all a lot
+of side quests during the regular divine
+beast stuff so you get a lot done but
+like you get you get a lot done before
+you get your motorcycle yeah and so then
+there's not a lot to do with your
+motorcycle which sucks cuz it's awesome
+I can bomb the fish for easy fishing
+that's so not a terrible idea
+bagel might need wood for fire sure sure
+why not yes link on a motorcycle it's
+it's really awesome it's really great
+it's really great driving around on your
+motorcycle then flipping off your
+motorcycles shooting people in slow-mo
+with your arrows you can do like burning
+off your motorcycle it just helps you
+it's rude also you can use it just like
+you can you can do burnouts and like
+skid and stuff and so then you could
+just like run into people's ski and run
+into him again
+I almost defeated an entire one of those
+big guys called again the cyclopses hi
+necks
+I almost defeated an entire hi not just
+by motorcycling him it was great it was
+great
+yeah Pikachu's on a smoke break dad
+jokes from rich I'm I am of that age
+wait what did you joke did I miss it I'm
+sorry I thought you were no selling it
+no I just missed him I just thought you
+thought it was the dumbest thing in the
+world I know I completely I completely I
+shouted you for being rude for flipping
+off your motorcycle oh my god now I wish
+I would have left it alone because I'm I
+just didn't need that in my life that
+was that's a horrible joke oh yeah
+you're talking about that was an amazing
+Chuck Sarah Chen says sorry if mentioned
+already but will you be doing champions
+ballad one of the shrines is kind of
+bullshit but the final boss is and the
+motors and the final boss and the
+motorcycle are kind of fun or if you did
+already thought so hey we just got into
+that serie if I do really well on this I
+might you might go try yeah yeah are you
+done with your divine beasts yeah I I
+can just load up my the file where I
+beat the game oh sure sure the the one
+hit obliterators stuff is pretty
+difficult but you can use your bow and
+arrow so it's fairly easy to cheese all
+the rest of it is really neat a lot of
+hunting a lot of like you know figuring
+stuff out and find in shrines and
+whatnot
+listen I know plenty of dad jokes like
+like rich did you ever hear the story of
+inch me and pinch me no they went down
+to the lake and inch me fell in so who
+was left the other one I mean you give
+them a little pinch you see it should be
+him pitch me and that was it pickle me
+and tickle me no no I don't think I
+would ever want to say pickle me it
+might not be pickle me but something in
+tickle I mean you're the make it Hickel
+me if you really wanted there you go hit
+go me and tickle me sure what's wrong
+with pickle me I I would not want to
+invite anyone to pickle me I don't know
+what that means but anything it means I
+think is negative would be negative to
+my body
+who were these old men
+I missed the rad dudes we had before I
+was never a bad dude
+I don't know what you've been watching
+you were watching a totally different
+stream cuz yeah that ain't us
+that ain't ask my friend yes Dukie
+rampage I did figure out up dog I hope I
+told that joke to my kids recently the
+the up dog joke yeah and it just did not
+register with them yeah yeah don't you
+guys think it smells like up dog in here
+and fight like after after a few
+attempts you know like they'd go what
+huh like I'm talking it really smells
+like up dog after a few attempts the
+older one finally goes what's up dog man
+nothing much what's up with you then
+what'd he do and he went like this he
+went the appropriate response what I
+just don't think anything registered
+with him or is that what are you talking
+about that's not what I asked and I was
+like what's up you know like I had to
+kind of slow it down for him a little
+bit of the comp camel
+the children were not amused with updog
+it's true it's very true they were not
+amused with updog but you know I was and
+isn't that all that's important lava
+worlds yeah interesting
+what lava world interesting interest the
+most predictable world of a nice world
+what's well what's what's interesting
+about it is that lava world will slowly
+take down your hearts right
+I have flame pants on oh okay oh I
+thought it was interesting because now
+they were adding a ticking ticking I
+know you're saying interesting as if it
+were a novel and new idea Oh
+lava world in general no no no get out
+of town
+no I was just thinking for the game mode
+like what if they put a clock on it you
+know like oh now they're really ramping
+up the difficulty is what I meant by
+interesting yes rich has flame pants on
+Oh yep you know the trick you know the
+trick for anyone who doesn't know if you
+got a rusty weapon throw it to these
+motherfuckers and they a bitch trying to
+get hit by it I think yeah I thought you
+just had to print it hit a and it
+wouldn't catch it like a boomerang oh
+but I guess not
+I got parently not if you have rusty
+weapons you can throw them to these guys
+though they'll chew them up and spit out
+a nice brand new clean weapon for you
+but also be careful
+oh can you get it now also apparently
+you got to grab it in time where it even
+go oh shit it's in front of you
+nice nice where the lightsabers this is
+not the modded version that's supple
+we rich has no lightsabers I wouldn't
+put a fucking one said where my game
+anyway no you just get some cool outfits
+the the the mods for this game oh oh
+well now the mods for this game do look
+very very exciting a lot of cool outfits
+well a lot of stuff I would just want in
+the regular all of stuff I'm surprised
+aren't in the regular game like a team
+you got like a Giga Klan outfit like why
+isn't that in the regular game that
+seems like a no-brainer
+rusty weaponers an honor
+rusty
+beefcake says come on Jack try an
+emulator you know you wanted to it's not
+perfect emulation there it's a little
+bit glitchy here and there but I think
+it's terribly neat and a work in
+progress and the models on no and I did
+I like the idea like I was reading a few
+articles about some of these like are
+you one of the ice ones are you I mean
+fire ones are you just normal after a
+souvenir fire ones right fire yeah that
+means by be dead I was reading some
+stuff on the modding community in
+general and you know some some people
+now get into modding almost as a as a
+resume builder you know like hey let me
+show you the mods I've made for games
+like to show you that I have experience
+making stuff and I think that's really
+neat I'm sure that's happened before but
+but I yeah you know
+fuck that hurt that hurt I work for free
+hire me and make me work 80-hour
+workweeks
+oh I know the there's no there's a lot
+of bad in the creative industry we we
+like to abuse ourselves
+that being said you there there there
+does need to be a way to prove your
+worth to a company before you're hired
+did not want to be using some of my
+major health items this early cause one
+stupid hit right the only thing with the
+mods I see so far is that very few
+things add things and most just replace
+things so it's a give and take there's a
+little bit limited what you just can do
+mm-hmm
+yeah but also like you know there's a
+lot of cosmetic mods it's like hey give
+link an outfit because I do think that's
+nice
+I think that's neat like hey I just want
+link to look different or wearing a
+different outfit and that's part of the
+fun of modding but the other part is
+like what rich was talking about before
+is changing core gameplay mechanics that
+you don't necessarily like make it so
+you can't slip when it rare you know
+make it so it never rains make it so
+that your weapons have unlimited
+durability just you know change things
+up a bit there there are some
+interesting ways to muck with the game
+for better or for worse
+beyond cosmetic mods Santa's skin or is
+it it might exist there's a there's a
+full-on Goku skin for breath of the wild
+haha sure sure
+there's a Wario skin that's actually
+really high-quality
+and said like that's one of those things
+that's like okay that's just fun I would
+just want to see a cutscene where the
+princess is like flirting with Wario
+that'd be great holy crud nope pumpkin
+pie twitch says there's a mod where you
+get to play the game as Zelda instead of
+link for the entire game that's drivin
+that's that's been making the the news
+cycle recently and they're incredibly
+detailed mods full new voice work oh you
+kidding me where did that go oh they
+must have gotten caught in a wind caught
+the one thing it could get caught on
+oh nice the double hit
+nice job rich excellent you have
+excellent job there's a big debate in
+game producing circles to what degree
+they should let players change core game
+mechanic most are against letting them
+change things like weapon durability and
+rain skipping slipping mechanics and
+fuck them if it's single-player game
+fuck them
+here here's I think there's there's a
+there's a pro nakhon to this what one is
+you know what gamers are looking for is
+an experience like you know give me the
+hurdle and I will try to get over it
+as a as a challenge if you could decide
+on the height of the hurdle you might
+just lower it and then it wouldn't be as
+fun a challenge do we know if the
+motorcycle can be summoned in the trials
+I don't have the motorcycle yet I
+haven't done the champions ballot yet so
+I have no idea that's a good question I
+guess I would assume not
+don't fuck the something don't you
+fucked up you fucked it up but Jack is
+wrong most mods make games harder well
+the the question is is like do you want
+a curated experience or do you want to
+fiddle with so many controls that it's
+your game and then yes it's not I think
+what I'm saying is I think you want both
+you know you want the ability to
+customize but you also want a curated
+experience you want someone to say this
+is the hurdle and I want you to jump
+over it
+make everything pile right I think some
+games go a little too far with the
+custom customizable difficulty settings
+I was playing Wii I was playing game a
+while back that I wanted us to do for
+for a review called oh god what was it
+called with the with the robots and it
+was called sir you are being hunted and
+it was a first person first person like
+stealth game oh oh
+that's heartbreaking Oh still sucks
+it's a first-person stealth game where
+robots are hunting you and it's it's an
+incredibly difficult game right off the
+get-go but sir you are being hunted has
+this Excel spreadsheet full of
+customizable difficulty settings and I'm
+sure you know like you can choose how
+often robots spawn where they spawn the
+randomized elements of what kind of
+robots you can get the the difficulty
+curve that there's a million different
+ways to customize the the experience to
+the point where probably in there
+somewhere is the perfect balance of a
+game but it would just be it would take
+too much time excuse me what you're
+saying is some people are too lazy to
+fiddle with things to improve their own
+experience and then some people are PC
+gamers and and some designers are too
+lazy and they say instead of us figuring
+out well let the players figure it out
+and to the detriment of the game and
+instead of us figuring out the best way
+for you to do it and you guys you figure
+it out you sum these tools you make it
+work
+so I'm Gaga I'm trying to say I see both
+angles alright what robot game is it
+it's called sir you are being hunted and
+there is Fault fault fault I just don't
+understand oh sure there is there's a
+core of a really neat idea and sir you
+are being hunted but I I didn't I didn't
+take the time with all of the all of the
+fiddling with the difficulty settings
+no I don't I don't think sir you are
+being hunted is is worth it in the long
+run even though like it has a couple
+neat little nuggets of ideas Rock
+Monster
+I mean you got you got the ice plate so
+you're good
+nice hahaha very nice on my MyLink has
+three full rings of stamina yeah and so
+yeah I just I can just go out there
+let's go up the spin spin till he's dead
+it's great spin till he's dead oh I
+missed one of the ancient arrow thanks
+to is in the last area I'm all kinds of
+fucking up you did what I missed
+ancient arrows chest oh oh well shit
+looks like there's some exploding stuff
+in here
+very positive reviews on Steam diet
+there's something in there and I'm
+betting if oh those are just up drafts
+also chat games are not arts I really
+don't give a fuck about disrupting the
+game designers vision if I want a mod
+some shit games are absolutely art but
+there should be no problem with you
+adding to someone's art like mod that
+that games being art that has nothing to
+do with modding I don't think like
+taking someone's art and making your own
+thing out of it is kind of core to the
+art process alright
+you know I'm okay with you know remix
+INRI fixing games can be arty arty but
+I'm not gonna call pong art and belong
+is definitely a game I'm sure given time
+I could come up with an arty farty
+bullshit to pong but that's like putting
+a turd on the Mona Lisa that guess what
+that's art man you take a picture of the
+Mona Lisa and you paint a little fart
+tube coming out of the back that's art
+and that's okay if I bought a copy yeah
+Mona Lisa and I got a hanging in my
+living room
+I can fucking smear shit on it if I want
+absolutely absolutely rich I absolutely
+agree but but also games are art so yeah
+absolutely hundred percent I think I'm
+largely in line with John Carmack okay
+what does he say Anna
+he's talking about stories specifically
+but I modified to say art in a game and
+you know you expect it to be there but
+it's not necessary to the experience
+well you know I to me all art is is the
+expression of a of an idea or a feeling
+and so even pong is just like as the
+expression of tennis like it's still
+like there's an art in there am I
+allowed to do modifications to my car of
+course isn't your car art somebody
+designed that sure is in a sense I'm
+sure yeah you could do that yeah you
+could make that you could definitely
+make that argument
+move this stone smash out
+Counter Strike started as a half-life oh
+that's that's the big one that's
+actually the one I was thinking about
+earlier when I was talking about modders
+getting real jobs it is easy
+counter-strike started as a half-life
+mod and then what Team Fortress 2
+started as a counter-strike mod and is
+that the the escalation or Team Fortress
+the Team Fortress classic started as a
+as a mod - a thing and yeah Oh Team
+Fortress was a mod to half-life as well
+okay that's what it was the point is
+there there's not there is absolutely
+nothing wrong with all of these twiki
+difficulty settings except I also think
+there is a there is good in a curated
+experience if we if we get a place where
+there are gamers against modding no are
+there is that one but not everyone just
+a couple comments thanks it shouldn't
+change their artistic idea I'm just
+thinking like back in the day its
+software man they they wholly embraced
+mods man yeah my the shit Ivan here's
+here's the fucking source code yeah man
+that's cool right and then you get
+brutal doom oh right no I don't think
+there's anything I can't imagine anyone
+being against modding like because you
+you get both like you get the author's
+original intent and also the ability to
+futz with it
+there have always been purists says dark
+fucking idiot oh you didn't cook any of
+your food rich I can I can do this I can
+do this oh I can do this
+oh boy oh you have wood so you can at
+least like grill you don't have a pot oh
+wait no there's a pot oh your ass just
+got saved they have a cooking pot all
+rich sweet mercy sweet mercy sweet mercy
+cheese it up eep-eep eep-eep eep-eep I
+had my first instance of teaching my
+children the joy of cheese in video
+games the other day we've been playing
+through as a family we've been playing
+through lovers in a dangerous space-time
+which is a lot like affordable space
+adventure it's like a co-op on the same
+screen you all control different parts
+of the same ship and the kids have been
+absolutely loving it they they really
+dig it and it's a it's a really fun game
+but we got to the final boss and the
+final boss we defeated crazy easy
+because we were hardcore cheese in him
+and and I blurted I was like ah man we
+cheese that guy just kind of
+instinctively Mike exactly what's cheese
+and I was like let me tell you kids let
+me tell you about cheese I was like we
+see how we defeated the boss there
+that's probably not what the what the
+game makers wanted us to do cuz we
+defeated him really easily and they're
+like huh huh I was like so yeah we did
+we did some of those and they were
+really there's white cheese what is the
+origin that that's a great question
+white cheese well either color on the TV
+change now it's all blue so our green
+screens gonna get all freaked out we
+gotta do something about that
+we could turn the big lights on it's
+something we could do I mean I know
+temporarily but I mean in the long run
+something that doesn't suck for us and
+also gives us a nice green screen what
+we could do what we would need is a
+dedicated light just on the green screen
+so like you know we have our LEDs here
+for a nice soft light for us but if we
+had lights specifically on the green
+screen so if like if we pulled the chair
+and the couch closer to the TV and
+there's a little bit of space behind us
+for a light to shine up on the green
+screen then the TV light wouldn't affect
+it you dig he digs
+yeah then we would get a little edge
+light on us and the green screen would
+have a light on it that would be strong
+enough to not be affected by the TV's
+which is just what I'm doing is just
+terrible
+you're winning rich it's just terrible
+it's it's not it's not fancy it's not a
+fancy winrich but you're doing it
+now don't forget to cook yep
+nice
+we know MLG Freeman that you care more
+about the things we have to say rather
+than our occasional green screen hiccups
+but rich is correct we are professionals
+so we need to have a pro fashion all set
+up I bet there something we can do well
+I'll think of a solution there's what
+I'm saying okay I will think you know
+cuz the other thing is you know we don't
+have a ton of space in here and it needs
+to be something that we can control
+easily but I bet I could think of an
+easy solution of a simple solution that
+all that work sneaky meat
+uncle video says what a different camera
+lens help with the green screen Jack I
+created an opportunity to talk endlessly
+about lenses no no you know normally we
+don't use this camera you will use a
+nicer camera but I think what the
+problem is is for rich in eyes eyeball
+enjoyment we do keep it relatively dark
+here in our streaming room we use a
+couple LED lights and we shine the light
+on the ceiling so there's a darker
+ambient light in the screening room or
+in the streaming room here but what that
+means is the light from the television
+is equally as bright as the light from
+our ambient lights so it affects the
+green screen when the light changes on
+the TV so it has nothing to do with the
+lens it just has to do with the darkness
+of the room so we need a way to evenly
+light the green screen without it
+bothering rich and I and without it
+affecting you know too much plus I'm
+thinking if we get some sort of LED
+strip or panel that we can like lay on
+the floor and have like a little you
+know switch that we can hit something
+that will shine up to the green screen
+to make it be a nice light bright source
+on the green screen it won't affect our
+eyeballs too much and then the TV won't
+affect it is what I am assuming breena's
+guys has just put a light behind you
+yeah that's what we'd base with very
+little space behind us well that's the
+other thing like we're right up against
+the wall so we'd have to move up a
+little bit but a thin LED strip I bet I
+bet I can put something together
+very slowly melting the ice coz rich
+doesn't want to use his fire rule
+because the more you use it the more
+likely to break so he's this is also a
+cheese tactic no it's not cheese
+that's not she's couldn't who's Jack
+Iron Fist season 2 has finished filming
+I saw the Luke Cage season 2 trailer
+looks good that that might be good looks
+like there's a they I'm hoping they pump
+up the action a little bit
+well I see if I can fix this swarm of
+bees I just made this one with bees
+worse so that means this way will make
+it better there I did it I fixed it
+you're welcome everyone I liked Jessica
+Jones season 2 yeah what he's one of the
+hard ones he's one of the hard ones yeah
+listen I see a nice winner is he a white
+one I think he's just a nice 100 easy
+yeah josh foreman has a sculpting stream
+yeah I think I would like that I did I
+do dig art streams I like I just like
+you know just watching people do
+creative shit I think that's great I
+think that's great thanks for sharing
+Josh Foreman where where were you gents
+Roberto says hey did you see that stream
+tip is shutting down on may 25th I
+picked up the cheaper El Gato internal
+capture card and it worked well so far
+no noticeable issues in case you were
+shopping around we are we're kind of
+lazily keeping our mind open for that
+and yes I do know that stream tip is
+shutting down beefcake I did get your
+email sorry I have not respond applied
+to I've been editing all weekend
+questions why why you stream tips
+shutting down I think you I think it was
+kind of a community based you know it
+was a passion project and they're just
+obviously not making okay making money
+off of him which which is fair so for
+until a better option comes available we
+will be switching over to the bits we'll
+be switching over to the bits from
+Twitch's bits
+now oh now you fixed jerk just went to
+fix you will be switching over to bits
+which you can buy through twitch and
+beefcake is working on a way to archive
+our bit messages and so it will work
+hopefully very similar to stream tip
+where we can kind of bunch up your your
+your bit tips to bits have any strings
+attached you the way bits work is you
+buy them through twitch so you know if
+you spend $10 you get like a thousand
+bit source I don't know how it works I
+think I think it's a dollar per hundred
+bits but I honestly don't know and then
+you get to choose how many bits you give
+to a streamer and so you know if you buy
+a thousand bits you can spread them
+through several streamers you can't be
+refunded you can't be refunded scammed
+through twitch bits well know you that
+yeah you know one can scam you with bits
+they can't give you bits and then ask
+for their money back once you give the
+bits we got the bits twitch bits not
+twitch tips right so twitch gets the
+money first you give us the bits and
+then instead of us immediately having
+that money that comes to us with our
+regular twitch revenue check it's a
+whole thing it's a whole to do
+but it's what we're gonna do we're gonna
+switch over to the bits take his weapon
+away you're going to take a huge hit
+with bits over stream labs I'd I'll have
+to look into stream labs because we
+already use stream labs for some things
+and but I don't think stream labs has a
+tipping thing do they or do this I don't
+that wasn't a question for you that was
+just a question for the chat you're you
+just keep doing I'm just talking
+nicely done
+nicely done oh they do it well if they
+do then I will have to I will look into
+stream labs then Oh cuz if they use
+PayPal as well then I might just do that
+no okay I'll do that that was that was
+that was it no I feel like I was in a
+fight jack you you did the fight right
+she won what we already have a thing
+tell me money alright well I I will look
+into stream labs then apparently that is
+a thing to do the the it's a it's a
+given a take because PayPal takes a cut
+like if you tip us right now through
+stream tip or through stream labs PayPal
+takes a cut if you stream up if you tip
+us through twitch bits twitch takes a
+cut so it won't assuming you all give
+the same amount of money it will be
+equal for us every tip service takes a
+cut right Master Kenobi that's how
+they're able to you know keep their
+servers into acting enable us to take
+the tips so all right so I'm missing
+three ancient arrows and they're going
+to be very important sure how many of
+you fight at the end here I'm excited
+I'm excited to see how this ends up
+twitch takes a huge cuts from bits oh
+shit well I'll look into that I'm gonna
+look into this whole stream land it's
+pushing them shits they like the bits
+also though I do like that which exists
+in general yeah I like that right which
+they
+provide the platform in which we utilize
+and so let me go over to you - it's fine
+I don't want to Amazon B's O's has
+plenty of money but he don't he don't
+like Sharon B's oh saying in the sharin
+business Sharon's not how you make money
+right oh shit can I mail you a check No
+do not mail me a check
+pieces of bozo he's made some things
+that are very popular and profitable you
+know I'm a dummy would you do
+I should have much earlier there was a
+korek leaf that dropped yeah I should
+have taken it what would that have done
+good for you yeah think outside the box
+Jack oh you know what good that would
+have done okay
+explain you know I'm using my electric
+sword to make them drop their weapons
+yeah make them drop their weapon I
+grabbed the weapon they drop and then I
+drop a Corrick life what do you think
+the enemy's gonna do the the enemy
+probably registers the korok leaf as a
+weapon and so they will go to pick it
+and then they will fan me I am a big
+dummy dum-dum and I eyed shied myself
+for not thinking of that earlier that's
+great
+ooh you know what that could work for me
+Anonymous is Jack can you remind me of
+what indeed turn-based RPG you mentioned
+you were excited for and do you intend
+to stream it oh I can fell is the indie
+turn-based RPG is the one I am excited
+for I believe it
+I can fell I ke n fel L is how you spell
+it
+I confess and it's like a wizard school
+turn-based RPG looks neat I think it'll
+be neat I don't know if it would be a
+good streaming game but I intend on
+playing it
+oh my god oh my god
+Rick it's over it's basically over
+yeah Oh didn't even see it coming
+oh it's terrible rich yeah I know I
+fucked up by letting him get the
+blizzard Robbie oh well I let him get
+the blizzard rod and that's what killed
+me gotcha gotcha gotcha
+valiant blood shot said who would win in
+a fight between Don Wilson and Don
+beverage well Don beverage is real rich
+assuming they were both real I think Don
+Wilson would definitely win Don Wilson
+would not care about any sort of
+fighting etiquettes or you know rules of
+engagement he would go straight for the
+nuts and throat Don Wilson would use any
+object around him as a weapon and I'm
+sure Don Wilson is the type of man who
+carries shattered glass around in his
+pocket
+Daan beverage ain't no fightin man
+huff heart it says hey fellas
+is there a gameplay style that would
+annoy you to watch I had a roommate who
+played hours of racing games but only so
+they could paint the cars different
+colors he never raced not once well the
+person enjoyed the fucking game if you
+don't like it don't watch it I can see
+how in a roommate situation that might
+get upsetting but you know then you go
+to your room and do your own things but
+you know shared living spaces are hard
+sometimes
+probably should have farmed some arrows
+but shit happens yeah and I did not do
+that like I could see how you know
+people might be annoyed with me you know
+just dressing up the XCOM soldiers I get
+that I get that but you know that was
+fun for me I get what you're getting
+around to me I don't think I would I
+don't think I would ever want to watch
+someone play like a puzzle game that I
+was intending on playing because then
+you know the answer to the puzzle yeah
+like if it's an action game like this I
+I don't I wouldn't have a problem with
+that because anything anybody can handle
+that differently but but yeah there are
+certain games I wouldn't want to watch
+just because I wouldn't want the puzzles
+spoiled for me what oh you're in water
+then climb the fucking tree while I
+climb the fucking tree
+will I ever do the master sword trials
+maybe right now I've maxed out on breath
+of the wild I'm good on Zelda for maybe
+another year and then maybe next year
+I'll pick it up again and do the master
+sword trials and and try again but now
+I'm good I got I got another hog man I
+think I got another 60 hours of breath
+of the wild in me and that's that's
+great
+just from know Plus because I probably
+got another 100 hours nice put away I
+swear I got another I got another 60
+hours of the main game and then I
+probably got another at least 50 hours
+of of Champions ballad and just fucking
+around on the motorcycle so I'm really
+happy with it so over over a hundred
+extra hours of breath of the wild is
+great so I don't know if I will ever do
+the master sword trials but we'll see
+all right let's not do some of the
+stupid shit this time just some of it
+still do a little bit of stupid chin
+because you know it's entertaining
+so far the DLC is worth the DLC and this
+is very worth it
+these these add a ton of stuff and like
+you know beyond the the games that it
+adds just III can't count the amount of
+hours I got in of just treasure hunting
+all those bonus outfits that was great
+is just lad just walking around Hyrule
+looking for treasure though to be fair I
+wish I would have waited until after the
+champions ballad so I could have ridden
+my motorcycle to go treasure hunting
+that's what I should have done I should
+have gotten my motorcycle first and then
+found all the treasure but totally worth
+it Hunter's 5000 no actually I haven't
+played any more slay the spire since we
+streamed at that one time I'm gonna wait
+until that character at least makes it
+to to the official non howdy baton until
+it gets out of beta yeah it's neat so
+I'm looking forward to playing that
+character but I'm gonna wait I'm gonna
+wait I really like that you can refuel
+your motorcycle like mr. fusion oh yeah
+and I had a shit ton of rocks so it was
+really easy for me to refuel
+it eats up a lot of fuel though way more
+than you think it wouldn't but that's
+fine
+mark of the ninja remastered coming to
+all platforms that's exciting
+that's exciting did you all see the news
+today about steam link with your mobile
+devices you know in a in a in a
+announcement that I may enjoy and I may
+get absolutely no use out of let's make
+some new mistakes attending a class you
+can fail in new and interesting ways
+rich those early I wanna give it well
+what time we start we got well yeah
+because we quit Pikachu early Pikachu a
+little we probably have another hour of
+stream if you want to move on to
+champions ballad or if you want to keep
+going it's it's all your rich just keep
+going okay so so coming soon with the
+steam app on your mobile device on your
+phone or tablet
+it's only a rage quit when you're raging
+that's true if you're not raging it's
+just quitting and really rich isn't
+quitting he's just restarting he thinks
+he can do it better and so that's fine
+so what you can do what you can do now
+rich yeah is it if you have like let's
+say you have an iPad yeah and you have
+the steam app you can now play games
+from your computer to your iPad which
+some people might get into might get use
+of how the fuck is that gonna control
+you can use a controller and so like
+it'll it'll probably only work for what
+what what's the fucking point
+well I you know not for every game but
+I'm sure there are some games where it
+would be fine I I don't quite see the
+use in in it totally uh like will ever
+for me for example my you know my gaming
+PC is in my office right
+but this will also work with Apple TVs
+and so something I could do is start a
+game in my office and then move to my
+couch and play that same game on my TV
+without having to move my tower which
+could be nice yeah this is a new way to
+remote play your games through your
+mobile devices
+who's gonna Bo farm some mayor let's not
+be dumb this time well that was just
+shit Locke that was just absolute shit
+not shit luck why would you move at all
+because I don't have a couch in my
+office and so I could you know I could
+play my PC games on my big TV and
+theoretically with a strong enough
+connection it would be seamless gameplay
+I'm literally standing right in front of
+you there you go whoo-hoo farming arrows
+it's some hard day's work when I put a
+couch in my office is a small a small
+office I don't need a couch my office
+but that just sounds like this it's
+basically the steam link but you don't
+have to buy another thing it'll work
+with the objects you already have so
+instead of buying the steam link and
+hooking up with a steam link to your TV
+it will already work with your Apple TV
+or possibly your Roku or with your iPad
+so you know your your your into a really
+great game but all of a sudden you got
+it you got to go number two let's just
+take the game to go you take the game to
+go where you just do number two and come
+back to it what if you're having such a
+good time you can't you can't even put
+it
+I don't understand you people said to me
+the the couch gaming argument makes a
+lot of sense I think there there is a
+fair argument with that but I can't even
+put it down web no he's gonna have to
+wipe but the edge of his tablet you go
+through tablets a lot faster this way
+which is you know that's the downside I
+love that your major argument for mobile
+gaming is you could play on the toilet
+well that's the truth I always comes
+back to playing on the toilet now mobile
+gaming obviously you get to take on the
+go this this one is a little more
+limited because it's steam link so you
+need a strong Wi-Fi connection on the
+same you needed a Wi-Fi connection on
+the same network and so this is far more
+limited than just mobile gaming I think
+the use people are gonna get out of this
+is streaming PC games to their living
+room is is one of the big draws or you
+know like let's say you started an XCOM
+2 game but you're ready for bet you know
+you want to go to bed but you don't
+necessarily want to go to sleep yet so
+you bring out your tablet and you lay in
+bed and you play a little XCOM on your
+tablet streaming through your PC is it
+worth it I don't know
+love them I have a link says hunchback
+jack esteem link and use it all the time
+but it's a bit clunky to use a software
+only solution it would be really neat
+well then there you go and so not only
+can you play games through the app now
+but steam is really pushing their video
+service you know you can buy movies and
+shows through Steam now and so I think
+this is another way for steam to to push
+that market like hey you can buy a game
+on Steam and now you can watch it not on
+your computer yeah we're gonna it's
+gonna cost $1,000 a month at some point
+just to see all of the different shows
+they're making
+yeah we're rapidly heading there we
+really I got a streaming service no I've
+got a streaming service well I have a
+show that's exclusive to my streaming
+service I'm I'm Fox I own 8 video
+services subscribe to each of them
+yeah at one point you just gotta say
+nope like that hi I'm Hulu we have abs
+for some reason and you got to pay for
+it he's both
+why cuz why not why do we have as and
+you pay for it cuz his will you'll
+fucking pay for it we know you'll pay
+for it you already do
+you'll pay for it you want to watch that
+you missed that show you missed it but
+you want to watch it don't you yeah
+don't you want to watch him give me
+money first time on Twitch is this
+actually live what why would we pre
+record this other than the name would
+make you think we wouldn't previously
+record this what good would it do to
+like what benefits to us would it be to
+pre-record it make a video and then play
+the video would there be any benefit to
+us maybe maybe I gotta concentrate
+occasionally here captain jerk says and
+Jack wonders why people pirate no I
+don't wonder why people pirate I just
+don't
+pirate myself I understand fully why
+people pirate I just don't do it myself
+you could record several in one day I
+think I think just one day it would be
+like like three streams worth maybe
+that'd be very silly or you know we
+screwed twice a week we could just do a
+couple every week that's true just take
+one wait like if we if we if we really
+wanted to rich we take one solid week of
+streaming and get like two months of
+streams done really we wouldn't be
+talking about anything topical we
+wouldn't have any interaction with the
+chat and we'd run out of things to talk
+about really quickly so like normal so
+exactly like normal exactly
+I do I do owe you a stream oh you never
+got that makeup in well because at my
+editing got pushed back oh yeah
+and so you know I was I was planning on
+a Tuesday morning stream but if I didn't
+stream I could get the episode done
+uh-huh and so I decided to get the
+episode done which I think was the right
+call but I do still owe you a morning
+stream and I work on them I'll
+absolutely work on them possibly Friday
+don't think the right gesture fine you
+know what we'll fine fine fine
+possibly Friday no me no I'm sorry I'm
+sorry I'm talking about a morning stream
+okay I know some of y'all like them
+morning streams they're usually pretty
+chill got to find a game to play that's
+my room that's my big problem right now
+is I don't necessarily feel like playing
+anything at the moment
+yeah usually you know and then when you
+get a nice morning stream going get some
+coffee play a silly game talk about shit
+it's good times
+doo-doo-doo-doo
+rich yeah it says at - Quinta what's
+your favorite and most hated
+construction projects for Harlem what's
+that one thing did you like building
+those I know what I've hated any of the
+construction projects nothing was a
+super chore for you well the mountains
+said when we had a big paper mache
+Mountain that was paying the ass oh when
+you were when you were redoing that
+special effects for gorillas interrupted
+uh no that was those tiny miniature we
+did a big scale when Mike and Jay were
+climbing Mount Everest for some reason
+oh and they did a review on Mount
+Everest and it was basically a set that
+I had to build out of paper mache and
+then paint that was pain in the ass okay
+well there you go anything you were
+particularly proud of when I got aboard
+the plane Qaeda board is also the nerd
+crew table I'm super proud of the nerd
+crew table it's a fine table rich fine
+table
+that was to scale yes apparently I
+assumed that was the miniature and then
+they they did some compositing work but
+nope to scale plink header board is
+great the putting header board is above
+and beyond yeah it's a thing of beauty
+also the new wheel but the nerd crew
+table I think is understated yes that's
+flashy as a blanket oh it's not well
+that's the problem it's super nice and
+it's curved and I'm super proud of that
+the the nerd crew table well and I also
+think they just can't see the nerd crew
+table that's all of the shit on top
+that's true we need a special
+behind-the-scenes featurette of the nerd
+crew table
+it's like riches most awesome work
+it is the plinky report is not a
+miniature the plain keto board is that's
+probably a joke button whatever the
+wheel I also think is the new wheel is a
+thing of beauty and I hope I hope people
+love and respect the new wheel oh yeah
+the new wheels pretty great sir pretty
+good-looking
+anonymous is Jack freelance question
+I turned down
+
+[Part III]
+Anonymous is Jack a freelance question I
+turned down a job because I didn't like
+the political angle the video would show
+guy calls me out saying I was no better
+than a baker who wouldn't make gay cakes
+how to reconcile just ignore move on
+with your life I mean that's the time
+that's how you move on is you know you
+know I have no way to reconcile that I I
+have said no to many jobs because I
+didn't like the people like it wasn't
+any political reasons but like I'd have
+a meeting with someone and they were a
+real dickhead just like you could tell
+right off the bat and you know we talked
+about the video project they wanted and
+I knew from the get-go that this is a
+person I would not work well with uh-huh
+and so I just said no I said no to the
+job and so I think there's the the
+slight difference is when when you are
+uh when you're when you're a freelancer
+it's not necessarily in the SERP you're
+not necessarily when you're a freelancer
+you're not necessarily in the service
+industry it's not just about making a
+product and selling that product your
+there's a lot of interaction involved
+and so knowing the political leanings
+maybe you also didn't want to work with
+that person over and over again so maybe
+that's how you square that particular
+circle but
+I've said no to plenty of jobs because
+people were dickheads and so don't don't
+be sorry about saying no to a job that
+you wouldn't like unless you know X and
+X and X oh wow
+Jack do you have any stories of people
+trying to get free work or massive
+discounts from you Oh a ton and a ton of
+me falling for it it's just because you
+expect cinematic games to be linear
+doesn't mean they shouldn't go the extra
+mile to let Jack save his some just my
+son just because you can do something
+doesn't necessarily mean you are
+obligated to well you know why would I
+complain if you could pet your kid no I
+probably I probably wouldn't complain if
+you could write at the same time I'm not
+gonna dock them points because they
+didn't choose to do that I think that's
+fair and here is absolutely fair edge
+like a popular thing going back to uh I
+completely forgot he did that I love
+that just rips off his own rib are you
+an independent contractor I am I'm a
+freelance video producer that's my day
+job as I make commercial videos for
+people damn it I don't want to climb
+that fucking tree everybody sit with
+them so I well I don't have any stories
+I don't have many stories of people you
+know the thing a lot of people know
+about with freelance video work is the
+the for exposure and go like I we don't
+have any money to pay you but it'll be
+great exposure for you actually a more
+common angle when you're making
+commercial videos is the if you do this
+one video for a reduced price I can give
+you more work later that is the greatest
+lie anyone will ever tell you exponent
+well and you know like the hole for
+exposure angle is by the way a dual
+edged sword because you do need shit in
+your resume in order to get work that's
+just that's just a fact of being a
+freelancer and being a video producer is
+you need a real you need stuff that
+doesn't mean you have to do stuff for
+other people that's why I really like
+music video work a lot of the music
+video I did early on was was free like
+they didn't pay for that that was just
+fun stuff that I wanted to do
+tell me lies so the big lie is you'll
+meet with a client and you know they'll
+want a commercial video done and you say
+okay that's no problem here is my
+estimated rate based off of the hours I
+think it'll take and they go for that's
+just too much that's too expensive I
+can't do that what do you think about a
+reduced rate and you know you give me a
+reduced rates like my business is gonna
+be picking up soon I can definitely get
+you more work later on and you say to
+yourself well maybe we can do that you
+know you're freelance and so any any
+time you're not working you're not
+making money some has a little bit of
+money better than no money
+yeah that's these oh honey how do you
+handle this uh it depends on on your
+bank account at the moment is the honest
+answer I've done it some times I have
+done it some times where I've done the
+work for cheaper and I can tell you this
+I have always err I haven't always
+regretted it but it has never led to
+more work
+never never okay it has never for me led
+to that addiction have you ever called
+someone out on that like like I've heard
+that before
+and it has absolutely never led to more
+work sir have you ever done that I have
+and and like I said a lot of times that
+that's just like how my bank account is
+feeling at the moment how busy I am and
+how much I like that person and I I have
+had meetings with people where they've
+seen you know I asked for the reduced
+rate I can get you more work and I've
+had that conversation with them I can
+say I can tell you from experience it
+never leads to more working they always
+it's always the same like oh no no I
+definitely like I want to do this video
+I want to do this video there's
+definitely more work down the line if
+you can do this one for cheaper they
+live in their own bubble and they don't
+understand what it's like on this side
+so I'm kind I'm glad I'm glad you guys
+like this this is a good lesson for
+people it's and it's tough because you
+want that work I didn't scare the theory
+off tonight Oh God very rich I know I
+know the first priority and I completely
+a whiffed
+a whiffed jack the worst is ideas guys
+they listen that's a whole different
+situation my friend is dealing with
+people's marketing departments and idea
+guys and there's there's a whole world
+of pain when you are a freelancer in the
+creative field but there's some fun too
+so no usually what I'll tell people is
+this they'll say like hey you know you
+want to reduce right now I'll just say
+no you know like no I don't do reduce
+rate at you know these are the amount of
+hours I will then give them some
+suggestions of like oh well you know
+maybe if we do a B and C with the video
+we can take those hours down you know
+like oh you want a lot of animated text
+work yeah that takes a lot of time to
+animate if you don't want that then we
+can reduce the hours and I can get you a
+cheaper video oh I really want that
+animated text work though well so
+there's things you can do haggling and
+whatnot but oh it's not yeah sometimes
+it's just rough but it's all fun work
+but and by the way that's that's the the
+other fun of it is if you ever give them
+a discounted rate that's the rate
+they'll expect I almost left without
+cooking Jack I I would have I had my own
+yeah I was I was about to yeah because I
+kept seeing you like head towards that
+exit I was ready to yell so what are
+some of the strangest videos I've done
+for a job back in the day I was working
+with should I even tell these stories
+well I'm trying I'm trying on so I'm
+trying to think of contracts I've had
+with people and whether I can share
+these stories without okay
+I can't here's an actual story of
+freelancing okay and this is a big
+regret of mine I should have walked out
+at exactly this moment yeah I won't tell
+you the company it was but this this
+company wanted a viral video and you
+know that's part of part of my thing is
+I can I can get you a lot of hits on
+your video and they weren't quite
+comfortable with my concept my concept
+was a little too out there for them yeah
+but I said I you know this is what I
+really think this is gonna work and you
+know they said they said they weren't
+really comfortable with it and what I
+ended up doing was filming it anyway
+I said this is such a funny idea I will
+use this footage somewhere no matter
+what so I was comfortable just taking
+the day filming it for myself
+and I put a ton of work into it and I
+actually I've really enjoyed this video
+you guys haven't seen it but maybe one
+day I'll be able to recut it into
+something and so I scheduled another
+meeting with him I said I want to tell
+you something I just made this video and
+if you want it I can put your branding
+on it but if you don't want it that's
+fine I just want to show it to you okay
+and and this person said no problem so I
+came in I showed him the video
+and he laughed his ass off yeah he was
+like this is the weirdest thing ever
+stuff but I love you called people under
+the look everybody like this call people
+into the office everybody's on the floor
+rolling laughing yeah went over like
+gangbusters okay you and stole the idea
+no no no oh by the way that's a normal
+story so he said that's that would be
+fine no this is where it gets weird is
+you know he loves it we we come to terms
+with how much he's gonna pay for the
+video he gets out his checkbook and he
+writes me a check after we get the
+contract stuff worried about right yeah
+then he opens up his desk drawer and
+pulls out a gun I am not joking
+whatsoever this man pulls out a fight we
+are in an office in a but we are in a
+real office building
+with an office he takes out a gun and he
+puts it on the desk why a real firearm
+because he's some sort of like macho
+bullshit guy and so his whole thing was
+like I want to let you know like you
+don't fuck it was like I don't fuck with
+me moment it was very very real and I
+think part of it was jokey where he was
+like haha don't fuck with me I have a
+gun was mob one no it was not mob run he
+was a legitimate he was a legitimate
+business person but at that point like
+if I were able to go back in time I
+would have said you know what I'm not
+dealing with this and you can't have the
+video and I'm done take a check back
+yeah because that would have been the
+smart call because that's an it clearly
+an unstable person could I have called
+HR he was the owner of the company I
+believe there was AI I think it was a it
+was this macho I I can't even I can't
+even properly explain to it like you
+what his motivation was but he laid a
+loaded firearm on the table with I want
+to let you know like you're in business
+with me now and I don't you know like
+don't fuck me over or whatever and I was
+like dude I made you a funny video I
+made you a funny video for your thing
+and like I'm not a person who's
+uncomfortable around firearms but when
+you take a gun out of your desk and lay
+it down and say don't fuck me yeah yeah
+I get very uncomfortable so that is by
+far the strangest thing that has ever
+happened to me as a freelancer I just
+got a bunch of crap weapons from that oh
+well yeah how do I know it was loaded
+a good question I don't I just assumed
+it was I just assumed I guess this one
+over here I might get something out of
+this oh yeah don't forget about that
+so was the video a viral sensation
+obviously you guys have not seen it so
+it was not but also I I don't believe it
+was the other part of that is it wasn't
+up for very long in order for a
+videotape why'd you get travelers
+Claymore traveler sword no oh thank you
+to 6 Delta I always assume the gun is
+loaded that's true that's the true thing
+the the video ended up not going viral
+so something that I pull out a gun on
+you after the video didn't go viral no I
+never I never met with him ever again I
+I emailed and talked to him but I never
+went into his own yeah I did male
+talking I was very very professional
+though I do wish I I wish I had the guts
+just to say you know what no you're
+acting you're acting inappropriately I
+wish I had the guts to yeah but uh
+something about viral videos is they do
+I think at least that they need to get
+their views organically like you know
+people find videos and they go viral
+very naturally
+and I don't think he gave it the time to
+go viral I do think it absolutely had
+the potential to go viral but I don't
+think he gave it time he took it down he
+got nervous he got nervous with his
+branding and took it down after like a
+week and a half and he got it got decent
+views in a week and a half but it never
+it never hit that it never hit its
+stride it never found
+yeah the audience that started to share
+him isn't there something inherently
+difficult about making something go
+viral
+artificially absolutely but that's the
+the pros and cons of viral videos is he
+put something out there you you try to
+nobody said it was easy right you try to
+share with the right people hopefully
+like someone picks up on it and you know
+goes to read it or it goes to you know
+Twitter or it goes it goes somewhere
+where someone picks up on it what that
+guy did was illegal you can't intimidate
+someone with a weapon even implicitly oh
+I know I wasn't about to tell him that
+though as he pulled a gun out on me
+did you miss oh oh I see what you're
+doing
+saving arrows we had a few no good good
+college you did you did well I just I
+wasn't yeah I wasn't on your
+thought-trend
+but you know the other thing with the
+other thing with viral videos is you
+never know when they're going to go
+viral if you know if you make something
+you can't push it you can never push the
+video out there and sometimes it takes
+months for people to find it and this is
+a conversation when I talked with
+clients about viral videos that I have
+with them like hey there there are some
+videos that have been online for nice
+hit nice hit there rich where you know
+there are some videos that have been
+online for a year and haven't hit and
+then one day they will you can never
+guess when it's going to go viral
+did you bring a leaf this time heading
+oh you know what I didn't bomb the tree
+so I didn't get one okay yeah you know
+what we'll do exactly what we did last
+time was it worked no my reason to vape
+videos weren't my viral videos those are
+just straight commercials there's
+nothing there's nothing viral about
+those there they're just straight
+product commercials that's the other
+balancing act with creating something
+that's viral is it has to be more
+entertaining than product play C which
+is bi which is why by the way you see a
+lot less companies trying to make viral
+videos because a lot of companies
+discovered that their video getting
+millions of views don't necessarily
+translate into people buying their
+products so my reason to vape videos
+which I think are very nice are just
+straight-up commercials but they're good
+I like those I liked my reason no reason
+to vape you missed a video that you did
+well you know I get to work with Timmy I
+got so you know we got to write some fun
+little sketches got like the hi-5 videos
+the hi-5 videos though that those are
+viral sensations a bowling trickshot
+video that's another good one we did
+there the real-life Angry Birds that
+that got a ton of views the the past
+maybe R videos that's the that's the the
+big the big ones that was commercial and
+viral does jack vape no Jack does not
+baby
+stop saying viral I will not stop saying
+viral Laurel that's true but the past
+wait beer videos still continue to
+actually go viral to this day people
+have made gifts and I see the gifts on
+the front page of Reddit at least once
+every couple of months
+people people keep sharing those which
+is great
+quick question I saw an older best of
+the worst video and you guys are
+drinking forth tap I live in Austin and
+love the brewery and just wondered how
+did it get to Milwaukee Oh was i
+drinking it or were we drinking it and
+you are drinking fourth tab I might have
+bought it here someone might have sent
+it to us I don't know I don't know what
+Angry Bird video the one from Rooster
+Teeth
+I don't know I did a video a while back
+that got decent numbers called real-life
+Angry Birds and my brother and I built a
+giant slingshot and recreated some angry
+Birds levels and used a bowling ball in
+the slingshot to knock them down and you
+know a buddy of mine put the animations
+on it and we put all the sound effects
+on it was really neat it should be on
+YouTube but it might just be on Funny or
+Die so my friend designed for theps logo
+and did their branding Oh neat I don't
+remember that beer specifically but I
+might be good this was back when Angry
+Birds was a big deal number Angry Birds
+yep that was everywhere they made a
+movie out of that they made a movie out
+of that app
+perfect perfect rich in antioxidants
+says Star Trek bridge crew is getting
+next-generation DLC will you guys
+finally play it with Mike and maybe Jay
+absolutely it's gonna happen next trip
+you can talk them into it I don't think
+you can Oh Mike doesn't mike doesn't
+like coming on the street if you're new
+to the stream you should know that
+that's incredible sarcasm see the way
+you said that though it sounded uh it
+sounds like I gotta run away you see it
+sounded what I gotta wear I can learn
+from the thing reverencing right yes you
+trying to kill me I need to row away no
+run away Mike's not coming downstream
+we're probably not gonna play Star Trek
+Briggs just emulator
+Oh Holly rasa is the one who sent us the
+fourth tap beer Thank You Ali Rosa we
+appreciate that
+that's right Jay was in the first pass
+me a beer video Jay and Jesse were were
+my elevator extras we shot that at the
+old studio because there was there was
+an elevator that we could use for the
+final pass didn't didn't don't do it
+dududududu where'd it go
+who am the the big sword he dropped him
+where to go fall in lava and I fall in
+lava which would suck that would that
+does suck my frequently sighs
+dude did it do true-blue reviews hey
+guys I've been watching some Nicolas
+Cage movies this week and I'm shocked at
+his career which of his movies are your
+favorites I am in awe of how amazing
+vampires kiss and Bad Lieutenant are
+I've heard really good things about Bad
+Lieutenant I have not seen it that man's
+been in a lot of movies the most
+wonderful thing about Nicolas Cage is no
+matter the role he gives a hundred and
+ten percent
+no matter the movie no matter the role
+he is in it to win it even if it's weird
+even if he's over the top he has no what
+am I trying to say here where you're
+like well you don't want to do anything
+that embarrasses you shame he has no
+shame I'm not shame inhibitions
+he has no no inhibitions would fit to
+that fits ego maybe no ego like he
+probably has an ego you know what to
+shape Dignan no not dignity uh what I'm
+saying is he is he doesn't he's not
+afraid to have himself look foolish
+because he gives himself over to a role
+so completely and I love that about
+Nicolas Cage even though sometimes he's
+just he's just bad but that's great
+faint praise that's know he's great I
+love Nicolas Cage I think I think no
+horrible but he he gives it his all 110%
+all the time i I think face off is a
+movie that very few people give credit
+for being absolutely amazing
+faceoff is absolutely amazing and it's
+the best all the time it's it's the best
+all the time
+slow motion doves everywhere John
+Travolta Nicolas Cage just just shoving
+every bit of scenery into their face
+it's the most into their different faces
+my face off rooo it has a boat chase at
+the end of just because it needs a boat
+raised it's great it's so great you
+would love face-off jack says the ghost
+of Nick I would and I do
+I am unashamed of my love of faceoff
+love it I'm gonna take his face Oh glory
+it's just glorious just glorious
+which is better the rock face off or
+Conair the answer is yes the real answer
+is face off for this is me this is how
+I'm gonna do it face off the rock Conair
+face off one the rock to connor three
+that's how I would do it but if you give
+any other arrangement that's a correct
+answer as well I'm not I ain't hatin on
+anyone but it's just the air vents right
+yeah that's just the air vents I agree I
+remember you remember I agree remember I
+remember those just airs he was he was
+good and he's just good in everything he
+is good in everything and then he can
+also like do restrained and serious like
+it like him in adaptation
+he's just low-key and serious and
+restraint and and it's he's just he's a
+really good actor but then he's also in
+faceoff he's the best we're gonna steal
+the Declaration of Independence it's in
+the head of Mount Rushmore national
+treasure
+it's just now he can pull it off
+anything that man can do anything
+remember The DaVinci Code let's do that
+but patriotic and put them but dumb and
+he fuck yes fuck yes so patriotic
+commit sin 120 says Jack enriched I am
+the one that bought you roller Gator and
+all I can say is your guest on best of
+the worst was not lying
+it is great a true master piece of shit
+esker more often night also please play
+Dark Souls in a few weeks I scared
+that's right did you miss the ferry do
+you still have a favorite I got two down
+total okay well that's something well
+thank you for roller Gator I think we
+watched like a minute of it thank you
+for rolling are you sure that's thing
+you want to do do you really want to
+thank somebody listen to anything you
+said thank you you know we just so I
+appreciate people sending things that's
+all that's a very nice gesture but
+roller Gator is we pop that on if we
+took a peek at it took a peek at it and
+I think I'm pretty happy we didn't watch
+it yeah I think that might have made the
+night pretty miserable interesting is
+what I'll give you interesting atomic
+mousetrap says imagine a power drill
+that runs on circus music imagine it's
+pressed to your temple anyway can't wait
+for you guys to watch roller Gator oh we
+haven't green yeah yeah our green screen
+is kind of fucked what's gonna happen or
+just turn the camera off ik is more
+distracting if it's very distracting we
+can just turn the camera right off if
+that's what you guys would like or I can
+just keep futzing with it when though
+it's very bad well then I fix it
+alright I'll fix it I can just keep
+futzing with it whenever the world
+changes and the level changes
+they're saying we're very pretty so they
+want to keep watching this why can't you
+fix it we've talked about this it's
+every time the scene changes in breath
+of the wild so next when he goes to the
+next world which is what's next no world
+yeah so when he goes to Snow world it
+will be a very blue light coming off of
+that so then I will have to go in and
+fix it again which is fine
+well fine hold off from cooking that
+banana until I have more things to cook
+with it yeah I'm gonna strategize that
+yeah have you ever legitimately liked a
+movie on best of the worst
+of course the pit really the pit Extro
+has some issues but ultimately I like
+the pit oh yeah the pit was really
+interesting and a bro thunderpants I
+didn't get to see that one I bet that's
+good it's legit good I'd even put
+something like like Faust up there as
+something new and Jane your weird shit
+Faust Faust was legit flipping a little
+bit hold on well you keep I am I'm just
+got foots it depends on what's going on
+in the game what what right what the TV
+is doing to our lighting right now
+there's an intense blue light coming on
+to us so that's gonna change how this
+reacts but I have I have an idea to fix
+it good I have I have an idea so I'm
+going to start putting something
+together
+the desolation of Faust right so ya know
+there's there's been there's been
+legitimate good finds in there not many
+not many but the pit oh that would the
+you know something you know we talk
+about all the time about like you know
+remaking the bad movies into a good ones
+like the pit is right up there you could
+make something legitimately good out of
+that out of that structure turn the pit
+it back into a metaphor get rid of some
+of if you get rid of some of the jokes
+obviously that's what made it
+interesting to watch but you could make
+a legitimately good horror movie out of
+the pit yeah so
+or put in more jokes say we're talking
+about making it a legitimately good
+movie though we're talking about one
+making it a legitimately good movie so
+you wouldn't put in more jokes if you're
+trying to make it a legitimately good
+yeah your film if you turn the pit back
+into a metaphor get rid of all of the
+slapstick there is a legitimately good
+horror film in the pit mm-hmm absolutely
+a decent rewrite and and take that pit
+as metaphor seriously and you got
+yourself a heck of a movie I could see
+that I could absolutely see then there'd
+be that's good remake potential and
+horrors making a big comeback right now
+so if any of y'all screenwriters out
+there you know want a really easy sales
+pitch based off of a you know obscure
+but you know it's a slightly
+recognizable old b-movie you know easy
+horror Trobe filming somewhere in the
+Midwest boom you got you got
+hunchback jack is tipping while they
+still can thank you hunchback jab I will
+look into into stream Labs tipping
+capabilities if if that can be easier
+for oh my god rich oh I was ready for
+you to blow yourself up I was absolutely
+ready for you to blow yourself up nice
+Blum house would give you guys about two
+million yeah and that's exactly like you
+can make that movie for for around two
+million get a get a arty-farty
+cinematographer and director on that
+yeah you're good to go
+there's something in there man there's
+something in the pit if only we knew a
+semi-famous screenwriter who specialized
+in low-budget horror who is probably
+currently working huh I can only assume
+he went back Tyler wouldn't was just
+like I got this Simon's got this
+you'd have a hard time getting as good a
+child actor as that kids if that is true
+that kid was great that kid he was good
+do you find other kids good for the role
+oh that might be V that might be the
+most difficult part though is like
+finding that kid that's just right how
+hard did Mike and J look for the
+original pit we did we did a lot of
+research it was it was a lot it was
+pretty easy to find some of the
+landmarks in Beaver Dam Wisconsin but
+rumor has it that the pit was actually
+shot somewhere else in Wisconsin and
+it's not a naturally-occurring pit they
+dug the pit for the movie and then
+filled it back up so the pit no longer
+exists unfortunately but also parts of
+the movie were filmed in different parts
+of Wisconsin but you know finding the
+finding the some of the original
+landmarks was was fairly easy
+okay
+but I was in that fashion
+why was Jack a cat and the God of War
+episode some camera issues and my
+footage was unusable and out of focus so
+I film biscuit and I thought that was
+the best way to handle the situation is
+rich talking to biscuit and I think it
+worked out pretty darn well pretty Dern
+well they patch this so campfires melt
+the ice faster I don't know I remember
+this taking forever even with the
+campfire going that's a great question
+why didn't you just show more the game I
+did I use a lot more game footage but
+you can't only show game and me right
+that would that would be weird and
+distracting if it was only rich and the
+game footage whenever I was talking it
+would have been horribly distracting had
+I used my footage and had it been out of
+focus the other option would be just to
+use rich and the wide angle so like you
+know you cut too rich for the close-up
+and then cut to the 2-shot whenever I
+talk that would have looked off to so
+there you know obviously a lot of
+different options a lot of different
+ways to handle the situation biscuit
+just worked
+but why though because I was out of
+focus because the camera clenched my
+camera autofocus glitched out on me and
+and I was out of focus am I worried that
+biscuit will usurp my role on previously
+recorded absolutely absolutely I know
+people loved it they loved looking at
+this kid and he's a great cat to look at
+he's beautiful he's a beautiful cat I'm
+not gonna deny that biscuit is a
+beautiful cat to look at whatever you
+want Jack it's fine live in denial yeah
+yeah that's what you get for hacking
+your camera nope that was not my hacked
+camera my hacks cameras Rich's camera
+which by the way looks extra sharp this
+time I don't know what it was I don't
+know what it was but your ear your angle
+looked extra sharp mine was my camera
+was my brand new GH 5 which I have since
+found out has had some autofocus issues
+people have complained about the
+autofocus so that no that was my unhak
+GH 5 and I have since found a nice
+workaround to use manual focus and get
+around the whole autofocus issue isn't
+there another game you all plan to play
+like what you know there's really no
+meaning around a battle tech but mm-hmm
+but you got to play that at home and get
+comfortable with it before you but yeah
+I want to play them the first time on
+stream yeah that were played Pikachu
+today we that was the plan
+we did play Pikachu today and then we
+made the correct decision to stop
+playing Pikachu
+actually yeah I was talking to Richard
+about this earlier I might have
+mentioned this early I forget but uh oh
+he definitely sees you I actually think
+I'm ready to to play a little more God
+of War now that I'm done with the story
+I think now that you panned it I I had
+some criticisms of it but you know ups
+and downs now that I'm done with the
+story elements I think I'm gonna like
+everything else they're just combat and
+the treasure hunting and fucking around
+I think that's the part of the game I
+like now that I've calmed down about the
+whole story thing now that you pretended
+to hate it for ratings I disliked a lot
+of the story elements and I'm done with
+the story elements we have never
+pretended to hate something for ratings
+never ever never ever I had what I feel
+to be valid criticisms but now that I'm
+done with the story which I hated it's
+just the combat which if you remember
+the entire first 15 minutes of the video
+is dedicated to rich and I gushing about
+how much we loved the combat just IO
+tripping over our saliva about how much
+we loved the combat you can do it right
+slow and steady
+you schmuck
+yes Kip 99 this is the DLC Master Sword
+trial and this is the final master
+social this is the big one oh my god he
+picks up the ha ha ha ha
+dingus hey this is the the Master Sword
+trial is three parts and this is the
+third hardest part save that
+fall off the thing come on oh nice dodge
+rich well played well played well played
+sir well played sir am I the only one on
+the planet who did not take my son back
+to fry up I just saw that hat
+hello grass also tried to take a tray us
+back to Freya after he got sick I can't
+even everyone's doing it in here I can't
+even fathom why somebody would write
+that's a different experience that's the
+that's the joy of the art of gaming
+riches it's unique to everyone it's is
+their cinematic winner your story and
+the compass is telling gonna go the
+other way
+common sense would dictate you have to
+wait until the kid really get sick
+before the game wants you to go back to
+what's-her-face
+I see a lot of people saying that they
+agree with you rich and I see some
+people saying I almost did but then you
+know thought about it for a second
+that's fair that's fair
+let's see here sorry chances oh man rich
+if you ever get to it you need to do the
+champions ballad boss on stream yeah I
+will so be there alright alright
+random question of the day did you ever
+get your 3ds back back are they talking
+about the one you sent away for this for
+Pikachu oh that might be it well we're
+using it earlier yeah we were using it
+earlier yeah cuz that was the one that I
+ordered and it took I mean what it took
+eight months it took something like
+eight to ten months for them to mod a
+3ds for me that's how that's how pushed
+back they were all right listen we've
+learned just killed this dork first okay
+I see the one that killed you last name
+yeah boom
+kill them done levels over rich beat the
+whole thing and also I believe the whole
+the whole last the whole last temple and
+boss yes that would be a great stream
+that's a fun temple and boss that would
+be that would be a great thing to stream
+you could always finish Phoenix right at
+some point Jack mods game consoles I
+have a problem with piracy not with
+modding why do they make sit-up I have
+no problem with modding whatsoever and
+the the console is only modded so I can
+plug in a USB port so I can plug in a
+USB cable and record video in case we
+ever want to do a 3ds game for review or
+streaming he's got nothing
+he's got nothing on you're rich alright
+this is going much better this time yes
+yes it is much better oh that's gonna be
+a problem he's he's got he's got some
+powerful arrows so let's let's take care
+of the flying guy first yeah let's not
+be stupid take your time take your time
+I think that's kind of a no-brainer rich
+what would you mod yourself with
+cybernetic enhancements if they were
+available sure won't happen absolutely
+yeah that feels like a no-brainer that's
+an absolutely I could be a nossa I could
+have awesome robot powers sign me up
+sign me up
+you made it easy
+haha don't even worry about aiming rich
+you're fine just pop up right in front
+of you
+oh we have to easy kill from behind here
+- all right everything's coming up
+millhouse well there you go
+I want jet pack legs fuck yeah the
+Bionic arms eyes that can see more
+things eyes that could zoom in oh fuck
+yeah give me some give me some robot
+eyes see different color spectrums zoom
+in have you know have some sort of
+heads-up display built into your
+eyeballs that'd be great fuck yeah give
+me all of it all of it
+extend-o-arms that would be great all
+the things give me all the things as
+someone who has you know somewhat bad
+eyes give me better eyes give me give me
+awesome eagle eyes I love that
+oh just a robot heart like I'm not like
+others matter like like a sophisticated
+futuristic robot heart some that won't
+break down over to Sun them all so yeah
+so I'm gonna let you live longer nice I
+like that yeah that's that's a good
+thought that's a good thought all right
+I have to fight this guy Oh
+however will you do that oh my god that
+rocks a thing oh it's an ice monster
+rich nope welcome it would help if you
+didn't whiff well apparently the jump
+strike doesn't send out fireballs like I
+thought it would
+all this don't smasher you can get this
+one go look at that ah boom done
+but and nice robot lungs that oxidize
+your blood extremely efficiently you so
+you never get tired
+you give me robot everything I'm gonna
+live a million years right just put my
+put my brain in a big old robot there
+you go I'm down I'm down turn the brain
+into a robot fuckin fuck it whatever you
+can do yeah fuck it who wants to live
+forever me me we all we all do in fact
+we're all good with that what the option
+to solve terminate if I ever get bored
+yeah he's done let me live as long as I
+would like to live our lives River say
+that your death pen fucking night you
+know what forever
+obviously like everything breaks down
+eventually give me just give me an extra
+hundred years how about that Shh sure
+sure live to 200 how about that oh boy
+is gonna be tough this is gonna be when
+he just starts off facing you right away
+super tough super tough
+what ancient eras kill him on one hit I
+actually did not know that about - is
+that sure about all Lionel's I've been
+fighting them like a like a goddamned
+chump rich oh I didn't even know I
+thought they only worked on the on the
+centuries oh I get no loot if I use an
+aged ear I know that but under the
+circumstances I just wanna I want to get
+by without losing a ton of health yeah
+for the try like you know in in the the
+real game you might want that nice sword
+but in the trials you're just trying to
+get through mm-hm
+and while it might be nice to have the
+Lionel sword and shield and bow you
+don't need it
+you don't need it
+you did it rich you got the fairies oh
+and a royal broadsword nice
+what's garbage you also have a frost
+wand and a frost sword yeah you know
+there's room you got room you got room
+frost swords good though I might get rid
+of that oh yeah I'm just saying you know
+you get double you got em you have to
+frost things no for what's coming up
+it's maybe yam I know I don't know
+what's coming up so you know oh and and
+it doesn't matter you don't you don't
+need to ditch one Chuck Fox says hey
+Jack did you get that email I sent you
+about Jesus may the Gees be with you I
+did Chuck Fox I've been I've been super
+swamped over the weekend trying to get
+the episode edited so I haven't replied
+to my inbox at the moment is currently
+fucked
+and so I I did get it I will get back to
+thank you so much Chuck Fox prettied up
+our geez emote yeah which I really
+appreciate I will I will catch up with
+everything in for the rest of the week
+catch up with all my emails when when I
+get busy that's the very first thing
+that I just ignore is emails like
+anything important someone will call me
+some you know anything important they
+know my phone number so they'll call me
+if they really need anything right eat
+fuck emails they can go away I got five
+ferries which probably gonna need them
+so what's your coming up on the final
+leg here yeah I'm actually gonna need a
+little bit of quiet you you tell me when
+you need quiet and I will give you that
+quiet too busy for Christ too busy for
+Christ absolutely no but I really
+appreciate that Jack thank you
+my jackets busy
+well you know like a lot of times you
+know we talked about you know
+freelancing and stress and creative work
+and you you have to know what you can
+give up what you can do without when you
+are really focusing on something and for
+me the very first thing is emails even
+even if it's a client like even if it's
+a client and they say oh hey I want
+these changes made they can wait because
+if it's super important they'll call me
+and say I need these now emails can
+always wait well for me at least you
+know it's different for everyone but I
+know I've got eight eight ancient arrows
+but there's some shit coming up I could
+only imagine this is the final leg of
+the hardest yeah Master Sword challenge
+so Anonymous has random facts for you to
+use the 19th century circuses used to
+have a side show called big faced lady
+half pig half woman the lady was really
+a bear of a got drunk shaved and then
+put a dress on that's great that's great
+to know
+that's great to know Thanks anonymous
+thanks and out of this David in oh
+people says hey you guys David in Oh
+people here you guys should play in
+justice too
+it's the perfect time since you guys did
+a God of War review uh yeah yeah we
+could do justice to soon that would have
+been a good that would've been another
+good game to play today although it
+would have taken forever to download
+maybe next room I'm okay with injustice
+- oh yeah yeah yeah I'm okay playing
+more injustice
+maybe next time yeah that was that was a
+silly fun stream the injustice stream so
+I'm okay with that go through the story
+mode again see how ridiculous they get
+right I need a quiet Oh any quiet how
+about you how about you focus on the
+damn Guardian
+one
+the light
+Oh fuckin oh that hurt
+this is the part this is the part I was
+terrified of sure sure yeah this is
+intense and like you said you could use
+an arrow to take him out boss there's
+like 18 of them in this world right nice
+nicely done
+all right this is the hardest thing in
+the whole challenge
+yeah balancing all of them shooting at
+you nicely done nicely done three in a
+row nicely done there right thanks again
+who think I think I think it gets I
+think it gets considerably easier from
+right out well that one where the three
+of them had you targeted all at once
+that was insane but well done
+you handled that you handled that
+professionally and he get a nice new
+shield out of it alright to have any
+moderate healing items that aren't now I
+don't have anything that's not gonna
+ruin my two minutes of defense boot not
+just yeah an equal defense boost yeah
+mad laser strats absolutely absolutely I
+got the defense boost I'm not gonna I'm
+not gonna blow all my ancient arrows at
+once we're taking a little bit a little
+bit slow oh no you got a walkie one now
+uh-huh just one walkie one to start with
+yeah well that's fine you can deal with
+it you can deal with one walkie one with
+no with no or with just a shield that's
+fine fine you fucker activate activate
+witness me
+focus on the eye
+fuck it
+that was weird that it wasn't locking on
+to him yeah like why would I want to
+turn around the mid situation game
+there's a horse in the corner what does
+that mean I mean this is a horse in the
+corner you can go right a horse in this
+one you can fight him on horseback yeah
+no hmm interesting is there any treasure
+ah I think I'm good okay okay even if
+there is I think I'm good from here on
+out okay good good
+please focus on the target yeah that's
+that's all risk rich was asking there's
+just hey how about how about you focus
+on the thing that's attacking me that
+would be nice
+we thank you hack about I actually do
+need to remember to buy eggs today thank
+you
+that is a thing I need to do valid
+bullshot says it seems weird to me that
+kratos could kill or into stealing
+silence I'm good for the moment okay I
+figured you were climbing sideman yeah
+yeah it seems weird to me that kratos
+could kill hundreds of enemies at once
+in the previous god of war games yet now
+only a handful of Dark Elves gives him
+an issue age shouldn't matter he's a god
+I think age does matter to God you know
+in this universe at least once you once
+you start once you start applying any
+sort of realistic logic to God's doesn't
+really matter
+like come on you hurt yourself yeah
+worth it oh yeah how do I eat my eggs I
+make I make a little simple scramble in
+the morning with with chopped spinach
+lentils and then I crack three eggs into
+it and mix it all up and turn it into
+like a like well my big chunk a big egg
+chunk so I do a simple scramble in the
+morning that's easiest sometimes I'll do
+hard-boiled but that just takes extra
+time
+I was fully prepared for you too with
+that yes nice job fuck you nice what I'm
+saying is you did a good job rich I
+fully expected you to suck I did no I
+meant that is a good way we've all right
+let's switch to a woman that's not gonna
+burn no first first things first let's
+do smert no that's a good smirk
+that's a good smart I have shield
+equipped yep take a little et good
+burner shield it's fine too early too
+early good call good call eat something
+a balloon da the Biddeford bobbidi boo
+but the vomit boom boo-boom boo-boom but
+abomination arrows fire lentils mr. Joe
+Joseph's lentils take 40 minutes to cook
+that's true
+so I make one batch of lentils one big
+batch of lentils that last me like a
+week and a half
+oh he's at their house so what the fuck
+I thought you were done with this I
+thought you're done with this level so
+like every week and a half two weeks I
+make one mega batch of lentils put them
+in the refrigerator take a few scoops
+every day this is like four big scoops
+of lentils a half a frozen bag of
+chopped spinach put that in a skillet
+with some olive oil some salt some
+pepper some cayenne pepper give it a
+little spice if I'm feeling extra spicy
+maybe a little sriracha cook that up
+till it gets all brown and delicious and
+then crack three eggs on top and mix it
+all up maybe add a sprig of salsa on top
+of that it's a great breakfast great
+breakfast my first we have three five
+we're good I think I think we got it I'm
+gonna say 100% I've got it
+100% is this the last level no oh
+gobble-gobble
+how's the dive been going off it for for
+some time but I'm I'm just back on this
+week what an idiot
+really
+what is this health bar did that do it
+that's it no no
+there you go there another one is that
+it that's it that's it that a mama a
+peas carrots and corn covered in eggs
+wrapped in a burrito that'd be very
+tasty
+that would be quite tasty there's lots
+of things to do there's lots of things
+to do what do I have equipped how much
+chump what though do you have equipped
+26 I got a 38 pouf available and if you
+only have a couple more on floors left
+to equip your best yeah equip your best
+hey you should matter he's got well and
+remember family bloodshot like it's a
+with Kratos and being able to kill
+hundreds of enemies here and only a
+handful here it's that's gaming and
+storytelling you know that's fine that's
+general bullshit where it's like how
+come he can do one thing here but not
+the other thing how come how come fan
+OHS you know has it gets the magic love
+and wants to you know kill everybody
+couldn't he use the magic love just to
+make enough resources well sure he could
+but that's just the story like it's you
+know don't don't let logic get too deep
+into it what was the first CD I ever
+bought flood came up in Jones I saw that
+Tiny Toons episode and knew I needed it
+that was the first compact disc this guy
+ever bought after watching the title to
+Tiny Toons might be the first time I
+ever heard of they might be giants
+probably was hmm
+that was my ax that was my first time
+hearing them I think this is it
+one more a brigo they might be James was
+on Tiny Toons they had an entire episode
+dedicated to theme like was it an entire
+episode or was it every now and then
+they had a skit nicely done nicely done
+oh that's just smart rich these poor
+confused horses
+that's just Martin you just handled that
+well thank you I just remember the
+episode of like if they were music
+videos and I feel like there were all
+they might be giant it is because
+they're good of it might have edited one
+that was just all of those bits but I
+thought it was just every now and then
+they did one I guess I
+it's fine it's fine fine fine you're
+fine you're absolutely fine but kind of
+a whiff why do I got to be fine I see
+the only Guardian left is that it does
+that hidden I'm such a fuckin pearl
+you're such a pro yeah guys they did
+Istanbul and particle man on Tiny Toons
+and after hearing those songs I was
+obsessed with Vey Might Be Giants so I
+immediately went out and I was looking
+through their albums and flood had both
+of those songs on I said this must be
+the greatest album in the world and it's
+true it was it absolutely was and flood
+turned out to be the greatest and then
+you know you play flood and after that
+little intro are you doing I'm trying to
+throw it won't let me throw it really
+throw all of your weapons away rich you
+won't need them anymore you fell out you
+fell off rich buddy - I don't know I
+don't need any of this shit fuck it all
+fuck it all I can all go to the void
+would that be neat if there was if there
+was something here if you did if you
+sacrificed all your weapons before
+receiving your award Jack Jack I can't I
+can't get rid of the boomerang well you
+drive oh okay
+I worked oh my god I got so much shit I
+don't even use these nice royal swords
+yeah now you go to the thing to get to
+get your final master sword upgrade and
+they're like ascend to the final boss oh
+is this the ROM no this is the switch
+version no I'm reluctant to stream the
+emulated version as much as I like
+playing around with the mods and whatnot
+I don't want to get our gaming channel
+there killed because I wanted to play an
+emulated version of best of them a
+breath of the wild there might be some
+legality issues I'm not sure actually to
+be to be honest I am Not sure but why
+risk it so you have a shitty thing to do
+to you
+to me yeah oh just because I don't like
+emulator or gaming channel because
+twitch twitch got really pissed because
+then sure they decided to crack down
+because sure well no then I'd have
+something just to hold over your head
+for the rest of your life I'm not gonna
+give you that wait can you drop your
+arrows I don't think so
+double check
+no no you cannot okay you've dropped
+everything you can but you can't drop
+your clothes and you can't trap your now
+let's see if there's a super-secret
+special ending for dropping all of hey
+hey I highly doubt it
+yes Norma Donald's you internet flick
+show I see oh that's me I just read that
+in the champion you might be complete
+fiction something you heard someone the
+definition of hearsay chit chat
+literally lies to us all the time yeah
+all the time came just in time to catch
+spoilers Oh what for breath of the wild
+or for Tiny Toons we gave you some tiny
+toy the spoiler is you can beat the
+trial of the master sword I'm sorry to
+spoil that for you it might have been
+completely unbeatable that's it I did a
+fucker so now your master sword is crazy
+super powerful all the time yeah that's
+great
+that's great that's great hey
+congratulations rich and by the way that
+was your second time beating the mega
+trial yeah cuz you already beat it once
+you did it why did the first two on
+stream third one afterwards but go back
+and redo it yeah doing master cycle next
+oh hey don't hit him fuckin you know
+here that's for disappearing on me every
+now and then oh let's see here we got a
+talent och who says thanks for all the
+hours of entertainment you've given me I
+guess that's worth about five bucks
+Thank You Dominic proud hand it says hey
+guys you're still planning a The Secret
+of Monkey Island Stream I'm looking
+forward to hearing you do the voices for
+it there's no official plan there's just
+yeah we're okay with it we're okay doing
+a Monkey Island stream our plans are
+what do you feel like streaming tonight
+I don't know let's see that's usually
+our plan if you like playing anything
+and maybe I could do this what happens
+when that inevitably fails I don't know
+we'll figure it out and all that shit
+I'm not reading then your tip thank you
+for your tip I appreciate that keep us
+Ness classic around I do have the I did
+get the Super Nintendo and T plus the
+the Super Nintendo with the HDMI out so
+that's it's really nice everything looks
+really pretty on them yeah everything
+looks really pretty on it so it'll be
+really easy for us to stream Super
+Nintendo games if we ever felt like it
+or for me just to plant them at home
+which I have been it's been great
+no more anonymous tips when using bits
+that's true well I'm gonna take a look
+in through stream Labs tipping
+procedures all right and we're all
+caught up all right we are all caught up
+find a cool pose for link to hang out in
+that's good that's good enough
+hold on we go into selfie mode where so
+where's Deku into the Deku Tree get a
+view some sort let me see your face
+is that the good selfie spot all right
+even in the game I don't know how to
+take a fucking selfie so go into your
+camera and then put press X 4 cell press
+press X there we go there we go
+I think Canada keeps getting X&Y; reverse
+sir not looking
+he changed the expression the the left
+and right and up I think or I'm sorry
+the joystick but you got to turn around
+if you wanted a country behind you right
+good shot really it's great that's good
+enough for me great all right so now is
+the point in the stream in which we
+thank all of the lovely people who have
+subscribed to us during this very stream
+much like of which is fixing because
+it's motion you know it's motion
+controls are you doing I'm just oh if
+you if you put away here yeah then you
+won't get the thing sure I said twin
+dragon encounter has never been picked
+you know that's that was an early movie
+that I bought that I was really excited
+to share with everyone
+no he's have a bow attached oh wait no
+he's thinking there we go okay ah so uh
+thank all the people who described
+minutes during this chat much like
+Wolfington one two three look at Jones
+Euler's number four twenty two fucking
+months in a row Brown Adam Sandler for
+16 months
+Adam AG this new subscriber for 25
+fucking months in a row says
+pika P is a Curos thread water
+mccords Nick for thirty four fucking
+months in a row don't think there's an
+armored macaws Nick you are correct what
+timing how weird one timing my cosmic
+what did you do
+you're saying his name wrong enraged him
+and incited the Blood Moon macaws nick
+says almost three years if I were better
+about remembering to reapply twitch
+prime sub it probably would be three
+years we had a star Horrible's for 35
+fucking months in a row
+who said I just realized next month is
+my 36 month prereq resub but I turned 37
+years old one week before that's so
+close to matching up by the way you guys
+Rock Tsar reason Haram Haram the one who
+says far Fuli load 'm for 17 months in a
+row who says inching closer to a year
+and a half star to valleys pc
+multiplayer beta is here and i can only
+ask why what am i evil think you need
+multiplayer the guy who made stardew
+valley didn't even want to fucking do it
+what am I not getting about that what's
+the point of multiplayer you don't get
+it either
+by the way I totally don't fucking get
+it I like multiplayer games and I don't
+get why you would want that in stardew
+valley but the stardew valley is a one
+reason is a Zen thing there's one reason
+okay you have a girlfriend who likes
+tartar valley and she wants to get
+married to you in the stardew valley
+that is the one and only reason is there
+local cooperative my Tomi
+what else well you mean you could be
+play from two different places
+right but what abut if well and I know
+you don't look into it you would know
+this is so this is more of a question
+for the chat is is there a way to couch
+co-op stardew valley because then that
+would make sense like oh yeah me and my
+me and my girlfriend we really like it
+we'll sit on the couch and you know
+played the stardew valley and hang out
+together I could see I could see that
+but I can't imagine couch co-op working
+and start devalued have to share a
+screen I'm very very sorry what you
+could you could just ignore it I mean I
+don't get it either but I don't go hey I
+must start doing having it doesn't it
+doesn't infuriate me I'm for people who
+want it yeah it just doesn't make any
+sense yeah I don't get it yeah
+terney Mac yeah sam serious dude gaming
+unicorn who says just wanted to say that
+I thought you guys came up with a very
+creative solution for the prereq app so
+good job anyways I automatically dislike
+god of war because it doesn't feature
+Loki fucking a horse like in the
+original lore seriously look at up Oh
+but by the way I did like I looked up
+like they have like trees family trees
+or for Norse mythology there are several
+horses on there it's not just one horse
+there's a lot of horse fuckers mythology
+you know fine fine John Baum Tony let's
+go when I lost myself um Doug 444
+motherfucking months in a row says
+before the camera and the green screen
+before the overlay before Neil Breen
+comics and movies is all they had to say
+goddamn that's all they still talk about
+today you guys rock it all is okay but
+Jesus Christ
+I miss Jade Oh was a nice time that was
+a very nice rhyme poetry I didn't catch
+on
+I'm just dumb yeah that's great
+dumb beverage the door silly ow d
+Patrick oh I think Patrick oh but Rinku
+Petrenko Petrenko clone two seven two
+seven four twenty six fucking months in
+a row who says Jack you should really
+watch ts9 Star Trek Deep Space nine I
+assume yeah I was skeptical at first too
+but it's really fantastic it's enough
+Trek that you'd probably like it it's
+good it is good you know what I I I'm
+not adverse to giving it a try right now
+there's a lot of shows on my palate I'm
+not my palate there's a lot of shows on
+the plate Deep Space 9 was them trying
+to find their own identity outside of
+the next generation and that's something
+that Voyager was never able to do that's
+true
+that's right now I'm not adverse to it I
+just you know right now I'm starting up
+other shows I just the wife and I just
+started binging Atlanta and have been
+really enjoying that so there's just too
+much there's too much but I'm not
+adverse to deep space 9 okay humberto
+Cabbage Patch for farty motherfucking
+months in a row says steamed hams hmm
+that's something they said or has had
+some kind of emote I assume that's
+something they said okay okay
+steamed hams mmm ser each end for twenty
+six fucking months in a row who says
+ohoho ohoho
+thanks for the stream see in another
+three or four months give
+remember it's Chen not Chen I said right
+did I say wrong hey well I wasn't paying
+attention when you said it I'm just
+going to assume you got it wrong so I
+can berate you that's pretender pretend
+beer for 17 months in a row
+I smell zero this was a disabled or
+disciple there's no that's disciplined
+daddy discipline daddy the real fandom
+the whole dwellers Billa hecka for 47
+motherfucking months in a row have have
+you decided what you are going to do for
+4 years yeah you have haven't I talked
+to you about this you heaven other than
+I just put you in charge of the whole
+fucking thing oh yeah I know what I'm
+doing ok I hope you do I sure hope you
+do I do I know what's that what were you
+going now you I don't know what happened
+he just got up and he's staring at
+something did you get up just to squash
+a bug yeah really
+I lost it all that and you didn't even
+get it I lost it you didn't even get it
+I lost it I lost it I saw a bug in the
+corner of my eye gasps whoo shit I say
+I'm the crazy murderous one jack has a
+legit lentil recipe also just remember
+when you when you do make your lentils
+when you boil your lentils I had plenty
+of salt to that water once it's a pretty
+hard so what did Billa hecka say before
+you stop to get up a small ship there
+was a spider or something maybe a Senate
+please spider even sense it would made a
+bit of centipede I didn't get a good
+look at it
+green-screen down-ass the industry was
+fine Billa hecka 447 my god it
+completely gave up yeah it's just done
+it's just done with everything we got it
+we still have to get that fixed and soon
+I'm on it all right I'm on him all right
+Billa eka 47 motherfucking run Sandro
+says one more month and I will have been
+subscribed as long as a presidential
+term speaking of pussies why did you
+morph into a cat jack and why wasn't
+rich sneezing like crazy I morphed into
+a cat for those who don't know in our
+latest God of War review because the
+camera that was on me I set to auto
+focus and it completely freaked the fuck
+out a lot like our green screen is
+freaking the fuck out and everything was
+blurry and rich wasn't sneezing all the
+time because I was actually there and I
+filmed biskits my cat at home later so
+I'm about to bring the chair back into
+the studio but rich won't sneeze like
+crazy because my cat is hypoallergenic
+I'm around it long enough I start to
+feel it a little bit okay nowhere near
+as bad as normal right so I'm hoping
+that the hair leftover on the chair
+won't make you flip out but I think
+it'll be fine all right
+all right yeah the last humus D Park
+official dog side 200
+Steve the ghost Oh
+gents Roberto a robot oh I guess jets
+Jensen Roboto says just the worst
+detective you guys do great though keep
+up the good work
+mo Mike one two three four who says
+thanks for the new prereq did Jack have
+to film biscuit shots when rich was away
+because of Richards cat allergy I did
+not because of riches cat I was more
+worried actually about biscuit flipping
+out bringing him here yeah like if I if
+I had to if I brought biscuit to the
+studio and tried to get him to sit on a
+chair he might have flipped down so I
+brought portions of the set to my house
+and then he was just calm and chill
+though that cat would do anything for
+treats reckless four forty three
+motherfucking months in a row sub sonic
+Bell for 12 months in a row who says Wow
+one entire year of hack fraud er E it's
+been great except for that time I
+accidentally hurt Rich's feelings by
+teasing that he looked too pale in a
+review I felt really bad about that
+thanks for the great times I hope no
+hard feelings hey don't even remember
+the incident so it's all good I guess
+there you go Krister I do I got a plan
+well then I'll have to redo the
+green-screen my help
+oh now when that's freaking out again
+better but no that fix it yeah all right
+who oh that that light is right oh yeah
+we can't play games like this this is
+terrify need we need a solution well
+that works that that cleans it right up
+but yeah we need to I got it I got a
+solution holy crap that's bright oh I
+know like you guy in like fer for the
+chat they don't know like this big shift
+that just happened in here
+but whoo-hoo where were we we were hot
+dog buns for 20 fucking months in a row
+rev nose 1313 for 20 fucking months a
+neurosis Jack hmm
+I've heard there was a rivalry between
+clowns and magicians
+what are your feelings on magicians I
+like magicians right so there's no
+rivalry it's just rumor it's all imagine
+there's a rivalry you know there might
+be like there might be like a hey I was
+supposed to get that Bar Mitzvah by Hugh
+Capet
+no I don't think there's a rivalry I
+think they share a lot of similar
+attributes and no they probably they
+probably get along just fine
+you know you know something I'd like to
+learn what I'd like to learn how to do
+sleight of hand yeah I think they'd be a
+neat party trick I think it's easy to
+pick up no no no good well you know I
+like it I want to do sleight of hand
+good enough just to do like a coin thing
+just simple coin thing okay that's
+something I'd like to learn cavity they
+got your nose to your kids
+oh yeah sure no and you know like I have
+younger nieces and nephews and I can I
+do like really bad sleight of hand where
+it's like I I I do the the like I have a
+coin in my hand and I like you know hope
+you see that but then like you know they
+get distracted easily I just put in my
+pocket yeah yeah I'm gonna go okay what
+hands it in yeah fuck fuck oh no I don't
+know we should look for you know get out
+pull it out of their ears they their
+world is destroyed you're not careful
+they're gonna believe in Jesus right
+shag soda ah yeah check so Tallulah
+monster turtle the white might be nine
+little pale forest Tim L mooks it's like
+a French thing you pronounce the accent
+just mute my
+you gotta say like yeah yeah yeah let me
+let me as they say a phone them all let
+me mr. Mellott Conda says the budding
+screenwriter and have written three
+feature lengths good job I really enjoy
+and have learned many a thing from you
+hack frauds and look forward to hearing
+more hey keep keep writing that's great
+snuke master 20 who says I've noticed
+that jake pronounces my username
+slightly wrong he says the first part as
+snook when really it's snuke like nuke
+with an s in the front of it well I said
+it correctly this time I might have said
+it incorrectly in the past and I'm sorry
+you feel terrible
+oh no I don't Millard Damon Master
+Kenobi for 47 motherfucking months in a
+row it's happening plan I hope so big
+big plan
+I hope so if you want to juggle or
+something this is all I know it's gonna
+be juggling right I'm gonna juggle and
+ride a unicycle I used to be able to
+juggle pretty well I could probably
+juggle a little bit I obviously I used
+to be able to juggle very well I'm a
+little out of practice
+did it ever one item Master Kenobi says
+I you're you're a mess rich heavy
+I know Master Kenobi says I'm off for
+four weeks
+thanks to gallbladder surgery one more
+month and you guys have something
+prepped for me right also have you
+considered playing hitman as it seems
+like it would appeal to your love of
+choice
+and riches love up stuff I would I just
+like oh my god I'm suffocating under all
+these games I don't want to play some
+Xmas under or lives under a heap of
+other should Tweedledum says you are
+both wonderful it's true I was making
+sure I had enough I've had that the
+pronunciation properly yes there's a lot
+of EBS we delete alone could have been
+maybe I don't know Alger not for 14
+months in a row who says move along
+nothing to read here live long
+wicked Wonka kick girl V for 25 fucking
+months in a row baron von vendor him
+Pizza Train 11 for 39 motherfucking
+months in a row who says Celtics win
+okay congratulations
+I think they in the player they've died
+nah they made it to the playoffs okay
+they're playing off with the basketball
+they did they did the hoops that that
+was closer to June and they got more
+whose shirt off I have you I just I
+repeated the thing you said and I have
+no idea okay
+what a basketball does or is so did they
+they might have lost for all I know and
+and they just said that this is it
+surely this seems early I thought I
+thought the basketball playoffs are a
+little bit later in the summer
+is this the Final Four unless luster no
+way no visit that I heard that plaster
+going on
+I think that works you like your July 4
+passes when you put your bracket
+together and it's bet on the basketballs
+I'd I just have no idea okay sister 13
+brownie has 0 aimless Corsair usually
+named for 42 motherfucking months in a
+row def mojo alley rasa for 27 fucking
+months in a row says that's all the fun
+times I'll send more 4th 10th beer soon
+left over beefcake 442 motherfucking
+months in a row beefcake see I'm not
+thinking of hockey Chad because I
+thought hockey's playoffs for the exact
+same time as the NBA's playoff because
+the Stanley Cup Finals in the NBA Finals
+frequently kind of overlap alright I
+think oh hey beefcakes cells my god I'm
+sorry
+hmm you know maybe Jack is on to
+something maybe the introduction of
+cheeseburgers is how Taco Bell wins the
+franchise Wars of 2032 that's right
+beefcake
+it's all part of the plan lol
+murder/death/kill my doctor cooked Oh
+hacked our cook to Cocteau dr. Cocteau
+he saw the movie that was a while ago I
+don't remember things like last year we
+did a review for it which means we liked
+it I do like it I still like it was so
+nice fucking name I don't remember
+things are specific a way to make
+all right say it say let's say the last
+couple ones where we got oh we got lay
+incandescent cactus who says will we
+ever see roller Gator no probably not
+and not Captain Picard we said I was a
+double double cannot Captain Picard who
+says Richard Jack what is best in life
+as aemond Asians are
