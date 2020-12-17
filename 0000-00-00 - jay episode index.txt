@@ -247,7 +247,7 @@
     https://www.youtube.com/watch?v=swyKeFpPfc0
     
 31. 2015-Apr-08
-    https://www.youtube.com/watch?v=2AfCSlTq1Us
+    https://www.youtube.com/watch?v=2AfCSlTq1Us <-- do not use
     https://www.youtube.com/watch?v=kbjoSEHIvCg
     https://www.youtube.com/watch?v=armjRH0iuOk
     https://www.youtube.com/watch?v=vFnntfgEX5w
@@ -284,8 +284,8 @@
     https://www.youtube.com/watch?v=IDOHWnW9B8c
     
 38. 2015-Oct-04
-    https://www.youtube.com/watch?v=B1YVWL_tblM
-    https://www.youtube.com/watch?v=wAOP1XiiFlQ
+    https://www.youtube.com/watch?v=B1YVWL_tblM <-- do not use
+    https://www.youtube.com/watch?v=wAOP1XiiFlQ <-- do not use
     https://www.youtube.com/watch?v=Liu6pP8LSgQ
     https://www.youtube.com/watch?v=G-nrTu6WLic
     
@@ -295,7 +295,7 @@
     https://www.youtube.com/watch?v=Xpc74VzVPjw
     
 40. 2015-Oct-28
-    https://www.youtube.com/watch?v=hxpuI-4z2DM
+    https://www.youtube.com/watch?v=hxpuI-4z2DM <-- do not use
     https://www.youtube.com/watch?v=2ZsT_zUnRU4
     https://www.youtube.com/watch?v=HnaelyB3fxk
     
@@ -309,10 +309,10 @@
     https://www.youtube.com/watch?v=wSwZqDuJSGw
     
 43. 2015-Dec-16
-    https://www.youtube.com/watch?v=-5864QjsObs
+    https://www.youtube.com/watch?v=-5864QjsObs <-- do not use
     https://www.youtube.com/watch?v=Y4fz5700XFE
-    https://www.youtube.com/watch?v=Kb4INYuy58w
-    https://www.youtube.com/watch?v=ZoFRXzZe8kM
+    https://www.youtube.com/watch?v=Kb4INYuy58w <-- do not use
+    https://www.youtube.com/watch?v=ZoFRXzZe8kM <-- do not use
     
 44. 2016-Feb-07
     https://www.youtube.com/watch?v=Rpwyg0SbW90
