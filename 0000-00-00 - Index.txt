@@ -262,7 +262,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 01/29/2017 | 03:05:26 | bit.ly/3plR2yb | Master Spy, Valkyria Chronicles (Jack, Rich)
 02/01/2017 | 03:21:05 | bit.ly/3eJWKoD | LET IT DIE (Jack, Rich)
 02/05/2017 | 03:34:13 | bit.ly/3paLMgy | Panty Party, XCOM: Enemy Unknown, The Binding of Isaac: Rebirth (Jack, Rich)
-02/08/2017 | 04:28:02 | bit.ly/3lghqGV | Nioh (Jack, Rich, Jay
+02/08/2017 | 04:28:02 | bit.ly/3lghqGV | Nioh (Jack, Rich, Jay)
 02/15/2017 | 04:52:42 | bit.ly/32tMRGE | WWE 2K16 (Jack, Rich, Josh)
 02/19/2017 | 01:58:07 | bit.ly/3liErZX | Tower of Guns, Ninja Pizza Girl (Jack, Rich)
 02/22/2017 | 03:45:16 | bit.ly/36nhoa6 | Overwatch (Jack, Rich)
